@@ -25,7 +25,6 @@ PER_STREAM = 12           # 每個分類最多留幾則
 STREAMS = {
     "world": "世界",
     "ai": "AI",
-    "sc": "S&C",
     "sport": "運動",
 }
 
