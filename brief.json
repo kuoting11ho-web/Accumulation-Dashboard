@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-14T18:13:17.526389+00:00",
+ "generated": "2026-09-14T18:31:40.591963+00:00",
  "streams": {
   "world": {
    "label": "世界",
@@ -8,19 +8,37 @@
      "title": "10-year Treasury yield hits 5% before reversing as traders await Fed meeting",
      "url": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
      "source": "CNBC Top News",
-     "published": "2026-09-14T18:10:43+00:00"
+     "published": "2026-09-14T18:30:53+00:00"
+    },
+    {
+     "title": "Kennedy Center says it's on the brink of bankruptcy, might close as early as Tuesday",
+     "url": "https://www.npr.org/2026/09/14/nx-s1-5968690/kennedy-center-financial-physical-state",
+     "source": "NPR News",
+     "published": "2026-09-14T18:25:04+00:00"
+    },
+    {
+     "title": "S&P 500 falls slightly, trades off worst levels of the session as rate and oil pressures ease a bit: Live updates",
+     "url": "https://www.cnbc.com/2026/09/13/stock-futures-today-live-updates.html",
+     "source": "CNBC Top News",
+     "published": "2026-09-14T18:24:29+00:00"
+    },
+    {
+     "title": "Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei",
+     "url": "https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html",
+     "source": "CNBC Top News",
+     "published": "2026-09-14T18:21:18+00:00"
+    },
+    {
+     "title": "AI-linked stocks slide after tech bosses call for slowdown in ‘reckless’ development",
+     "url": "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
+     "source": "Guardian World",
+     "published": "2026-09-14T18:17:47+00:00"
     },
     {
      "title": "Jerusalem Daily: A new report on the erosion of Palestinian life",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/jerusalem-daily-a-new-report-on-the-erosion-of-palestinian-life?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-09-14T18:02:44+00:00"
-    },
-    {
-     "title": "S&P 500 falls slightly, trades off worst levels of the session as rate and oil pressures ease a bit: Live updates",
-     "url": "https://www.cnbc.com/2026/09/13/stock-futures-today-live-updates.html",
-     "source": "CNBC Top News",
-     "published": "2026-09-14T17:54:30+00:00"
     },
     {
      "title": "India to supply Nepal electricity after floods wrecked hydropower projects",
@@ -41,12 +59,6 @@
      "published": "2026-09-14T17:30:36+00:00"
     },
     {
-     "title": "Trump attacks ‘sick conspiracy’ against AI as tech stocks slide",
-     "url": "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
-     "source": "Guardian World",
-     "published": "2026-09-14T17:28:11+00:00"
-    },
-    {
      "title": "Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike",
      "url": "https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html",
      "source": "CNBC Top News",
@@ -63,18 +75,6 @@
      "url": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
      "source": "Guardian Business",
      "published": "2026-09-14T16:48:34+00:00"
-    },
-    {
-     "title": "Government moves to nationalise Speciality Steel UK to protect 1,300 jobs",
-     "url": "https://www.theguardian.com/business/2026/sep/14/government-nationalise-speciality-steel-uk-jobs-ssuk",
-     "source": "Guardian Business",
-     "published": "2026-09-14T16:17:17+00:00"
-    },
-    {
-     "title": "Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei",
-     "url": "https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html",
-     "source": "CNBC Top News",
-     "published": "2026-09-14T16:08:15+00:00"
     }
    ]
   },
@@ -140,35 +140,18 @@
      "url": "https://www.eurobirdportal.org/ebp/en/",
      "source": "Hacker News Front Page",
      "published": "2026-09-14T08:25:47+00:00"
-    }
-   ]
-  },
-  "sc": {
-   "label": "S&C",
-   "items": [
-    {
-     "title": "Push Jerks neu entdecken: Explosives Oberkörpertraining neu überdenken",
-     "url": "https://simplifaster.com/articles/push-jerks-neu-entdecken-explosives-oberkorpertraining-neu-uberdenken/",
-     "source": "SimpliFaster",
-     "published": "2026-09-14T18:00:00+00:00"
     },
     {
-     "title": "Como pular mais alto",
-     "url": "https://simplifaster.com/articles/como-pular-mais-alto/",
-     "source": "SimpliFaster",
-     "published": "2026-09-14T17:00:00+00:00"
+     "title": "Occamy-1.0: Open Pareto-frontier 35B Intelligence for Co-work",
+     "url": "https://arxiv.org/abs/2609.11977",
+     "source": "arXiv cs.AI",
+     "published": "2026-09-14T04:00:00+00:00"
     },
     {
-     "title": "¿Deberían los deportistas que practican deportes con movimientos por encima de la cabeza (o cualquier deportista) levantar pesas por encima de la cabeza?",
-     "url": "https://simplifaster.com/articles/pesas-sobre-la-cabeza-deportistas/",
-     "source": "SimpliFaster",
-     "published": "2026-09-14T16:00:00+00:00"
-    },
-    {
-     "title": "Muscle Protein Synthesis Explained: Mike T. Nelson",
-     "url": "https://simplifaster.com/articles/nelson-muscle-protein-synthesis/",
-     "source": "SimpliFaster",
-     "published": "2026-09-14T12:05:09+00:00"
+     "title": "Harness or Model? Isolating the Harness Effect in Agentic Coding with a Contamination-Controlled Private Suite",
+     "url": "https://arxiv.org/abs/2609.11987",
+     "source": "arXiv cs.AI",
+     "published": "2026-09-14T04:00:00+00:00"
     }
    ]
   },
@@ -176,36 +159,79 @@
    "label": "運動",
    "items": [
     {
+     "title": "Stephen Curry, Nikola Jokić and the most interesting extension-eligible NBA veterans to watch",
+     "url": "https://sports.yahoo.com/nba/article/stephen-curry-nikola-jokic-and-the-most-interesting-extension-eligible-nba-veterans-to-watch-182607568.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-14T18:26:07+00:00"
+    },
+    {
+     "title": "Leeds United v Newcastle United: Premier League – live",
+     "url": "https://www.theguardian.com/football/live/2026/sep/14/leeds-united-v-newcastle-united-premier-league-live-updates",
+     "source": "Guardian Sport",
+     "published": "2026-09-14T18:24:00+00:00"
+    },
+    {
+     "title": "Danilo Gallinari takes Kawhi Leonard to task for Clippers punishment, believes star should 'pay all $50 million'",
+     "url": "https://sports.yahoo.com/nba/article/danilo-gallinari-takes-kawhi-leonard-to-task-for-clippers-punishment-believes-star-should-pay-all-50-million-175530559.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-14T17:55:30+00:00"
+    },
+    {
+     "title": "No weekend game for Manchester derby VAR officials",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c6pwlk0kjqwqo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-09-14T17:02:50+00:00"
+    },
+    {
+     "title": "Ranking the Sixers’ biggest threats in the Eastern Conference",
+     "url": "https://sports.yahoo.com/articles/ranking-sixers-biggest-threats-eastern-160000221.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-14T16:00:00+00:00"
+    },
+    {
+     "title": "Celtics agree to deal with Devin Carter, point guard will compete for roster, two-way spot",
+     "url": "https://sports.yahoo.com/articles/celtics-agree-deal-devin-carter-154804957.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-14T15:48:04+00:00"
+    },
+    {
      "title": "VARs who wrongly confirmed Haaland’s goal at Manchester United are stood down",
      "url": "https://www.theguardian.com/football/2026/sep/14/vars-erling-haaland-goal-manchester-united-stood-down-wrongly-allowed",
      "source": "Guardian Sport",
      "published": "2026-09-14T15:39:16+00:00"
     },
     {
+     "title": "Madrid F1 circuit set for changes after criticism",
+     "url": "https://www.bbc.co.uk/sport/formula1/articles/ckwyzllzdq43o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-09-14T14:11:04+00:00"
+    },
+    {
+     "title": "Clippers, Steve Ballmer back down and accept NBA penalties -- does that mean they'll get any picks back?",
+     "url": "https://www.cbssports.com/nba/news/clippers-steve-ballmer-accept-nba-penalties-picks-back/",
+     "source": "CBS Sports NBA",
+     "published": "2026-09-14T13:29:38+00:00"
+    },
+    {
+     "title": "Brands v country - Kerr ramps up kit battle after latest victory",
+     "url": "https://www.bbc.co.uk/sport/athletics/articles/cr2kw4p3yxy7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-09-14T13:22:44+00:00"
+    },
+    {
+     "title": "'This is what women in sport look like' - Hunt leads response to Sweeney advert",
+     "url": "https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-09-14T13:17:47+00:00"
+    },
+    {
      "title": "Spanish GP plans to change Madring after fierce criticism from F1 drivers",
      "url": "https://www.theguardian.com/sport/2026/sep/14/lack-of-overtaking-madring-fi-spanish-grand-prix",
      "source": "Guardian Sport",
      "published": "2026-09-14T10:57:28+00:00"
-    },
-    {
-     "title": "The Josh Allen rollercoaster is up and running again for the new NFL season",
-     "url": "https://www.theguardian.com/sport/2026/sep/14/nfl-bills-texans-josh-allen",
-     "source": "Guardian Sport",
-     "published": "2026-09-14T07:30:25+00:00"
-    },
-    {
-     "title": "JJ Watt proves to be a solid replacement for Tony Romo as CBS’s No 1 analyst",
-     "url": "https://www.theguardian.com/sport/2026/sep/13/jj-watt-tony-romo-cbs-nfl-analysts",
-     "source": "Guardian Sport",
-     "published": "2026-09-14T00:33:44+00:00"
     }
    ]
   }
  },
- "failures": [
-  "arXiv cs.AI: 沒有項目",
-  "Sports Medicine (Springer): <unknown>:15:4: not well-formed (invalid token)",
-  "ESPN Top Headlines: 沒有項目",
-  "ESPN NBA: 沒有項目"
- ]
+ "failures": []
 }
