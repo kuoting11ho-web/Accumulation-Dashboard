@@ -1,77 +1,133 @@
 {
- "generated": "2026-09-14T18:49:39.411645+00:00",
+ "generated": "2026-09-14T19:04:27.043271+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
+     "title": "Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei",
+     "summary": "The Trump administration has encouraged AI's rapid growth and the development of data centers as it seeks an insurmountable tech edge over China.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html",
+     "source": "CNBC Top News",
+     "published": "2026-09-14T18:59:33+00:00"
+    },
+    {
      "title": "S&P 500 falls slightly, trades off worst levels of the session as rate and oil pressures ease a bit: Live updates",
+     "summary": "The three major averages are coming off a losing week.",
+     "image": "",
      "url": "https://www.cnbc.com/2026/09/13/stock-futures-today-live-updates.html",
      "source": "CNBC Top News",
-     "published": "2026-09-14T18:45:25+00:00"
+     "published": "2026-09-14T18:56:44+00:00"
+    },
+    {
+     "title": "Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike",
+     "summary": "Traders were pricing in a better than 92% probability of a rate increase, as well as a more than 75% chance for another one in December.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/09/14/counting-the-votes-warsh-faces-tough-battle-as-fed-girds-for-expected-rate-hike.html",
+     "source": "CNBC Top News",
+     "published": "2026-09-14T18:50:32+00:00"
     },
     {
      "title": "10 years after taking a knee, Colin Kaepernick is still waging a 'Perilous Fight'",
+     "summary": "The former 49ers quarterback created an uproar in 2016 when took a knee during the national anthem to protest police brutality. In The Perilous Fight he explains why he still wants to play football.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3021x1792+0+0/resize/3021x1792!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa9%2F96%2F988db37741a9b333e79fa72414d0%2Fgettyimages-627189410-1.jpg",
      "url": "https://www.npr.org/2026/09/14/nx-s1-5965828/colin-kaepernick-football-the-perilous-fight",
      "source": "NPR News",
      "published": "2026-09-14T18:45:21+00:00"
     },
     {
-     "title": "10-year Treasury yield hits 5% before reversing as traders await Fed meeting",
-     "url": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
-     "source": "CNBC Top News",
-     "published": "2026-09-14T18:30:53+00:00"
+     "title": "Europe must build own AI or risk getting cut off by US or China, says ECB’s Lagarde",
+     "summary": "Central bank chief says continent’s AI dependency could give trade partners unprecedented leverage in negotiations Europe must develop its own AI technology and build more datacentres in order to null…",
+     "image": "https://i.guim.co.uk/img/media/221847ebaf0cc8dedc211ee121968b599ff59096/102_0_6066_4853/master/6066.jpg?width=140&quality=85&auto=format&fit=max&s=c09a62662b7d4335ed6e6df647b27aa5",
+     "url": "https://www.theguardian.com/technology/2026/sep/14/europe-ai-datacentres-growth-us-china-ecb-christine-lagarde",
+     "source": "Guardian Business",
+     "published": "2026-09-14T18:41:13+00:00"
+    },
+    {
+     "title": "川普痛批AI監管呼聲是「陰謀」 重申美國必須贏得對中科技戰",
+     "summary": "美國總統川普14日強烈抨擊要求對人工智慧（AI）設立護欄的呼籲，指其為一場「病態的陰謀」。儘管外界警告該技術可能威脅人類存亡，川普仍堅持美國必須在AI領域保持對中國的領先優勢...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5574005",
+     "source": "自由時報",
+     "published": "2026-09-14T18:35:22+00:00"
+    },
+    {
+     "title": "張俊傑剪手環有「神秘幫手」 接應共犯潘信義南逃被逮 北檢聲押禁見",
+     "summary": "無黨籍立委高金素梅「大帳房」張俊傑棄保潛逃，據了解，另有一名神祕男子涉嫌在大安森林公園協助破壞電子手環，事後刻意隱匿行蹤、一路南逃；潘信義則疑居間接應，完成任務後也南下避風頭。...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/society/breakingnews/5574001",
+     "source": "自由時報",
+     "published": "2026-09-14T18:33:06+00:00"
     },
     {
      "title": "Kennedy Center says it's on the brink of bankruptcy, might close as early as Tuesday",
+     "summary": "In two board resolutions made public Monday, the arts institution says it is in a dire financial and physical state — and that only President Trump can \"rescue\" it.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6048x4032+0+0/resize/6048x4032!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe0%2F34%2F398eb31e4d519173a26dd6b84761%2Fgettyimages-2280598328.jpg",
      "url": "https://www.npr.org/2026/09/14/nx-s1-5968690/kennedy-center-financial-physical-state",
      "source": "NPR News",
      "published": "2026-09-14T18:25:04+00:00"
     },
     {
-     "title": "Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei",
-     "url": "https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html",
-     "source": "CNBC Top News",
-     "published": "2026-09-14T18:21:18+00:00"
-    },
-    {
      "title": "AI-linked stocks slide after tech bosses call for slowdown in ‘reckless’ development",
+     "summary": "Donald Trump dismisses attempts to increase controls on artificial intelligence as ‘sick conspiracy’ AI-linked stocks tumbled on Monday after the bosses of Anthropic, OpenAI and SpaceX called for a sl…",
+     "image": "https://i.guim.co.uk/img/media/9bbe355703cc6582b5706d62aed9afb01a1e0061/89_0_4604_3681/master/4604.jpg?width=140&quality=85&auto=format&fit=max&s=deac2ee8a316dfc74c54871026813f42",
      "url": "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
      "source": "Guardian World",
      "published": "2026-09-14T18:17:47+00:00"
     },
     {
+     "title": "聯合國人權高專警告AI風險 籲各國和企業緊急管控",
+     "summary": "聯合國人權事務高級專員圖克今天呼籲各國與「前沿」人工智慧（AI）企業採取緊急行動，以管控一項他警告稱構成「前所未有風險」的技術。 法新社報導，圖克（Volker Turk）在致各國及AI開...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/life/breakingnews/5574003",
+     "source": "自由時報",
+     "published": "2026-09-14T18:12:03+00:00"
+    },
+    {
      "title": "Jerusalem Daily: A new report on the erosion of Palestinian life",
+     "summary": "Palestinian life is being systematically eroded, according to a new report and Israel threatens NAZA film directors.",
+     "image": "",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/jerusalem-daily-a-new-report-on-the-erosion-of-palestinian-life?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-09-14T18:02:44+00:00"
     },
     {
      "title": "India to supply Nepal electricity after floods wrecked hydropower projects",
+     "summary": "India to provide Nepal with 654 megawatts of electricity daily to meet urgent needs after devastating glacial floods.",
+     "image": "",
      "url": "https://www.aljazeera.com/news/2026/9/14/india-to-supply-nepal-electricity-after-floods-wrecked-hydropower-projects?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-09-14T17:52:33+00:00"
     },
     {
      "title": "Carney pitches Canada to global investors amid US trade war",
+     "summary": "Hundreds of investors overseeing nearly $120 trillion in assets will gather in Toronto for the Canada Investment Summit.",
+     "image": "",
      "url": "https://www.aljazeera.com/economy/2026/9/14/carney-pitches-canada-to-global-investors-amid-us-trade-war?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-09-14T17:42:33+00:00"
     },
     {
+     "title": "沈伯洋訪日拚交流深夜返台 成立日本後援會、取經市政經驗",
+     "summary": "民進黨台北市長參選人沈伯洋14日深夜結束訪日行程搭機返台，他表示，此行除與日本議員就AI、產業、海底電纜、法律戰及認知作戰等議題交換意見，也針對無菸城市、兒虐保護、免費供餐...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5573994",
+     "source": "自由時報",
+     "published": "2026-09-14T17:38:12+00:00"
+    },
+    {
      "title": "EU states to raise game as Arctic becomes strategic geopolitical frontier",
+     "summary": "Europe racing Russia, China and US to seize security and economic opportunities.",
+     "image": "",
      "url": "https://www.aljazeera.com/news/2026/9/14/eu-states-to-raise-game-as-arctic-becomes-strategic-geopolitical-frontier?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-09-14T17:30:36+00:00"
     },
     {
-     "title": "Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike",
-     "url": "https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html",
-     "source": "CNBC Top News",
-     "published": "2026-09-14T17:26:21+00:00"
-    },
-    {
-     "title": "Bolsonaro 2.0: Brazil braces for the return of the far right",
+     "title": "‘A coin flip’: on Flávio Bolsonaro’s campaign trail as Brazil’s far right edges back to power",
+     "summary": "Neck-and-neck with Lula in polls, Flávio Bolsonaro fires up his base in the bellwether state of Minas Gerais – starting at the scene of his father’s stabbing A giant banner of Brazil’s incarcerated fo…",
+     "image": "https://i.guim.co.uk/img/media/84db8d853097e7607dbfa3d622ba2011d0f1ec6a/288_1_3624_2899/master/3624.jpg?width=140&quality=85&auto=format&fit=max&s=daa55b0b3ac7c709a918c0b6c8ecb6dc",
      "url": "https://www.theguardian.com/world/2026/sep/14/brazil-bolsonaro-far-right-minas-gerais",
      "source": "Guardian World",
      "published": "2026-09-14T17:04:05+00:00"
@@ -83,72 +139,128 @@
    "items": [
     {
      "title": "The AI industry has taken a doomer turn. What now?",
+     "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for…",
+     "image": "",
      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
      "source": "MIT Tech Review AI",
      "published": "2026-09-14T17:54:22+00:00"
     },
     {
      "title": "Prehistoric builders transported Devil's Arrows 11 miles",
+     "summary": "Isotropic analysis revealed the most likely source to be Brimham Rocks, not the nearby Plumpton Rocks.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/devilsarrow1-500x500.jpg",
      "url": "https://arstechnica.com/science/2026/09/prehistoric-builders-transported-devils-arrows-11-miles/",
      "source": "Ars Technica",
      "published": "2026-09-14T17:10:54+00:00"
     },
     {
      "title": "Steam Frame: The Ars Technica review",
+     "summary": "Valve's new $1,049 VR hardware tries to revive an abandoned VR \"revolution.\"",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/steamframe-1-500x500-1789396814.jpg",
      "url": "https://arstechnica.com/gaming/2026/09/steam-frame-the-ars-technica-review/",
      "source": "Ars Technica",
      "published": "2026-09-14T17:00:07+00:00"
     },
     {
      "title": "\"Offensively cheap\": Solar power is looking up",
+     "summary": "Chinese-made panels on rooftops across the world are changing the facts of life for big utilities.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2284882889-1-500x500.jpg",
      "url": "https://arstechnica.com/gadgets/2026/09/offensively-cheap-solar-power-is-looking-up/",
      "source": "Ars Technica",
      "published": "2026-09-14T16:29:18+00:00"
     },
     {
      "title": "AI agents blew the whistle on their cheating colleagues",
+     "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent…",
+     "image": "",
      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
      "source": "MIT Tech Review AI",
      "published": "2026-09-14T16:00:00+00:00"
     },
     {
      "title": "New corners, new lights for 2028 Volvo XC40",
+     "summary": "The Swedish automaker gives its small SUV a sympathetic makeover.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/The_New_Volvo_XC40_Studio_Front_34-500x500.jpg",
      "url": "https://arstechnica.com/cars/2026/09/how-to-make-a-small-suv-slightly-smaller-the-2028-volvo-xc40/",
      "source": "Ars Technica",
      "published": "2026-09-14T15:46:06+00:00"
     },
     {
+     "title": "最遙遠原始超星系團，重達銀河系 5,000 倍",
+     "summary": "天文學家發現了迄今年代最早、距離最遙遠的「原始超星系團」COSMOS-z3.1-A。它不只是單一星系團的雛形， […]",
+     "image": "",
+     "url": "https://technews.tw/2026/09/14/most-distant-protocluster-weighs-5000-times-the-milky-way/",
+     "source": "科技新報 TechNews",
+     "published": "2026-09-14T14:39:43+00:00"
+    },
+    {
      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+     "summary": "Article URL: https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/ Comments URL: https://news.ycombinator.com/item?id=49695876 Points: 211 # Comments: 212",
+     "image": "",
      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
      "source": "Hacker News Front Page",
      "published": "2026-09-14T12:40:57+00:00"
     },
     {
+     "title": "矽品傳亞利桑那州布局將定案，台廠在美先進封測受矚",
+     "summary": "半導體封測大廠日月光投控旗下矽品精密，傳出在美國亞利桑那州投資設廠規劃進入最後階段，短期內將定案，有機會提供後 […]",
+     "image": "",
+     "url": "https://finance.technews.tw/2026/09/14/spil-in-usa/",
+     "source": "科技新報 TechNews",
+     "published": "2026-09-14T10:20:20+00:00"
+    },
+    {
+     "title": "奧特曼力挺「控制節奏」：AI 發展不應快過人類掌控，籲建立聯邦監管框架",
+     "summary": "OpenAI 執行長山姆‧奧特曼（Sam Altman）13 日再度公開支持人工智慧開發採取「節奏控制」，主張 […]",
+     "image": "",
+     "url": "https://technews.tw/2026/09/14/openai-ceo-sam-altman-supports-slowing-ai-development-to-prioritize-safety/",
+     "source": "科技新報 TechNews",
+     "published": "2026-09-14T10:00:01+00:00"
+    },
+    {
+     "title": "EUV 訂單強、High NA 加速導入！路透：ASML 龍頭地位延續至 2030 年",
+     "summary": "全球半導體曝光機大廠艾司摩爾（ASML）於 2026 年 9 月 8 日，在荷蘭埃因霍溫的「北智慧港工業園區（ […]",
+     "image": "",
+     "url": "https://technews.tw/2026/09/14/asml-high-na-euv-customers/",
+     "source": "科技新報 TechNews",
+     "published": "2026-09-14T09:58:53+00:00"
+    },
+    {
      "title": "XCancel service is suspended until further notice",
+     "summary": "Article URL: https://xcancel.com/# Comments URL: https://news.ycombinator.com/item?id=49694296 Points: 206 # Comments: 475",
+     "image": "",
      "url": "https://xcancel.com/",
      "source": "Hacker News Front Page",
      "published": "2026-09-14T09:51:50+00:00"
     },
     {
      "title": "A 386 PC for Your RP2350",
+     "summary": "Article URL: https://github.com/rh1tech/frank-386 Comments URL: https://news.ycombinator.com/item?id=49693613 Points: 185 # Comments: 61",
+     "image": "",
      "url": "https://github.com/rh1tech/frank-386",
      "source": "Hacker News Front Page",
      "published": "2026-09-14T08:25:57+00:00"
     },
     {
      "title": "EuroBirdPortal – Live bird movements across Europe",
+     "summary": "Article URL: https://www.eurobirdportal.org/ebp/en/ Comments URL: https://news.ycombinator.com/item?id=49693610 Points: 198 # Comments: 59",
+     "image": "",
      "url": "https://www.eurobirdportal.org/ebp/en/",
      "source": "Hacker News Front Page",
      "published": "2026-09-14T08:25:47+00:00"
     },
     {
      "title": "Occamy-1.0: Open Pareto-frontier 35B Intelligence for Co-work",
+     "summary": "arXiv:2609.11977v1 Announce Type: new Abstract: Co-work agents execute complex workflows that combine information gathering, tool use, coding, and file manipulation across many model invocations. Beca…",
+     "image": "",
      "url": "https://arxiv.org/abs/2609.11977",
      "source": "arXiv cs.AI",
      "published": "2026-09-14T04:00:00+00:00"
     },
     {
      "title": "Harness or Model? Isolating the Harness Effect in Agentic Coding with a Contamination-Controlled Private Suite",
+     "summary": "arXiv:2609.11987v1 Announce Type: new Abstract: An agentic coding system couples a language model to a harness: the tools, prompts and control flow that turn a chat model into an autonomous software e…",
+     "image": "",
      "url": "https://arxiv.org/abs/2609.11987",
      "source": "arXiv cs.AI",
      "published": "2026-09-14T04:00:00+00:00"
@@ -159,79 +271,113 @@
    "label": "運動",
    "items": [
     {
+     "title": "Leeds United v Newcastle United: Premier League – live",
+     "summary": "⚽ Premier League updates from the 8pm BST kick-off ⚽ 10 weekend talking points | And you can mail Daniel Jaissle did, of course, have a choice; he might’ve picked Touré. But it makes sense that in so…",
+     "image": "https://i.guim.co.uk/img/media/b540be5e5988b2ad879b7503aeea57efa101c019/485_0_4999_4000/master/4999.jpg?width=140&quality=85&auto=format&fit=max&s=d9d24c860ec3ae6ecf0d20bc89467c0d",
+     "url": "https://www.theguardian.com/football/live/2026/sep/14/leeds-united-v-newcastle-united-premier-league-live-updates",
+     "source": "Guardian Sport",
+     "published": "2026-09-14T18:55:30+00:00"
+    },
+    {
      "title": "Kawhi Leonard trade to Raptors reportedly will be completed after NBA punishes Clippers for breaking salary cap rules",
+     "summary": "The Raptors originally agreed to a trade for Leonard in June as the Clippers did not want to sign the 35-year-old to a contract extension.",
+     "image": "",
      "url": "https://sports.yahoo.com/nba/article/kawhi-leonard-trade-to-raptors-reportedly-will-be-completed-after-nba-punishes-clippers-for-breaking-salary-cap-rules-184725795.html",
      "source": "Yahoo Sports NBA",
      "published": "2026-09-14T18:47:25+00:00"
     },
     {
-     "title": "Leeds United v Newcastle United: Premier League – live",
-     "url": "https://www.theguardian.com/football/live/2026/sep/14/leeds-united-v-newcastle-united-premier-league-live-updates",
-     "source": "Guardian Sport",
-     "published": "2026-09-14T18:39:34+00:00"
-    },
-    {
      "title": "The chaotic Wolves & Sixers, Ballmer apologizes & NFL Week 1 recap with Marcus Thompson & Warren Sharp",
+     "summary": "Kevin O'Connor previews the 2026-27 NBA season for the Minnesota Timberwolves and the Philadelphia 76ers.",
+     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/koc-antfinch-thumb_6922.png",
      "url": "https://sports.yahoo.com/nba/article/the-chaotic-wolves--sixers-ballmer-apologizes--nfl-week-1-recap-with-marcus-thompson--warren-sharp-183630489.html",
      "source": "Yahoo Sports NBA",
      "published": "2026-09-14T18:36:30+00:00"
     },
     {
      "title": "Stephen Curry, Nikola Jokić and the most interesting extension-eligible NBA veterans to watch",
+     "summary": "Will we see these stars re-up? Let's take a look at a few fascinating situations to monitor heading into the season.",
+     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ed-091026-nba5veteranextensionstowatch_3458.jpg",
      "url": "https://sports.yahoo.com/nba/article/stephen-curry-nikola-jokic-and-the-most-interesting-extension-eligible-nba-veterans-to-watch-182607568.html",
      "source": "Yahoo Sports NBA",
      "published": "2026-09-14T18:26:07+00:00"
     },
     {
      "title": "Danilo Gallinari takes Kawhi Leonard to task for Clippers punishment, believes star should 'pay all $50 million'",
+     "summary": "Danilo Gallinari was traded to the Thunder after Kawhi Leonard joined the Clippers.",
+     "image": "",
      "url": "https://sports.yahoo.com/nba/article/danilo-gallinari-takes-kawhi-leonard-to-task-for-clippers-punishment-believes-star-should-pay-all-50-million-175530559.html",
      "source": "Yahoo Sports NBA",
      "published": "2026-09-14T17:55:30+00:00"
     },
     {
+     "title": "Pollock still 'open to new opportunities' as Northampton talks go on",
+     "summary": "Henry Pollock continues to play hardball in his negotiations over a Northampton Saints contract extension, insisting he is still open to offers from elsewhere.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a77f/live/1d6b53e0-b063-11f1-b9fd-8be7457ad079.jpg",
+     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ck1e54qzjqljo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-09-14T17:51:43+00:00"
+    },
+    {
      "title": "No weekend game for Manchester derby VAR officials",
+     "summary": "The video assistant referee for the Manchester derby, Matt Donohue, and his assistant VAR, Blake Antrobus, are not appointed for this weekend's Premier League games.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5343/live/94cdb350-b05a-11f1-9902-771b6dd8af6a.jpg",
      "url": "https://www.bbc.co.uk/sport/football/articles/c6pwlk0kjqwqo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-09-14T17:02:50+00:00"
     },
     {
      "title": "VARs who wrongly confirmed Haaland’s goal at Manchester United are stood down",
+     "summary": "Matt Donohue and his assistant not used this weekend Pro Ref said allowing winner was ‘error of judgment’ The video assistant referee officials who allowed Erling Haaland’s winning goal in the Manches…",
+     "image": "https://i.guim.co.uk/img/media/c82b12c9e642ac1272db24af5a7d90b45b54eb0b/31_85_1787_1430/master/1787.jpg?width=140&quality=85&auto=format&fit=max&s=991fa9f7fe02fa7cff456c21d026dd90",
      "url": "https://www.theguardian.com/football/2026/sep/14/vars-erling-haaland-goal-manchester-united-stood-down-wrongly-allowed",
      "source": "Guardian Sport",
      "published": "2026-09-14T15:39:16+00:00"
     },
     {
-     "title": "Madrid F1 circuit set for changes after criticism",
-     "url": "https://www.bbc.co.uk/sport/formula1/articles/ckwyzllzdq43o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-09-14T14:11:04+00:00"
-    },
-    {
      "title": "Clippers, Steve Ballmer back down and accept NBA penalties -- does that mean they'll get any picks back?",
+     "summary": "Ballmer, in a statement Sunday night, reversed course after originally vowing to fight the NBA's salary cap circumvention penalties",
+     "image": "https://sportshub.cbsistatic.com/i/2026/09/14/2eeed4d5-1f60-4f73-a385-4a4bfc17d2d4/ballmer-getty.png",
      "url": "https://www.cbssports.com/nba/news/clippers-steve-ballmer-accept-nba-penalties-picks-back/",
      "source": "CBS Sports NBA",
      "published": "2026-09-14T13:29:38+00:00"
     },
     {
      "title": "Brands v country - Kerr ramps up kit battle after latest victory",
+     "summary": "Josh Kerr celebrated becoming Great Britain's first Ultimate Champion by making a clear point about funding in athletics - BBC Sport explains what the issue is.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c774/live/ea633370-b02e-11f1-a8a9-13be82d23441.jpg",
      "url": "https://www.bbc.co.uk/sport/athletics/articles/cr2kw4p3yxy7o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-09-14T13:22:44+00:00"
     },
     {
      "title": "'This is what women in sport look like' - Hunt leads response to Sweeney advert",
+     "summary": "British sprinter Amy Hunt is among an array of female athletes criticising the controversial betting advert starring actress Sydney Sweeney.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b42/live/9dfbd460-b038-11f1-b1d1-571ed4d7ff2c.jpg",
      "url": "https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-09-14T13:17:47+00:00"
     },
     {
      "title": "Spanish GP plans to change Madring after fierce criticism from F1 drivers",
+     "summary": "New track for Spanish GP frustrated drivers and fans McLaren’s Stella: ‘It’s impossible to attempt overtaking’ Discussions are already under way to change the layout of Formula One’s newest circuit af…",
+     "image": "https://i.guim.co.uk/img/media/010ea42b02858ddc767943e60b59353957ba41a9/73_0_2917_2334/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=77bf4f1706f83dab37cfeaa0889fec66",
      "url": "https://www.theguardian.com/sport/2026/sep/14/lack-of-overtaking-madring-fi-spanish-grand-prix",
      "source": "Guardian Sport",
      "published": "2026-09-14T10:57:28+00:00"
+    },
+    {
+     "title": "The Josh Allen rollercoaster is up and running again for the new NFL season",
+     "summary": "The Bills quarterback produced his usual thrills: a galloping touchdown run, a near game-ending mistake and a brilliant throw. Buffalo fans better hold on Having Josh Allen as your quarterback is a bi…",
+     "image": "https://i.guim.co.uk/img/media/fade640b40f76a08189dfdae826b9fd30850741f/321_0_3703_2962/master/3703.jpg?width=140&quality=85&auto=format&fit=max&s=4ecfe21d739fd29b2383761befcd2235",
+     "url": "https://www.theguardian.com/sport/2026/sep/14/nfl-bills-texans-josh-allen",
+     "source": "Guardian Sport",
+     "published": "2026-09-14T07:30:25+00:00"
     }
    ]
   }
  },
- "failures": []
+ "failures": [
+  "關鍵評論網: <unknown>:22:6: mismatched tag"
+ ]
 }
