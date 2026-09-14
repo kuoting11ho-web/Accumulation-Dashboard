@@ -97,6 +97,19 @@
   .kill:hover{color:var(--red);}
   .kill.armed,.foot button.armed,.apx .kill.armed{color:var(--red);border-color:var(--red);
     font-size:9.5px;letter-spacing:.06em;font-weight:700;}
+  .onerow{display:flex;gap:7px;padding:9px 14px;border-top:1px solid var(--line);background:var(--surf2);}
+  .onerow input{font-family:inherit;font-size:12.5px;flex:1;min-width:120px;color:var(--txt);
+    border:1px solid var(--line);padding:6px 9px;background:var(--bg);}
+  .onerow input:focus{outline:0;border-color:var(--amber);}
+  .onerow button{font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:.1em;
+    border:1px solid var(--line);color:var(--dim);background:transparent;padding:6px 12px;cursor:pointer;}
+  .onerow button:hover{color:var(--amber);border-color:var(--amber);}
+  .oneweek{padding:12px 14px;border-top:1px solid var(--line);}
+  .oneday{display:flex;gap:10px;padding:5px 0;font-size:12px;line-height:1.6;align-items:baseline;}
+  .oneday .d{font-family:'JetBrains Mono',monospace;font-size:9.5px;letter-spacing:.1em;
+    color:var(--dim2);width:38px;flex:none;}
+  .oneday .l{flex:1;color:var(--dim);}
+  .oneday .l s{color:var(--dim2);}
   .grp{display:flex;align-items:center;gap:9px;padding:7px 14px;background:var(--surf2);
        border-bottom:1px solid var(--line);border-top:1px solid var(--line);}
 
@@ -244,6 +257,7 @@
   .legend{display:flex;align-items:center;gap:5px;margin-top:11px;}
   .legend .sq{width:11px;height:11px;border:1px solid var(--line);}
 
+  .nwhead .n{font-family:'JetBrains Mono',monospace;font-size:9.5px;color:var(--dim);margin-left:auto;}
   .foot{display:flex;gap:7px;padding:11px 14px;border-top:1px solid var(--line);background:var(--surf2);
         align-items:center;flex-wrap:wrap;}
   .foot button{font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:.11em;
@@ -258,6 +272,11 @@
   .dataio textarea{width:100%;height:96px;font-family:'JetBrains Mono',monospace;font-size:10px;
     color:var(--txt);background:var(--bg);border:1px solid var(--line);padding:8px;resize:vertical;}
   .dataio textarea:focus{outline:0;border-color:var(--amber);}
+  .syncgrid{display:grid;grid-template-columns:1fr;gap:7px;margin-top:10px;}
+  .syncgrid input{font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--txt);
+    border:1px solid var(--line);background:var(--bg);padding:7px 9px;width:100%;}
+  .syncgrid input:focus{outline:0;border-color:var(--amber);}
+  .syncbtns{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px;}
   .dataio .tip{font-size:11px;color:var(--dim2);line-height:1.6;margin-top:7px;}
   .empty{padding:24px 14px;text-align:center;font-size:12.5px;color:var(--dim);}
   .sum{padding:12px 14px;border-top:1px solid var(--line);font-size:12px;color:var(--dim);line-height:1.9;}
@@ -299,6 +318,10 @@
         <div class="meter" id="meter"></div>
       </div>
       <div id="tasks"></div>
+      <div class="onerow">
+        <input type="text" id="oneName" placeholder="今天的單次事項（只存在這一天）">
+        <button id="oneAdd">＋ 加入</button>
+      </div>
       <div class="mandala" id="vMandala"></div>
     </div>
 
@@ -318,6 +341,18 @@
           <button id="expBtn" style="margin-left:auto">EXPORT</button>
           <button id="impBtn">IMPORT</button></div>
         <div id="ioBox" class="hide"></div>
+        <div class="hd" style="margin:16px 0 0"><span class="mlab">Sync（選用）</span>
+          <span class="mlab" id="syncState" style="margin-left:auto">OFF</span></div>
+        <div class="syncgrid">
+          <input type="text" id="syncUrl" placeholder="Apps Script 網頁應用程式網址（/exec 結尾）" spellcheck="false">
+          <input type="text" id="syncKey" placeholder="你在程式裡設定的 SECRET" spellcheck="false">
+        </div>
+        <div class="syncbtns">
+          <button id="syncTest">連線測試</button>
+          <button id="syncUp">上傳</button>
+          <button id="syncDown">下載</button>
+        </div>
+        <div class="tip">設定後，每次變更會自動上傳；開啟頁面時若雲端較新會自動取回。留空則只存在本機。</div>
       </div>
       <div class="apx">
         <div class="hd"><span class="mlab">Appearance</span>
@@ -495,9 +530,15 @@
   function listFor(k){ return st.tasks.concat(dayOf(k).extra); }
   function msg(t){document.getElementById("stx").textContent=t;}
   function esc(s){return String(s==null?"":s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");}
-  function save(){ clearTimeout(timer); timer=setTimeout(function(){
-    store.set(KEY,JSON.stringify(st)).then(function(){ msg(store.kind); })
-      .catch(function(e){ msg("SAVE FAILED"); console.error("storage.set failed:",e); }); },300); }
+  function save(){
+    st.updated=Date.now();
+    clearTimeout(timer);
+    timer=setTimeout(function(){
+      store.set(KEY,JSON.stringify(st)).then(function(){ msg(store.kind); })
+        .catch(function(e){ msg("SAVE FAILED"); console.error("storage.set failed:",e); });
+    },300);
+    if(typeof queuePush==="function") queuePush();
+  }
 
   function lum(h){ h=h.replace("#","");
     if(h.length===3) h=h[0]+h[0]+h[1]+h[1]+h[2]+h[2];
@@ -544,7 +585,8 @@
       wd.forEach(function(x){ var xk=iso(x);
         strip+='<i data-on="'+(cntOn(x,t)>0?"1":"0")+'" data-now="'+(xk===k?"1":"0")+'"></i>'; });
       var badge="";
-      if(fr.p==="n") badge='<span class="badge">隨時</span>';
+      if(t.one) badge='<span class="badge">單次</span>';
+      else if(fr.p==="n") badge='<span class="badge">隨時</span>';
       else if(fr.p==="d" && fr.n>1) badge='<span class="badge'+(c>=fr.n?" met":"")+'">'+c+'/'+fr.n+' 今日</span>';
       else if(fr.p!=="d"){
         var pd=periodDone(t,cur);
@@ -582,6 +624,12 @@
     }
 
     var mode=grpMode();
+    var ones=due.filter(function(t){ return t.one; });
+    if(ones.length){
+      box.appendChild(groupHead("今日單次","",ones.length));
+      ones.forEach(function(t){ box.appendChild(rowEl(t,false)); });
+    }
+    due=due.filter(function(t){ return !t.one; });
     if(mode==="p"){
       [["d","每天"],["w","每週"],["m","每月"],["n","隨時"]].forEach(function(g){
         var list=due.filter(function(t){ return frq(t).p===g[0]; });
@@ -963,7 +1011,19 @@
          '<td><b'+(tg&&n>=tg?' style="color:var(--green)"':'')+'>'+n+'</b></td>'+
          '<td>'+(tg||"·")+'</td><td>'+(m||"·")+'</td></tr>';
     });
-    h+='</table><div class="sum"><span class="mlab">WEEK TOTAL</span> &nbsp;'+cnt+' hits · '+tot+' min<br>'+
+    h+='</table>';
+    var oneH="";
+    wd.forEach(function(x){
+      var d=st.days[iso(x)];
+      if(!d || !d.extra || !d.extra.length) return;
+      var items=d.extra.map(function(t){
+        return cnt(d,t)>0 ? ("<s>"+esc(t.n)+"</s>") : esc(t.n);
+      }).join(" · ");
+      oneH+='<div class="oneday"><span class="d">'+"MTWTFSS"[(x.getDay()+6)%7]+' '+
+            iso(x).slice(8)+'</span><span class="l">'+items+'</span></div>';
+    });
+    if(oneH) h+='<div class="oneweek"><span class="mlab">本週單次事項</span>'+oneH+'</div>';
+    h+='<div class="sum"><span class="mlab">WEEK TOTAL</span> &nbsp;'+cnt+' hits · '+tot+' min<br>'+
        (miss.length?'<span class="mlab" style="color:var(--red)">未達標</span> &nbsp;'+esc(miss.join(" / "))
                    :'<span class="mlab" style="color:var(--green)">本週所有項目都達標</span>')+'</div>';
     v.innerHTML=h;
@@ -1094,7 +1154,8 @@
     var map={day:"tD",week:"tW",month:"tM",year:"tY",edit:"tE"};
     Object.keys(map).forEach(function(k){ document.getElementById(map[k]).dataset.on=(k===v)?"1":"0"; });
     ["Day","Week","Month","Year","Edit"].forEach(function(n,i){
-      document.getElementById("v"+n).classList.toggle("hide",["day","week","month","year","edit"][i]!==v); });
+      document.getElementById("v"+n).classList.toggle("hide",
+        ["day","week","month","year","edit"][i]!==v); });
     render();
   }
   document.getElementById("tD").onclick=function(){setView("day");};
@@ -1127,6 +1188,66 @@
   var ti=document.getElementById("titleIn");
   ti.oninput=function(){ st.title=this.value; save(); };
   ti.onblur=function(){ if(!this.value.trim()){ this.value=st.title=DEF_TITLE; save(); } };
+
+  (function(){
+    var inp=document.getElementById("oneName");
+    function add(){
+      var v=inp.value.trim(); if(!v) return;
+      dayOf(iso(cur)).extra.push({id:"o"+Date.now(),n:v,c:"",one:true});
+      inp.value=""; save(); renderDay();
+    }
+    document.getElementById("oneAdd").onclick=add;
+    inp.addEventListener("keydown",function(e){ if(e.key==="Enter") add(); });
+  })();
+
+  // ---------- cloud sync (optional) ----------
+  var syncTimer=null, syncing=false;
+  function syncCfg(){ return st.sync||{url:"",key:""}; }
+  function syncOn(){ var c=syncCfg(); return !!(c.url&&c.key); }
+  function syncState(t){ var el=document.getElementById("syncState"); if(el) el.textContent=t; }
+
+  async function syncPull(){
+    var c=syncCfg();
+    var r=await fetch(c.url+"?key="+encodeURIComponent(c.key));
+    if(!r.ok) throw new Error("HTTP "+r.status);
+    var j=await r.json();
+    if(!j.ok) throw new Error(j.error||"rejected");
+    return j.data;
+  }
+  async function syncPush(){
+    var c=syncCfg();
+    var r=await fetch(c.url,{
+      method:"POST",
+      headers:{"Content-Type":"text/plain;charset=utf-8"},   // 避免 CORS preflight
+      body:JSON.stringify({key:c.key,data:st})
+    });
+    if(!r.ok) throw new Error("HTTP "+r.status);
+    var j=await r.json();
+    if(!j.ok) throw new Error(j.error||"rejected");
+    return j;
+  }
+  function queuePush(){
+    if(!syncOn()) return;
+    clearTimeout(syncTimer);
+    syncState("…");
+    syncTimer=setTimeout(function(){
+      if(syncing) return queuePush();
+      syncing=true;
+      syncPush().then(function(){ syncState("SYNCED"); })
+        .catch(function(e){ syncState("ERR "+(e.message||e)); })
+        .then(function(){ syncing=false; });
+    },1500);
+  }
+  function adopt(obj){
+    st=obj;
+    if(!st.days) st.days={};
+    if(!Array.isArray(st.tasks)) st.tasks=SEED.slice();
+    if(!Array.isArray(st.catList))
+      st.catList=DEF_CATS.map(function(c){ return {k:c.k,n:c.n,c:c.c}; });
+    fillCatSelect(); syncGrp();
+    ti.value=st.title||DEF_TITLE;
+    applyTheme(); setView("day");
+  }
 
   var ioBox=document.getElementById("ioBox");
   function ioClose(){ ioBox.className="hide"; ioBox.innerHTML=""; }
@@ -1179,6 +1300,38 @@
     close.textContent="CLOSE"; close.style.marginTop="8px"; close.style.marginLeft="6px";
     close.onclick=ioClose; ioBox.appendChild(close);
   };
+
+  (function(){
+    var u=document.getElementById("syncUrl"), k=document.getElementById("syncKey");
+    function commit(){
+      st.sync={url:u.value.trim(),key:k.value.trim()};
+      save(); syncState(syncOn()?"READY":"OFF");
+    }
+    u.onchange=commit; k.onchange=commit;
+    document.getElementById("syncTest").onclick=function(){
+      if(!syncOn()) return syncState("先填網址和 SECRET");
+      syncState("測試中…");
+      syncPull().then(function(d){
+        syncState(d?"OK · 雲端已有資料":"OK · 雲端目前是空的");
+      }).catch(function(e){ syncState("ERR "+(e.message||e)); });
+    };
+    document.getElementById("syncUp").onclick=function(){
+      if(!syncOn()) return syncState("先填網址和 SECRET");
+      syncState("上傳中…");
+      syncPush().then(function(){ syncState("UPLOADED"); })
+        .catch(function(e){ syncState("ERR "+(e.message||e)); });
+    };
+    document.getElementById("syncDown").onclick=function(){
+      if(!syncOn()) return syncState("先填網址和 SECRET");
+      syncState("下載中…");
+      syncPull().then(function(d){
+        if(!d) return syncState("雲端沒有資料");
+        adopt(d);
+        store.set(KEY,JSON.stringify(st)).catch(function(){});
+        syncState("DOWNLOADED");
+      }).catch(function(e){ syncState("ERR "+(e.message||e)); });
+    };
+  })();
 
   var sel=document.getElementById("newCat");
   function fillCatSelect(){
@@ -1246,6 +1399,24 @@
     applyTheme(); setView("day");
     msg(store.kind+(STORAGE_NOTE?" ⚠":""));
     if(STORAGE_NOTE) console.warn(STORAGE_NOTE);
+
+    var sc=syncCfg();
+    document.getElementById("syncUrl").value=sc.url||"";
+    document.getElementById("syncKey").value=sc.key||"";
+    if(!syncOn()){ syncState("OFF"); return; }
+    syncState("檢查中…");
+    syncPull().then(function(d){
+      if(d && (d.updated||0) > (st.updated||0)){
+        adopt(d);
+        store.set(KEY,JSON.stringify(st)).catch(function(){});
+        syncState("PULLED");
+      }else if(!d){
+        syncPush().then(function(){ syncState("SYNCED"); })
+                  .catch(function(e){ syncState("ERR "+(e.message||e)); });
+      }else{
+        syncState("SYNCED");
+      }
+    }).catch(function(e){ syncState("ERR "+(e.message||e)); });
   });
   setInterval(pulse,30000);
 })();
