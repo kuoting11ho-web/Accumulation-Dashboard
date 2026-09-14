@@ -1,9 +1,21 @@
 {
- "generated": "2026-09-14T18:31:40.591963+00:00",
+ "generated": "2026-09-14T18:49:39.411645+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
+    {
+     "title": "S&P 500 falls slightly, trades off worst levels of the session as rate and oil pressures ease a bit: Live updates",
+     "url": "https://www.cnbc.com/2026/09/13/stock-futures-today-live-updates.html",
+     "source": "CNBC Top News",
+     "published": "2026-09-14T18:45:25+00:00"
+    },
+    {
+     "title": "10 years after taking a knee, Colin Kaepernick is still waging a 'Perilous Fight'",
+     "url": "https://www.npr.org/2026/09/14/nx-s1-5965828/colin-kaepernick-football-the-perilous-fight",
+     "source": "NPR News",
+     "published": "2026-09-14T18:45:21+00:00"
+    },
     {
      "title": "10-year Treasury yield hits 5% before reversing as traders await Fed meeting",
      "url": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
@@ -15,12 +27,6 @@
      "url": "https://www.npr.org/2026/09/14/nx-s1-5968690/kennedy-center-financial-physical-state",
      "source": "NPR News",
      "published": "2026-09-14T18:25:04+00:00"
-    },
-    {
-     "title": "S&P 500 falls slightly, trades off worst levels of the session as rate and oil pressures ease a bit: Live updates",
-     "url": "https://www.cnbc.com/2026/09/13/stock-futures-today-live-updates.html",
-     "source": "CNBC Top News",
-     "published": "2026-09-14T18:24:29+00:00"
     },
     {
      "title": "Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei",
@@ -69,12 +75,6 @@
      "url": "https://www.theguardian.com/world/2026/sep/14/brazil-bolsonaro-far-right-minas-gerais",
      "source": "Guardian World",
      "published": "2026-09-14T17:04:05+00:00"
-    },
-    {
-     "title": "US borrowing costs hit 5% for first time since 2023 amid bond sell-off",
-     "url": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
-     "source": "Guardian Business",
-     "published": "2026-09-14T16:48:34+00:00"
     }
    ]
   },
@@ -159,16 +159,28 @@
    "label": "運動",
    "items": [
     {
-     "title": "Stephen Curry, Nikola Jokić and the most interesting extension-eligible NBA veterans to watch",
-     "url": "https://sports.yahoo.com/nba/article/stephen-curry-nikola-jokic-and-the-most-interesting-extension-eligible-nba-veterans-to-watch-182607568.html",
+     "title": "Kawhi Leonard trade to Raptors reportedly will be completed after NBA punishes Clippers for breaking salary cap rules",
+     "url": "https://sports.yahoo.com/nba/article/kawhi-leonard-trade-to-raptors-reportedly-will-be-completed-after-nba-punishes-clippers-for-breaking-salary-cap-rules-184725795.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-09-14T18:26:07+00:00"
+     "published": "2026-09-14T18:47:25+00:00"
     },
     {
      "title": "Leeds United v Newcastle United: Premier League – live",
      "url": "https://www.theguardian.com/football/live/2026/sep/14/leeds-united-v-newcastle-united-premier-league-live-updates",
      "source": "Guardian Sport",
-     "published": "2026-09-14T18:24:00+00:00"
+     "published": "2026-09-14T18:39:34+00:00"
+    },
+    {
+     "title": "The chaotic Wolves & Sixers, Ballmer apologizes & NFL Week 1 recap with Marcus Thompson & Warren Sharp",
+     "url": "https://sports.yahoo.com/nba/article/the-chaotic-wolves--sixers-ballmer-apologizes--nfl-week-1-recap-with-marcus-thompson--warren-sharp-183630489.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-14T18:36:30+00:00"
+    },
+    {
+     "title": "Stephen Curry, Nikola Jokić and the most interesting extension-eligible NBA veterans to watch",
+     "url": "https://sports.yahoo.com/nba/article/stephen-curry-nikola-jokic-and-the-most-interesting-extension-eligible-nba-veterans-to-watch-182607568.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-14T18:26:07+00:00"
     },
     {
      "title": "Danilo Gallinari takes Kawhi Leonard to task for Clippers punishment, believes star should 'pay all $50 million'",
@@ -181,18 +193,6 @@
      "url": "https://www.bbc.co.uk/sport/football/articles/c6pwlk0kjqwqo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-09-14T17:02:50+00:00"
-    },
-    {
-     "title": "Ranking the Sixers’ biggest threats in the Eastern Conference",
-     "url": "https://sports.yahoo.com/articles/ranking-sixers-biggest-threats-eastern-160000221.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-09-14T16:00:00+00:00"
-    },
-    {
-     "title": "Celtics agree to deal with Devin Carter, point guard will compete for roster, two-way spot",
-     "url": "https://sports.yahoo.com/articles/celtics-agree-deal-devin-carter-154804957.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-09-14T15:48:04+00:00"
     },
     {
      "title": "VARs who wrongly confirmed Haaland’s goal at Manchester United are stood down",
