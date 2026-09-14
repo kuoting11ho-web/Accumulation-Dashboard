@@ -1,0 +1,35 @@
+# 每行一個來源： 分類|顯示名稱|RSS 網址
+# 以 # 開頭的行會被忽略，不要的來源在前面加 # 就好
+#
+# 注意：RSS 網址會改、會停用。第一次跑完看 Actions 的 log，
+# 失敗的來源會列出來，直接把那行註解掉或換掉。
+
+# ── WORLD 國際 / 政治 / 社會 ──────────────────────
+world|BBC World|https://feeds.bbci.co.uk/news/world/rss.xml
+world|NPR News|https://feeds.npr.org/1001/rss.xml
+world|Guardian World|https://www.theguardian.com/world/rss
+world|Al Jazeera|https://www.aljazeera.com/xml/rss/all.xml
+
+# ── BUSINESS 財經 ────────────────────────────────
+world|CNBC Top News|https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114
+world|Guardian Business|https://www.theguardian.com/uk/business/rss
+
+# ── AI 人工智慧 ──────────────────────────────────
+ai|MIT Tech Review AI|https://www.technologyreview.com/topic/artificial-intelligence/feed
+ai|Ars Technica|https://feeds.arstechnica.com/arstechnica/index
+ai|Hacker News Front Page|https://hnrss.org/frontpage?points=150
+ai|arXiv cs.AI|http://export.arxiv.org/rss/cs.AI
+
+# ── S&C 肌力體能 / 運動科學 ──────────────────────
+sc|SimpliFaster|https://simplifaster.com/feed/
+sc|Science for Sport|https://www.scienceforsport.com/feed/
+sc|Sports Medicine (Springer)|https://link.springer.com/search.rss?facet-journal-id=40279&channel-name=Sports+Medicine
+# PubMed：到 pubmed.ncbi.nlm.nih.gov 跑一次你要的搜尋，
+# 點 "Create RSS" 拿到永久網址，貼在下面（範例已註解）
+# sc|PubMed basketball load|https://pubmed.ncbi.nlm.nih.gov/rss/search/XXXXXXXX/?limit=20
+# sc|PubMed force-velocity|https://pubmed.ncbi.nlm.nih.gov/rss/search/XXXXXXXX/?limit=20
+
+# ── SPORT 運動賽事（跟運動員聊天用）─────────────
+sport|ESPN Top Headlines|https://www.espn.com/espn/rss/news
+sport|ESPN NBA|https://www.espn.com/espn/rss/nba/news
+sport|Guardian Sport|https://www.theguardian.com/sport/rss
