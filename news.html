@@ -9,10 +9,9 @@
     --amber:#F5D45C; --green:#5BC47A; --red:#E8615A; --onAcc:#0C0F13;
   }
   *{box-sizing:border-box;}
-  html,body{margin:0;padding:0;}
-  #nw{background:var(--bg);color:var(--txt);padding:16px;max-width:860px;margin:0 auto;
-      min-height:100vh;
-      font-family:'Archivo','Helvetica Neue',Arial,sans-serif;
+  html,body{margin:0;padding:0;background:#0C0F13;}
+  #nw{background:var(--bg);color:var(--txt);padding:16px;max-width:1040px;margin:0 auto;
+      min-height:100vh;font-family:'Archivo','Helvetica Neue',Arial,sans-serif;
       background-image:linear-gradient(var(--line) 1px,transparent 1px),
                        linear-gradient(90deg,var(--line) 1px,transparent 1px);
       background-size:34px 34px;background-position:-1px -1px;}
@@ -20,17 +19,21 @@
         letter-spacing:.14em;text-transform:uppercase;color:var(--dim);}
   .shell{border:1px solid var(--line);background:var(--surf);}
 
+  /* masthead */
   .mast{border:1px solid var(--line);background:var(--surf2);padding:11px 14px;margin-bottom:14px;
-        display:flex;align-items:center;gap:14px;flex-wrap:wrap;}
+        display:flex;align-items:center;gap:12px;flex-wrap:wrap;}
   .mast .id{font-family:'JetBrains Mono',monospace;font-size:13px;font-weight:700;
             letter-spacing:.2em;color:var(--amber);}
   .mast .sub{font-family:'JetBrains Mono',monospace;font-size:10px;color:var(--dim);
              letter-spacing:.08em;margin-top:3px;}
-  .mast .right{margin-left:auto;display:flex;gap:6px;align-items:center;flex-wrap:wrap;}
-  .mast button{font-family:'JetBrains Mono',monospace;font-size:9.5px;letter-spacing:.1em;
-    border:1px solid var(--line);color:var(--dim);background:transparent;padding:6px 11px;cursor:pointer;}
-  .mast button:hover{color:var(--amber);border-color:var(--amber);}
-  .mast button[data-on="1"]{background:var(--amber);color:var(--onAcc);
+  .ctrl{margin-left:auto;display:flex;gap:10px;align-items:center;flex-wrap:wrap;}
+  .bgrp{display:flex;}
+  .bgrp button{font-family:'JetBrains Mono',monospace;font-size:9.5px;letter-spacing:.1em;
+    border:1px solid var(--line);border-right:0;color:var(--dim);background:transparent;
+    padding:6px 10px;cursor:pointer;}
+  .bgrp button:last-child{border-right:1px solid var(--line);}
+  .bgrp button:hover{color:var(--amber);}
+  .bgrp button[data-on="1"]{background:var(--amber);color:var(--onAcc);
     border-color:var(--amber);font-weight:700;}
 
   .sechead{display:flex;align-items:center;gap:9px;padding:10px 14px;background:var(--surf2);
@@ -40,14 +43,41 @@
   .sechead .n{font-family:'JetBrains Mono',monospace;font-size:9.5px;color:var(--dim);margin-left:auto;}
   .rule{width:20px;height:2px;flex:none;}
 
-  .item{display:flex;gap:12px;padding:11px 14px;border-bottom:1px solid var(--line);align-items:baseline;}
-  .item:last-child{border-bottom:0;}
-  .item .idx{font-family:'JetBrains Mono',monospace;font-size:9.5px;color:var(--dim2);
-    flex:none;width:18px;}
-  .item a{font-size:14px;font-weight:600;color:var(--txt);text-decoration:none;flex:1;line-height:1.45;}
-  .item a:hover{color:var(--amber);}
-  .item .meta{font-family:'JetBrains Mono',monospace;font-size:9.5px;color:var(--dim2);
-    flex:none;white-space:nowrap;text-align:right;}
+  .meta{font-family:'JetBrains Mono',monospace;font-size:9.5px;color:var(--dim2);
+    white-space:nowrap;letter-spacing:.04em;}
+
+  /* ── LIST ── */
+  .list .row{display:flex;gap:12px;padding:12px 14px;border-bottom:1px solid var(--line);}
+  .list .row:last-child{border-bottom:0;}
+  .list .row:hover{background:var(--surf2);}
+  .list .th{width:92px;height:62px;flex:none;object-fit:cover;border:1px solid var(--line);
+    background:var(--surf2);}
+  .list .body{flex:1;min-width:0;}
+  .list .hl{font-size:14px;font-weight:700;line-height:1.4;margin-bottom:5px;}
+  .list a{color:var(--txt);text-decoration:none;}
+  .list a:hover{color:var(--amber);}
+  .list .sm{font-size:12.5px;line-height:1.6;color:var(--dim);margin-bottom:6px;}
+
+  /* ── GRID ── */
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:1px;
+    background:var(--line);}
+  .grid .card{background:var(--surf);padding:12px;display:flex;flex-direction:column;gap:7px;}
+  .grid .card:hover{background:var(--surf2);}
+  .grid .th{width:100%;height:118px;object-fit:cover;border:1px solid var(--line);
+    background:var(--surf2);}
+  .grid .hl{font-size:13.5px;font-weight:700;line-height:1.38;}
+  .grid a{color:var(--txt);text-decoration:none;}
+  .grid a:hover{color:var(--amber);}
+  .grid .sm{font-size:12px;line-height:1.55;color:var(--dim);}
+
+  /* ── DOTS ── */
+  .dots .row{display:flex;gap:9px;padding:6px 14px;align-items:baseline;}
+  .dots .row:hover{background:var(--surf2);}
+  .dots .dot{width:6px;height:6px;border-radius:50%;flex:none;transform:translateY(-1px);}
+  .dots a{font-size:12.5px;font-weight:600;color:var(--txt);text-decoration:none;flex:1;
+    line-height:1.5;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+  .dots a:hover{color:var(--amber);}
+  .dots .pad{padding-bottom:8px;}
 
   .foot{padding:12px 14px;border-top:1px solid var(--line);background:var(--surf2);
     font-family:'JetBrains Mono',monospace;font-size:9.5px;color:var(--dim2);
@@ -55,8 +85,10 @@
   .state{padding:40px 16px;text-align:center;}
   .state .m{font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:.1em;
     color:var(--dim);line-height:1.9;}
-  .hide{display:none;}
-  @media(max-width:520px){ .item .meta{display:none;} }
+  @media(max-width:520px){
+    .list .th{width:64px;height:48px;}
+    .list .sm{display:none;}
+  }
 </style>
 
 <div id="nw">
@@ -65,7 +97,10 @@
       <div class="id">DAILY BRIEF</div>
       <div class="sub" id="stamp">載入中⋯</div>
     </div>
-    <div class="right" id="filters"></div>
+    <div class="ctrl">
+      <div class="bgrp" id="modes"></div>
+      <div class="bgrp" id="filters"></div>
+    </div>
   </div>
   <div class="shell" id="body">
     <div class="state"><div class="m">載入中⋯</div></div>
@@ -75,15 +110,21 @@
 <script>
 (function(){
   var COLORS={world:"var(--red)",ai:"var(--amber)",sport:"var(--green)"};
-  var data=null, filter="all";
+  var MODES=[["list","列表"],["grid","方格"],["dots","精簡"]];
+  var data=null, filter="all", mode="list";
 
-  // 沿用 dashboard 存下來的配色（同一個網域、同一份設定）
+  try{
+    mode=localStorage.getItem("__brief_mode")||"list";
+    filter=localStorage.getItem("__brief_filter")||"all";
+  }catch(e){}
+
+  // 沿用 dashboard 的配色（同網域、同一份設定）
   (function inheritTheme(){
     try{
       var raw=localStorage.getItem("__dash__dashboard-v1");
       if(!raw) return;
       var st=JSON.parse(raw);
-      if(!st || !st.theme) return;
+      if(!st||!st.theme) return;
       var S=document.getElementById("nw").style;
       Object.keys(st.theme).forEach(function(k){ S.setProperty("--"+k,st.theme[k]); });
       var h=String(st.theme.amber||"#F5D45C").replace("#","");
@@ -97,69 +138,119 @@
   })();
 
   function esc(s){ return String(s==null?"":s)
-    .replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;"); }
-
+    .replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;"); }
   function ago(iso){
     if(!iso) return "";
     var h=Math.round((Date.now()-new Date(iso))/3600000);
     if(isNaN(h)) return "";
     return h<1?"剛剛":(h<24?h+"h":Math.round(h/24)+"d");
   }
+  function remember(){
+    try{
+      localStorage.setItem("__brief_mode",mode);
+      localStorage.setItem("__brief_filter",filter);
+    }catch(e){}
+  }
+  function link(it,cls){
+    return '<a href="'+esc(it.url)+'" target="_blank" rel="noopener noreferrer"'+
+           (cls?' class="'+cls+'"':'')+'>'+esc(it.title)+'</a>';
+  }
+  function img(it,cls){
+    if(!it.image) return "";
+    return '<img class="'+cls+'" src="'+esc(it.image)+'" alt="" loading="lazy" '+
+           'onerror="this.style.display=\'none\'">';
+  }
+  function metaOf(it){
+    var t=ago(it.published);
+    return esc(it.source)+(t?" · "+t:"");
+  }
 
-  function renderFilters(){
+  function renderBtns(){
+    var m=document.getElementById("modes");
+    m.innerHTML="";
+    MODES.forEach(function(o){
+      var b=document.createElement("button");
+      b.textContent=o[1]; b.dataset.on=(mode===o[0])?"1":"0";
+      b.onclick=function(){ mode=o[0]; remember(); renderBtns(); renderBody(); };
+      m.appendChild(b);
+    });
     var f=document.getElementById("filters");
     f.innerHTML="";
     var opts=[["all","ALL"]];
     Object.keys(data.streams||{}).forEach(function(k){
-      opts.push([k,(data.streams[k].label||k).toUpperCase()]);
+      opts.push([k,(data.streams[k].label||k)]);
     });
     opts.forEach(function(o){
       var b=document.createElement("button");
-      b.textContent=o[1];
-      b.dataset.on=(filter===o[0])?"1":"0";
-      b.onclick=function(){ filter=o[0]; renderFilters(); renderBody(); };
+      b.textContent=o[1]; b.dataset.on=(filter===o[0])?"1":"0";
+      b.onclick=function(){ filter=o[0]; remember(); renderBtns(); renderBody(); };
       f.appendChild(b);
     });
     var r=document.createElement("button");
-    r.textContent="↻";
-    r.title="重新載入";
+    r.textContent="↻"; r.title="重新載入";
     r.onclick=function(){ data=null; load(); };
     f.appendChild(r);
   }
 
+  function section(k,s){
+    var items=s.items||[], color=COLORS[k]||"var(--dim)", h="";
+    h+='<div class="sechead"><span class="rule" style="background:'+color+'"></span>'+
+       '<span class="t" style="color:'+color+'">'+esc(s.label||k)+'</span>'+
+       '<span class="n">'+items.length+'</span></div>';
+    if(!items.length){
+      return h+'<div class="state"><div class="m">這一區今天沒有新項目</div></div>';
+    }
+    if(mode==="grid"){
+      h+='<div class="grid">';
+      items.forEach(function(it){
+        h+='<div class="card">'+img(it,"th")+
+           '<div class="hl">'+link(it)+'</div>'+
+           (it.summary?'<div class="sm">'+esc(it.summary)+'</div>':'')+
+           '<div class="meta" style="margin-top:auto">'+metaOf(it)+'</div></div>';
+      });
+      h+='</div>';
+    }else if(mode==="dots"){
+      h+='<div class="dots pad">';
+      items.forEach(function(it){
+        h+='<div class="row"><span class="dot" style="background:'+color+'"></span>'+
+           link(it)+'<span class="meta">'+metaOf(it)+'</span></div>';
+      });
+      h+='</div>';
+    }else{
+      h+='<div class="list">';
+      items.forEach(function(it){
+        h+='<div class="row">'+img(it,"th")+
+           '<div class="body"><div class="hl">'+link(it)+'</div>'+
+           (it.summary?'<div class="sm">'+esc(it.summary)+'</div>':'')+
+           '<div class="meta">'+metaOf(it)+'</div></div></div>';
+      });
+      h+='</div>';
+    }
+    return h;
+  }
+
   function renderBody(){
-    var b=document.getElementById("body"), h="", total=0;
+    var h="", total=0;
     Object.keys(data.streams||{}).forEach(function(k){
       if(filter!=="all" && filter!==k) return;
-      var s=data.streams[k], items=s.items||[];
-      h+='<div class="sechead"><span class="rule" style="background:'+(COLORS[k]||"var(--dim)")+'"></span>'+
-         '<span class="t" style="color:'+(COLORS[k]||"var(--dim)")+'">'+esc(s.label||k)+'</span>'+
-         '<span class="n">'+items.length+'</span></div>';
-      if(!items.length){
-        h+='<div class="state"><div class="m">這一區今天沒有新項目</div></div>';
-      }
-      items.forEach(function(it,i){
-        total++;
-        h+='<div class="item"><span class="idx">'+String(i+1).padStart(2,"0")+'</span>'+
-           '<a href="'+esc(it.url)+'" target="_blank" rel="noopener noreferrer">'+esc(it.title)+'</a>'+
-           '<span class="meta">'+esc(it.source)+(ago(it.published)?" · "+ago(it.published):"")+'</span></div>';
-      });
+      h+=section(k,data.streams[k]);
+      total+=(data.streams[k].items||[]).length;
     });
     var gen=data.generated?new Date(data.generated):null;
     h+='<div class="foot">顯示 '+total+' 則'+
        (data.failures&&data.failures.length
          ? ' · '+data.failures.length+' 個來源抓取失敗' : ' · 所有來源正常')+
        '<br>每天早上自動更新 · 連結在新分頁開啟</div>';
-    b.innerHTML=h;
-    document.getElementById("stamp").textContent=
-      gen? gen.toLocaleString() : "—";
+    document.getElementById("body").innerHTML=h;
+    document.getElementById("stamp").textContent=gen?gen.toLocaleString():"—";
   }
 
   function load(){
-    document.getElementById("body").innerHTML='<div class="state"><div class="m">載入中⋯</div></div>';
+    document.getElementById("body").innerHTML=
+      '<div class="state"><div class="m">載入中⋯</div></div>';
     fetch("brief.json?t="+Date.now())
       .then(function(r){ if(!r.ok) throw new Error("HTTP "+r.status); return r.json(); })
-      .then(function(j){ data=j; renderFilters(); renderBody(); })
+      .then(function(j){ data=j; renderBtns(); renderBody(); })
       .catch(function(e){
         document.getElementById("stamp").textContent="—";
         document.getElementById("body").innerHTML=

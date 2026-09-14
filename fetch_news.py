@@ -4,12 +4,13 @@ fetch_news.py — 讀 feeds.txt，抓最近的新聞，寫成 brief.json
 本機測試：
     pip install feedparser
     python fetch_news.py
-    # 產生 brief.json，用瀏覽器打開 dashboard 的 NEWS 分頁就看得到
 
-GitHub Actions 會每天自動跑一次（見 .github/workflows/news.yml）。
+GitHub Actions 每天自動跑一次（見 .github/workflows/news.yml）。
 """
 
+import html
 import json
+import re
 import time
 from datetime import datetime, timezone
 
@@ -20,13 +21,92 @@ OUT_FILE = "brief.json"
 
 MAX_AGE_HOURS = 36        # 幾小時內的算「新」
 PER_SOURCE = 4            # 每個來源最多取幾則
-PER_STREAM = 12           # 每個分類最多留幾則
+PER_STREAM = 16           # 每個分類最多留幾則
+SUMMARY_CHARS = 200       # 摘要截斷長度
 
 STREAMS = {
     "world": "世界",
     "ai": "AI",
     "sport": "運動",
 }
+
+TAG_RE = re.compile(r"<[^>]+>")
+WS_RE = re.compile(r"\s+")
+IMG_RE = re.compile(r'<img[^>]+src=["\']([^"\']+)["\']', re.I)
+
+
+# ── 解析輔助 ────────────────────────────────────────────────
+
+def clean_text(raw):
+    """去掉 HTML 標籤、還原跳脫字元、壓平空白、截斷"""
+    if not raw:
+        return ""
+    text = TAG_RE.sub(" ", raw)
+    text = html.unescape(text)
+    text = WS_RE.sub(" ", text).strip()
+    if len(text) > SUMMARY_CHARS:
+        text = text[:SUMMARY_CHARS].rstrip() + "…"
+    return text
+
+
+def pick_summary(entry, title):
+    """取摘要；跟標題幾乎一樣的就不要"""
+    candidates = []
+    for key in ("summary", "description"):
+        if entry.get(key):
+            candidates.append(entry[key])
+    content = entry.get("content")
+    if content and isinstance(content, list) and content[0].get("value"):
+        candidates.append(content[0]["value"])
+
+    for raw in candidates:
+        text = clean_text(raw)
+        if not text:
+            continue
+        if text.rstrip("…").strip().lower() == title.strip().lower():
+            continue
+        return text
+    return ""
+
+
+def pick_image(entry):
+    """依序從常見欄位找縮圖，找不到回空字串"""
+    for key in ("media_thumbnail", "media_content"):
+        media = entry.get(key)
+        if isinstance(media, list):
+            for m in media:
+                url = m.get("url")
+                if url and url.startswith("http"):
+                    return url
+
+    for enc in entry.get("enclosures") or []:
+        if str(enc.get("type", "")).startswith("image") and enc.get("href"):
+            return enc["href"]
+
+    blobs = []
+    for key in ("summary", "description"):
+        if entry.get(key):
+            blobs.append(entry[key])
+    content = entry.get("content")
+    if content and isinstance(content, list) and content[0].get("value"):
+        blobs.append(content[0]["value"])
+    for blob in blobs:
+        m = IMG_RE.search(blob)
+        if m and m.group(1).startswith("http"):
+            return m.group(1)
+    return ""
+
+
+def entry_time(entry):
+    """盡量取出發布時間，取不到回 None"""
+    for key in ("published_parsed", "updated_parsed"):
+        tm = entry.get(key)
+        if tm:
+            try:
+                return datetime.fromtimestamp(time.mktime(tm), tz=timezone.utc)
+            except (TypeError, ValueError, OverflowError):
+                pass
+    return None
 
 
 def load_feeds(path):
@@ -49,17 +129,7 @@ def load_feeds(path):
     return feeds
 
 
-def entry_time(entry):
-    """盡量取出發布時間，取不到就回 None"""
-    for key in ("published_parsed", "updated_parsed"):
-        tm = entry.get(key)
-        if tm:
-            try:
-                return datetime.fromtimestamp(time.mktime(tm), tz=timezone.utc)
-            except (TypeError, ValueError, OverflowError):
-                pass
-    return None
-
+# ── 主流程 ──────────────────────────────────────────────────
 
 def main():
     now = datetime.now(timezone.utc)
@@ -90,8 +160,7 @@ def main():
                 break
             published = entry_time(e)
             if published is not None:
-                age = (now - published).total_seconds() / 3600
-                if age > MAX_AGE_HOURS:
+                if (now - published).total_seconds() / 3600 > MAX_AGE_HOURS:
                     continue
             title = (e.get("title") or "").strip()
             link = (e.get("link") or "").strip()
@@ -99,6 +168,8 @@ def main():
                 continue
             buckets[stream].append({
                 "title": title,
+                "summary": pick_summary(e, title),
+                "image": pick_image(e),
                 "url": link,
                 "source": name,
                 "published": published.isoformat() if published else None,
@@ -107,7 +178,6 @@ def main():
             kept += 1
         print(f"  ✓ {name} — 取 {kept} 則")
 
-    # 每個分類依時間排序、去掉重複標題、截斷
     out_streams = {}
     for key, label in STREAMS.items():
         items = sorted(buckets[key], key=lambda x: x["_sort"], reverse=True)
@@ -128,13 +198,14 @@ def main():
         "streams": out_streams,
         "failures": failures,
     }
-
     with open(OUT_FILE, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=1)
 
     total = sum(len(s["items"]) for s in out_streams.values())
-    print(f"\n寫入 {OUT_FILE}：共 {total} 則")
-    for key, s in out_streams.items():
+    with_sum = sum(1 for s in out_streams.values() for i in s["items"] if i["summary"])
+    with_img = sum(1 for s in out_streams.values() for i in s["items"] if i["image"])
+    print(f"\n寫入 {OUT_FILE}：共 {total} 則（有摘要 {with_sum} · 有圖 {with_img}）")
+    for s in out_streams.values():
         print(f"  {s['label']}: {len(s['items'])}")
     if failures:
         print(f"\n失敗的來源（{len(failures)}）— 考慮在 feeds.txt 註解掉：")

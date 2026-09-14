@@ -12,11 +12,18 @@ world|Al Jazeera|https://www.aljazeera.com/xml/rss/all.xml
 world|CNBC Top News|https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114
 world|Guardian Business|https://www.theguardian.com/uk/business/rss
 
+# ── 中文來源 ─────────────────────────────────────
+world|BBC 中文|https://feeds.bbci.co.uk/zhongwen/trad/rss.xml
+world|公視新聞|https://news.pts.org.tw/xml/newsfeed.xml
+world|自由時報|https://news.ltn.com.tw/rss/all.xml
+world|關鍵評論網|https://www.thenewslens.com/rss
+
 # ── AI 人工智慧 / 科技 ───────────────────────────
 ai|MIT Tech Review AI|https://www.technologyreview.com/topic/artificial-intelligence/feed
 ai|Ars Technica|https://feeds.arstechnica.com/arstechnica/index
 ai|Hacker News Front Page|https://hnrss.org/frontpage?points=150
 ai|arXiv cs.AI|https://rss.arxiv.org/rss/cs.AI
+ai|科技新報 TechNews|https://technews.tw/feed/
 
 # ── SPORT 運動賽事（跟運動員聊天用）─────────────
 sport|Guardian Sport|https://www.theguardian.com/sport/rss
