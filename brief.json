@@ -1,142 +1,150 @@
 {
- "generated": "2026-09-17T13:49:54.906611+00:00",
+ "generated": "2026-09-17T19:45:44.202802+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "Dow rises 250 points, lifted by falling oil and yields as market attempts comeback after Fed sell-off: Live updates",
+     "title": "歐盟執委10月赴北京會中國商務部長　拚化解貿易緊張",
+     "summary": "歐盟發言人表示，歐盟主管貿易事務的執行委員塞夫柯維奇將於10月8日至9日在北京與中國商務部長王文濤舉行關鍵會談。目前雙方正進入化解緊張的最後磋商階段。 法新社報導，由27國組成的歐盟對於與...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5577795",
+     "source": "自由時報",
+     "published": "2026-09-17T19:36:03+00:00"
+    },
+    {
+     "title": "Can an AI chatbot save lives by answering texts about pregnancy?",
+     "summary": "Many questions come up during pregnancy. Is swelling normal? Are avocados safe to eat? For folks in Kenya who don't have a search engine at their fingertips, a chatbot is offering a lifeline.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3334+0+0/resize/5000x3334!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8d%2Feb%2F72cdb86e42e1bc2bfacb766d508c%2Fgettyimages-1225247404.jpg",
+     "url": "https://www.npr.org/2026/09/17/nx-s1-5962840/artificial-intelligence-ai-chatbot-pregnancy-maternal-health",
+     "source": "NPR News",
+     "published": "2026-09-17T19:33:30+00:00"
+    },
+    {
+     "title": "Stocks rise, lifted by falling oil and yields as market attempts comeback after Fed sell-off: Live updates",
      "summary": "In a widely anticipated move, the Fed raised the overnight funds rate by a quarter percentage point and signaled another hike could come this year.",
      "image": "",
      "url": "https://www.cnbc.com/2026/09/16/stock-market-today-live-updates.html",
      "source": "CNBC Top News",
-     "published": "2026-09-17T13:49:35+00:00"
+     "published": "2026-09-17T19:21:15+00:00"
     },
     {
-     "title": "Trump says U.S. ‘hopefully’ nearing end of Iran war as Saudi Arabia, Houthis trade strikes",
-     "summary": "Trump says the U.S. may be nearing the end of its nearly seven-month war with Iran, as he signals Tehran is open to a deal.",
+     "title": "Trump photo appears to reference Kennedy Center demolition, judge orders advance notice of any move to knock it down",
+     "summary": "President Donald Trump wants his name on the Kennedy Center. But a judge has ruled it cannot be placed there without authorization by Congress.",
      "image": "",
-     "url": "https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html",
+     "url": "https://www.cnbc.com/2026/09/17/trump-kennedy-center-demolish-beatty.html",
      "source": "CNBC Top News",
-     "published": "2026-09-17T13:46:14+00:00"
+     "published": "2026-09-17T19:15:18+00:00"
     },
     {
-     "title": "UK government borrowing costs fall as Bank of England outlines new bond-selling plan – business live",
-     "summary": "BoE lays out proposal to sell UK bonds back to the government, and wind up the asset purchase scheme launched after the GFC Bank of England urged to slow or halt bond-selling to slash UK borrowing cos…",
-     "image": "https://i.guim.co.uk/img/media/392d0a9201215fcb0586e65b39736a7f45f5232e/0_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=e26c5eecc20813ea40013e5ede61f5cf",
-     "url": "https://www.theguardian.com/business/live/2026/sep/17/bank-of-england-interest-rates-bond-buying-qt-stock-market-ftse-latest-news-updates",
+     "title": "As Republicans tout Trump's 'big beautiful bill,' here's who the tax breaks benefited most",
+     "summary": "As the midterm elections approach, Republicans are touting President Donald Trump's \"big beautiful bill\" to voters. Here's who benefited from the tax cuts.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/09/17/tax-breaks-trump-big-beautiful-bill.html",
+     "source": "CNBC Top News",
+     "published": "2026-09-17T19:12:38+00:00"
+    },
+    {
+     "title": "Third person dies from malaria in cluster near Germany’s Frankfurt Airport",
+     "summary": "Frankfurt grapples with a rare malaria outbreak tied to air travel, marking three deaths in recent months.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/9/17/third-person-dies-from-malaria-in-cluster-near-germanys-frankfurt-airport?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-17T19:04:53+00:00"
+    },
+    {
+     "title": "美國擬延後發布產能過剩新關稅 待「川習會」後再行定奪",
+     "summary": "彭博17日引述熟知內情的消息人士報導，美國預計將延後宣布針對貿易夥伴製造業產能過剩指控的新關稅措施，至少會延至下週中國國家主席習近平與美國總統川普的峰會之後。 彭博此前...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5577794",
+     "source": "自由時報",
+     "published": "2026-09-17T19:02:28+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》 More extreme heat days likely by end of century",
+     "summary": "VOLATILE WEATHER: Meteorological droughts would become more frequent and severe, while typhoons are ...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5577722",
+     "source": "自由時報",
+     "published": "2026-09-17T19:00:00+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》 Paid marriage leave for workers to be extended",
+     "summary": "/ Staff writer, with CNA Paid marriage leave for workers is to be extended to 14 days from eight ...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5577713",
+     "source": "自由時報",
+     "published": "2026-09-17T19:00:00+00:00"
+    },
+    {
+     "title": "Serbia opens factory to assemble Israeli-made drones",
+     "summary": "Critics say Serbia's military ties with Israel are rising significantly.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/9/17/serbia-opens-factory-to-assemble-israeli-made-drones?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-17T18:54:42+00:00"
+    },
+    {
+     "title": "Jerusalem Daily: Israelis protest outside ‘NAZA’ filmmaker’s home",
+     "summary": "Dozens of Israelis protested outside 'NAZA' filmmaker’s family home, chanting 'death to traitors'",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/jerusalem-daily-israelis-protest-outside-naza-filmmakers-home?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-17T18:36:40+00:00"
+    },
+    {
+     "title": "US secures release of detained citizen Adam Castillo in Myanmar",
+     "summary": "Businessman Adam Castillo had been detained by authorities for three months on breach of trust allegations.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/9/17/us-secures-release-of-detained-citizen-adam-castillo-in-myanmar?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-17T18:34:30+00:00"
+    },
+    {
+     "title": "Jensen Huang says Nvidia will sell twice as many chips next year",
+     "summary": "Huang's comment is the latest forecast from Nvidia and points to continuing massive growth for the next six quarters.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html",
+     "source": "CNBC Top News",
+     "published": "2026-09-17T18:23:25+00:00"
+    },
+    {
+     "title": "A year ago, President Trump pledged to lower Medicaid drug prices. Has that happened?",
+     "summary": "The Trump administration's efforts to lower drug prices included promised changes to Medicaid. But it's still unclear which drugs will be affected. And each state has to opt in.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4478x3039+0+0/resize/4478x3039!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F16%2F49%2F1dea290940da98ac52fe0dd02f39%2Fgettyimages-2238336352.jpg",
+     "url": "https://www.npr.org/2026/09/17/nx-s1-5971066/trump-rx-medicaid-generous-drug-prices-pfizer-favored-nation",
+     "source": "NPR News",
+     "published": "2026-09-17T16:45:58+00:00"
+    },
+    {
+     "title": "'American Scoundrel' traces Roy Cohn's playbook from McCarthyism to Trump",
+     "summary": "In Kai Bird's biography of Cohn, he looks at how the lawyer taught Trump how to deny, delay, attack, sue and countersue, never admit defeat, side-step paying bills and avoid a paper trail.",
+     "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5965831",
+     "url": "https://www.npr.org/2026/09/17/nx-s1-5965831/american-scoundrel-traces-roy-cohns-playbook-from-mccarthyism-to-trump",
+     "source": "NPR News",
+     "published": "2026-09-17T16:14:06+00:00"
+    },
+    {
+     "title": "Revolut reportedly facing $3m ransom demand after hackers steal hundreds of customers’ data",
+     "summary": "Europe’s largest financial technology company confirmed it had fallen victim to an impersonation scam last week Revolut is facing a reported $3m (£2.2m) ransom demand after hackers posing as governmen…",
+     "image": "https://i.guim.co.uk/img/media/8de8e57de1049be3431ffa68214ac75921c25ddf/0_0_3729_2984/master/3729.jpg?width=140&quality=85&auto=format&fit=max&s=9949bbcb9302fd82cf52a166d4626536",
+     "url": "https://www.theguardian.com/business/2026/sep/17/revolut-reportedly-facing-3m-ransom-demand-after-hackers-steal-hundreds-of-customers-data",
      "source": "Guardian Business",
-     "published": "2026-09-17T13:44:30+00:00"
-    },
-    {
-     "title": "Ninth woman's body found as South African police investigate string of deaths",
-     "summary": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f69/live/b5f26f90-b29d-11f1-bc1f-3f186ca4140c.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-09-17T13:44:07+00:00"
-    },
-    {
-     "title": "Fed轉鷹加劇日銀阻貶壓力  日圓恐再探160關卡",
-     "summary": "在聯準會（Fed）宣佈升息，並暗示今年底將再次升息後，日圓重貶，美元升至7週高點，加劇日本銀行升息壓力。分析師警告，除非市場相信日銀將推出更緊縮的政策，否則日圓可能進一步...…",
-     "image": "",
-     "url": "https://ec.ltn.com.tw/article/breakingnews/5577661",
-     "source": "自由時報",
-     "published": "2026-09-17T13:37:46+00:00"
-    },
-    {
-     "title": "中職》陳傑憲致命失誤大翻車  兄弟4連勝躍居下半季第一",
-     "summary": "今天大巨蛋獅象戰，6局下統一獅左外野手陳傑憲出現離奇接球失誤，也讓中信兄弟單局追回3分反超前，最終兄弟就以4：2擊敗統一拿下4連勝，同時另一戰暫居榜首的樂天桃猿輸球，下半...…",
-     "image": "",
-     "url": "https://sports.ltn.com.tw/news/breakingnews/5577670",
-     "source": "自由時報",
-     "published": "2026-09-17T13:37:08+00:00"
-    },
-    {
-     "title": "台北動物園黑猩猩脫逃亂入 長頸鹿嚇爆奔逃畫面曝",
-     "summary": "台北市立動物園園區內兩隻黑猩猩今天下午4點55分脫逃，園方緊急疏散遊客，下午5點40分將兩隻「逃犯」緝拿到案。有遊客目擊黑猩猩脫逃到長頸鹿區，不速之客讓長頸鹿嚇到驚慌失措。 ...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5577665",
-     "source": "自由時報",
-     "published": "2026-09-17T13:34:43+00:00"
-    },
-    {
-     "title": "謝典霖涉賄選漏夜開覊押庭  謝家掌門人謝新隆覊押禁見",
-     "summary": "首次上稿 20:15更新時間 20:56（謝新隆收押）21:33（新增照片） 彰化地檢署偵辦「謝氏家族」在縣議會「請吃選舉飯」案件，今晚召開覊押庭。檢方共聲押謝家謝典霖（...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/society/breakingnews/5577591",
-     "source": "自由時報",
-     "published": "2026-09-17T13:33:48+00:00"
-    },
-    {
-     "title": "India-Pakistan navy ship collision sparks alarm over unintended escalation",
-     "summary": "Pakistan says an Indian warship entered its EEZ, while India says the collision occurred in international waters.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/9/17/india-pakistan-navy-ship-collision-sparks-alarm-over-unintended-escalation?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-17T13:25:25+00:00"
-    },
-    {
-     "title": "How far will Egypt go to help Saudi Arabia secure the Red Sea?",
-     "summary": "Regional analysts highlight the growing security alignment between Cairo and Riyadh amid escalating Red Sea tensions.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news-analysis/2026/9/17/how-far-will-egypt-go-to-help-saudi-arabia-secure-the-red-sea?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-17T13:24:10+00:00"
-    },
-    {
-     "title": "Real Madrid fan group demands Mbappe apology for Ceuta shirt snub",
-     "summary": "Mbappe, Vinicius Jr and Ibrahima Konate wore a tribute shirt partially rolled up ahead of Madrid's 3-2 win at Elche.",
-     "image": "",
-     "url": "https://www.aljazeera.com/sports/2026/9/17/real-madrid-fan-group-demands-mbappe-apologies-over-ceuta-shirt-snub?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-17T13:12:45+00:00"
-    },
-    {
-     "title": "Sweden prime minister to resign as left-wing bloc seals narrow election win",
-     "summary": "⁠Sweden's ⁠centre-right Prime Minister Ulf Kristersson said he will resign after losing the parliamentary elections.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/9/17/sweden-prime-minister-to-resign-as-left-wing-bloc-seals-narrow-election-win?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-17T13:11:10+00:00"
-    },
-    {
-     "title": "SEC clears path for tokenized stocks, bringing the market closer to 24/7 trading",
-     "summary": "The long awaited Innovation Exemption comes two days after the Senate voted to block the Clarity Act crypto market structure bill from advancing.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/09/17/sec-clears-path-for-tokenized-stocks-bringing-24/7-trading-closer.html",
-     "source": "CNBC Top News",
-     "published": "2026-09-17T13:00:28+00:00"
-    },
-    {
-     "title": "加薩七層樓建築倒塌 已知21死百人受困",
-     "summary": "加薩地區一棟7層樓高的建築，週三（16日）凌晨突然倒塌，目前至少已經有21人死亡，瓦礫堆下還有上百人受困。但是因為當地受到以色列管制，重型機具送不進來，搜救人員在第一時間只能徒手挖掘。",
-     "image": "",
-     "url": "https://news.pts.org.tw/article/827583",
-     "source": "公視新聞",
-     "published": "2026-09-17T13:00:15+00:00"
-    },
-    {
-     "title": "澳門閉門審理首宗國安法案件 未公開時程也不開放媒體採訪",
-     "summary": "澳門第一起國安法案件，昨（16）日開始閉門審理，被告是民主派前立法會議員區錦新，他面臨顛覆國家政權等罪名指控，最高可判處25年徒刑。",
-     "image": "",
-     "url": "https://news.pts.org.tw/article/827585",
-     "source": "公視新聞",
-     "published": "2026-09-17T12:58:32+00:00"
-    },
-    {
-     "title": "Swedish PM Kristersson resigns after election loss",
-     "summary": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c987/live/23589710-b28c-11f1-8096-b33a1297275a.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-09-17T12:41:05+00:00"
+     "published": "2026-09-17T15:58:56+00:00"
     }
    ]
   },
   "ai": {
    "label": "AI",
    "items": [
+    {
+     "title": "Hister: A private search engine for the pages you visit and the files you keep",
+     "summary": "Article URL: https://github.com/asciimoo/hister Comments URL: https://news.ycombinator.com/item?id=49743097 Points: 215 # Comments: 77",
+     "image": "",
+     "url": "https://github.com/asciimoo/hister",
+     "source": "Hacker News Front Page",
+     "published": "2026-09-17T16:25:37+00:00"
+    },
     {
      "title": "銀河系中心黑洞周圍的年輕恆星為何少有伴星？潮汐作用揭開缺失之謎",
      "summary": "銀河系中心的超大質量黑洞人馬座 A*（Sgr A*）周圍，存在一群被稱為「S 星團」的年輕恆星。這些恆星大多屬 […]",
@@ -152,14 +160,6 @@
      "url": "https://technews.tw/2026/09/17/salesforce-announces-crm-reasoning-model-koa/",
      "source": "科技新報 TechNews",
      "published": "2026-09-17T10:49:25+00:00"
-    },
-    {
-     "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
-     "summary": "I was looking at neovim's donation footer at the bottom of their site and saw a bitcoin donation address. Thought I'd check how much in donations they've gotten. And I saw this massive 10 Bitcoin dona…",
-     "image": "",
-     "url": "https://news.ycombinator.com/item?id=49738879",
-     "source": "Hacker News Front Page",
-     "published": "2026-09-17T10:44:49+00:00"
     },
     {
      "title": "日本旭化成前主管涉竊半導體機密，技術流向中國企業",
@@ -178,20 +178,28 @@
      "published": "2026-09-17T10:22:33+00:00"
     },
     {
-     "title": "GLM Built Its Own Inference Infrastructure",
-     "summary": "Article URL: https://z.ai/blog/glm-built-its-inference-infrastructure Comments URL: https://news.ycombinator.com/item?id=49737922 Points: 164 # Comments: 129",
+     "title": "How GLM built its own inference infrastructure",
+     "summary": "Article URL: https://z.ai/blog/glm-built-its-inference-infrastructure Comments URL: https://news.ycombinator.com/item?id=49737922 Points: 310 # Comments: 233",
      "image": "",
      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
      "source": "Hacker News Front Page",
      "published": "2026-09-17T08:27:09+00:00"
     },
     {
-     "title": "One Year of Sponsored Servo Development",
-     "summary": "Article URL: https://servo.org/blog/2026/09/15/one-year-of-sponsorship/ Comments URL: https://news.ycombinator.com/item?id=49737849 Points: 198 # Comments: 86",
+     "title": "One year of sponsored Servo development",
+     "summary": "Article URL: https://servo.org/blog/2026/09/15/one-year-of-sponsorship/ Comments URL: https://news.ycombinator.com/item?id=49737849 Points: 317 # Comments: 132",
      "image": "",
      "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
      "source": "Hacker News Front Page",
      "published": "2026-09-17T08:13:54+00:00"
+    },
+    {
+     "title": "CCC invites all model citizens to 40C3",
+     "summary": "Article URL: https://events.ccc.de/en/2026/09/12/40c3-model-citizens/ Comments URL: https://news.ycombinator.com/item?id=49737787 Points: 273 # Comments: 133",
+     "image": "",
+     "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
+     "source": "Hacker News Front Page",
+     "published": "2026-09-17T08:03:54+00:00"
     },
     {
      "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records",
@@ -224,14 +232,6 @@
      "url": "https://arxiv.org/abs/2609.17635",
      "source": "arXiv cs.AI",
      "published": "2026-09-17T04:00:00+00:00"
-    },
-    {
-     "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
-     "summary": "Article URL: https://ryan.science/blog/keys-not-included Comments URL: https://news.ycombinator.com/item?id=49735930 Points: 217 # Comments: 85",
-     "image": "",
-     "url": "https://ryan.science/blog/keys-not-included",
-     "source": "Hacker News Front Page",
-     "published": "2026-09-17T03:03:23+00:00"
     },
     {
      "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
@@ -271,20 +271,100 @@
    "label": "運動",
    "items": [
     {
-     "title": "Robert Kraft, once the NFL’s good guy, is just another billionaire silencing Macklemore | Howard Bryant",
-     "summary": "The Patriots owner’s decision to ban the rapper from performing at the team’s stadium brings back memories of the blackballing of Colin Kaepernick Six years ago, in the middle of a “racial reckoning”…",
-     "image": "https://i.guim.co.uk/img/media/f49ffd057c3bf158e90358e8bc38cdba27a043b0/229_0_2280_1825/master/2280.jpg?width=140&quality=85&auto=format&fit=max&s=1267b749a9ba468d3b538c446c9119ce",
-     "url": "https://www.theguardian.com/sport/2026/sep/17/robert-kraft-macklemore-ed-sheeran-stadium-ban-nfl",
-     "source": "Guardian Sport",
-     "published": "2026-09-17T13:14:41+00:00"
+     "title": "MSG vows to fix 'mistake in our pricing' after Knicks fans condemn ticket costs",
+     "summary": "New York Knicks fans looking to celebrate the team's title at the regular-season opener were stunned when they saw the price of face value tickets.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/msg-vows-fix-mistake-pricing-193324179.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-17T19:33:24+00:00"
     },
     {
-     "title": "NBA Eastern Conference rankings 1-15 for new season",
-     "summary": "Let’s rank the NBA Eastern Conference heading into the 2026-27 regular season.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/6f4c90c71dbbb07a2fb2cd615777e901.jpg",
-     "url": "https://sports.yahoo.com/articles/nba-eastern-conference-rankings-1-120000927.html",
+     "title": "Real Sociedad v Bournemouth, Crystal Palace v Lech Poznan, and more: Europa League – live",
+     "summary": "All the goals and latest news in the 8pm BST kick-offs Live scores | Bournemouth’s big night | Email Scott TNT’s Connie McLaughlin asks Celtic boss Martin O’Neill to “talk to us about the thinking beh…",
+     "image": "https://i.guim.co.uk/img/media/123a194c6d87276556a1d6060364750e402d0635/681_0_4598_3679/master/4598.jpg?width=140&quality=85&auto=format&fit=max&s=40fb0943dda028934a15e4bc83b78df1",
+     "url": "https://www.theguardian.com/football/live/2026/sep/17/real-sociedad-v-bournemouth-crystal-palace-v-lech-poznan-and-more-europa-league-live",
+     "source": "Guardian Sport",
+     "published": "2026-09-17T19:30:37+00:00"
+    },
+    {
+     "title": "Mike Sweetney, one of Georgetown basketball's greatest players, dies at 43",
+     "summary": "Mike Sweetney, an All-American big man at Georgetown who was taken by the Knicks No. 9 overall in the 2003 NBA Draft, has died at 43 years old",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/michael-sweetney-one-georgetown-basketballs-191818660.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-09-17T12:00:00+00:00"
+     "published": "2026-09-17T19:18:18+00:00"
+    },
+    {
+     "title": "How James Harden facilitated Cleveland’s biggest offseason splash",
+     "summary": "Harden played an active role in recruiting Cleveland’s newest wing.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/f6199831169db7558ee55dea6cbb699e.jpg",
+     "url": "https://sports.yahoo.com/articles/james-harden-facilitated-cleveland-biggest-190808930.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-17T19:08:08+00:00"
+    },
+    {
+     "title": "Michael Sweetney, former Georgetown great and NBA first-round pick, dies at 43",
+     "summary": "Sweetney played four seasons in the NBA after being drafted ninth overall by the Knicks in 2003.",
+     "image": "https://d29szjachogqwa.cloudfront.net/images/2026-09/0a4e5303-a705-479e-ac4c-318d9b13e6f5",
+     "url": "https://sports.yahoo.com/nba/article/michael-sweetney-former-georgetown-great-and-nba-first-round-pick-dies-at-43-184524515.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-17T18:45:24+00:00"
+    },
+    {
+     "title": "LeBron James reportedly getting $15 million annually in Polymarket deal as NBA endorsements face more scrutiny",
+     "summary": "James is set to get nearly four times as much from the prediction market than he is from the 76ers",
+     "image": "https://sportshub.cbsistatic.com/i/2026/09/17/fefb33fd-ea61-4c0b-9bcc-9cda95711df0/lebron-getty-27.png",
+     "url": "https://www.cbssports.com/nba/news/lebron-james-polymarket-deal-nba-endorsements/",
+     "source": "CBS Sports NBA",
+     "published": "2026-09-17T18:34:19+00:00"
+    },
+    {
+     "title": "McIlroy falters as Rai shares lead at Wentworth",
+     "summary": "Aaron Rai shoots a six-under 66 to share the first-round lead with Sweden's Joakim Lagergren at the BMW PGA Championship at Wentworth as Rory McIlroy suffers a late stumble.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d5b/live/f007ab30-b2c2-11f1-b1d1-571ed4d7ff2c.png",
+     "url": "https://www.bbc.co.uk/sport/golf/articles/ckddvn3g5574o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-09-17T18:25:07+00:00"
+    },
+    {
+     "title": "'Built differently' - Hodgkinson reveals hamstring abnormality",
+     "summary": "Olympic champion Keely Hodgkinson says she is \"built differently\" after an MRI scan uncovered an \"abnormality\" in her hamstring.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b8c/live/2cb82f20-b2bc-11f1-9830-658a48c7da16.jpg",
+     "url": "https://www.bbc.co.uk/sport/athletics/articles/cjx2zlpe67pvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-09-17T18:04:33+00:00"
+    },
+    {
+     "title": "Two years and one World Cup down, Mauricio Pochettino is still assessing",
+     "summary": "The US manager’s first squad of the 2030 World Cup cycle leans heavily on youth, injecting intrigue into the four-game window. Sign up for our free newsletter here In the moments after the USMNT’s 4-1…",
+     "image": "https://i.guim.co.uk/img/media/418e80b32ed8d2f9e9bc22744c9d5ce9b6bc39d9/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=271a505c522d95d603e53fccf4f7e281",
+     "url": "https://www.theguardian.com/football/2026/sep/17/mauricio-pochettino-calls-the-kids",
+     "source": "Guardian Sport",
+     "published": "2026-09-17T17:15:54+00:00"
+    },
+    {
+     "title": "The big questions for Tuchel's first England squad since World Cup",
+     "summary": "Before Thomas Tuchel names his first squad since the World Cup on Friday, BBC Sport looks at the big questions facing the England boss.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5496/live/2b95ab20-b29b-11f1-b1d1-571ed4d7ff2c.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cq804jkle8j3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-09-17T16:47:18+00:00"
+    },
+    {
+     "title": "Kyrie Irving offers to pay Azeez Al-Shaair's fine for tribute to Palestinian girl killed in Gaza",
+     "summary": "The Mavericks All-Star guard and Texans Pro Bowl linebacker have both been outspoken advocates for Palestine",
+     "image": "https://sportshub.cbsistatic.com/i/2026/09/17/29aab388-2402-4059-bdd5-796ed732b2ca/azeez-texans-imagn.png",
+     "url": "https://www.cbssports.com/nfl/news/kyrie-irving-azeez-al-shaairs-fine-tribute-palestinian-girl/",
+     "source": "CBS Sports NBA",
+     "published": "2026-09-17T15:15:55+00:00"
+    },
+    {
+     "title": "Bill Belichick’s son resigns after investigation into UNC football turmoil",
+     "summary": "Steve Belichick steps down as defensive coordinator Inquiry finds ‘certain actions’ disregarded school values GM Michael Lombardi resigned earlier this month North Carolina defensive coordinator Steve…",
+     "image": "https://i.guim.co.uk/img/media/9b9fa2a6f1ffa231d288ef5fd03f2a04cb10d17d/176_0_3508_2806/master/3508.jpg?width=140&quality=85&auto=format&fit=max&s=06d9fc2aea58420f194c869b323999b2",
+     "url": "https://www.theguardian.com/sport/2026/sep/17/bill-belichick-steve-belichick-unc-football-investigation",
+     "source": "Guardian Sport",
+     "published": "2026-09-17T14:46:28+00:00"
     },
     {
      "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
@@ -295,76 +375,12 @@
      "published": "2026-09-17T11:05:29+00:00"
     },
     {
-     "title": "Half the Wizards roster will be under 23. That’s why they might be really good.",
-     "summary": "The Wizards will be better in 2026-27 than they’ve been the previous three seasons. Low bar, I know. But at least they were trying to be bad unlike a previous season almost 20 years ago where the bask…",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/a418931d743cb8b0d5001c51d418e381.jpg",
-     "url": "https://sports.yahoo.com/articles/half-wizards-roster-under-23-110000671.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-09-17T11:00:00+00:00"
-    },
-    {
-     "title": "Open Thread: Spurs announce new Vice President of Technology",
-     "summary": "The Silver & Black look to keep up with more modern arenas and venues while building a championship brand",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/5bbdee8d889b3f21593f02f2f68a8489.jpg",
-     "url": "https://sports.yahoo.com/articles/open-thread-spurs-announce-vice-110000047.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-09-17T11:00:00+00:00"
-    },
-    {
-     "title": "5 Dallas Mavericks storylines to follow this upcoming season",
-     "summary": "We have a lot to take in this year",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/2e81c705930e8f11bb0636a4360d625f.jpg",
-     "url": "https://sports.yahoo.com/articles/5-dallas-mavericks-storylines-upcoming-110000288.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-09-17T11:00:00+00:00"
-    },
-    {
-     "title": "Jets suspend US Olympic hero Connor Hellebuyck for training camp no-show",
-     "summary": "Three-time Vezina winner fails to report to camp US Olympic star requested trade earlier this summer Jets general manager to address situation Thursday Winnipeg goaltender Connor Hellebuyck, who publi…",
-     "image": "https://i.guim.co.uk/img/media/246b3f525d5386d009e83a2288184aefc84cb405/455_0_4550_3640/master/4550.jpg?width=140&quality=85&auto=format&fit=max&s=6a25dd2f1698a31df84e19a1b211b613",
-     "url": "https://www.theguardian.com/sport/2026/sep/17/connor-hellebuyck-winnipeg-jets-suspended-training-camp-trade-request",
-     "source": "Guardian Sport",
-     "published": "2026-09-17T10:18:30+00:00"
-    },
-    {
-     "title": "Traumatised Smith says he was 'thrown to wolves' over 'sandpapergate'",
-     "summary": "Australia batter Steve Smith says he is still traumatised by the aftermath of the ball-tampering scandal in 2018 and still gets flashbacks.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/017d/live/85697ef0-b274-11f1-b67f-2b40fa83cfed.jpg",
-     "url": "https://www.bbc.co.uk/sport/cricket/articles/c6e9e4nzd597o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-09-17T09:31:54+00:00"
-    },
-    {
      "title": "LeBron James once raged against the machine. Increasingly, he helps prop it up",
      "summary": "LeBron James was once one of the world’s most outspoken athletes. Now he’s plugging a predictions market and an authoritarian leader There was a time when LeBron James’s views on abuses of political p…",
      "image": "https://i.guim.co.uk/img/media/fc976b80e2a2f6efe44b72c1cd13926a939d0639/472_0_5795_4639/master/5795.jpg?width=140&quality=85&auto=format&fit=max&s=17bb13e048b4cba4d75e42e1f19128d5",
      "url": "https://www.theguardian.com/sport/2026/sep/17/lebron-james-angola-will-smith-predictions-markets",
      "source": "Guardian Sport",
      "published": "2026-09-17T09:00:45+00:00"
-    },
-    {
-     "title": "How an Aston Villa fringe player became Europe's most prolific scorer",
-     "summary": "No player in Europe's top five leagues has scored more goals than Donyell Malen since his Roma debut in January - BBC Sport examines his transformation.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2808/live/0b3a06f0-b1e7-11f1-ac01-a9af2f94b2cc.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cvj64wg0lgeyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-09-17T08:30:23+00:00"
-    },
-    {
-     "title": "Real Madrid keen on Man Utd forward Gabriel, 15",
-     "summary": "Real Madrid have a strong interest in signing 15-year-old Manchester United forward JJ Gabriel.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d9e/live/4aa28b40-b26a-11f1-b1d1-571ed4d7ff2c.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-09-17T07:52:32+00:00"
-    },
-    {
-     "title": "Brian Dubiski: ‘Everything I do is about Madison. It’s a big reason I did this game at Wembley’",
-     "summary": "Man behind US college football’s landmark match in London has dedicated his life to improving crowd safety since his daughter was killed in a crowd crush at a concert aged 23 On Saturday afternoon, as…",
-     "image": "https://i.guim.co.uk/img/media/73acb20c5fa83642a0e756f1199c43bb1637ecc6/149_0_6304_5043/master/6304.jpg?width=140&quality=85&auto=format&fit=max&s=318a1442ea637ade39e03b31d13aedbb",
-     "url": "https://www.theguardian.com/sport/2026/sep/17/brian-dubiski-us-college-football-wembley-interview",
-     "source": "Guardian Sport",
-     "published": "2026-09-17T07:00:42+00:00"
     },
     {
      "title": "Knicks staging another training camp battle for final roster spot after last year's helped win them the title",
