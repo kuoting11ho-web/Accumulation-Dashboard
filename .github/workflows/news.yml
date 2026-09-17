@@ -3,10 +3,11 @@ name: daily news
 
 on:
   schedule:
-    # UTC 時間。10:00 UTC = 美東夏令 06:00 / 冬令 05:00
-    - cron: "0 10 * * *"
-  workflow_dispatch:        # 也可以在 Actions 分頁手動按一下就跑
-
+    - cron: "23 10 * * *"
+    - cron: "23 13 * * *"
+    - cron: "23 16 * * *"
+  workflow_dispatch:
+  
 permissions:
   contents: write           # 允許把 brief.json commit 回 repo
 
