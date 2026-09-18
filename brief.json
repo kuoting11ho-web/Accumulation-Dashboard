@@ -1,32 +1,40 @@
 {
- "generated": "2026-09-18T17:07:05.327776+00:00",
+ "generated": "2026-09-18T19:04:19.055790+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "S&P 500 falls as Treasury yields rise; index heads for losing week: Live updates",
-     "summary": "The S&P 500 fell on Friday and headed for a losing week.",
+     "title": "Mexico’s Sheinbaum says she spoke with Trump as trade negotiations continue",
+     "summary": "Mexican president says she is seeking a decrease in tariffs as both countries seek new bilateral trade deal.",
      "image": "",
-     "url": "https://www.cnbc.com/2026/09/17/stock-market-today-live-updates.html",
-     "source": "CNBC Top News",
-     "published": "2026-09-18T17:04:22+00:00"
-    },
-    {
-     "title": "What expensive sulfur means for your dinner table",
-     "summary": "Oil supplies are falling, sulfur prices are threatening food costs, and we measuring Lego against Hollywood",
-     "image": "https://feeds.npr.org/1001/undefined",
-     "url": "https://www.npr.org/sections/planet-money/2026/09/18/nx-s1-5974103/what-expensive-sulfur-means-for-your-dinner-table",
-     "source": "NPR News",
-     "published": "2026-09-18T16:40:58+00:00"
-    },
-    {
-     "title": "Jerusalem Daily: Netanyahu says he will ‘change the face of the Middle East",
-     "summary": "Israeli Prime Minister Benjamin Netanyahu says he will ‘change the face of the Middle East’",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/jerusalem-daily-netanyahu-says-he-will-change-the-face-of-the-middle-east?traffic_source=rss",
+     "url": "https://www.aljazeera.com/news/2026/9/18/mexicos-sheinbaum-says-she-spoke-with-trump-as-trade-negotiations-continue?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-09-18T16:38:10+00:00"
+     "published": "2026-09-18T18:46:51+00:00"
+    },
+    {
+     "title": "Do elections in Russia make a difference?",
+     "summary": "Millions of people are choosing a new lower house of Parliament.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/9/18/do-elections-in-russia-make-a-difference?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-18T18:45:30+00:00"
+    },
+    {
+     "title": "中國市場艱困和重整成本增加　福斯大幅下修全年財測",
+     "summary": "德國汽車巨擘福斯汽車集團今天警告，由於中國市場營運艱困、旗下子公司保時捷面臨問題及重整成本增加，預計全年獲利表現受衝擊達100億歐元（約新台幣3649億元），因此大幅下修全年財測。 歐洲汽...…",
+     "image": "",
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5578864",
+     "source": "自由時報",
+     "published": "2026-09-18T18:45:03+00:00"
+    },
+    {
+     "title": "Warren Buffett steps down as Berkshire Hathaway chairman",
+     "summary": "Buffett will become chairman emeritus immediately and his son Howard will become chairman.",
+     "image": "",
+     "url": "https://www.aljazeera.com/economy/2026/9/18/warren-buffett-steps-down-as-berkshire-hathaway-chairman?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-18T18:32:24+00:00"
     },
     {
      "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
@@ -34,7 +42,63 @@
      "image": "",
      "url": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
      "source": "CNBC Top News",
-     "published": "2026-09-18T16:33:43+00:00"
+     "published": "2026-09-18T18:28:31+00:00"
+    },
+    {
+     "title": "Russia’s drones threaten Kyiv-bound Western officials as war effort stalls",
+     "summary": "Russia strikes Ukraine’s border crossings with Poland and Moldova as its offensives peter out in the east.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/9/18/russia-targets-ukraines-peaceful-borders?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-18T18:19:47+00:00"
+    },
+    {
+     "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+     "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72d4/live/9686b940-b360-11f1-8f19-bd786ea30d0b.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-09-18T18:04:38+00:00"
+    },
+    {
+     "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
+     "summary": "Dimon and Fraser join OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/09/18/trump-xi-state-dinner-jpmorgan-jamie-dimon.html",
+     "source": "CNBC Top News",
+     "published": "2026-09-18T17:34:49+00:00"
+    },
+    {
+     "title": "Survivors recount panic and struggle to breathe in Nigerian prison cell where 37 died",
+     "summary": "Police fire teargas as protests break out in city of Minna after deaths of suspected illegal goldminers, many of whom were children Survivors from a prison cell in Nigeria where 37 suspected illegal g…",
+     "image": "https://i.guim.co.uk/img/media/c7585407e277e5b2acbc2922de46ff2e5bce772e/887_0_3946_3158/master/3946.jpg?width=140&quality=85&auto=format&fit=max&s=99714df4e222982675790a9a88059ab8",
+     "url": "https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna",
+     "source": "Guardian World",
+     "published": "2026-09-18T17:27:39+00:00"
+    },
+    {
+     "title": "美日歐央行升息因應高通膨　歐股收黑",
+     "summary": "市場本週主調為各國央行因應中東戰爭引發通貨膨脹壓力所做出的政策，歐洲央行、美國聯準會和日本央行相繼調升利率，影響所及，歐洲股市今天收黑。 倫敦FTSE 100指數下跌157.01點或1.4...…",
+     "image": "",
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5578856",
+     "source": "自由時報",
+     "published": "2026-09-18T17:21:03+00:00"
+    },
+    {
+     "title": "Trump's $403 million war chest is finally being spent on the midterms. Now comes the hard part",
+     "summary": "Democratic Senate candidates entered summer with a cash edge, while Trump-linked groups now pour money into increasingly crowded and costly ad markets.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/09/18/trump-election-ad-spend-maga-inc.html",
+     "source": "CNBC Top News",
+     "published": "2026-09-18T16:49:03+00:00"
+    },
+    {
+     "title": "What expensive sulfur means for your dinner table",
+     "summary": "Oil supplies are falling, sulfur prices are threatening food costs, and we measure Lego against Hollywood",
+     "image": "https://feeds.npr.org/1001/undefined",
+     "url": "https://www.npr.org/sections/planet-money/2026/09/18/nx-s1-5974103/what-expensive-sulfur-means-for-your-dinner-table",
+     "source": "NPR News",
+     "published": "2026-09-18T16:40:58+00:00"
     },
     {
      "title": "秋分大翻身！專家揭5生肖「聚財力」攻頂、5運齊發穩穩賺",
@@ -45,44 +109,12 @@
      "published": "2026-09-18T16:33:00+00:00"
     },
     {
-     "title": "JPMorgan CEO Jamie Dimon attending Trump's state dinner for China's Xi: Source",
-     "summary": "Dimon joins OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/09/18/trump-xi-state-dinner-jpmorgan-jamie-dimon.html",
-     "source": "CNBC Top News",
-     "published": "2026-09-18T16:21:20+00:00"
-    },
-    {
      "title": "漏網鏡頭》要選票也要美食啦！",
      "summary": "台北市長參選人沈伯洋愛美食早已眾所皆知，18日晚上沈伯洋隨著競選團隊到景美集應廟參香，然後轉往廟旁的景美夜市拜票，所到之處「洋流」洶湧、萬頭鑽動。 支持民眾搶握手、要簽名...…",
      "image": "",
      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5578843",
      "source": "自由時報",
      "published": "2026-09-18T16:18:27+00:00"
-    },
-    {
-     "title": "涉協助張俊傑逃匿 21歲吳姓男子5萬元交保",
-     "summary": "台北地檢署偵辦立委高金素梅助理張俊傑棄逃匿案，今天指揮新北市新店警分局在逮捕協助張逃匿的21歲吳姓男子，晚間移送北檢。檢察官複訊後，晚間諭令吳男新台幣5萬元交保，並限制出境、出海。 張俊傑...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/society/breakingnews/5578846",
-     "source": "自由時報",
-     "published": "2026-09-18T16:15:06+00:00"
-    },
-    {
-     "title": "海巡艦送菲律賓 鄭麗文訪小琉球憶廣大興案痛批：在漁民傷口撒鹽",
-     "summary": "民進黨政府致贈除役海巡艦「金門艦」給菲律賓，國民黨主席鄭麗文昨天（18日）走訪小琉球時說，她回憶起2013年「廣大興事件」時，自己擔任行政院發言人，曾代表行政院及外交部表達「一...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5578841",
-     "source": "自由時報",
-     "published": "2026-09-18T16:14:56+00:00"
-    },
-    {
-     "title": "More than 112,000 displaced by Yemen fighting; thousands flee to Djibouti",
-     "summary": "United Nations says 22 million people need humanitarian aid as conflict intensifies.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/9/18/more-than-112000-displaced-by-yemen-fighting-thousands-flee-to-djibouti?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-18T16:12:28+00:00"
     },
     {
      "title": "Will even one of the U.N.'s 17 'sustainable development goals' be met by 2030?",
@@ -93,44 +125,12 @@
      "published": "2026-09-18T16:07:51+00:00"
     },
     {
-     "title": "Survivor recounts panic and struggle to breathe in Nigerian prison cell where 37 died",
-     "summary": "Police fire teargas as protests break out in city of Minna after deaths of suspected illegal goldminers A survivor from a prison cell in Nigeria where 37 suspected illegal goldminers died while in the…",
-     "image": "https://i.guim.co.uk/img/media/c7585407e277e5b2acbc2922de46ff2e5bce772e/887_0_3946_3158/master/3946.jpg?width=140&quality=85&auto=format&fit=max&s=99714df4e222982675790a9a88059ab8",
-     "url": "https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna",
-     "source": "Guardian World",
-     "published": "2026-09-18T15:49:01+00:00"
-    },
-    {
-     "title": "Nigerian forces fire at protesters rallying over deaths of detained miners",
-     "summary": "Government has promised to fully investigate after 37 miners died while being held in police custody in Niger State.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/9/18/nigerian-forces-fire-at-protesters-rallying-over-deaths-of-detained-miners?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-18T15:45:45+00:00"
-    },
-    {
      "title": "Flight chaos for hundreds of thousands was caused in ‘millisecond’ by software error",
      "summary": "Error first occurred at 10am but major incident was not declared until 12.30pm, says report A software defect in part of the UK’s air traffic control system corrupted flight data “in the space of a mi…",
      "image": "https://i.guim.co.uk/img/media/87fbb8a84446d79dd1a9f01154ab7ff9503c99e7/751_57_4084_3267/master/4084.jpg?width=140&quality=85&auto=format&fit=max&s=56b254c56746a34e5a7f5f3538dc85b3",
      "url": "https://www.theguardian.com/world/2026/sep/18/flight-chaos-affecting-hundreds-of-thousands-caused-in-millisecond-by-software-error-uk",
      "source": "Guardian Business",
      "published": "2026-09-18T15:45:18+00:00"
-    },
-    {
-     "title": "Police hit migrants with batons during camp transfer in Ceuta",
-     "summary": "Police in Ceuta used batons and fired shots into the air as they began moving migrants from beaches to a new camp.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/police-hit-migrants-with-batons-during-camp-transfer-in-ceuta?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-18T15:24:18+00:00"
-    },
-    {
-     "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-     "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72d4/live/9686b940-b360-11f1-8f19-bd786ea30d0b.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-09-18T15:14:35+00:00"
     }
    ]
   },
@@ -147,7 +147,7 @@
     },
     {
      "title": "Cloudflare Quick Tunnels",
-     "summary": "Article URL: https://try.cloudflare.com/ Comments URL: https://news.ycombinator.com/item?id=49754785 Points: 187 # Comments: 92",
+     "summary": "Article URL: https://try.cloudflare.com/ Comments URL: https://news.ycombinator.com/item?id=49754785 Points: 335 # Comments: 163",
      "image": "",
      "url": "https://try.cloudflare.com/",
      "source": "Hacker News Front Page",
@@ -178,8 +178,8 @@
      "published": "2026-09-18T13:25:18+00:00"
     },
     {
-     "title": "An Empirical Study of Harness Design for Coding Agents",
-     "summary": "Article URL: https://arxiv.org/abs/2609.20804 Comments URL: https://news.ycombinator.com/item?id=49753878 Points: 157 # Comments: 34",
+     "title": "An empirical study of harness design for coding agents",
+     "summary": "Article URL: https://arxiv.org/abs/2609.20804 Comments URL: https://news.ycombinator.com/item?id=49753878 Points: 187 # Comments: 49",
      "image": "",
      "url": "https://arxiv.org/abs/2609.20804",
      "source": "Hacker News Front Page",
@@ -187,11 +187,19 @@
     },
     {
      "title": "I don't like passkeys",
-     "summary": "Article URL: https://hawksley.dev/blog/i-dont-like-passkeys Comments URL: https://news.ycombinator.com/item?id=49753211 Points: 497 # Comments: 471",
+     "summary": "Article URL: https://hawksley.dev/blog/i-dont-like-passkeys Comments URL: https://news.ycombinator.com/item?id=49753211 Points: 614 # Comments: 601",
      "image": "",
      "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
      "source": "Hacker News Front Page",
      "published": "2026-09-18T12:06:50+00:00"
+    },
+    {
+     "title": "Bend 2 and the Vibe-Coding Trap",
+     "summary": "Article URL: https://blog.liampwll.com/posts/bend_vibe_coding/ Comments URL: https://news.ycombinator.com/item?id=49753179 Points: 292 # Comments: 224",
+     "image": "",
+     "url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
+     "source": "Hacker News Front Page",
+     "published": "2026-09-18T12:03:55+00:00"
     },
     {
      "title": "Could AI really kill us all? Your questions, answered.",
@@ -200,14 +208,6 @@
      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
      "source": "MIT Tech Review AI",
      "published": "2026-09-18T11:29:22+00:00"
-    },
-    {
-     "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
-     "summary": "Article URL: https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html Comments URL: https://news.ycombinator.com/item?id=49752614 Points: 214 # Comments: 145",
-     "image": "",
-     "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
-     "source": "Hacker News Front Page",
-     "published": "2026-09-18T11:01:44+00:00"
     },
     {
      "title": "Rocket Report: China wants a Raptor 3 engine; SpaceX set for big Starship test",
@@ -271,60 +271,60 @@
    "label": "運動",
    "items": [
     {
-     "title": "Michael Sweetney, former Georgetown star and Knicks lottery pick, dies at 43",
-     "summary": "He remains in the top 10 in several all-time categories at Georgetown.",
+     "title": "2026-27 Fantasy Basketball Rankings: Centers (Points Leagues)",
+     "summary": "Here are Dan Titus' center fantasy basketball rankings for points leagues in 2026-27.",
      "image": "",
-     "url": "https://sports.yahoo.com/articles/michael-sweetney-former-georgetown-star-164826419.html",
+     "url": "https://sports.yahoo.com/fantasy/article/2026-27-fantasy-basketball-rankings-centers-points-leagues-184417721.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-09-18T16:48:26+00:00"
+     "published": "2026-09-18T18:44:17+00:00"
     },
     {
-     "title": "Uefa & Concacaf demand Fifa pays $10m to all 211 members",
-     "summary": "Uefa and Concacaf issue a joint statement calling on Fifa to pay $10m from its cash reserves to each of the 211 member associations.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42ea/live/aa7cf650-b35e-11f1-8f19-bd786ea30d0b.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c6158x85pv19o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-09-18T16:26:56+00:00"
-    },
-    {
-     "title": "Cleveland promotes long-time executive Brandon Weems to General Manager",
-     "summary": "Weems was a high school teammate of LeBron James who carved his own path in the league.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/cleveland-promotes-long-time-executive-161909722.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-09-18T16:19:09+00:00"
-    },
-    {
-     "title": "Utah locks up guard Keyonte George with reported five-year, $157.5 million extension",
-     "summary": "George and No. 2 pick Darryn Peterson are locked in as the Jazz backcourt of the future.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/utah-locks-guard-keyonte-george-155252108.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-09-18T15:52:52+00:00"
-    },
-    {
-     "title": "Jazz guard Keyonte George reportedly agrees to 5-year, $157.5 million extension",
-     "summary": "George averaged a career-high 23.6 points and 6.1 assists during the 2025-26 campaign, his third season in the NBA.",
-     "image": "",
-     "url": "https://sports.yahoo.com/nba/breaking-news/article/jazz-guard-keyonte-george-reportedly-agrees-to-5-year-1575-million-extension-151207825.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-09-18T15:12:07+00:00"
-    },
-    {
-     "title": "Gabriel, 15, in Barcelona amid speculation over future",
-     "summary": "Man Utd youngster JJ Gabriel travels to Barcelona as some of Europe's biggest clubs continue to vie for his signature.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28e0/live/1dab5c20-b36e-11f1-b1d1-571ed4d7ff2c.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c679052dq30ro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-09-18T15:02:21+00:00"
-    },
-    {
-     "title": "From ‘nappies at the ballpark’ to MLB: how Australia’s Travis Bazzana made baseball’s big league",
-     "summary": "The 24-year-old has taken his attention to detail from lining up bats and helmets as a toddler to helping the Cleveland Guardians towards the playoffs When Sydney’s Travis Bazzana made his debut in Ma…",
-     "image": "https://i.guim.co.uk/img/media/0e5e9fa8618b30208eae1ef9f0a48e1504f3101c/670_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=e0c5eccbbffa91fc2069ee13e91481a4",
-     "url": "https://www.theguardian.com/sport/2026/sep/19/how-australian-travis-bazzana-made-baseball-major-league",
+     "title": "Brentford v Chelsea: Premier League – live",
+     "summary": "⚽ Premier League updates from the 8pm BST kick-off ⚽ Live match centre | Read Football Daily | And mail Scott Pre-match postbag. “To double down on the introductory theme, every bookie quoting a price…",
+     "image": "https://i.guim.co.uk/img/media/1c8a9573b8384b2b6b662751419e52231f02e2c8/0_1811_4000_3200/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=2d541903fdc345c3835db36ef3e11c57",
+     "url": "https://www.theguardian.com/football/live/2026/sep/18/brentford-v-chelsea-premier-league-live-score-updates",
      "source": "Guardian Sport",
-     "published": "2026-09-18T15:00:22+00:00"
+     "published": "2026-09-18T18:43:59+00:00"
+    },
+    {
+     "title": "2026-27 Fantasy Basketball Rankings: Power Forwards (Points Leagues)",
+     "summary": "Here are Dan Titus' power forward fantasy basketball rankings for points leagues in 2026-27.",
+     "image": "",
+     "url": "https://sports.yahoo.com/fantasy/article/2026-27-fantasy-basketball-rankings-power-forwards-points-leagues-184337457.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-18T18:43:37+00:00"
+    },
+    {
+     "title": "2026-27 Fantasy Basketball Rankings: Small Forwards (Points Leagues)",
+     "summary": "Here are Dan Titus' small forward fantasy basketball rankings for points leagues in 2026-27.",
+     "image": "",
+     "url": "https://sports.yahoo.com/fantasy/article/2026-27-fantasy-basketball-rankings-small-forwards-points-leagues-184244803.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-18T18:42:44+00:00"
+    },
+    {
+     "title": "2026-27 Fantasy Basketball Rankings: Shooting Guards (Points Leagues)",
+     "summary": "Here are Dan Titus' shooting guard fantasy basketball rankings for points leagues in 2026-27.",
+     "image": "",
+     "url": "https://sports.yahoo.com/fantasy/article/2026-27-fantasy-basketball-rankings-shooting-guards-points-leagues-184145658.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-18T18:41:45+00:00"
+    },
+    {
+     "title": "York hold off Leeds to reach Grand Final",
+     "summary": "York Valkyrie book their place in the Grand Final with a superb semi-final win over Leeds Rhinos at AMT Headingley.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51b1/live/c361cad0-b38e-11f1-ae81-31b49a394756.jpg",
+     "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cmrer20pyenno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-09-18T18:38:14+00:00"
+    },
+    {
+     "title": "Jon Rahm shoots 78-77 and slumps off in last place at PGA Championship",
+     "summary": "Tommy Fleetwood also misses the cut at three over Adam Scott cards second 67 to be well placed at halfway Missed cuts for Tommy Fleetwood and Jon Rahm at the PGA Championship would be notable enough e…",
+     "image": "https://i.guim.co.uk/img/media/111258711528774dbb1baa13c122a451026d82dd/1383_1072_2462_1969/master/2462.jpg?width=140&quality=85&auto=format&fit=max&s=886de7ce0caa9f754ba9c59a336ad200",
+     "url": "https://www.theguardian.com/sport/2026/sep/18/rahm-and-fleetwood-lead-pga-championship-casualties-as-adam-scott-rolls-back-years",
+     "source": "Guardian Sport",
+     "published": "2026-09-18T16:23:54+00:00"
     },
     {
      "title": "Will England boss Tuchel 'embrace the chaos'?",
@@ -333,14 +333,6 @@
      "url": "https://www.bbc.co.uk/sport/football/articles/cvrl64y9rdn9o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-09-18T14:14:23+00:00"
-    },
-    {
-     "title": "My son’s death during a college football workout was preventable. Lessons must be learned",
-     "summary": "Arizona State hockey player Matthew Mayich is fighting for his life after collapsing during practice. Tragedies like this can be avoided Late last month, Arizona State hockey player Matthew Mayich col…",
-     "image": "https://i.guim.co.uk/img/media/0b1ec76a0d7e97b8007f90973e815c6b4c280f0c/392_0_2124_1699/master/2124.jpg?width=140&quality=85&auto=format&fit=max&s=d3a69ee7f7d3c2ee5accacb08c73d244",
-     "url": "https://www.theguardian.com/sport/2026/sep/18/college-sports-heatstroke-jordan-mcnair-matthew-mayich",
-     "source": "Guardian Sport",
-     "published": "2026-09-18T14:10:19+00:00"
     },
     {
      "title": "Alex Ovechkin claims he’s ‘not in politics’. His pro-Putin video says the opposite",
@@ -357,6 +349,14 @@
      "url": "https://www.bbc.co.uk/news/articles/cmr4v5v3zzr7o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-09-18T13:05:31+00:00"
+    },
+    {
+     "title": "Tuchel recalls Palmer and Alexander-Arnold for England",
+     "summary": "Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer to his first England squad since the 2026 World Cup.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8db/live/6ebff4c0-b352-11f1-a430-4d16ee157c41.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/videos/c61wx5x33jyjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-09-18T11:49:14+00:00"
     },
     {
      "title": "Josh Allen shines again as Bills celebrate new home with slugfest victory over Lions",
