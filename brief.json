@@ -1,80 +1,104 @@
 {
- "generated": "2026-09-19T16:33:18.767151+00:00",
+ "generated": "2026-09-19T18:38:49.995737+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "泰女慘遭勒斃藏屍冰櫃 中檢聲押台籍男友獲准",
-     "summary": "首次上稿 21:13更新時間 00:22（收押） 43歲男子吳俊毅，涉嫌將36歲泰國籍女友亞思（音譯）勒斃，裝進30吋行李箱運往台中，藏在吳男任職科技公司（位於台中七期）...…",
+     "title": "MS NOW, CNN and Politico journalists blocked from White House after Trump ban",
+     "summary": "Journalists from MS NOW, CNN and Politico were denied access to the White House, one day after Trump banned three media outlets over their coverage of him.",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/society/breakingnews/5579701",
-     "source": "自由時報",
-     "published": "2026-09-19T16:22:18+00:00"
+     "url": "https://www.cnbc.com/2026/09/19/trump-media-ban-ms-now.html",
+     "source": "CNBC Top News",
+     "published": "2026-09-19T18:12:15+00:00"
     },
     {
-     "title": "Demonstrators in US form human chain to protest Kennedy Center closure vote",
-     "summary": "'Hands Around the Kennedy Center' rally drew thousands after Trump-backed board votes to close the iconic arts venue.",
+     "title": "Israel targets paramedics in southern Lebanon",
+     "summary": "Two back-to-back Israeli air strikes hit Nabatieh in Lebanon, while a third strike targeted an ambulance team.",
      "image": "",
-     "url": "https://www.aljazeera.com/news/2026/9/19/demonstrators-in-us-form-human-chain-to-protest-kennedy-center-closure-vote?traffic_source=rss",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/israel-targets-paramedics-in-southern-lebanon?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-09-19T16:21:36+00:00"
+     "published": "2026-09-19T18:06:52+00:00"
     },
     {
-     "title": "復合無望！恐怖情人買冰櫃、行李箱 泰女慘遭勒斃棄屍",
-     "summary": "43歲男子吳俊毅涉嫌將36歲泰國籍女友亞思（Arth）勒斃，裝進30吋行李箱運往台中，藏在他任職的科技公司（位於台中七期）冰櫃內，警方查出吳嫌事先購買冰櫃，確定復合無望又買行李...…",
+     "title": "Cuba works to restore power after another major nationwide blackout",
+     "summary": "The outage marks at least the sixth one this year after a United States-imposed energy blockade went into effect.",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/society/breakingnews/5579513",
-     "source": "自由時報",
-     "published": "2026-09-19T16:18:16+00:00"
+     "url": "https://www.aljazeera.com/news/2026/9/19/cuba-works-to-restore-power-after-another-major-nationwide-blackout?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-19T17:59:57+00:00"
     },
     {
-     "title": "Jim Ratcliffe: UK is ‘on the slide’ from days when it had world’s ‘greatest empire’",
-     "summary": "Co-owner of Manchester United says Britain is in decline because of high taxes and immigration Manchester United’s Muslim supporters’ club (MUMSC) has called for the Premier League side’s co-owner to…",
+     "title": "Dutch riot police break up violent far-right protest in The Hague",
+     "summary": "Justice minister condemns 'Hitler salutes, antisemitic slogans, violence' at the anti-immigration rally.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/9/19/dutch-riot-police-break-up-violent-far-right-protest-in-the-hague?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-19T17:55:45+00:00"
+    },
+    {
+     "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
+     "summary": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65d3/live/ee41c280-b426-11f1-a430-4d16ee157c41.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-09-19T17:50:14+00:00"
+    },
+    {
+     "title": "A ‘ban on the free press’: White House bars journalists from three outlets",
+     "summary": "Reporters from CNN, MS NOW, and Politico were denied access to White House on Saturday.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/9/19/a-ban-on-the-free-press-white-house-bars-journalists-from-three-outlets?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-19T17:48:18+00:00"
+    },
+    {
+     "title": "川普禁CNN等3家媒體進入白宮　專家批違憲",
+     "summary": "在美國總統川普宣布禁止美國有線電視新聞網（CNN）、政治新聞網站Politico、新聞頻道MS NOW進入白宮後，這3家媒體的記者今天被拒絕進入白宮；美國憲法第一修正案專家表示此舉違憲。 ...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5579788",
+     "source": "自由時報",
+     "published": "2026-09-19T17:45:07+00:00"
+    },
+    {
+     "title": "Manchester United Muslim fans group calls on co-owner Jim Ratcliffe to quit",
+     "summary": "Supporters’ club says billionaire should stand down after ‘completely unacceptable’ comments on the UK and empire Manchester United’s Muslim supporters’ Club (MUMSC) has called for the Premier League…",
      "image": "https://i.guim.co.uk/img/media/41a1b4e4cc7b8c79ae4996169fb1738e1ec0f6cd/667_0_6673_5338/master/6673.jpg?width=140&quality=85&auto=format&fit=max&s=9c60f1093773458db02b62be66e6a573",
      "url": "https://www.theguardian.com/business/2026/sep/19/jim-ratcliffe-uk-immigration-tax-manchester-united-ineos",
      "source": "Guardian Business",
-     "published": "2026-09-19T16:17:23+00:00"
+     "published": "2026-09-19T17:44:32+00:00"
     },
     {
-     "title": "日本UQ印UT需是「自己畫的」 似顏繪畫家曝「這行為」超護版權",
-     "summary": "有似顏繪畫家在日本連鎖服飾店UNIQLO，想將自己畫的圖案印成T恤，結果店員懷疑是「別人畫的」，又跟他說「網路上有找到這張圖」，令網友驚喜「守護作品的版權意識真是感人」。 ...…",
+     "title": "藍委團訪華府 帶「神秘禮物」赴僑宴獨缺鄭麗文簽名",
+     "summary": "國民黨立委訪美代表團結束華府訪問後，於美東時間18日走訪華府歷史悠久的中華會館，並於晚間舉行「美東僑胞造勢大會」，現場湧入數百位熱情僑胞與支持者，氣氛熱烈。訪團立委齊聲向海外鄉...…",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5579466",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5579773",
      "source": "自由時報",
-     "published": "2026-09-19T16:17:17+00:00"
+     "published": "2026-09-19T17:34:09+00:00"
     },
     {
-     "title": "曾是科技業老將！鍘美藝術節發起人歷經破產  體驗「停損」哲學",
-     "summary": "「鍘美藝術節」發起人蘇先生私下其實相當健談，聊起多年投資股市的心得，他認為，投資最重要的從來不是每1次都看準行情，而是知道什麼時候該停損。對他而言，「停損」不只是投資技巧，更是...…",
+     "title": "開戶開到懷疑人生！薪轉戶地獄讓全網有感",
+     "summary": "女網友在Threads分享，多年來每換一次工作就要配合新公司開立薪轉戶，陸續累積了11間銀行，原以為總會遇到重複的，沒想到新公司指定的竟然還是自己沒有往來的銀行，她苦笑直呼，「永...…",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5579774",
+     "url": "https://news.ltn.com.tw/news/life/breakingnews/5579360",
      "source": "自由時報",
-     "published": "2026-09-19T15:59:09+00:00"
+     "published": "2026-09-19T16:52:33+00:00"
     },
     {
-     "title": "Police hiring standards matter. But they alone cannot stop abuse",
-     "summary": "Law enforcement in the US needs high hiring standards. But it also needs reform and trust-building in communities.",
+     "title": "全家鋪野餐墊、毛孩也來了！鍘美藝術節變身大型露營看戲場",
+     "summary": "「鍘美藝術節」連續兩晚湧入大批人潮，草根性文化的魅力在安平現場發酵。住安億停車場附近的林小姐連續2天到場看戲，她笑說，沒想到傳統戲曲能吸引這麼多人，「真的很不容易」，也讓她感受...…",
      "image": "",
-     "url": "https://www.aljazeera.com/opinions/2026/9/19/police-hiring-standards-matter-but-they-alone-cannot-stop-abuse?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-19T15:58:55+00:00"
+     "url": "https://news.ltn.com.tw/news/life/breakingnews/5579786",
+     "source": "自由時報",
+     "published": "2026-09-19T16:39:58+00:00"
     },
     {
-     "title": "Jerusalem Daily: Gaza’s children return to schools",
-     "summary": "It's the first official day back to school for Gaza's children.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/jerusalem-daily-gazas-children-return-to-schools?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-19T15:38:58+00:00"
-    },
-    {
-     "title": "Djibouti refugee crisis worsens as more than 2,700 Yemenis arrive",
-     "summary": "More than 2,700 Yemenis have fled to Djibouti, many making dangerous sea crossings to escape the conflict.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/djibouti-refugee-crisis-worsens-as-more-than-2700-yemenis-arrive?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-19T15:31:05+00:00"
+     "title": "UK politics increasingly funded by billionaires as mega-donations surge",
+     "summary": "Exclusive: A total £179m has been donated by wealthy individuals since 2019, research reveals British politics is increasingly being funded by individual billionaires with a wave of mega-donations hav…",
+     "image": "https://i.guim.co.uk/img/media/0ae9acca05bc0e953a0d580865b46ff4fe949d6a/554_0_4069_3255/master/4069.jpg?width=140&quality=85&auto=format&fit=max&s=9aaabcd4c791a0238300c76604586bc4",
+     "url": "https://www.theguardian.com/politics/2026/sep/19/uk-politics-increasingly-funded-by-billionaires-as-mega-donations-surge",
+     "source": "Guardian Business",
+     "published": "2026-09-19T16:00:50+00:00"
     },
     {
      "title": "CNN, MS NOW, Politico reporters denied access to White House following Trump ban",
@@ -85,12 +109,20 @@
      "published": "2026-09-19T15:26:31+00:00"
     },
     {
-     "title": "MS NOW, CNN and Politico journalists blocked from White House after Trump ban",
-     "summary": "Journalists from MS NOW, CNN and Politico were denied access to the White House, one day after Trump banned three media outlets over their coverage of him.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/09/19/trump-media-ban-ms-now.html",
-     "source": "CNBC Top News",
-     "published": "2026-09-19T15:14:46+00:00"
+     "title": "Journalists denied White House access after Trump banned some media outlets",
+     "summary": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b27/live/d8b31f40-b435-11f1-9fa0-111a12dcb7b0.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-09-19T15:19:39+00:00"
+    },
+    {
+     "title": "Converse pulls 'deeply upsetting' advert after backlash",
+     "summary": "Social media users say an image from the brand's Instagram account resembled a KKK hood and hanging.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3993/live/0f1fa560-b433-11f1-9fa0-111a12dcb7b0.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-09-19T14:05:01+00:00"
     },
     {
      "title": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies",
@@ -99,38 +131,6 @@
      "url": "https://www.cnbc.com/2026/09/19/riyadh-airport-smoke-saudi-arabia.html",
      "source": "CNBC Top News",
      "published": "2026-09-19T13:48:04+00:00"
-    },
-    {
-     "title": "Google's Gemini AI hacked three companies in security test",
-     "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/754e/live/31c59420-b3e9-11f1-9fb5-25be39d7a18e.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-09-19T13:39:32+00:00"
-    },
-    {
-     "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
-     "summary": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
-     "source": "CNBC Top News",
-     "published": "2026-09-19T12:50:49+00:00"
-    },
-    {
-     "title": "亞運我國設歷屆最完善中繼站 選手讚「像把國訓中心搬來」",
-     "summary": "運動部國訓中心、運科中心在這屆亞運設置了3個中繼站，其中位於名古屋市區的「御園小學校」中繼站，整合醫療防護、運科恢復、台式膳食的一站式支援，是歷屆最完善、規模最大。",
-     "image": "",
-     "url": "https://news.pts.org.tw/article/827808",
-     "source": "公視新聞",
-     "published": "2026-09-19T12:01:26+00:00"
-    },
-    {
-     "title": "The AI kill switch, explained: 'It's not too little, but it's probably too late'",
-     "summary": "As runaway AI fears reach a crescendo, policymakers and tech leaders are weighing the effectiveness of a magic AI stop button known as a kill switch.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/09/19/ai-kill-switch-explained.html",
-     "source": "CNBC Top News",
-     "published": "2026-09-19T12:00:01+00:00"
     }
    ]
   },
@@ -162,8 +162,8 @@
      "published": "2026-09-19T11:10:43+00:00"
     },
     {
-     "title": "Laya the open source version of Jev",
-     "summary": "Article URL: https://laya.convaiinnovations.com/ Comments URL: https://news.ycombinator.com/item?id=49765348 Points: 485 # Comments: 115",
+     "title": "I Built Non-Autoregressive Decision Models with RL a Year Ago",
+     "summary": "Article URL: https://laya.convaiinnovations.com/ Comments URL: https://news.ycombinator.com/item?id=49765348 Points: 709 # Comments: 164",
      "image": "",
      "url": "https://laya.convaiinnovations.com/",
      "source": "Hacker News Front Page",
@@ -187,7 +187,7 @@
     },
     {
      "title": "AI-generated posters don’t have to be horrible",
-     "summary": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791 Points: 700 # Comments: 423",
+     "summary": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791 Points: 916 # Comments: 554",
      "image": "",
      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
      "source": "Hacker News Front Page",
@@ -203,7 +203,7 @@
     },
     {
      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-     "summary": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio Comments URL: https://news.ycombinator.com/item?id=49763987 Points: 241 # Comments: 126",
+     "summary": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio Comments URL: https://news.ycombinator.com/item?id=49763987 Points: 283 # Comments: 144",
      "image": "",
      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
      "source": "Hacker News Front Page",
@@ -211,7 +211,7 @@
     },
     {
      "title": "If math is more than proof, we need to better celebrate the rest of it",
-     "summary": "Article URL: https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/ Comments URL: https://news.ycombinator.com/item?id=49763928 Points: 231 #…",
+     "summary": "Article URL: https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/ Comments URL: https://news.ycombinator.com/item?id=49763928 Points: 256 #…",
      "image": "",
      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
      "source": "Hacker News Front Page",
@@ -247,6 +247,14 @@
    "label": "運動",
    "items": [
     {
+     "title": "Frenetic draw with Canada ends England's 39-game winning run",
+     "summary": "England's remarkable winning run comes to an end as they are held to a nail-biting 26-26 draw by Canada at Sandy Park.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52b7/live/dc74eac0-b44c-11f1-b1d1-571ed4d7ff2c.jpg",
+     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6eq8v70lpn9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-09-19T17:32:21+00:00"
+    },
+    {
      "title": "England crush Sri Lanka to top T20 world rankings",
      "summary": "England steamroller Sri Lanka in the third T20 to complete a 3-0 series clean sweep and return to number one in the world rankings.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c792/live/4301a7b0-b43e-11f1-8eb0-59fdbbab66e7.jpg",
@@ -255,20 +263,20 @@
      "published": "2026-09-19T16:28:22+00:00"
     },
     {
-     "title": "Arsenal beaten 3-0 by Brighton as Newcastle and Everton grab wins: clockwatch – live",
-     "summary": "⚽️ Updates from across the grounds for Saturday’s games ⚽️ Live scoreboard | Spurs v Aston Villa – updates | Mail Scott GOAL! Stoke City 1-1 Sheffield United (McGlynn 78). Another leveller in the Cham…",
-     "image": "https://i.guim.co.uk/img/media/5c93e333834bd0335777e62a2d266e73881f46d7/619_215_5393_4316/master/5393.jpg?width=140&quality=85&auto=format&fit=max&s=02457db14659ab297b5730c91f4f50e3",
-     "url": "https://www.theguardian.com/football/live/2026/sep/19/brighton-arsenal-newcastle-hull-more-football-clockwatch-live-scores-updates",
+     "title": "Brighton demolish champions Arsenal 3-0 to mark anniversary in style",
+     "summary": "So much for the new Invincibles. Arsenal were brought back down to earth with a shuddering bump by a scintillating display from Brighton as Fabian Hürzeler’s vibrant side celebrated the club’s 125th a…",
+     "image": "https://i.guim.co.uk/img/media/1228a50605a5a22deb872ad7287b752e4c0726d3/538_0_5663_4531/master/5663.jpg?width=140&quality=85&auto=format&fit=max&s=723a8c03dbaf8bd48dd2468b59b2ed75",
+     "url": "https://www.theguardian.com/football/2026/sep/19/brighton-arsenal-premier-league-match-report",
      "source": "Guardian Sport",
-     "published": "2026-09-19T16:13:00+00:00"
+     "published": "2026-09-19T16:06:47+00:00"
     },
     {
-     "title": "Canada end England's winning run in frenetic draw",
-     "summary": "England's remarkable winning run comes to an end as they are held to a nail-biting 26-26 draw by Canada at Sandy Park.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f71/live/948e7dc0-b447-11f1-8eb0-59fdbbab66e7.jpg",
-     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6eq8v70lpn9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-09-19T16:05:16+00:00"
+     "title": "NBA Scouting Report: An Anthony Edwards Prospect Retrospective",
+     "summary": "Anthony Edwards outperformed pre-draft expectations, but the blueprint for who he is now has been there since Georgia.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/5102f8d1cab1ed0fc8c738c88ebeb0d6.jpg",
+     "url": "https://sports.yahoo.com/articles/nba-scouting-report-anthony-edwards-160000335.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-19T16:00:00+00:00"
     },
     {
      "title": "No revival in sight for 'fragile' Spurs after Villa defeat",
@@ -277,6 +285,14 @@
      "url": "https://www.bbc.co.uk/sport/football/articles/ck5ywlqxyvv2o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-09-19T15:33:20+00:00"
+    },
+    {
+     "title": "One bold statistical prediction for each member of the Lakers",
+     "summary": "Will this finally be Luka Dončić’s MVP season? Can Austin Reaves break back into All-Star conversation?",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/03538bbe557808df22afb80dabac6582.jpg",
+     "url": "https://sports.yahoo.com/articles/one-bold-statistical-prediction-member-152400888.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-19T15:24:00+00:00"
     },
     {
      "title": "Stephen Curry: 'I wanna be a lifer with Golden State'",
@@ -309,22 +325,6 @@
      "url": "https://sports.yahoo.com/articles/5-biggest-storylines-upcoming-suns-120000602.html",
      "source": "Yahoo Sports NBA",
      "published": "2026-09-19T12:00:00+00:00"
-    },
-    {
-     "title": "Open Thread: How today’s NBA looks through an 80s lens",
-     "summary": "This one made me laugh out loud",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/45811bb68088bfc14b56b333a57433ea.jpg",
-     "url": "https://sports.yahoo.com/articles/open-thread-today-nba-looks-110000400.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-09-19T11:00:00+00:00"
-    },
-    {
-     "title": "The Kyrie Irving-Cooper Flagg high-IQ connection has the potential to change basketball",
-     "summary": "The potential for this Dallas Mavericks duo to do something groundbreaking this season is real.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/0cafcefe754dbfce7f7601d265be98ea.jpg",
-     "url": "https://sports.yahoo.com/articles/kyrie-irving-cooper-flagg-high-110000262.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-09-19T11:00:00+00:00"
     },
     {
      "title": "Alex de Minaur roars back to life as Australia and Poland share spoils in Davis Cup",
