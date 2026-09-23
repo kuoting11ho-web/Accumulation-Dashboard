@@ -1,96 +1,64 @@
 {
- "generated": "2026-09-23T15:05:20.910800+00:00",
+ "generated": "2026-09-23T17:52:45.454624+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "Iran's president blames U.S., Israel for global instability in defiant UN speech",
-     "summary": "Pezeshkian began his address to the UN General Assembly in New York City by holding up photos of children he said were killed by U.S. and Israeli bombs.",
+     "title": "川習會前夕共和黨議員罕見施壓川普 促解凍150億美元對台軍援",
+     "summary": "在美國總統川普準備迎接中國國家主席習近平進行為期3天國是訪問之際，4名與川普同屬共和黨的聯邦參議員23日呼籲，立即解凍逾150億美元遭擱置的對台國家安全援助。 路透23...…",
      "image": "",
-     "url": "https://www.cnbc.com/2026/09/23/iran-united-nations-trump-israel.html",
-     "source": "CNBC Top News",
-     "published": "2026-09-23T15:01:56+00:00"
-    },
-    {
-     "title": "中壢仁海宮供品變愛心！近4千份普度物資贈18慈善機構與22校",
-     "summary": "9月10日（農曆7月29日）晚上11點「鬼門」已關，桃園市中壢仁海宮配合中元感恩月普度活動圓滿落幕，今（23）日舉辦祈安法會物資捐贈儀式，將近4000份包括沙拉油、白米、燕麥等...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5584272",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5584323",
      "source": "自由時報",
-     "published": "2026-09-23T14:59:14+00:00"
+     "published": "2026-09-23T17:40:23+00:00"
     },
     {
-     "title": "Russia’s attacks on Ukraine kill six after Zelenskyy-Trump talks",
-     "summary": "Ukraine's Zelenskyy met Trump on Tuesday and discussed a potential bilateral ceasefire on energy-related targets.",
+     "title": "美國務卿：美邀普丁出席G20峰會　盼他接受邀請",
+     "summary": "美國國務卿盧比歐（Marco Rubio）今天表示，美方已邀請俄羅斯總統普丁（Vladimir Putin）出席今年12月在邁阿密舉行的20國集團（G20）峰會。 法新社報導，盧比歐指出：...…",
      "image": "",
-     "url": "https://www.aljazeera.com/news/2026/9/23/russian-drone-strikes-target-kyiv-infrastructure-after-zelenskyy-trump-talk?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-23T14:58:23+00:00"
-    },
-    {
-     "title": "台灣設計展明開展！青埔、中壢雙核心 「桃園流」亮點一次看",
-     "summary": "「2026台灣設計展」今（23）日在桃園會展中心舉行開幕典禮，9月24日展出到10月11日，以「桃園流」為主題，青埔、中壢雙核心策展，有16個主題展、5處衛星展及系列設計響應活...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5584257",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5584325",
      "source": "自由時報",
-     "published": "2026-09-23T14:56:24+00:00"
+     "published": "2026-09-23T17:36:03+00:00"
     },
     {
-     "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-     "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd1c/live/f9fdfbe0-b74e-11f1-a430-4d16ee157c41.png",
-     "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+     "title": "Iran's president tells Trump it will never 'bend the knee'",
+     "summary": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe3f/live/8c85eb50-b766-11f1-b1d1-571ed4d7ff2c.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-09-23T14:55:51+00:00"
+     "published": "2026-09-23T17:34:44+00:00"
     },
     {
-     "title": "韓媒：台灣雙神山夾擊 韓國半導體落後差距擴大",
-     "summary": "韓媒《ChosunBiz》23日報導，台灣在鞏固其半導體代工強國地位後，正擴大半導體設計（無廠半導體）領域的影響力。曾是行動晶片無廠半導體公司的聯發科現在進軍個人電腦系統單晶片...…",
+     "title": "川普破例親迎習近平 華府鷹派促拒絕中國施壓對台軍售",
+     "summary": "就在中國國家主席習近平的專機降落安德魯聯合基地（Joint Base Andrews）前夕，華府正準備迎接一個近年來難以想像的場景：美國總統川普親自迎接這位被美國國安體系視為...…",
      "image": "",
-     "url": "https://ec.ltn.com.tw/article/breakingnews/5584262",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5584320",
      "source": "自由時報",
-     "published": "2026-09-23T14:53:57+00:00"
+     "published": "2026-09-23T17:25:40+00:00"
     },
     {
-     "title": "房屋賣到一半突卡關？稅捐處揭露：全因少做了「這件事」！",
-     "summary": "民眾出售名下房屋、土地時，若發現不動產遭稅捐稽徵機關辦理禁止處分登記，可能連買賣移轉都無法進行。高雄市稅捐稽徵處表示，若納稅義務人欠繳稅捐，稅捐稽徵機關可依《稅捐稽徵法》第24條規定，就相當於欠稅金額的財產通知有關機關辦理禁止處分登記。…",
+     "title": "Mexico braces for Hurricane Polo gathering strength",
+     "summary": "Hurricane Polo, one of the strongest Pacific cyclones in decades, brought dangerous waves and heavy rain to Mexico.",
      "image": "",
-     "url": "https://estate.ltn.com.tw/article/28905",
-     "source": "自由時報",
-     "published": "2026-09-23T14:53:00+00:00"
-    },
-    {
-     "title": "Trump pushes Russia-Ukraine ‘energy truce’: Can it work?",
-     "summary": "Talks of a possible halt in attacks on energy facilities come as strikes on such targets continue unabated.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/9/23/trump-pushes-russia-ukraine-energy-truce-can-it-work?traffic_source=rss",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/23-09-sv-mexico-hurricane-polo-mx?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-09-23T14:49:04+00:00"
+     "published": "2026-09-23T17:23:27+00:00"
     },
     {
-     "title": "McDonald's CEO expects high inflation, flat traffic are not going away for restaurant industry",
-     "summary": "McDonald's CEO Chris Kempczinski said that he expects that high inflation and flat traffic will continue to weigh on the restaurant industry.",
+     "title": "Market sees next Fed hike in October, following Barr comments and hot inflation reading",
+     "summary": "S&P Global said its overall inflation measure hit its highest level since October 2022.",
      "image": "",
-     "url": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html",
+     "url": "https://www.cnbc.com/2026/09/23/market-sees-next-fed-hike-in-october-following-barr-comments-hot-inflation.html",
      "source": "CNBC Top News",
-     "published": "2026-09-23T14:40:04+00:00"
+     "published": "2026-09-23T17:14:13+00:00"
     },
     {
-     "title": "Can Ethiopia’s seven-group rebel alliance challenge Abiy Ahmed?",
-     "summary": "The alliance brings together movements with different enemies, claims and histories as tensions with Abiy rise.",
+     "title": "Ethiopia faces renewed war as armed groups launch offensive",
+     "summary": "There are fears of a renewed war in Ethiopia after seven armed groups formed an alliance to overthrow the government.",
      "image": "",
-     "url": "https://www.aljazeera.com/news/2026/9/23/can-ethiopias-seven-group-rebel-alliance-challenge-abiy-ahmed?traffic_source=rss",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/09-23-26-ethiopia-armed-groups-sv-mp4?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-09-23T14:38:28+00:00"
-    },
-    {
-     "title": "Al-Sharaa: Occupied Golan Heights to ‘remain Syrian territory’",
-     "summary": "Syrian President Ahmed al-Sharaa demanded the withdrawal of Israeli forces from Syrian territory.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/al-sharaa-occupied-golan-heights-to-remain-syrian?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-23T14:33:40+00:00"
+     "published": "2026-09-23T17:10:33+00:00"
     },
     {
      "title": "10-year Treasury yield leaps to fresh 19-year high after hot economic readings",
@@ -98,7 +66,63 @@
      "image": "",
      "url": "https://www.cnbc.com/2026/09/23/treasury-yields-oil-inflation-fed.html",
      "source": "CNBC Top News",
-     "published": "2026-09-23T14:30:06+00:00"
+     "published": "2026-09-23T16:56:57+00:00"
+    },
+    {
+     "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+     "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b8d/live/5b472620-b767-11f1-a7b2-f3bdba1cd194.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-09-23T16:53:37+00:00"
+    },
+    {
+     "title": "沈伯洋「市長給我聽好」造假？他喊失望拒投 當事人揭真相打臉",
+     "summary": "民進黨台北市長參選人沈伯洋23日晚間到西門町辦「市長給我聽好了！」活動，開放民眾填寫提問單參與，沈伯洋隨機抽取問題直球對決，和市民交流市政意見。沒有想到有參加者事後指控沈伯洋團隊...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5584287",
+     "source": "自由時報",
+     "published": "2026-09-23T16:51:29+00:00"
+    },
+    {
+     "title": "Israel’s destruction leaves Lebanon’s border villages in ruins",
+     "summary": "",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/israels-destruction-leaves-lebanons-border-villages-in-ruins?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-23T16:48:33+00:00"
+    },
+    {
+     "title": "Trump faces Xi as strains with allies complicate U.S. pressure on China",
+     "summary": "As Trump prepares to meet Xi, strains with U.S. allies are complicating Washington’s efforts to marshal pressure against an increasingly resilient China.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/09/23/trump-xi-china-summit-allies.html",
+     "source": "CNBC Top News",
+     "published": "2026-09-23T16:47:21+00:00"
+    },
+    {
+     "title": "Syria’s al-Sharaa warns Israeli attacks endanger delicate post-war recovery",
+     "summary": "President Ahmed al-Sharaa calls for Israeli withdrawal, condemning its attacks as Syria emerges from civil war.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/9/23/syrias-al-sharaa-warns-israeli-attacks-endanger-delicate-post-war-recovery?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-23T16:44:01+00:00"
+    },
+    {
+     "title": "From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi",
+     "summary": "As President Trump and China's President Xi prepare to meet, Rush Doshi of the Council on Foreign Relations explains the current state of U.S.-China relations and what to expect from this summit.",
+     "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5978691",
+     "url": "https://www.npr.org/2026/09/23/nx-s1-5978691/from-cybersecurity-to-ai-what-at-stake-in-trumps-meeting-with-and-president-xiwhy-the-us-and-china-are-at-a-precarious-moment-in-their-relationship",
+     "source": "NPR News",
+     "published": "2026-09-23T16:13:52+00:00"
+    },
+    {
+     "title": "White House rolling out red carpet for historic Xi Jinping visit",
+     "summary": "Trump and Xi are expected to discuss a range of issues from trade to AI during the latter's multi-day visit to Washington.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15e9/live/9da0b090-b6d1-11f1-b2fe-f10f693c3bae.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/c6n9w410v3vzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-09-23T14:32:37+00:00"
     },
     {
      "title": "It's getting harder to afford rent in the U.S., even for middle-income families",
@@ -107,36 +131,36 @@
      "url": "https://www.npr.org/2026/09/23/nx-s1-5977022/rent-affordability-middle-income",
      "source": "NPR News",
      "published": "2026-09-23T14:09:10+00:00"
-    },
-    {
-     "title": "土耳其高中生持槍校門口掃射 已知11人傷",
-     "summary": "土耳其再度發生校園槍擊案，一名15歲學生帶著長槍來到自己就讀的高職門口開槍掃射，造成11名學生受傷，其中部份傷勢嚴重。另外在加拿大的一所猶太會堂也傳出一名男子跟警方發生槍戰對峙，嫌犯最後傷重不治。",
-     "image": "",
-     "url": "https://news.pts.org.tw/article/828376",
-     "source": "公視新聞",
-     "published": "2026-09-23T13:45:13+00:00"
-    },
-    {
-     "title": "美國民調顯示 85%民眾支持美中就AI議題合作",
-     "summary": "華府川習會召開在即，雙方在議題上的角力受到關注，有旅美政治學者認為，面對北京在對台軍售議題上施壓，美國本身及盟友會有抗衡機制。另外，美中之間儘管有競爭，一份針對美國選民的最新民調顯示，美國民眾認為雙方在AI等特定議題上仍應合作。",
-     "image": "",
-     "url": "https://news.pts.org.tw/article/828383",
-     "source": "公視新聞",
-     "published": "2026-09-23T13:39:44+00:00"
-    },
-    {
-     "title": "Greetings from Edinburgh, where a cheeky tour guide makes art history hilarious",
-     "summary": "For anyone who grew up staring blankly at museum artwork, this is the fun that was missing: Coco leads interactive and (mostly) factual art history comedy tours.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F40%2F95%2Fe2758c654d04a54183931f8fdfda%2Ffarflungpostcard-rr.jpg",
-     "url": "https://www.npr.org/2026/09/23/g-s1-142427/uk-coco-art-history-comedy-tour",
-     "source": "NPR News",
-     "published": "2026-09-23T13:31:47+00:00"
     }
    ]
   },
   "ai": {
    "label": "AI",
    "items": [
+    {
+     "title": "推進實體 AI 與機器人布局！高通宣布收購機器人軟體公司 PickNik",
+     "summary": "高通已同意收購機器人軟體公司 PickNik，進一步推動在實體 AI（Physical AI）與機器人領域的布 […]",
+     "image": "",
+     "url": "https://technews.tw/2026/09/24/qualcomm-to-acquire-picknik-to-advance-the-future-of-open-robotics-and-physical-ai/",
+     "source": "科技新報 TechNews",
+     "published": "2026-09-23T17:25:13+00:00"
+    },
+    {
+     "title": "Fixing the Portobello Police Station Clock",
+     "summary": "Article URL: https://pointinthecloud.com/2026-04-11-211700.html Comments URL: https://news.ycombinator.com/item?id=49817469 Points: 190 # Comments: 47",
+     "image": "",
+     "url": "https://pointinthecloud.com/2026-04-11-211700.html",
+     "source": "Hacker News Front Page",
+     "published": "2026-09-23T15:18:53+00:00"
+    },
+    {
+     "title": "GPT-6 Astra has gained the ability to drive a car",
+     "summary": "Article URL: https://drivingbench.com/ Comments URL: https://news.ycombinator.com/item?id=49817404 Points: 183 # Comments: 159",
+     "image": "",
+     "url": "https://drivingbench.com/",
+     "source": "Hacker News Front Page",
+     "published": "2026-09-23T15:14:22+00:00"
+    },
     {
      "title": "擴大在台布局！牛津儀器啟用新竹全新辦公室，強化在地客戶服務",
      "summary": "英國先進電漿製程業者牛津儀器（Oxford Instruments）擴大啟用台灣辦公室，進一步強化在地客戶服務 […]",
@@ -154,6 +178,14 @@
      "published": "2026-09-23T14:39:51+00:00"
     },
     {
+     "title": "After multiple deaths and injuries, NHTSA is investigating comma.ai",
+     "summary": "Feds know of 5 crashes where cars using comma.ai devices hit slow or stopped vehicles.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1572803728-500x500.jpg",
+     "url": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/",
+     "source": "Ars Technica",
+     "published": "2026-09-23T14:20:23+00:00"
+    },
+    {
      "title": "America gave up its rare earth edge. China took full advantage.",
      "summary": "Decades of cheaper imports left US dependent on China for crucial rare earth processing.",
      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/mpmaterials-500x500.jpg",
@@ -162,8 +194,16 @@
      "published": "2026-09-23T13:37:05+00:00"
     },
     {
-     "title": "Claude Code reads AGENTS.md only when telemetry is on",
-     "summary": "Article URL: https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/ Comments URL: https://news.ycombinator.com/item?id=49814947 Points: 288 # Comments: 132",
+     "title": "I don't want the details",
+     "summary": "Article URL: https://michaelheap.com/i-dont-want-the-details/ Comments URL: https://news.ycombinator.com/item?id=49815466 Points: 221 # Comments: 133",
+     "image": "",
+     "url": "https://michaelheap.com/i-dont-want-the-details/",
+     "source": "Hacker News Front Page",
+     "published": "2026-09-23T13:04:44+00:00"
+    },
+    {
+     "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+     "summary": "Article URL: https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/ Comments URL: https://news.ycombinator.com/item?id=49814947 Points: 372 # Comments: 207",
      "image": "",
      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
      "source": "Hacker News Front Page",
@@ -192,22 +232,6 @@
      "url": "https://finance.technews.tw/2026/09/23/tw-stock-market-no4/",
      "source": "科技新報 TechNews",
      "published": "2026-09-23T10:00:08+00:00"
-    },
-    {
-     "title": "前 Google 首席科學家看好專用晶片，AI 自動化將顛覆晶片設計週期",
-     "summary": "前 Google DeepMind 首席科學家迪恩（Jeff Dean）相信，AI 有助於晶片設計者克服設計週 […]",
-     "image": "",
-     "url": "https://technews.tw/2026/09/23/ai-helps-chip-designers-break-traditional-design-cycle-limits/",
-     "source": "科技新報 TechNews",
-     "published": "2026-09-23T09:44:55+00:00"
-    },
-    {
-     "title": "Jev in 25 Lines of Python",
-     "summary": "Article URL: https://www.nobodywho.ai/posts/jev-in-25-lines/ Comments URL: https://news.ycombinator.com/item?id=49812769 Points: 417 # Comments: 132",
-     "image": "",
-     "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
-     "source": "Hacker News Front Page",
-     "published": "2026-09-23T07:26:23+00:00"
     },
     {
      "title": "Do Synthetic Personas Predict Real Audience Response? A Sim-to-Real Study Where a No-Persona Baseline Beats Persona-Based Copy Simulation",
@@ -240,36 +264,68 @@
      "url": "https://arxiv.org/abs/2609.25088",
      "source": "arXiv cs.AI",
      "published": "2026-09-23T04:00:00+00:00"
-    },
-    {
-     "title": "Transit rewards",
-     "summary": "Article URL: https://waymo.com/blog/2026/09/transit-rewards/ Comments URL: https://news.ycombinator.com/item?id=49811065 Points: 205 # Comments: 249",
-     "image": "",
-     "url": "https://waymo.com/blog/2026/09/transit-rewards/",
-     "source": "Hacker News Front Page",
-     "published": "2026-09-23T02:52:29+00:00"
-    },
-    {
-     "title": "Woman's brain worm infection confirmed after eggs grow tails in lab test",
-     "summary": "There is no single definitive test for these worms, but the tail is fairly convincing.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2280570746-500x500.jpg",
-     "url": "https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/",
-     "source": "Ars Technica",
-     "published": "2026-09-22T21:42:14+00:00"
-    },
-    {
-     "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
-     "summary": "Visual FoxPro stopped at version 9 in 2007. A surprising amount of it is still running, in 32 bits, because rewriting a 20-year-old business app is how you lose the business. A customer wanted to keep…",
-     "image": "",
-     "url": "https://foxscript.org/",
-     "source": "Hacker News Front Page",
-     "published": "2026-09-22T21:00:30+00:00"
     }
    ]
   },
   "sport": {
    "label": "運動",
    "items": [
+    {
+     "title": "Lonzo Ball pushes back on report he is retiring from NBA",
+     "summary": "In a podcast appearance, Ball spoke about his career in the past tense, but said otherwise on social media.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/lonzo-ball-pushes-back-report-171758771.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-23T17:17:58+00:00"
+    },
+    {
+     "title": "Lonzo Ball reflects on how devastating knee injury altered his career, shuts down retirement talk",
+     "summary": "Lonzo Ball is \"still waiting\" for an NBA team to come calling.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/article/lonzo-ball-reflects-on-how-devastating-knee-injury-altered-his-career-shuts-down-retirement-talk-170633240.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-23T17:06:33+00:00"
+    },
+    {
+     "title": "Eriksen leaves Wolfsburg by mutual consent",
+     "summary": "Christian Eriksen leaves Wolfsburg by mutual consent, just over three months after collapsing during Denmark's friendly with Ukraine.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46d9/live/7e4a8ca0-b769-11f1-a7b2-f3bdba1cd194.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cm5yezn8w4xdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-09-23T16:47:34+00:00"
+    },
+    {
+     "title": "Ronaldo spurred on by 1,000 goals and Portugal glory",
+     "summary": "Cristiano Ronaldo contemplated retirement after the World Cup but wants to reach 1,000 career goals and help a new-look Portugal thrive before hanging up his boots.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a59/live/5d7b8060-b769-11f1-a7b2-f3bdba1cd194.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/ck4glyl0nwd6o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-09-23T16:26:38+00:00"
+    },
+    {
+     "title": "What did Kevin Durant say at 2026 Houston Rockets Media Day?",
+     "summary": "He pushed back on the idea that he should play fewer minutes and stuck up for WNBA players.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/did-kevin-durant-2026-houston-162255460.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-23T16:22:55+00:00"
+    },
+    {
+     "title": "The NBA's 5 most interesting newcomers, starring LeBron James, LaMelo Ball and the Lakers' big swing",
+     "summary": "With media day and training camp just around the corner, let's take a look at a few familiar faces in new places.",
+     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ed-091726-nbanewfacesnewplaces_1708.jpg",
+     "url": "https://sports.yahoo.com/nba/article/the-nbas-5-most-interesting-newcomers-starring-lebron-james-lamelo-ball-and-the-lakers-big-swing-162109802.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-23T16:21:09+00:00"
+    },
+    {
+     "title": "Giants’ Jaxson Dart set for season-ending surgery after serious knee injury",
+     "summary": "QB suffered MCL, PCL and meniscus damage Surgery expected to result in full recovery Dart injured on opening drive of Rams defeat New York Giants quarterback Jaxson Dart is expected to undergo knee su…",
+     "image": "https://i.guim.co.uk/img/media/67de2c1c7c5e895d9228e23a9e8938120b3686b9/366_0_2163_1730/master/2163.jpg?width=140&quality=85&auto=format&fit=max&s=101dd7da669b260655d8171f008b80d0",
+     "url": "https://www.theguardian.com/sport/2026/sep/22/jaxson-dart-giants-knee-injury-update",
+     "source": "Guardian Sport",
+     "published": "2026-09-23T16:10:32+00:00"
+    },
     {
      "title": "The moment Antonelli knew he had been transformed as an F1 driver",
      "summary": "Championship leader Kimi Antonelli tells BBC Sport how he is \"still finding my way\" in F1 after a 2024 crash \"stayed in my head for a very long time\".",
@@ -295,60 +351,12 @@
      "published": "2026-09-23T14:10:21+00:00"
     },
     {
-     "title": "England players carrying World Cup scar - Saka",
-     "summary": "England winger Bukayo Saka says the team are still carrying the \"scar\" of their heartbreaking World Cup semi-final exit to Argentina.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aa8/live/5af6d780-b74c-11f1-b1d1-571ed4d7ff2c.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cvde0jw2l6g4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-09-23T14:03:42+00:00"
-    },
-    {
-     "title": "How will the Hornets replace LaMelo Ball? Here's what Charlotte is betting on this season",
-     "summary": "LaMelo was the engine of the NBA's most devastating lineup, but the franchise is shifting gears.",
-     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ed-092326-nba-previews-hornets-replacing-lamelo_5519.jpg",
-     "url": "https://sports.yahoo.com/nba/article/how-will-the-hornets-replace-lamelo-ball-heres-what-charlotte-is-betting-on-this-season-134659672.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-09-23T13:46:59+00:00"
-    },
-    {
-     "title": "College basketball world mourns Chris Spatola's death: 'All-time great dudes'",
-     "summary": "Chris Spatola was 'one of the all-time great dudes.' Here's how college basketball is mourning the loss of the ESPN analyst, who died Sept. 21:",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/college-basketball-world-mourns-chris-132531113.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-09-23T13:25:31+00:00"
-    },
-    {
-     "title": "Chelsea have entered the realm of late-stage American sports capitalism | Leander Schaerlaeckens",
-     "summary": "The Blues’ lack of success was no impediment to Todd Boehly and Mark Walter recouping profits from the club’s sale. That’s how things work in the US Here follows a list of the things accomplished at C…",
-     "image": "https://i.guim.co.uk/img/media/c7eb197f9bd87f35313ec17288b0356a33dd2b30/359_0_4623_3700/master/4623.jpg?width=140&quality=85&auto=format&fit=max&s=50364d67e3ccef4b26317563f05d0499",
-     "url": "https://www.theguardian.com/football/2026/sep/23/chelsea-sale-american-sports-capitalism",
-     "source": "Guardian Sport",
-     "published": "2026-09-23T13:16:41+00:00"
-    },
-    {
-     "title": "Bucks reportedly being investigated by NBA for possible salary-cap circumvention in deal with Gary Trent Jr.",
-     "summary": "Gary Trent Jr.'s new contract raised some eyebrows around the league.",
-     "image": "",
-     "url": "https://sports.yahoo.com/nba/breaking-news/article/gary-trent-jr-milwaukee-bucks-nba-salary-cap-circumvantion-investigation-130510299.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-09-23T13:05:10+00:00"
-    },
-    {
      "title": "Panic level for Giants, Bears amid rash of QB injuries; MLB postseason scenarios as Rays clinch AL East",
      "summary": "Plus Pete Prisco's Week 3 NFL Power Rankings",
      "image": "https://sportshub.cbsistatic.com/i/2026/09/23/1873bd65-25f9-4d66-9f9b-471a99abe304/gettyimages-2296473729-1.jpg",
      "url": "https://www.cbssports.com/nfl/news/panic-level-for-giants-bears-amid-rash-of-qb-injuries-mlb-postseason-scenarios-as-rays-clinch-al-east/",
      "source": "CBS Sports NBA",
      "published": "2026-09-23T13:02:53+00:00"
-    },
-    {
-     "title": "It’s now or never for the Cleveland Cavaliers",
-     "summary": "The 2026-27 NBA season feels like a make-or-break year for this version of the Cleveland Cavaliers.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/8214ee693cca8d01ed79f19917e7bbfc.jpg",
-     "url": "https://sports.yahoo.com/articles/now-never-cleveland-cavaliers-120000841.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-09-23T12:00:00+00:00"
     },
     {
      "title": "Lynx clinch WNBA No 1 seed despite ‘embarrassing’ loss to Fever and Olivia Miles injury",
@@ -365,14 +373,6 @@
      "url": "https://www.theguardian.com/sport/2026/sep/23/jack-dempsey-gene-tunney-boxing",
      "source": "Guardian Sport",
      "published": "2026-09-23T09:00:08+00:00"
-    },
-    {
-     "title": "Hunting hidden gems - is there anywhere in the world left to scout?",
-     "summary": "Through live scouting and increasing data and footage, top clubs now have tabs on a large proportion of the world's talent.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1ac/live/0e024620-b1d0-11f1-8493-1910d79d53eb.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c6y8zp2v1zl4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-09-23T05:24:56+00:00"
     },
     {
      "title": "Kawhi Leonard contract breakdown: What $115 million extension means as Raptors try to compete in loaded East",
