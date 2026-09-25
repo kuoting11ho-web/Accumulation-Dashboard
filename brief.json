@@ -1,48 +1,48 @@
 {
- "generated": "2026-09-25T17:59:00.870067+00:00",
+ "generated": "2026-09-25T20:03:33.895783+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "Meta's 'powerful breakout' sets up a unique trading strategy, says Mike Khouw",
-     "summary": "With a brilliant hardware funnel and an options market pricing in juicy short-term premiums, Meta looks primed for a powerful breakout into 2027.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/09/25/-metas-powerful-breakout-sets-up-a-unique-trading-strategy-says-mike-khouw.html",
-     "source": "CNBC Top News",
-     "published": "2026-09-25T17:57:14+00:00"
-    },
-    {
-     "title": "US top court allows Trump to use controversial voter verification system",
-     "summary": "Voting rights groups have warned system may falsely identify voters as non-citizens, leading to disenfranchisement.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/9/25/us-top-court-allows-trump-to-use-controversial-voter-verification-system?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-25T17:45:24+00:00"
-    },
-    {
-     "title": "Lebanese in Brazil, Brazilian in Lebanon",
-     "summary": "Their families left Lebanon generations ago. For some Lebanese Brazilians, Lebanon’s pull never disappeared.",
-     "image": "",
-     "url": "https://www.aljazeera.com/features/longform/2026/9/25/lebanese-in-brazil-brazilian-in-lebanon?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-25T17:44:39+00:00"
-    },
-    {
-     "title": "S&P 500 rises, heads for winning week despite Treasury yield surge: Live updates",
+     "title": "Dow jumps more than 470 points Friday; stocks notch winning week despite Treasury yield surge: Live updates",
      "summary": "Wall Street gets set to wrap up a volatile week of trading, with a surge in Treasury yields rippling through financial markets.",
      "image": "",
      "url": "https://www.cnbc.com/2026/09/24/stock-market-today-live-updates.html",
      "source": "CNBC Top News",
-     "published": "2026-09-25T17:37:31+00:00"
+     "published": "2026-09-25T20:03:11+00:00"
     },
     {
-     "title": "Al Jazeera rejects Netanyahu’s attack on journalists in UN speech",
-     "summary": "Israeli PM's criticism of Al Jazeera during UNGA address threatens safety of journalists, the media network says.",
+     "title": "習近平訪美國家檔案局　示威與歡迎團體高聲對峙",
+     "summary": "中國國家主席習近平今天結束訪美行程，最後一站參訪美國國家檔案局時，示威者與大批中國僑民團體揮舞旗幟標語，高聲對峙。 中國國家主席習近平25日訪美行程結束前，與第一夫人彭麗媛參訪美國國家檔案...…",
      "image": "",
-     "url": "https://www.aljazeera.com/news/2026/9/25/al-jazeera-rejects-netanyahus-attack-on-journalists-in-un-speech?traffic_source=rss",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5586445",
+     "source": "自由時報",
+     "published": "2026-09-25T19:45:06+00:00"
+    },
+    {
+     "title": "Pakistan PM calls Houthi threats to Saudi holy sites a ‘red line’",
+     "summary": "Pakistan PM, a signatory to the Mecca Joint Defence Agreement, condemned Houthi attacks on Saudi Arabia at UNGA 81.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/pakistan-pm-calls-houthi-threats-to-saudi-holy-sites-a-red?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-09-25T17:34:16+00:00"
+     "published": "2026-09-25T19:38:21+00:00"
+    },
+    {
+     "title": "How Israel’s ‘Blue Line’ team seizes Palestinian land in the West Bank",
+     "summary": "Little-known Israeli map team is redrawing land boundaries as Palestinians face growing illegal settlement expansion.",
+     "image": "",
+     "url": "https://www.aljazeera.com/features/2026/9/25/how-israels-blue-line-team-seizes-palestinian-land-in-the-west-bank?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-25T19:24:46+00:00"
+    },
+    {
+     "title": "UN expands list of firms involved in illegal Israeli settlement activities",
+     "summary": "With addition of 61 more companies, the list now includes 214 businesses in 11 countries, most of them Israeli.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/9/25/un-expands-list-of-firms-involved-in-illegal-israeli-settlement-activities?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-25T19:21:57+00:00"
     },
     {
      "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
@@ -50,39 +50,79 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a7/live/59b8b570-b8fd-11f1-83cd-2998f68d9572.jpg",
      "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-09-25T17:32:15+00:00"
+     "published": "2026-09-25T19:13:35+00:00"
     },
     {
-     "title": "Timeline: Man City’s Premier League financial charges to reported verdict",
-     "summary": "City reportedly found guilty of all but one of the 115 charges that were first brought in February 2023.",
+     "title": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
+     "summary": "The visit comes at an important time for both men.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3653x2435+0+0/resize/3653x2435!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F16%2F38%2F97ce22624b4c96a4c2989507b836%2Fgettyimages-2297112576.jpg",
+     "url": "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas",
+     "source": "NPR News",
+     "published": "2026-09-25T19:11:47+00:00"
+    },
+    {
+     "title": "Iran threatens widespread disruption as Iraq halts Iran flights",
+     "summary": "Iraq has suspended Iranian flights at all four airports where they operated",
      "image": "",
-     "url": "https://www.aljazeera.com/sports/2026/9/25/timeline-man-citys-premier-league-financial-charges-to-reported-verdict?traffic_source=rss",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/iran-threatens-widespread-disruption-as-iraq-halts-iran-flights?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-09-25T17:20:58+00:00"
+     "published": "2026-09-25T19:11:03+00:00"
     },
     {
-     "title": "長文曝明華園婉拒演出的顧慮   陳昭賢：我對鍘美藝術節最後一次的回應",
-     "summary": "雖然「鍘美藝術節」已經落幕，但明華園總團最初受邀即婉拒一事，至今仍受關注。孫翠鳳與陳昭賢母女24日出席傳藝中心記者會時，又被問及此事，讓陳昭賢事後覺得，占用了當天一起接受...…",
+     "title": "《TAIPEI TIMES》 Taiwan Expo USA eyes partnerships",
+     "summary": "TAIWAN PAVILION: A public-private delegation is attending the Texas expo to help Taiwanese agricultu...…",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/art/breakingnews/5586439",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5586405",
      "source": "自由時報",
-     "published": "2026-09-25T17:07:10+00:00"
+     "published": "2026-09-25T19:00:00+00:00"
     },
     {
-     "title": "高雄大樓陽台深夜起火 男中秋放煙火慘了",
-     "summary": "中秋節放煙火悲劇了！高雄市新興區八德二路某大樓7、8樓昨（25）日深夜陽台竄出火舌，警消獲報到場，半小時內撲滅火勢，一查起竟是樓下民眾放煙火釀禍，警方肇事35歲陳男依公共危險罪...…",
+     "title": "《TAIPEI TIMES》 Young skateboarders add to medals",
+     "summary": "TAIWAN TALLY 21: Ku Yong-yan, 12, overcame several errors to claim silver in the men’s park event, w...…",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/society/breakingnews/5586437",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5586389",
      "source": "自由時報",
-     "published": "2026-09-25T17:03:08+00:00"
+     "published": "2026-09-25T19:00:00+00:00"
     },
     {
-     "title": "圖書分潤意外的「秋節獎金」竟夠付房租！ 網曝原來水獺媽媽爭取來",
-     "summary": "文化部於中秋節前夕宣布第2階段「公共出借權」試辦計畫第3期補償金，許多創作者與譯者紛紛收到撥付通知，有譯者開心自曝收到超過2萬元，像額外收到一筆「秋節獎金」，意外成為連假...…",
+     "title": "《TAIPEI TIMES》 Malaysia to allow import of pigs and boar semen",
+     "summary": "By Esme Yeh / Staff reporter Malaysia has agreed to allow the importation of Taiwanese breeding p...…",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/art/breakingnews/5586435",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5586417",
      "source": "自由時報",
-     "published": "2026-09-25T16:34:43+00:00"
+     "published": "2026-09-25T19:00:00+00:00"
+    },
+    {
+     "title": "Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways",
+     "summary": "President Trump and Chinese leader Xi went heavy on the ceremony and light on deliverables as they danced around Taiwan and Iran during two days in Washington.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/09/25/trump-xi-summit-takeaways.html",
+     "source": "CNBC Top News",
+     "published": "2026-09-25T18:52:40+00:00"
+    },
+    {
+     "title": "Saudi Arabia crude oil exports hit highest level since Iran war began despite pipeline outage",
+     "summary": "Saudi exports are rising despite escalating attacks on its infrastructure from Iran-backed militants in Yemen and Iraq.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/09/25/saudi-arabia-oil-iran-war-pipeline-strait-hormuz-red-sea-houthis.html",
+     "source": "CNBC Top News",
+     "published": "2026-09-25T18:46:23+00:00"
+    },
+    {
+     "title": "Zelensky says Russia has widened attacks to hit Ukraine's data centres",
+     "summary": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7588/live/6c3865d0-b900-11f1-83cd-2998f68d9572.png",
+     "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-09-25T18:02:55+00:00"
+    },
+    {
+     "title": "Burnham pledges extra £210m towards regenerating boarded-up high streets",
+     "summary": "Funds to help local people turn empty shops, pubs and clubs into community hubs, shared workspaces and cafes The UK government has pledged £210m to regenerate high streets by taking boarded-up shops,…",
+     "image": "https://i.guim.co.uk/img/media/34983a3deb797e2bf8522ba39abf422e601be1c9/174_0_4316_3453/master/4316.jpg?width=140&quality=85&auto=format&fit=max&s=f9ca72db3fd4a3689a6ba12321fe732a",
+     "url": "https://www.theguardian.com/business/2026/sep/25/burnham-pledges-extra-210m-regenerate-high-streets",
+     "source": "Guardian Business",
+     "published": "2026-09-25T18:00:13+00:00"
     },
     {
      "title": "Healey appoints Labour manifesto writer, adding to election speculation",
@@ -91,52 +131,44 @@
      "url": "https://www.theguardian.com/politics/2026/sep/25/labour-appoints-manifesto-writer-ravinder-athwal-treasury",
      "source": "Guardian Business",
      "published": "2026-09-25T16:34:13+00:00"
-    },
-    {
-     "title": "Alberta’s ‘rat patrol’ ramps up operations as vermin makes inroads in province",
-     "summary": "‘Rat-free’ Canadian province recently took a verminous hit when a dead rodent turned up in town of Bowden For more than seven decades, residents of Alberta have shared something in common with Antarct…",
-     "image": "https://i.guim.co.uk/img/media/52db2db2049a51aa93fcbdf2fe20ab530a817b5a/912_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=5ad581a8a97dbd4ae4c35f1828da38e1",
-     "url": "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol",
-     "source": "Guardian World",
-     "published": "2026-09-25T16:34:05+00:00"
-    },
-    {
-     "title": "中秋後苦盡甘來！4星座「財貴雙開」強勢揭榜",
-     "summary": "〔娛樂頻道／綜合報導〕走過中秋，本週星象迎來劇烈重整。清水孟篠安老師分析9/27–10/3星象提醒，這個星期有一種很強烈的「我真正想要的是什麼？」的氣氛，有些舊人、舊事或老問題會在意料之外重新出...…",
-     "image": "",
-     "url": "https://ent.ltn.com.tw/news/breakingnews/5586406",
-     "source": "自由時報",
-     "published": "2026-09-25T16:33:00+00:00"
-    },
-    {
-     "title": "Woman who accused Jay-Z of sexual assault says her claims were false",
-     "summary": "On Thursday, the woman identified as Jane Doe filed a declaration in Manhattan federal court stating that all of her original claims against the rapper were false.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3501x2472+0+0/resize/3501x2472!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8a%2Fcf%2F8f56f4f7436bb5f144bbda8fe616%2Fgettyimages-1911124242.jpg",
-     "url": "https://www.npr.org/2026/09/25/nx-s1-5981154/jay-z-sexual-assault-accuser-claims-false",
-     "source": "NPR News",
-     "published": "2026-09-25T16:14:24+00:00"
-    },
-    {
-     "title": "There's a global pandemic treaty that's signed -- and in 'limbo.' What's the holdup?",
-     "summary": "The treaty aims to help the countries of the world prepare for — and defeat — any future pandemic. Why hasn't it gone into effect?",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3750+0+0/resize/5000x3750!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcc%2Fc1%2F28098e704f97bdaa12c607baf7b0%2Fcovid-dna-1203072511.jpg",
-     "url": "https://www.npr.org/2026/09/25/g-s1-144948/pandemic-prevention-treaty-agreement-world-health-organization",
-     "source": "NPR News",
-     "published": "2026-09-25T15:57:35+00:00"
-    },
-    {
-     "title": "The Supreme Court revives a controversial data system for citizenship checks",
-     "summary": "The Supreme Court is allowing use of a data system that Trump officials overhauled. The system has erroneously flagged U.S. citizens and a lower court found it violated federal privacy protections.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4922x3281+0+0/resize/4922x3281!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F15%2F0e%2F79f80ac8489f9afb592253709d92%2Fap26182680341445.jpg",
-     "url": "https://www.npr.org/2026/09/25/nx-s1-5976804/supreme-court-trump-save-noncitizen-voting",
-     "source": "NPR News",
-     "published": "2026-09-25T15:40:57+00:00"
     }
    ]
   },
   "ai": {
    "label": "AI",
    "items": [
+    {
+     "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
+     "summary": "Better thermals and battery life make this iterative update nicer to use.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/iPhone-18-Pro-500x500.jpg",
+     "url": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/",
+     "source": "Ars Technica",
+     "published": "2026-09-25T19:34:42+00:00"
+    },
+    {
+     "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+     "summary": "\"There is no evidence of any significant, widespread displacement or reduction in hiring”",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/graduates-500x500-1790363419.jpg",
+     "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+     "source": "Ars Technica",
+     "published": "2026-09-25T19:11:05+00:00"
+    },
+    {
+     "title": "Paramount/WBD merger conditions give the public \"virtually nothing,\" judge is told",
+     "summary": "US judge reviews deal with California, says it must not be result of collusion.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-water-tower-logo-500x500.jpg",
+     "url": "https://arstechnica.com/tech-policy/2026/09/paramount-wbd-merger-conditions-give-the-public-virtually-nothing-judge-is-told/",
+     "source": "Ars Technica",
+     "published": "2026-09-25T18:42:57+00:00"
+    },
+    {
+     "title": "Is solar's growth finally slowing in the US?",
+     "summary": "Renewables easily cover changes in US demand, which is rising by 2% in 2026.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1486053188-500x500.jpg",
+     "url": "https://arstechnica.com/science/2026/09/is-solars-growth-finally-slowing-in-the-us/",
+     "source": "Ars Technica",
+     "published": "2026-09-25T18:27:18+00:00"
+    },
     {
      "title": "123 億年前的宇宙考古，哈伯望遠鏡揭銀河系第二次巨型碰撞",
      "summary": "在天文學界，重構銀河系的生長史就像是在進行一場跨越百億年的古生物考古。長期以來，天文學家知道銀河系並非一誕生就 […]",
@@ -147,7 +179,7 @@
     },
     {
      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-     "summary": "Article URL: https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html Comments URL: https://news.ycombinator.com/item?id=49845977 Points: 187 # Comments: 227",
+     "summary": "Article URL: https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html Comments URL: https://news.ycombinator.com/item?id=49845977 Points: 258 # Comments: 394",
      "image": "",
      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
      "source": "Hacker News Front Page",
@@ -155,19 +187,19 @@
     },
     {
      "title": "Factorio that you can touch",
-     "summary": "Article URL: https://factorio.com/blog/post/fff-447 Comments URL: https://news.ycombinator.com/item?id=49845133 Points: 154 # Comments: 22",
+     "summary": "Article URL: https://factorio.com/blog/post/fff-447 Comments URL: https://news.ycombinator.com/item?id=49845133 Points: 239 # Comments: 59",
      "image": "",
      "url": "https://factorio.com/blog/post/fff-447",
      "source": "Hacker News Front Page",
      "published": "2026-09-25T14:24:42+00:00"
     },
     {
-     "title": "Allow Carriers on Planes",
-     "summary": "Article URL: https://www.jefftk.com/p/allow-carriers-on-planes Comments URL: https://news.ycombinator.com/item?id=49844786 Points: 163 # Comments: 181",
+     "title": "First Principles Thinking",
+     "summary": "Article URL: https://sunilsadasivan.com/writing/first-principles-thinking/ Comments URL: https://news.ycombinator.com/item?id=49844736 Points: 152 # Comments: 61",
      "image": "",
-     "url": "https://www.jefftk.com/p/allow-carriers-on-planes",
+     "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
      "source": "Hacker News Front Page",
-     "published": "2026-09-25T14:00:10+00:00"
+     "published": "2026-09-25T13:55:37+00:00"
     },
     {
      "title": "微軟強化 Copilot，三大功能接軌企業需求",
@@ -178,8 +210,8 @@
      "published": "2026-09-25T12:00:28+00:00"
     },
     {
-     "title": "Platform-Independent SIMD in Go",
-     "summary": "Article URL: https://go.dev/blog/simd-experiment Comments URL: https://news.ycombinator.com/item?id=49843269 Points: 238 # Comments: 86",
+     "title": "Platform-independent SIMD in Go",
+     "summary": "Article URL: https://go.dev/blog/simd-experiment Comments URL: https://news.ycombinator.com/item?id=49843269 Points: 295 # Comments: 112",
      "image": "",
      "url": "https://go.dev/blog/simd-experiment",
      "source": "Hacker News Front Page",
@@ -232,38 +264,6 @@
      "url": "https://arxiv.org/abs/2609.28547",
      "source": "arXiv cs.AI",
      "published": "2026-09-25T04:00:00+00:00"
-    },
-    {
-     "title": "Pistis Technical Report",
-     "summary": "arXiv:2609.28554v1 Announce Type: new Abstract: We introduce the Pistis model family, comprising 27B- and 9B-parameter multimodal large language models built on Qwen3.6 and Qwen3.5, respectively, and…",
-     "image": "",
-     "url": "https://arxiv.org/abs/2609.28554",
-     "source": "arXiv cs.AI",
-     "published": "2026-09-25T04:00:00+00:00"
-    },
-    {
-     "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
-     "summary": "Health department previously blamed delay on \"not yet finalized procurement decisions.\"",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2271874300-500x500.jpg",
-     "url": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/",
-     "source": "Ars Technica",
-     "published": "2026-09-24T22:29:48+00:00"
-    },
-    {
-     "title": "Donald Duck's uncle was partly based on Wernher von Braun",
-     "summary": "Introducing the \"world-famous authority on outer space...\"",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/news-092426a-lg-500x500.jpg",
-     "url": "https://arstechnica.com/space/2026/09/disneys-ludwig-von-drake-was-inspired-by-rocket-scientists-65-years-ago/",
-     "source": "Ars Technica",
-     "published": "2026-09-24T21:40:07+00:00"
-    },
-    {
-     "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
-     "summary": "F-Droid's Android app store has been rebuilt from the ground up.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/F-Droid2-1-500x500.jpg",
-     "url": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/",
-     "source": "Ars Technica",
-     "published": "2026-09-24T19:30:42+00:00"
     }
    ]
   },
@@ -271,55 +271,63 @@
    "label": "運動",
    "items": [
     {
-     "title": "Manchester City guilty of breaching Premier League’s financial fair play rules – live reaction",
-     "summary": "Full story | Club expected to appeal against ruling Timeline: City trophies and charges | Mail John One of the best players in the world right now is Raphinha and Sid Lowe sat down with him about life…",
-     "image": "https://i.guim.co.uk/img/media/a74de0ff9892462728441d401296e1d32e81ef9e/380_0_6901_5522/master/6901.jpg?width=140&quality=85&auto=format&fit=max&s=96f13e1d047e67e141eef75ff6f7d542",
-     "url": "https://www.theguardian.com/football/live/2026/sep/25/havertz-injury-latest-haaland-fires-norway-to-victory-england-v-spain-buildup-and-more-football-news-live",
+     "title": "Turkey v France, Italy v Belgium, Northern Ireland win in Georgia: Nations League – live",
+     "summary": "⚽ Updates from Friday evening’s Nations League games ⚽ Live scoreboard | Read Football Daily | Mail Michael Before kick-off in Italy , there is a minute’s applause for Sandro Mazzola, the legendary In…",
+     "image": "https://i.guim.co.uk/img/media/8936d831ae164f7b7f4073695963bea95b313034/391_0_3526_2820/master/3526.jpg?width=140&quality=85&auto=format&fit=max&s=6bcf26c3b13b982b58239b8a393f9784",
+     "url": "https://www.theguardian.com/football/live/2026/sep/25/turkey-v-france-italy-v-belgium-and-more-nations-league-clockwatch-live",
      "source": "Guardian Sport",
-     "published": "2026-09-25T17:45:35+00:00"
+     "published": "2026-09-25T19:54:35+00:00"
     },
     {
-     "title": "Mavs' Cooper Flagg says he's grown an inch, is now 6-foot-10 without shoes",
-     "summary": "Flagg was listed at 6-foot-9 last season, during which he earned NBA Rookie of the Year honors at 19 years old.",
+     "title": "Man City guilty of majority of 115 charges - 5 Live reaction",
+     "summary": "What next for Man City and the Premier League after being found guilty of 114 charges?",
+     "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg",
+     "url": "https://www.bbc.co.uk/sounds/play/p0pckjx7?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-09-25T19:48:00+00:00"
+    },
+    {
+     "title": "Latest NBA news, rumors heading into 2026 training camps: Grizzlies waive D'Angelo Russell",
+     "summary": "Also, the Mavericks signed Dwight Powell but will not have Dereck Lively II.",
      "image": "",
-     "url": "https://sports.yahoo.com/nba/article/mavs-cooper-flagg-says-hes-grown-an-inch-is-now-6-foot-10-without-shoes-173047483.html",
+     "url": "https://sports.yahoo.com/articles/latest-nba-news-rumors-heading-192327138.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-09-25T17:30:47+00:00"
+     "published": "2026-09-25T19:23:27+00:00"
     },
     {
-     "title": "Israel’s match with Republic of Ireland will be an eerie occasion as political debate rages on",
-     "summary": "Despite fierce opposition to the Nations League encounters across Irish society, a boycott has not materialised The match is being played in a neutral country and the stands are likely to be empty but…",
-     "image": "https://i.guim.co.uk/img/media/b18348648ad087fce0db939c1637f24d41a6f8e2/964_329_2481_1984/master/2481.jpg?width=140&quality=85&auto=format&fit=max&s=31b680c611f24b97a55fa3d33a0ef5a3",
-     "url": "https://www.theguardian.com/football/2026/sep/25/republic-of-ireland-israel-nations-league-serbia",
-     "source": "Guardian Sport",
-     "published": "2026-09-25T17:00:07+00:00"
+     "title": "The Chase Down Podcast joins for a Cavs conversation + WNBA Playoff Preview",
+     "summary": "Nekias Duncan and Steve Jones are joined by Justin Rowan and Carter Rodriguez (The Chase Down Podcast) for a wide-ranging conversation about the Cleveland Cavaliers. Plus, Steve and Nekias preview the…",
+     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/tds-cavs-thumb_9472.png",
+     "url": "https://sports.yahoo.com/nba/article/the-chase-down-podcast-joins-for-a-cavs-conversation--wnba-playoff-preview-180927949.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-25T18:09:27+00:00"
     },
     {
-     "title": "D'Angelo Russell reportedly waived by Grizzlies 2 months after trade from Wizards",
-     "summary": "Russell's next team will be his fourth in the past two seasons.",
+     "title": "Jalen Brunson says he is fully cleared for training camp after offseason wrist surgery",
+     "summary": "The NBA Finals MVP will be good to go for training camp next week (after hosting Saturday Night Live).",
      "image": "",
-     "url": "https://sports.yahoo.com/nba/article/dangelo-russell-reportedly-waived-by-grizzlies-2-months-after-trade-from-wizards-165351084.html",
+     "url": "https://sports.yahoo.com/articles/jalen-brunson-says-fully-cleared-174830971.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-09-25T16:53:51+00:00"
+     "published": "2026-09-25T17:48:30+00:00"
     },
     {
-     "title": "Jalen Brunson says he's 'fully cleared' for Knicks training camp after offseason wrist surgery",
-     "summary": "When the Knicks officially begin their NBA championship defense next week, their captain will be on the floor leading them.",
-     "image": "https://d29szjachogqwa.cloudfront.net/images/2026-09/e547cd95-1d34-471c-abd5-a8895d189a7e",
-     "url": "https://sports.yahoo.com/nba/article/jalen-brunson-says-hes-fully-cleared-for-knicks-training-camp-after-offseason-wrist-surgery-164430661.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-09-25T16:44:30+00:00"
+     "title": "LeBron James details three main reasons he chose 76ers, including wanting to help Joel Embiid win a title",
+     "summary": "James offered his most in-depth comments yet on signing with Philadelphia as a free agent",
+     "image": "https://sportshub.cbsistatic.com/i/2026/09/25/1b991c54-a8a2-40da-a92d-e8cf2a6f41ba/lebron.jpg",
+     "url": "https://www.cbssports.com/nba/news/lebron-james-reasons-76ers-joel-embiid-jaylen-brown-tyrese-maxey/",
+     "source": "CBS Sports NBA",
+     "published": "2026-09-25T17:45:27+00:00"
     },
     {
-     "title": "LeBron James on why Philadelphia: 'One of the most important [reasons] is the big fella,' Joel Embiid",
-     "summary": "LeBron also talks says how close he is to Tyrese Maxey mattered, as did the Jaylen Brown trade.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/lebron-james-why-philadelphia-one-163723865.html",
+     "title": "JJ Redick says this is the first time in Lakers tenure the roster ‘actually fits together’",
+     "summary": "The Lakers head coach feels this team has a cohesive identity for the first time since he was hired two years ago",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/30301b8e986b977706a149a15c299826.jpg",
+     "url": "https://sports.yahoo.com/articles/jj-redick-says-first-time-174500028.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-09-25T16:37:23+00:00"
+     "published": "2026-09-25T17:45:00+00:00"
     },
     {
-     "title": "Man City and the 115 charges - key questions answered",
+     "title": "Relegation? Titles stripped? Appeals? What next for Man City",
      "summary": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Man City. Here's what it means.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d05b/live/c288fcf0-b8f2-11f1-bd4a-e9ce4be469f6.jpg",
      "url": "https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss",
@@ -327,20 +335,20 @@
      "published": "2026-09-25T16:03:43+00:00"
     },
     {
-     "title": "Who is hacker whose revelations led to Man City charges?",
-     "summary": "Rui Pinto is the convicted computer hacker whose revelations led to Manchester City facing Premier League charges of alleged financial rule breaches. But who is he?",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f77a/live/cd85dd00-b8f0-11f1-a430-4d16ee157c41.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/videos/cmj644284k18o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-09-25T15:55:40+00:00"
+     "title": "Manchester City found guilty of breaking Premier League’s financial fair play rules",
+     "summary": "City face sanctions after more than 100 rule breaches Club insist on innocence and are expected to appeal Manchester City have been found guilty of the vast majority of more than a hundred charges rel…",
+     "image": "https://i.guim.co.uk/img/media/2f187b84469393bd82ddc3c1ebf3e1f336863d40/0_83_3216_1930/master/3216.jpg?width=140&quality=85&auto=format&fit=max&s=ca6ee1581568b5a09637d50349c5a5f1",
+     "url": "https://www.theguardian.com/football/2026/sep/25/manchester-city-found-guilty-of-breaking-premier-leagues-financial-fair-play-rules",
+     "source": "Guardian Sport",
+     "published": "2026-09-25T15:35:49+00:00"
     },
     {
-     "title": "Palmer misses too many opportunities to play for England - Tuchel",
-     "summary": "Thomas Tuchel has said that Cole Palmer \"misses too many opportunities\" to play for England after the Chelsea forward pulled out of the latest squad.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cad/live/f8913870-b8ee-11f1-a698-ff5dd8cb1a06.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cm9dww15527lo?at_medium=RSS&at_campaign=rss",
+     "title": "Clubs seek legal advice over Man City charges compensation",
+     "summary": "Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c82a/live/45b270d0-b915-11f1-b1d1-571ed4d7ff2c.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
-     "published": "2026-09-25T15:54:03+00:00"
+     "published": "2026-09-25T15:07:21+00:00"
     },
     {
      "title": "What could the potential sanctions for Man City be?",
@@ -389,14 +397,6 @@
      "url": "https://www.cbssports.com/nba/news/bob-pettit-dies-nba-first-most-valuable-player-hawks-lsu/",
      "source": "CBS Sports NBA",
      "published": "2026-09-24T22:22:46+00:00"
-    },
-    {
-     "title": "Karl-Anthony Towns contract negotiations show how difficult it will be for Knicks to keep title core together",
-     "summary": "Towns, a centerpiece of the Knicks' championship run, is entering the final guaranteed year of his deal",
-     "image": "https://sportshub.cbsistatic.com/i/2026/09/24/eeb1d8b9-6620-4be3-b7b3-79d354a7e679/kat-contract-getty.png",
-     "url": "https://www.cbssports.com/nba/news/karl-anthony-towns-knicks-contract-negotiations/",
-     "source": "CBS Sports NBA",
-     "published": "2026-09-24T21:19:43+00:00"
     }
    ]
   }
