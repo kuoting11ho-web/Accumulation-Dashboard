@@ -1,142 +1,174 @@
 {
- "generated": "2026-09-25T15:20:19.368843+00:00",
+ "generated": "2026-09-25T17:59:00.870067+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "亞運棒球》不是林昱珉！台灣隊保留王牌 明推旅日徐翔聖迎戰日本隊",
-     "summary": "台灣隊今天9:1大勝中國，另一地社會人為主日本隊5:0擊敗職棒聯軍為主南韓隊。台灣隊和日本隊明天交手，在先發人選方面，台灣隊最後決定選擇旅日徐翔聖先發。 在王彥程今天...…",
+     "title": "Meta's 'powerful breakout' sets up a unique trading strategy, says Mike Khouw",
+     "summary": "With a brilliant hardware funnel and an options market pricing in juicy short-term premiums, Meta looks primed for a powerful breakout into 2027.",
      "image": "",
-     "url": "https://sports.ltn.com.tw/news/breakingnews/5586423",
-     "source": "自由時報",
-     "published": "2026-09-25T15:16:36+00:00"
+     "url": "https://www.cnbc.com/2026/09/25/-metas-powerful-breakout-sets-up-a-unique-trading-strategy-says-mike-khouw.html",
+     "source": "CNBC Top News",
+     "published": "2026-09-25T17:57:14+00:00"
     },
     {
-     "title": "Stocks edge higher, but Dow heads for fourth straight losing week: Live updates",
+     "title": "US top court allows Trump to use controversial voter verification system",
+     "summary": "Voting rights groups have warned system may falsely identify voters as non-citizens, leading to disenfranchisement.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/9/25/us-top-court-allows-trump-to-use-controversial-voter-verification-system?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-25T17:45:24+00:00"
+    },
+    {
+     "title": "Lebanese in Brazil, Brazilian in Lebanon",
+     "summary": "Their families left Lebanon generations ago. For some Lebanese Brazilians, Lebanon’s pull never disappeared.",
+     "image": "",
+     "url": "https://www.aljazeera.com/features/longform/2026/9/25/lebanese-in-brazil-brazilian-in-lebanon?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-25T17:44:39+00:00"
+    },
+    {
+     "title": "S&P 500 rises, heads for winning week despite Treasury yield surge: Live updates",
      "summary": "Wall Street gets set to wrap up a volatile week of trading, with a surge in Treasury yields rippling through financial markets.",
      "image": "",
      "url": "https://www.cnbc.com/2026/09/24/stock-market-today-live-updates.html",
      "source": "CNBC Top News",
-     "published": "2026-09-25T15:11:57+00:00"
+     "published": "2026-09-25T17:37:31+00:00"
     },
     {
-     "title": "Pope warns against 'losing humanity' to AI machines",
-     "summary": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7dd/live/5ddfe0d0-b8c4-11f1-b1d1-571ed4d7ff2c.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+     "title": "Al Jazeera rejects Netanyahu’s attack on journalists in UN speech",
+     "summary": "Israeli PM's criticism of Al Jazeera during UNGA address threatens safety of journalists, the media network says.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/9/25/al-jazeera-rejects-netanyahus-attack-on-journalists-in-un-speech?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-25T17:34:16+00:00"
+    },
+    {
+     "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+     "summary": "Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a7/live/59b8b570-b8fd-11f1-83cd-2998f68d9572.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-09-25T15:06:41+00:00"
+     "published": "2026-09-25T17:32:15+00:00"
     },
     {
-     "title": "‘Major milestone’: TfL to launch new public bus operator in London",
-     "summary": "Buses for London aims for ‘greener, safer and better-value’ service but private operators say move will not fix problems London buses in decline? Why public transport is slowing to a crawl – visualise…",
-     "image": "https://i.guim.co.uk/img/media/d5a3e9dc464aba7ef75d6786db370956afc396a2/663_0_6627_5304/master/6627.jpg?width=140&quality=85&auto=format&fit=max&s=85da92966633068ce7ff0482f543667e",
-     "url": "https://www.theguardian.com/uk-news/2026/sep/25/tfl-to-launch-new-public-bus-operator-in-london",
-     "source": "Guardian Business",
-     "published": "2026-09-25T15:04:56+00:00"
-    },
-    {
-     "title": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
-     "summary": "Pope Leo XIV raised existential concerns about scientific progress, life and human rights during a speech on his first papal visit to France.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6177x4118+0+0/resize/6177x4118!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F02%2Ff8%2F47e40dfe42668087f048cdf8fedf%2Fap26268410442066.jpg",
-     "url": "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
-     "source": "NPR News",
-     "published": "2026-09-25T14:55:12+00:00"
-    },
-    {
-     "title": "China swimmer makes Asian Games history as Thai sprinter wins track 100m",
-     "summary": "China's Zhang Zhanshuo, 19, became the first swimmer to win seven golds at a single Asian Games.",
+     "title": "Timeline: Man City’s Premier League financial charges to reported verdict",
+     "summary": "City reportedly found guilty of all but one of the 115 charges that were first brought in February 2023.",
      "image": "",
-     "url": "https://www.aljazeera.com/sports/2026/9/25/china-swimmer-makes-asian-games-history-as-thai-sprinter-wins-track-100m?traffic_source=rss",
+     "url": "https://www.aljazeera.com/sports/2026/9/25/timeline-man-citys-premier-league-financial-charges-to-reported-verdict?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-09-25T14:47:49+00:00"
+     "published": "2026-09-25T17:20:58+00:00"
     },
     {
-     "title": "Hurricane Nolo, a zig-zagging storm, threatens Hawaii with flooding rain",
-     "summary": "Nolo will slow down as it nears Hawaii's Big Island and is expected to become a major hurricane this weekend, bringing torrential rain to areas that have been flooded by big storms this summer.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1764x1120+0+0/resize/1764x1120!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3a%2F5f%2Fd119e89c45f0bd674de66c1ba624%2Fnolo-cone-hawaii.png",
-     "url": "https://www.npr.org/2026/09/25/nx-s1-5981082/hurricane-nolo-hawaii",
-     "source": "NPR News",
-     "published": "2026-09-25T14:46:28+00:00"
-    },
-    {
-     "title": "高球》侯羽薔建大輪胎盃延長賽勝出封后 勇奪職業生涯第2冠",
-     "summary": "中國信託商業銀行贊助的「中國信託女子高爾夫之星」（CTBC LADY GOLF STARS）侯羽薔今於TLPGA與LPGT菲律賓女子巡迴賽共證的「2026建大輪胎盃」決勝...…",
+     "title": "長文曝明華園婉拒演出的顧慮   陳昭賢：我對鍘美藝術節最後一次的回應",
+     "summary": "雖然「鍘美藝術節」已經落幕，但明華園總團最初受邀即婉拒一事，至今仍受關注。孫翠鳳與陳昭賢母女24日出席傳藝中心記者會時，又被問及此事，讓陳昭賢事後覺得，占用了當天一起接受...…",
      "image": "",
-     "url": "https://sports.ltn.com.tw/news/breakingnews/5586410",
+     "url": "https://news.ltn.com.tw/news/art/breakingnews/5586439",
      "source": "自由時報",
-     "published": "2026-09-25T14:44:04+00:00"
+     "published": "2026-09-25T17:07:10+00:00"
     },
     {
-     "title": "韓女星第一人！朴智賢《妳和其餘的一切》飆戲金高銀 搶國際艾美獎戲后",
-     "summary": "韓星朴智賢憑藉著Netflix原創劇《妳和其餘的一切》獲得第54屆國際艾美獎（International Emmy Awards）最佳女演員提名，成為南韓女星第一人。 ...…",
+     "title": "高雄大樓陽台深夜起火 男中秋放煙火慘了",
+     "summary": "中秋節放煙火悲劇了！高雄市新興區八德二路某大樓7、8樓昨（25）日深夜陽台竄出火舌，警消獲報到場，半小時內撲滅火勢，一查起竟是樓下民眾放煙火釀禍，警方肇事35歲陳男依公共危險罪...…",
      "image": "",
-     "url": "https://ent.ltn.com.tw/news/breakingnews/5586411",
+     "url": "https://news.ltn.com.tw/news/society/breakingnews/5586437",
      "source": "自由時報",
-     "published": "2026-09-25T14:43:44+00:00"
+     "published": "2026-09-25T17:03:08+00:00"
     },
     {
-     "title": "葉門青年運動對沙國攻擊升級 聯合國安理會譴責",
-     "summary": "聯合國安全理事會25日譴責伊朗扶持的葉門叛軍「青年運動」（Houthi），對美國盟友沙烏地阿拉伯日益升級的攻擊，此為向來立場分歧的安理會罕見團結一致。 「青年運動」已對沙...…",
+     "title": "圖書分潤意外的「秋節獎金」竟夠付房租！ 網曝原來水獺媽媽爭取來",
+     "summary": "文化部於中秋節前夕宣布第2階段「公共出借權」試辦計畫第3期補償金，許多創作者與譯者紛紛收到撥付通知，有譯者開心自曝收到超過2萬元，像額外收到一筆「秋節獎金」，意外成為連假...…",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5586409",
+     "url": "https://news.ltn.com.tw/news/art/breakingnews/5586435",
      "source": "自由時報",
-     "published": "2026-09-25T14:43:16+00:00"
-    },
-    {
-     "title": "Man City found guilty on almost all 115 Premier League charges: Report",
-     "summary": "City found guilty of ⁠all ​but one of ⁠the 115 ​alleged breaches of the league's financial ​rules, The Athletic reports.",
-     "image": "",
-     "url": "https://www.aljazeera.com/sports/2026/9/25/man-city-found-guilty-on-almost-all-115-premier-league-charges-report?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-25T14:36:11+00:00"
-    },
-    {
-     "title": "Details on U.S.-China trade negotiations coming Monday, USTR Greer says",
-     "summary": "Top White House trade official Jamieson Greer said the two days of talks between President Trump and Chinese leader Xi brought some trade matter agreements.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/09/25/trump-xi-china-trade-greer.html",
-     "source": "CNBC Top News",
-     "published": "2026-09-25T14:35:02+00:00"
-    },
-    {
-     "title": "Yemen fighting displaces 71,000 children, worsens malnutrition: UNICEF",
-     "summary": "More than a quarter of the nearly 2,900 children screened by UNICEF in recent weeks were acutely malnourished.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/9/25/yemen-fighting-displaces-71000-children-worsens-malnutrition-unicef?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-25T14:10:51+00:00"
-    },
-    {
-     "title": "Why Canada is not ruling out a possible war with the US",
-     "summary": "Trump’s annexation threats have prompted Carney to examine even remote risks to Canada’s sovereignty.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/9/25/why-canada-is-not-ruling-out-a-possible-war-with-the-us?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-25T14:05:41+00:00"
-    },
-    {
-     "title": "Special agents' blood and urine test results stolen in FBI hack",
-     "summary": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dff/live/04222c60-b793-11f1-a7dc-51a9fb487fda.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-09-25T13:56:16+00:00"
+     "published": "2026-09-25T16:34:43+00:00"
     },
     {
      "title": "Healey appoints Labour manifesto writer, adding to election speculation",
-     "summary": "Exclusive: Economist Ravinder Athwal who worked in Keir Starmer’s team is poached from Flint Global Business live – latest updates Ravinder Athwal, the economist who wrote Labour’s 2024 manifesto, is…",
+     "summary": "Exclusive: Economist Ravinder Athwal, who worked in Keir Starmer’s team, is poached from Flint Global Ravinder Athwal, the economist who wrote Labour’s 2024 manifesto, is taking on a senior role as an…",
      "image": "https://i.guim.co.uk/img/media/6b683b2fc67e992b40238fe7b14f8c21cac5bd12/463_92_1968_1575/master/1968.jpg?width=140&quality=85&auto=format&fit=max&s=c07fd9190891ad8f2894c67fa3218186",
      "url": "https://www.theguardian.com/politics/2026/sep/25/labour-appoints-manifesto-writer-ravinder-athwal-treasury",
      "source": "Guardian Business",
-     "published": "2026-09-25T13:55:58+00:00"
+     "published": "2026-09-25T16:34:13+00:00"
+    },
+    {
+     "title": "Alberta’s ‘rat patrol’ ramps up operations as vermin makes inroads in province",
+     "summary": "‘Rat-free’ Canadian province recently took a verminous hit when a dead rodent turned up in town of Bowden For more than seven decades, residents of Alberta have shared something in common with Antarct…",
+     "image": "https://i.guim.co.uk/img/media/52db2db2049a51aa93fcbdf2fe20ab530a817b5a/912_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=5ad581a8a97dbd4ae4c35f1828da38e1",
+     "url": "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol",
+     "source": "Guardian World",
+     "published": "2026-09-25T16:34:05+00:00"
+    },
+    {
+     "title": "中秋後苦盡甘來！4星座「財貴雙開」強勢揭榜",
+     "summary": "〔娛樂頻道／綜合報導〕走過中秋，本週星象迎來劇烈重整。清水孟篠安老師分析9/27–10/3星象提醒，這個星期有一種很強烈的「我真正想要的是什麼？」的氣氛，有些舊人、舊事或老問題會在意料之外重新出...…",
+     "image": "",
+     "url": "https://ent.ltn.com.tw/news/breakingnews/5586406",
+     "source": "自由時報",
+     "published": "2026-09-25T16:33:00+00:00"
+    },
+    {
+     "title": "Woman who accused Jay-Z of sexual assault says her claims were false",
+     "summary": "On Thursday, the woman identified as Jane Doe filed a declaration in Manhattan federal court stating that all of her original claims against the rapper were false.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3501x2472+0+0/resize/3501x2472!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8a%2Fcf%2F8f56f4f7436bb5f144bbda8fe616%2Fgettyimages-1911124242.jpg",
+     "url": "https://www.npr.org/2026/09/25/nx-s1-5981154/jay-z-sexual-assault-accuser-claims-false",
+     "source": "NPR News",
+     "published": "2026-09-25T16:14:24+00:00"
+    },
+    {
+     "title": "There's a global pandemic treaty that's signed -- and in 'limbo.' What's the holdup?",
+     "summary": "The treaty aims to help the countries of the world prepare for — and defeat — any future pandemic. Why hasn't it gone into effect?",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3750+0+0/resize/5000x3750!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcc%2Fc1%2F28098e704f97bdaa12c607baf7b0%2Fcovid-dna-1203072511.jpg",
+     "url": "https://www.npr.org/2026/09/25/g-s1-144948/pandemic-prevention-treaty-agreement-world-health-organization",
+     "source": "NPR News",
+     "published": "2026-09-25T15:57:35+00:00"
+    },
+    {
+     "title": "The Supreme Court revives a controversial data system for citizenship checks",
+     "summary": "The Supreme Court is allowing use of a data system that Trump officials overhauled. The system has erroneously flagged U.S. citizens and a lower court found it violated federal privacy protections.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4922x3281+0+0/resize/4922x3281!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F15%2F0e%2F79f80ac8489f9afb592253709d92%2Fap26182680341445.jpg",
+     "url": "https://www.npr.org/2026/09/25/nx-s1-5976804/supreme-court-trump-save-noncitizen-voting",
+     "source": "NPR News",
+     "published": "2026-09-25T15:40:57+00:00"
     }
    ]
   },
   "ai": {
    "label": "AI",
    "items": [
+    {
+     "title": "123 億年前的宇宙考古，哈伯望遠鏡揭銀河系第二次巨型碰撞",
+     "summary": "在天文學界，重構銀河系的生長史就像是在進行一場跨越百億年的古生物考古。長期以來，天文學家知道銀河系並非一誕生就 […]",
+     "image": "",
+     "url": "https://technews.tw/2026/09/26/what-happened-to-the-milky-way-12-3-billion-years-ago/",
+     "source": "科技新報 TechNews",
+     "published": "2026-09-25T16:00:18+00:00"
+    },
+    {
+     "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+     "summary": "Article URL: https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html Comments URL: https://news.ycombinator.com/item?id=49845977 Points: 187 # Comments: 227",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+     "source": "Hacker News Front Page",
+     "published": "2026-09-25T15:29:25+00:00"
+    },
+    {
+     "title": "Factorio that you can touch",
+     "summary": "Article URL: https://factorio.com/blog/post/fff-447 Comments URL: https://news.ycombinator.com/item?id=49845133 Points: 154 # Comments: 22",
+     "image": "",
+     "url": "https://factorio.com/blog/post/fff-447",
+     "source": "Hacker News Front Page",
+     "published": "2026-09-25T14:24:42+00:00"
+    },
+    {
+     "title": "Allow Carriers on Planes",
+     "summary": "Article URL: https://www.jefftk.com/p/allow-carriers-on-planes Comments URL: https://news.ycombinator.com/item?id=49844786 Points: 163 # Comments: 181",
+     "image": "",
+     "url": "https://www.jefftk.com/p/allow-carriers-on-planes",
+     "source": "Hacker News Front Page",
+     "published": "2026-09-25T14:00:10+00:00"
+    },
     {
      "title": "微軟強化 Copilot，三大功能接軌企業需求",
      "summary": "微軟 Copilot 迎來重大升級，區分成作為 AI 協作起點的「Home」、讓非開發者也能建構 AI 應用的 […]",
@@ -146,12 +178,12 @@
      "published": "2026-09-25T12:00:28+00:00"
     },
     {
-     "title": "The Mafia may be keeping fentanyl out of Italy",
-     "summary": "Article URL: https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy Comments URL: https://news.ycombinator.com/item?id=49842487 Points: 155 # Comments: 195",
+     "title": "Platform-Independent SIMD in Go",
+     "summary": "Article URL: https://go.dev/blog/simd-experiment Comments URL: https://news.ycombinator.com/item?id=49843269 Points: 238 # Comments: 86",
      "image": "",
-     "url": "https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy",
+     "url": "https://go.dev/blog/simd-experiment",
      "source": "Hacker News Front Page",
-     "published": "2026-09-25T10:20:20+00:00"
+     "published": "2026-09-25T11:47:06+00:00"
     },
     {
      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
@@ -176,30 +208,6 @@
      "url": "https://technews.tw/2026/09/25/elon-musk-aims-to-double-colossus-2s-nvidia-chips-by-year-end/",
      "source": "科技新報 TechNews",
      "published": "2026-09-25T08:20:27+00:00"
-    },
-    {
-     "title": "Dutch governments builds alternative for Microsoft based on NixOS",
-     "summary": "Article URL: https://www.dawo.community/en/ Comments URL: https://news.ycombinator.com/item?id=49841563 Points: 711 # Comments: 391",
-     "image": "",
-     "url": "https://www.dawo.community/en/",
-     "source": "Hacker News Front Page",
-     "published": "2026-09-25T08:06:49+00:00"
-    },
-    {
-     "title": "美聯：川習會排場十足，對美中重大分歧著墨不多",
-     "summary": "美國總統川普與中國國家主席習近平今天舉行眾所矚目的會談，然而這兩大世界強權在伊朗戰爭議題上仍立場分歧，對貿易以 […]",
-     "image": "",
-     "url": "https://technews.tw/2026/09/25/trump-lays-out-the-pomp-for-xi-but-says-little-about-the-significant-tensions-in-us-china-relations/",
-     "source": "科技新報 TechNews",
-     "published": "2026-09-25T08:00:44+00:00"
-    },
-    {
-     "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
-     "summary": "Article URL: https://nyaa.sh/reviews/mac-mini-m6-emulation Comments URL: https://news.ycombinator.com/item?id=49841285 Points: 160 # Comments: 71",
-     "image": "",
-     "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
-     "source": "Hacker News Front Page",
-     "published": "2026-09-25T07:27:45+00:00"
     },
     {
      "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
@@ -234,14 +242,6 @@
      "published": "2026-09-25T04:00:00+00:00"
     },
     {
-     "title": "What About Rails?",
-     "summary": "Article URL: https://jardo.dev/what-about-rails Comments URL: https://news.ycombinator.com/item?id=49839664 Points: 172 # Comments: 103",
-     "image": "",
-     "url": "https://jardo.dev/what-about-rails",
-     "source": "Hacker News Front Page",
-     "published": "2026-09-25T02:50:16+00:00"
-    },
-    {
      "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
      "summary": "Health department previously blamed delay on \"not yet finalized procurement decisions.\"",
      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2271874300-500x500.jpg",
@@ -271,28 +271,76 @@
    "label": "運動",
    "items": [
     {
-     "title": "Manchester City: reports emerging over guilty verdict on almost all charges – live news and reaction",
-     "summary": "⚽ All the latest heading in to the weekend’s action ⚽ De la Fuente wants more from Spain | Mail John One of the best players in the world right now is Raphinha and Sid Lowe sat down with him about lif…",
-     "image": "https://i.guim.co.uk/img/media/649ec4854d87003410d3610761b3954f2177e494/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5c0e7e40bdb01da31db6d864d00a829b",
+     "title": "Manchester City guilty of breaching Premier League’s financial fair play rules – live reaction",
+     "summary": "Full story | Club expected to appeal against ruling Timeline: City trophies and charges | Mail John One of the best players in the world right now is Raphinha and Sid Lowe sat down with him about life…",
+     "image": "https://i.guim.co.uk/img/media/a74de0ff9892462728441d401296e1d32e81ef9e/380_0_6901_5522/master/6901.jpg?width=140&quality=85&auto=format&fit=max&s=96f13e1d047e67e141eef75ff6f7d542",
      "url": "https://www.theguardian.com/football/live/2026/sep/25/havertz-injury-latest-haaland-fires-norway-to-victory-england-v-spain-buildup-and-more-football-news-live",
      "source": "Guardian Sport",
-     "published": "2026-09-25T15:07:35+00:00"
+     "published": "2026-09-25T17:45:35+00:00"
     },
     {
-     "title": "Man City found guilty of breaking financial rules - sources",
-     "summary": "Manchester City are found guilty of breaking the majority of the 115 financial rules they were accused of breaching, sources tell BBC Sport.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6514/live/987b3830-b8f0-11f1-a698-ff5dd8cb1a06.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-09-25T15:07:21+00:00"
+     "title": "Mavs' Cooper Flagg says he's grown an inch, is now 6-foot-10 without shoes",
+     "summary": "Flagg was listed at 6-foot-9 last season, during which he earned NBA Rookie of the Year honors at 19 years old.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/article/mavs-cooper-flagg-says-hes-grown-an-inch-is-now-6-foot-10-without-shoes-173047483.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-25T17:30:47+00:00"
     },
     {
-     "title": "Mauricio Pochettino regrets not being ‘more involved’ with Balogun decision",
-     "summary": "US striker had red card ban suspended for Belgium game Trump said he called Infantino asking for review Coach says ‘energy of everything’ changed in moment US men’s national team head coach Mauricio P…",
-     "image": "https://i.guim.co.uk/img/media/52aca7b78fa84bf004a7c5f5b011f5ad33799fb0/569_127_2792_2234/master/2792.jpg?width=140&quality=85&auto=format&fit=max&s=2e5a1f0f8a1a4537e3f2951bdd24f73a",
-     "url": "https://www.theguardian.com/football/2026/sep/25/pochettino-balogun-comments",
+     "title": "Israel’s match with Republic of Ireland will be an eerie occasion as political debate rages on",
+     "summary": "Despite fierce opposition to the Nations League encounters across Irish society, a boycott has not materialised The match is being played in a neutral country and the stands are likely to be empty but…",
+     "image": "https://i.guim.co.uk/img/media/b18348648ad087fce0db939c1637f24d41a6f8e2/964_329_2481_1984/master/2481.jpg?width=140&quality=85&auto=format&fit=max&s=31b680c611f24b97a55fa3d33a0ef5a3",
+     "url": "https://www.theguardian.com/football/2026/sep/25/republic-of-ireland-israel-nations-league-serbia",
      "source": "Guardian Sport",
-     "published": "2026-09-25T15:02:48+00:00"
+     "published": "2026-09-25T17:00:07+00:00"
+    },
+    {
+     "title": "D'Angelo Russell reportedly waived by Grizzlies 2 months after trade from Wizards",
+     "summary": "Russell's next team will be his fourth in the past two seasons.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/article/dangelo-russell-reportedly-waived-by-grizzlies-2-months-after-trade-from-wizards-165351084.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-25T16:53:51+00:00"
+    },
+    {
+     "title": "Jalen Brunson says he's 'fully cleared' for Knicks training camp after offseason wrist surgery",
+     "summary": "When the Knicks officially begin their NBA championship defense next week, their captain will be on the floor leading them.",
+     "image": "https://d29szjachogqwa.cloudfront.net/images/2026-09/e547cd95-1d34-471c-abd5-a8895d189a7e",
+     "url": "https://sports.yahoo.com/nba/article/jalen-brunson-says-hes-fully-cleared-for-knicks-training-camp-after-offseason-wrist-surgery-164430661.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-25T16:44:30+00:00"
+    },
+    {
+     "title": "LeBron James on why Philadelphia: 'One of the most important [reasons] is the big fella,' Joel Embiid",
+     "summary": "LeBron also talks says how close he is to Tyrese Maxey mattered, as did the Jaylen Brown trade.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/lebron-james-why-philadelphia-one-163723865.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-25T16:37:23+00:00"
+    },
+    {
+     "title": "Man City and the 115 charges - key questions answered",
+     "summary": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Man City. Here's what it means.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d05b/live/c288fcf0-b8f2-11f1-bd4a-e9ce4be469f6.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-09-25T16:03:43+00:00"
+    },
+    {
+     "title": "Who is hacker whose revelations led to Man City charges?",
+     "summary": "Rui Pinto is the convicted computer hacker whose revelations led to Manchester City facing Premier League charges of alleged financial rule breaches. But who is he?",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f77a/live/cd85dd00-b8f0-11f1-a430-4d16ee157c41.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/videos/cmj644284k18o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-09-25T15:55:40+00:00"
+    },
+    {
+     "title": "Palmer misses too many opportunities to play for England - Tuchel",
+     "summary": "Thomas Tuchel has said that Cole Palmer \"misses too many opportunities\" to play for England after the Chelsea forward pulled out of the latest squad.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cad/live/f8913870-b8ee-11f1-a698-ff5dd8cb1a06.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cm9dww15527lo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-09-25T15:54:03+00:00"
     },
     {
      "title": "What could the potential sanctions for Man City be?",
@@ -303,28 +351,12 @@
      "published": "2026-09-25T14:55:14+00:00"
     },
     {
-     "title": "The Bounce: Remembering when Michael Jordan became a Wizard, 25 years ago",
-     "summary": "The Bounce Newsletter | This is The Athletic’s daily NBA newsletter. Sign up here to receive The Bounce directly in your inbox. RIP to Hall of Famer Bob Pettit, who was the first recipient of the NBA’…",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/bounce-remembering-michael-jordan-became-143107658.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-09-25T14:31:07+00:00"
-    },
-    {
-     "title": "Is Kyrie Irving the perfect partner for Cooper Flagg?",
-     "summary": "Here's what a healthy Irving could unlock for Flagg and the Mavericks this season.",
-     "image": "",
-     "url": "https://sports.yahoo.com/nba/article/is-kyrie-irving-the-perfect-partner-for-cooper-flagg-142010156.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-09-25T14:20:10+00:00"
-    },
-    {
-     "title": "Russell takes pole in Baku as Antonelli hits wall",
-     "summary": "George Russell takes pole position for Mercedes at the Azerbaijan Grand Prix as his team-mate and championship leader Kimi Antonelli crashes out.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3aee/live/c82a1a20-b8e5-11f1-ba42-19e1456ae537.jpg",
-     "url": "https://www.bbc.co.uk/sport/formula1/articles/cmde0wl6rk0ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-09-25T13:53:48+00:00"
+     "title": "Cooper Flagg debut patch autograph card sells for $8.04 million, third-most expensive NBA card ever",
+     "summary": "Flagg, the 2025 No. 1 pick, is coming off an excellent rookie season with the Dallas Mavericks",
+     "image": "https://sportshub.cbsistatic.com/i/2026/09/25/825c1113-0798-4614-8e9c-f68a94c9e565/untitled-design-421.png",
+     "url": "https://www.cbssports.com/nba/news/cooper-flagg-mavericks-rookie-card-record-sale/",
+     "source": "CBS Sports NBA",
+     "published": "2026-09-25T14:45:34+00:00"
     },
     {
      "title": "Five burning questions for NBA media days: What does Kawhi have to say? How will LeBron fit in Philly?",
@@ -335,36 +367,12 @@
      "published": "2026-09-25T13:04:09+00:00"
     },
     {
-     "title": "Player Preview: Miles Bridges enters Phoenix with plenty to prove",
-     "summary": "Bridges has plenty of off-court baggage, but his basketball fit could give Phoenix something it lacked last season.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/e2f12f97d4da715621072fa821e06eb3.jpg",
-     "url": "https://sports.yahoo.com/articles/player-preview-miles-bridges-enters-120000884.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-09-25T12:00:00+00:00"
-    },
-    {
-     "title": "NBA’s 8 locks on over/under win totals, including Lakers, Warriors, Bulls, and more",
-     "summary": "Let’s give our picks for the NBA preseason over/under win total lines.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/54b347a3bb1d89f3d63d3beccdeeab67.jpg",
-     "url": "https://sports.yahoo.com/articles/nba-8-locks-over-under-120000142.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-09-25T12:00:00+00:00"
-    },
-    {
-     "title": "Israel game should not go ahead - Republic of Ireland's Knight",
-     "summary": "Jason Knight has become the first Republic of Ireland player to publicly voice his opposition to playing Israel on Sunday.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9184/live/060c9cf0-b8b4-11f1-8257-a79ccb54f692.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cm750g0zx9weo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-09-25T10:59:44+00:00"
-    },
-    {
-     "title": "‘A lot of people counted me out’: Ashley Sanchez on goal records, grit and potential USWNT return",
-     "summary": "After playing zero minutes at the 2023 World Cup, the attacker embraced a new club, a new mindset and a new position. Now she’s making NWSL history in North Carolina It was a familiar sight: Ashley Sa…",
-     "image": "https://i.guim.co.uk/img/media/50c07be36e607a8f0781f969e9ca31f905c1be06/408_0_4080_3265/master/4080.jpg?width=140&quality=85&auto=format&fit=max&s=2ad6e8e41b126d0d301263ef0b1274ca",
-     "url": "https://www.theguardian.com/football/2026/sep/25/ashley-sanchez-interview-nwsl-record-uswnt-callup",
+     "title": "55,000 fans and nowhere to hide: what it’s like to play in basketball’s biggest arena",
+     "summary": "The sprawling Philippine Arena hosts games in a country of fanatical basketball fans. Jamie Malonzo was lucky enough to play there in a Game 7 Jamie Malonzo got there early, one of the first players t…",
+     "image": "https://i.guim.co.uk/img/media/c70f4df8c448dbe7361013291813b8f782eb95a2/410_0_4081_3267/master/4081.jpg?width=140&quality=85&auto=format&fit=max&s=b91bbbf0b9288420978e64c5de0b0994",
+     "url": "https://www.theguardian.com/sport/2026/sep/25/philippine-arena-basketball-arena-capacity",
      "source": "Guardian Sport",
-     "published": "2026-09-25T10:00:46+00:00"
+     "published": "2026-09-25T09:00:46+00:00"
     },
     {
      "title": "Falcons trample punchless Packers as Bijan Robinson runs riot in Penix return",
@@ -389,14 +397,6 @@
      "url": "https://www.cbssports.com/nba/news/karl-anthony-towns-knicks-contract-negotiations/",
      "source": "CBS Sports NBA",
      "published": "2026-09-24T21:19:43+00:00"
-    },
-    {
-     "title": "Lawrence Tanter dies at 76: Lakers public address announcer was the 'soundtrack' for more than 40 years",
-     "summary": "Tanter served as the Lakers' PA announcer since 1982 and introduced stars from Magic to Kobe to LeBron",
-     "image": "https://sportshub.cbsistatic.com/i/2026/09/24/feeb64d4-b67f-4bf6-8e15-8df229d816d4/lawrence-tanter-getty.png",
-     "url": "https://www.cbssports.com/nba/news/lawrence-tanter-dies-76-lakers-public-address-announcer/",
-     "source": "CBS Sports NBA",
-     "published": "2026-09-24T12:54:08+00:00"
     }
    ]
   }
