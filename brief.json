@@ -1,9 +1,81 @@
 {
- "generated": "2026-09-26T17:16:12.518683+00:00",
+ "generated": "2026-09-26T19:15:26.688636+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
+    {
+     "title": "《TAIPEI TIMES》Taiwanese wins e-sports bronze",
+     "summary": "Staff writer, with CNA Taiwan’s Kuo Tzu-ang won bronze in Puyo Puyo Champions at the Asian Games ...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5587172",
+     "source": "自由時報",
+     "published": "2026-09-26T19:00:00+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》Allied nations call for Taiwan’s inclusion in UN",
+     "summary": "PLEA: How the UN addresses Taiwan’s security issue would be a test of its strength and relevance, Ma...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5587185",
+     "source": "自由時報",
+     "published": "2026-09-26T19:00:00+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》US’ Taiwan policy unchanged: envoy",
+     "summary": "‘STATUS QUO’: ‘There’s no change in the Taiwan policy here,’ the US ambassador to China said, adding...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5587182",
+     "source": "自由時報",
+     "published": "2026-09-26T19:00:00+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》Trump-Xi meeting: Minister backs more active role",
+     "summary": "‘CLOSE COMMUNICATIONS’:Lin Chia-lung said ‘managing risks while engaging with each other’ has become...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5587178",
+     "source": "自由時報",
+     "published": "2026-09-26T19:00:00+00:00"
+    },
+    {
+     "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+     "summary": "The US president says Tehran had only put forward the proposal because it is losing the war.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adf9/live/6f8e27d0-b9c1-11f1-9190-07b6ee147cf1.png",
+     "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-09-26T18:17:12+00:00"
+    },
+    {
+     "title": "South African police discover body of 10th woman near Johannesburg",
+     "summary": "Police are investigating the killings in a country with one of the highest femicide rates in the world.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/9/26/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-26T18:08:12+00:00"
+    },
+    {
+     "title": "Trump rejects Iranian offer to reopen Strait of Hormuz",
+     "summary": "US President Donald Trump has rejected Iran’s latest proposal to reopen the Strait of Hormuz to shipping.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/trump-rejects-iranian-offer-to-reopen-strait-of-hormuz?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-26T18:00:43+00:00"
+    },
+    {
+     "title": "Cuba accuses US at UN of deliberately inflicting humanitarian suffering",
+     "summary": "Cuba’s FM, Bruno Rodriguez Parrilla, has accused the US at the UN of waging an economic war against the Cuban people.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-cuba-fm-unga-clip-mp4?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-26T17:55:22+00:00"
+    },
+    {
+     "title": "Trump rejects combining US-China AI efforts",
+     "summary": "The US president said the fears over AI were just 'hoaxes'.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-combining-us-china-ai-efforts?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-26T17:39:18+00:00"
+    },
     {
      "title": "OpenAI expands review of model behavior after more rogue agent incidents emerge",
      "summary": "OpenAI is conducting an extensive review of misaligned model activity after disclosures involving an Australian government portal and other websites.",
@@ -13,20 +85,12 @@
      "published": "2026-09-26T17:10:32+00:00"
     },
     {
-     "title": "陸委會稱1945與美並肩作戰是中華民國 陳以信反問賴清德「這事」",
-     "summary": "陸委會反駁中共領導人習近平「中美二戰並肩作戰」說法，強調當年與美國並肩作戰的是中華民國。國民黨文傳會主委陳以信說，陸委會這次雖然講對歷史，但也狠狠打臉賴清德。去年對日抗戰勝利8...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5587239",
-     "source": "自由時報",
-     "published": "2026-09-26T16:58:58+00:00"
-    },
-    {
-     "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-     "summary": "The US president says Tehran had only put forward the proposal because it is losing the war.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adf9/live/6f8e27d0-b9c1-11f1-9190-07b6ee147cf1.png",
-     "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-09-26T16:58:39+00:00"
+     "title": "OpenAI says its models engaged with US government websites in misbehavior disclosure",
+     "summary": "The disclosure is the latest in a string of incidents in which the AI platform has been caught going rogue. OpenAI says it is reviewing the findings.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2667+0+0/resize/4000x2667!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F18%2Ffc%2F1d5e6422446f958a5ac01b18bc20%2Fap26260139104766.jpg",
+     "url": "https://www.npr.org/2026/09/26/nx-s1-5981979/openai-us-government-websites-misbehavior",
+     "source": "NPR News",
+     "published": "2026-09-26T17:10:04+00:00"
     },
     {
      "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
@@ -37,52 +101,12 @@
      "published": "2026-09-26T16:57:57+00:00"
     },
     {
-     "title": "川習二會落幕 藍委：台美共管中國的「反中牌」威力盡失",
-     "summary": "川習二會結束，國民黨立委李彥秀說，川習二會的規格，讓美台共管中國的「反中牌」威力盡失，年底選舉與明年總統大選，將回歸到民生與政績的檢驗。雖然在論述上美中維持過去對台灣問題一貫的...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5587238",
-     "source": "自由時報",
-     "published": "2026-09-26T16:54:51+00:00"
-    },
-    {
-     "title": "Pope praises 'energy and commitment' of young people as huge crowds join open-air Mass in Paris",
-     "summary": "Around 700,000 people gathered in central Paris as the Pope celebrated an open-air Mass.",
+     "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+     "summary": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/217d/live/4be6b6f0-b9b0-11f1-a430-4d16ee157c41.jpg",
      "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
      "published": "2026-09-26T16:53:32+00:00"
-    },
-    {
-     "title": "高雄眷村嘉年華開跑 黃埔新村變身「眷村星球」千人中秋連假同樂",
-     "summary": "高雄年度指標性眷村文化盛事「2026高雄眷村嘉年華」系列首場活動，昨（26）日由鳳山黃埔新村率先登場，適逢中秋連假闔家出遊，黃埔新村設置太空燈飾打造「眷村星球」，規劃趣味古早味...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5587237",
-     "source": "自由時報",
-     "published": "2026-09-26T16:48:11+00:00"
-    },
-    {
-     "title": "Venezuelan government, opposition agree to work towards reform of top court",
-     "summary": "The two sides appointed a committee to review selection of candidates for Supreme Court of Justice.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/9/26/venezuelan-government-opposition-agree-to-work-towards-reform-of-top-court?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-26T16:42:38+00:00"
-    },
-    {
-     "title": "比秋老虎還猛！9/27-10/3運勢最強3生肖出列",
-     "summary": "〔娛樂頻道／綜合報導〕大運來時，擋都擋不住！秋老虎來勢洶洶，但這3位幸運兒的荷包進補速度更驚人！ 9/27-10/3最新一週12生肖運勢出爐，這3隻生肖的強運氣場直接碾壓秋老虎。命理專家雨揚...…",
-     "image": "",
-     "url": "https://ent.ltn.com.tw/news/breakingnews/5587205",
-     "source": "自由時報",
-     "published": "2026-09-26T16:33:00+00:00"
-    },
-    {
-     "title": "Women take up arms as sexual violence ravages eastern DRC",
-     "summary": "As war and sexual violence rage in eastern DRC, women are joining pro-government Wazalendo fighters to defend themselves",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-drc-women-fighters-sv-mp4?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-26T16:24:51+00:00"
     },
     {
      "title": "Andy Burnham announces new homes scheme for first-time buyers",
@@ -91,22 +115,6 @@
      "url": "https://www.theguardian.com/politics/2026/sep/26/andy-burnham-announces-new-scheme-for-first-time-home-buyers-england",
      "source": "Guardian Business",
      "published": "2026-09-26T16:19:29+00:00"
-    },
-    {
-     "title": "At least 10 people killed in Russian and Ukrainian attacks",
-     "summary": "New strikes come as Russian FM accuses Europe of doing 'everything it can to thwart peace talks' with Ukraine.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/9/26/at-least-10-people-killed-in-russian-and-ukrainian-attacks?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-26T16:16:49+00:00"
-    },
-    {
-     "title": "Jerusalem Daily: violence continues as the world watches the UNGA",
-     "summary": "As the UN General Assembly enters its fifth day, with world leaders denouncing Israeli violence against Palestinians.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/jerusalem-daily-violence-continues-as-the-world-watches-the-unga?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-26T16:14:35+00:00"
     },
     {
      "title": "US strikes on Ecuadorian fishing boats raise humanitarian concerns but Trump admin not wavering",
@@ -123,20 +131,20 @@
      "url": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
      "published": "2026-09-26T15:12:25+00:00"
-    },
-    {
-     "title": "亞運棒球台灣3:7不敵日本 明日將與中國爭銅牌",
-     "summary": "亞運棒球超級循環賽，今（26）日台灣對戰日本，須贏日本超過6分才能晉級金牌賽。一開賽台灣雖以對手失誤及安打先馳得點，不過在第三局即被日本反超，在雨勢影響守備、投手未能有效壓制日本打線的情況下，台灣最後以3比7不敵日本，確定無緣金牌戰，明（27）日將與中國爭銅牌。",
-     "image": "",
-     "url": "https://news.pts.org.tw/article/828807",
-     "source": "公視新聞",
-     "published": "2026-09-26T13:43:42+00:00"
     }
    ]
   },
   "ai": {
    "label": "AI",
    "items": [
+    {
+     "title": "I'm the mom in that viral Giants clip. Let me tell you about my husband",
+     "summary": "Article URL: https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip Comments URL: https://news.ycombinator.com/item?id=49857899 Points: 251 # Comments: 110",
+     "image": "",
+     "url": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
+     "source": "Hacker News Front Page",
+     "published": "2026-09-26T16:12:18+00:00"
+    },
     {
      "title": "從預估兩千年縮短至幾十年，澳洲穀物基因庫大規模實測推翻種子保鮮期",
      "summary": "提及基因保存，或許有人曾聽過位於挪威冷冽地底的「斯瓦爾巴全球種子庫」，但坐落於南半球的「澳洲穀物基因庫」（AG […]",
@@ -147,7 +155,7 @@
     },
     {
      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
-     "summary": "Article URL: https://gultsch.de/posts/breaking-up-with-google-play/ Comments URL: https://news.ycombinator.com/item?id=49855315 Points: 454 # Comments: 183",
+     "summary": "Article URL: https://gultsch.de/posts/breaking-up-with-google-play/ Comments URL: https://news.ycombinator.com/item?id=49855315 Points: 553 # Comments: 213",
      "image": "",
      "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
      "source": "Hacker News Front Page",
@@ -179,7 +187,7 @@
     },
     {
      "title": "Fifteen years later, the Apple Cards origin story",
-     "summary": "Article URL: https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story Comments URL: https://news.ycombinator.com/item?id=49854693 Points: 228 # Comments: 38",
+     "summary": "Article URL: https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story Comments URL: https://news.ycombinator.com/item?id=49854693 Points: 273 # Comments: 53",
      "image": "",
      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
      "source": "Hacker News Front Page",
@@ -195,7 +203,7 @@
     },
     {
      "title": "We're gonna need a lot more mathematicians",
-     "summary": "Article URL: https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/ Comments URL: https://news.ycombinator.com/item?id=49852717 Points: 264 # Comments: 367",
+     "summary": "Article URL: https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/ Comments URL: https://news.ycombinator.com/item?id=49852717 Points: 298 # Comments: 396",
      "image": "",
      "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
      "source": "Hacker News Front Page",
@@ -208,14 +216,6 @@
      "url": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/",
      "source": "Ars Technica",
      "published": "2026-09-25T23:00:26+00:00"
-    },
-    {
-     "title": "What even is an OS now?",
-     "summary": "Article URL: https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/ Comments URL: https://news.ycombinator.com/item?id=49850305 Points: 257 # Comments: 380",
-     "image": "",
-     "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
-     "source": "Hacker News Front Page",
-     "published": "2026-09-25T21:36:56+00:00"
     },
     {
      "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
@@ -247,20 +247,60 @@
    "label": "運動",
    "items": [
     {
-     "title": "England secure win over New Zealand with last-gasp try",
-     "summary": "England extend their unbeaten run to 41 Tests after Zoe Harrison scores a try in overtime as the Red Roses beat New Zealand 26-19 at the Allianz Stadium.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66f1/live/37aa8ab0-b9c7-11f1-b1d1-571ed4d7ff2c.jpg",
-     "url": "https://www.bbc.co.uk/sport/rugby-union/videos/c6vgyyvyr45po?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-09-26T16:38:22+00:00"
+     "title": "USMNT v Peru live – analysis and updates from international friendly in Orlando",
+     "summary": "USA v Peru kicks off at 4.30 ET Cavan Sullivan, other young players could make debuts Sign up for our free newsletter for US readers Email Jeff with thoughts, questions and jokes Mauricio Pochettino w…",
+     "image": "https://i.guim.co.uk/img/media/2c7ee3a4e5a2d5e3d2de4af2c03257197005094d/397_0_3453_2764/master/3453.jpg?width=140&quality=85&auto=format&fit=max&s=33d0d4f72a81cc761c68a9e9fda92c96",
+     "url": "https://www.theguardian.com/football/live/2026/sep/26/usmnt-peru-live-analysis-updates",
+     "source": "Guardian Sport",
+     "published": "2026-09-26T19:13:55+00:00"
     },
     {
-     "title": "England's Harrison scores last-gasp try to beat Black Ferns",
-     "summary": "Zoe Harrison scores last-gasp try as England defeat New Zealand at Allianz Stadium to avoid a second successive draw in the WXV Global Series.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6ca/live/a3e6ec50-b9c2-11f1-9190-07b6ee147cf1.jpg",
-     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cje3r46ll3lwo?at_medium=RSS&at_campaign=rss",
+     "title": "England embrace growing competitiveness of women's game",
+     "summary": "England edge past New Zealand with a last-gasp try by Zoe Harrison as they embrace the growing competitiveness of women's rugby.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7053/live/9ebb8970-b9d1-11f1-b9a2-c51fbcac2d8e.jpg",
+     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwddvvnp9dp9o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
-     "published": "2026-09-26T16:12:27+00:00"
+     "published": "2026-09-26T18:55:41+00:00"
+    },
+    {
+     "title": "Wakefield shock Wigan to reach first Grand Final",
+     "summary": "Wakefield Trinity produce a sensational upset to reach their first ever Super League Grand Final and end Wigan Warriors' hopes of a treble in 2026.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd8c/live/82136330-b9d4-11f1-bc1f-3f186ca4140c.jpg",
+     "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cv2dwykpgz4go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-09-26T18:44:16+00:00"
+    },
+    {
+     "title": "Trump flyover and Secret Service checks greet fans at marquee Texas v Tennessee clash",
+     "summary": "Air Force One flies low over Neyland before kickoff Schools coordinate with Secret Service over headsets Fans urged to arrive early amid enhanced screening Encouraging fans to get inside Neyland Stadi…",
+     "image": "https://i.guim.co.uk/img/media/13b210214c1e9d99cc8760695fceb303245f3e10/738_130_6599_5279/master/6599.jpg?width=140&quality=85&auto=format&fit=max&s=253d95ab52984ff38a9083565002a3da",
+     "url": "https://www.theguardian.com/sport/2026/sep/26/donald-trump-tennessee-texas-college-football-air-force-one",
+     "source": "Guardian Sport",
+     "published": "2026-09-26T18:18:36+00:00"
+    },
+    {
+     "title": "'Mr Saturday' Russell 'comes through other side after real tough period'",
+     "summary": "George Russell described the Azerbaijan Grand Prix as \"the most dominant weekend I've had in my career\" after a win that felt like vindication.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cc9/live/127f1310-b9d0-11f1-b9a2-c51fbcac2d8e.jpg",
+     "url": "https://www.bbc.co.uk/sport/formula1/articles/ckly558q6jeqo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-09-26T17:44:04+00:00"
+    },
+    {
+     "title": "Karl-Anthony Towns, Knicks reportedly 'tens of millions apart' in contract talks",
+     "summary": "The Knicks are trying to keep their championship core together while navigating the second apron.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/karl-anthony-towns-knicks-reportedly-170746769.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-26T17:07:46+00:00"
+    },
+    {
+     "title": "Hawks announce training camp roster",
+     "summary": "Nearing live basketball.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/a5f75936fae0f1a3d631523ff33911e2.jpg",
+     "url": "https://sports.yahoo.com/articles/hawks-announce-training-camp-roster-163102987.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-26T16:31:02+00:00"
     },
     {
      "title": "Hornets' Kon Knueppel likely to miss start of season with hamstring strain",
@@ -271,44 +311,20 @@
      "published": "2026-09-26T15:46:00+00:00"
     },
     {
+     "title": "Saturday Posted & Toasted Notes: KAT talks, falling stars, camp decisions, life choices",
+     "summary": "Back-to-back daily Notes posts are all you need to know to start believing the season is right around the corner, starting with Monday’s media day. Can’t wait! “I love Brunson’s game, but his lofty ra…",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/1d44b3204e307cecbf0b42a55e345493.jpg",
+     "url": "https://sports.yahoo.com/articles/saturday-posted-toasted-notes-kat-153000109.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-26T15:30:00+00:00"
+    },
+    {
      "title": "Manchester City chair Al Mubarak insists ‘nothing has changed’ after guilty verdict",
      "summary": "‘We have faced challenges together before and have prevailed’ Maresca quotes Socrates on social media – ‘I know nothing’ Khaldoon Al Mubarak, the Manchester City chair, has spoken for the first time s…",
      "image": "https://i.guim.co.uk/img/media/eb93ccb732378baed3b7fb0e1123500da843ff17/300_68_1328_1063/master/1328.jpg?width=140&quality=85&auto=format&fit=max&s=c8459670fae419b7ba911c3ea099b2f9",
      "url": "https://www.theguardian.com/football/2026/sep/26/enzo-maresca-noel-gallagher-manchester-city-guilty-verdict",
      "source": "Guardian Sport",
      "published": "2026-09-26T14:52:09+00:00"
-    },
-    {
-     "title": "Preview: Scottie Barnes is the linchpin of this Raptors’ roster",
-     "summary": "Scottie Barnes has a trifecta of skills that make him a crucial piece of this championship-hopeful roster",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/a67f20dae48158f9b88e307787d1493b.jpg",
-     "url": "https://sports.yahoo.com/articles/preview-scottie-barnes-linchpin-raptors-143017704.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-09-26T14:30:17+00:00"
-    },
-    {
-     "title": "Are these Nuggets enough for Nikola Jokić?",
-     "summary": "The three-time MVP can solve a lot of problems on his own, but his supporting cast is worrisome in a loaded West.",
-     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ed-092126-depth-behind-jokic_0973.jpg",
-     "url": "https://sports.yahoo.com/nba/article/are-these-nuggets-enough-for-nikola-jokic-142639060.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-09-26T14:26:39+00:00"
-    },
-    {
-     "title": "Tim Tebow pauses ties with Christian wealth group amid predatory sales allegations",
-     "summary": "Former Heisman winner pauses ties with Life Surge Tebow calls allegations ‘extremely serious’ Group accused of pushing courses costing $40,000 Tim Tebow said Friday he is “pausing his relationship” wi…",
-     "image": "https://i.guim.co.uk/img/media/a5912d1fafaf1f34ae7c570629d77b8e0a946666/427_0_4249_3401/master/4249.jpg?width=140&quality=85&auto=format&fit=max&s=f3c75a964619c2b44f3e402900950808",
-     "url": "https://www.theguardian.com/sport/2026/sep/26/tim-tebow-life-surge-christian-wealth-group-predatory-sales",
-     "source": "Guardian Sport",
-     "published": "2026-09-26T14:05:23+00:00"
-    },
-    {
-     "title": "Rockets 2026-2027 player previews: Bogdan Bogdanovic",
-     "summary": "The Rockets signed Bogdanovic this summer. Will he get on the floor?",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/fc66e6e295d49691ccbd607cf9b703cd.jpg",
-     "url": "https://sports.yahoo.com/articles/rockets-2026-2027-player-previews-134847945.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-09-26T13:48:47+00:00"
     },
     {
      "title": "No Premier League appetite to strip Man City of titles - but threat remains",
@@ -319,28 +335,12 @@
      "published": "2026-09-26T13:26:40+00:00"
     },
     {
-     "title": "Russell wins despite late Verstappen challenge",
-     "summary": "Mercedes' George Russell holds off a late challenge from Red Bull's Max Verstappen to win an Azerbaijan Grand Prix enlivened by two late safety car periods.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8117/live/1edce5b0-b9ad-11f1-8a1a-0176f978c211.jpg",
-     "url": "https://www.bbc.co.uk/sport/formula1/articles/ck8d33760j63o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-09-26T13:16:13+00:00"
-    },
-    {
      "title": "George Russell holds off Max Verstappen to win eventful F1 Azerbaijan GP",
      "summary": "Briton leads from pole to claim third win of the season Russell closes gap on leader Kimi Antonelli, who rose from 16th to fifth Jaw set resolute on the podium, George Russell gave notice he is not qu…",
      "image": "https://i.guim.co.uk/img/media/c27557fba505adbb0f233318c3443612f8190a21/755_0_3783_3026/master/3783.jpg?width=140&quality=85&auto=format&fit=max&s=089e489028b056ad5120cf1580afe22f",
      "url": "https://www.theguardian.com/sport/2026/sep/26/george-russell-holds-off-max-verstappen-to-win-crash-filled-f1-azerbaijan-gp",
      "source": "Guardian Sport",
      "published": "2026-09-26T13:08:26+00:00"
-    },
-    {
-     "title": "WNBA 2026 playoff predictions: can the dynastic Aces – or anybody – deny the dominant Lynx?",
-     "summary": "Our writers pick the champion, key players and dark horses as the WNBA postseason tips off on Sunday At least big-picture, as the end of one era of the league and the beginning of another , in part be…",
-     "image": "https://i.guim.co.uk/img/media/54cd154906975793bf9593eac78a624d83471406/246_0_3313_2650/master/3313.jpg?width=140&quality=85&auto=format&fit=max&s=14c5533213fa4d46ed72dd851290d219",
-     "url": "https://www.theguardian.com/sport/2026/sep/26/wnba-2026-playoff-predictions-lynx-aces",
-     "source": "Guardian Sport",
-     "published": "2026-09-26T08:00:30+00:00"
     },
     {
      "title": "Stephen Curry, Warriors reportedly agree to $116M extension: What it means for Golden State's future",
