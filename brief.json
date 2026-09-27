@@ -1,32 +1,80 @@
 {
- "generated": "2026-09-27T17:48:43.028077+00:00",
+ "generated": "2026-09-27T19:47:47.406008+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "One month after Nepal’s catastrophic floods, thousands remain missing",
-     "summary": "A month after floods tore through Nepal, 5,285 people remain missing and more than 1,100 are still in holding centres.",
+     "title": "生人勿近！美國擴大格陵蘭軍事部署 劍指中俄北極合作",
+     "summary": "分析人士指出，美國擬在格陵蘭建立軍事基地並擴大防禦部署，宛如對中國與俄羅斯在北極潛在的軍事合作，豎起一塊「生人勿近」（keep out）的警告牌。 香港「南華早報」27...…",
      "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/09-27-nepal-floods-one-month-sv-mp4?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-27T17:29:50+00:00"
-    },
-    {
-     "title": "20歲男帶15歲國中妹公園、小學廁所野戰 少女父氣炸提告判9月",
-     "summary": "彰化一名20歲超商店員A男與15歲國三少女交往，兩人認識不久便陷入熱戀，交往不到兩個月便急著偷嚐禁果，地點從男方租屋處、運動公園公廁，甚至闖入國小廁所「野戰」，少女父親發現女兒...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/society/breakingnews/5588047",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5588062",
      "source": "自由時報",
-     "published": "2026-09-27T17:17:29+00:00"
+     "published": "2026-09-27T19:34:18+00:00"
     },
     {
-     "title": "Giant pandas arrive in Atlanta as part of 10-year US-China agreement",
-     "summary": "The two pandas, Ping Ping and Fu Shuang, arrived from southwestern China.",
+     "title": "AI代理程式頻傳失控 OpenAI宣布暫停訓練最新模型",
+     "summary": "隨著人工智慧代理程式（AI agents）「失控」的報告不斷增加，OpenAI宣布已暫停訓練其最新的AI模型。 美聯社報導，在此暫停開發的決定發布前幾小時，該公司甫於2...…",
      "image": "",
-     "url": "https://www.aljazeera.com/news/2026/9/27/giant-pandas-arrive-in-atlanta-as-part-of-10-year-us-china-agreement?traffic_source=rss",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5588058",
+     "source": "自由時報",
+     "published": "2026-09-27T19:32:37+00:00"
+    },
+    {
+     "title": "Anthropic CEO Amodei set to meet with Trump after missing state dinner",
+     "summary": "As top tech CEOs rubbed elbows at President Trump's glitzy dinner for Chinese President Xi on Thursday, Anthropic's CEO was noticeably absent.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/09/27/dario-amodei-set-to-have-dinner-with-trump-after-missing-state-dinner.html",
+     "source": "CNBC Top News",
+     "published": "2026-09-27T19:13:27+00:00"
+    },
+    {
+     "title": "行動電源起火  漢莎航空飛里斯本班機轉降里昂無人受傷",
+     "summary": "德國漢莎航空指出，一架從法蘭克福（Frankfurt）飛往葡萄牙里斯本的所屬航班因乘客的行動電源電池起火而緊急轉降法國里昂。事件中沒有人員受傷。 法新社報導，昨天事發時，載有198名乘客的...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5588059",
+     "source": "自由時報",
+     "published": "2026-09-27T19:06:03+00:00"
+    },
+    {
+     "title": "Stuck between Israeli military checkpoints",
+     "summary": "Israeli road closures have become a part of daily life for Palestinians in the occupied West Bank.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/stuck-between-israeli-military-checkpoints?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-09-27T17:07:33+00:00"
+     "published": "2026-09-27T19:04:21+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》Ministry warns of rising nearsightedness in kids",
+     "summary": "HEALTHY EYES: Children should look at something at least 20 feet away for 20 seconds after 20 minute...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5587993",
+     "source": "自由時報",
+     "published": "2026-09-27T19:00:00+00:00"
+    },
+    {
+     "title": "Palestine Action protesters arrested in Liverpool",
+     "summary": "Police have arrested protesters at a Palestine Action demonstration in Liverpool, ahead of the Labour Party conference.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/aje-onl-nf_palestine-action-protesters-arrested-in-liverpool-270926?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-27T18:56:27+00:00"
+    },
+    {
+     "title": "At least 12 dead and dozens missing after a vessel capsizes in DRC",
+     "summary": "This incident comes only two days after at least 41 people died in another boat capsizing in DRC.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/9/27/at-least-12-dead-and-dozens-missing-after-a-vessel-capsizes-in-drc?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-27T18:47:52+00:00"
+    },
+    {
+     "title": "South Korea, Ukraine relations sour over North Korean POW transfer",
+     "summary": "South Korea's presidential office criticises Ukraine for denying POW nondisclosure agreement.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/9/27/south-korea-ukraine-relations-sour-over-north-korean-pow-transfer?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-27T18:30:53+00:00"
     },
     {
      "title": "Two bodies found after avalanche hits Himalayan climbing group",
@@ -35,46 +83,6 @@
      "url": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
      "published": "2026-09-27T17:05:26+00:00"
-    },
-    {
-     "title": "美國駐中大使：川普對台立場強硬 對台軍售仍在討論中",
-     "summary": "美國駐中國大使龐德偉（David Perdue）27日接受「福斯週日新聞」（FOX News Sunday）專訪，論及甫落幕的「川習會」以及美中關係。龐德偉特別指出，美國總統...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5588048",
-     "source": "自由時報",
-     "published": "2026-09-27T16:59:26+00:00"
-    },
-    {
-     "title": "Dozens killed in two mass shootings in South Africa",
-     "summary": "At least 27 people have been killed in two mass shootings across South Africa.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/dozens-killed-in-two-mass-shootings-in-south-africa?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-27T16:58:36+00:00"
-    },
-    {
-     "title": "Jerusalem Daily: Israeli opposition leaders unite to drive out Netanyahu",
-     "summary": "",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/jerusalem-daily-israeli-opposition-leaders-unite-to-drive-out-netanyahu?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-27T16:53:57+00:00"
-    },
-    {
-     "title": "敲碗台北也來演「狸貓換太子」？ 黃智賢：從未認可也不會支持",
-     "summary": "替陳幸妤遭婚變抱不平、民間自發籌辦的台南「鍘美藝術節」獲得熱烈迴響，隨後有人打算如法炮製，想在台北市揪團舉辦諷刺現任市長蔣萬安身世爭議的戲碼「貍貓換太子」，但有不少台派憂心升高仇...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5588035",
-     "source": "自由時報",
-     "published": "2026-09-27T16:52:17+00:00"
-    },
-    {
-     "title": "亞運禁Taiwan毛巾掀台日中輿論風暴 矢板明夫點出「3大重要變化」",
-     "summary": "亞運棒球賽近日在愛知名古屋登場，台灣隊輾壓中國隊的賽場上，一位球迷在看台高舉中華職棒印有「Taiwan」字樣的毛巾為台灣隊加油，遭日方工作人員上前強力制止並要求收起，引爆台、日、...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5588037",
-     "source": "自由時報",
-     "published": "2026-09-27T16:51:03+00:00"
     },
     {
      "title": "Burnham dodges questions on Heathrow third runway as project faces four-year delay",
@@ -99,14 +107,6 @@
      "url": "https://www.cnbc.com/2026/09/27/nfl-drone-defense-tech-game-disruptions.html",
      "source": "CNBC Top News",
      "published": "2026-09-27T15:22:03+00:00"
-    },
-    {
-     "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
-     "summary": "Meta's Muse AI personal agent will work over your credit card spending if you don't mind the invasion. How big a threat is it to the subscription economy?",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
-     "source": "CNBC Top News",
-     "published": "2026-09-27T14:33:22+00:00"
     },
     {
      "title": "Lime bike profits double as rider numbers surge in England",
@@ -138,6 +138,14 @@
    "label": "AI",
    "items": [
     {
+     "title": "There are no \"rogue\" AI agents",
+     "summary": "Article URL: https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents Comments URL: https://news.ycombinator.com/item?id=49868083 Points: 246 # Comments: 179",
+     "image": "",
+     "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+     "source": "Hacker News Front Page",
+     "published": "2026-09-27T16:19:46+00:00"
+    },
+    {
      "title": "XRISM 首度直擊恆星風墜入中子星，天文學家看清脈衝星進食全程",
      "summary": "利用日本主導的 X 射線成像與光譜衛星（XRISM）資料，天文學家直接觀測到一顆巨大恆星的恆星風被伴星捕獲，為 […]",
      "image": "",
@@ -146,20 +154,20 @@
      "published": "2026-09-27T16:00:07+00:00"
     },
     {
-     "title": "Installing NeoVim caused original Vim undo files to be deleted",
-     "summary": "Article URL: https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/ Comments URL: https://news.ycombinator.com/item?id=49867067 Points: 271 # Comments: 231",
+     "title": "The Normalization of Inexplicable Failures",
+     "summary": "Article URL: https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html Comments URL: https://news.ycombinator.com/item?id=49867486 Points: 193 # Comments: 70",
+     "image": "",
+     "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+     "source": "Hacker News Front Page",
+     "published": "2026-09-27T15:26:40+00:00"
+    },
+    {
+     "title": "On caring for user data: NeoVim caused Vim undo files to be deleted",
+     "summary": "Article URL: https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/ Comments URL: https://news.ycombinator.com/item?id=49867067 Points: 298 # Comments: 260",
      "image": "",
      "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
      "source": "Hacker News Front Page",
      "published": "2026-09-27T14:45:07+00:00"
-    },
-    {
-     "title": "10 Tells of a Slop UI",
-     "summary": "Article URL: https://hereticpleb.vercel.app/blog/10-tells-of-slop Comments URL: https://news.ycombinator.com/item?id=49867038 Points: 228 # Comments: 169",
-     "image": "",
-     "url": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
-     "source": "Hacker News Front Page",
-     "published": "2026-09-27T14:41:26+00:00"
     },
     {
      "title": "How the Smithsonian became the latest front in Trump’s culture war",
@@ -194,20 +202,12 @@
      "published": "2026-09-27T07:30:05+00:00"
     },
     {
-     "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-     "summary": "Article URL: https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/ Comments URL: https://news.ycombinator.com/item?id=49863864 Points: 562 # Comments: 522",
+     "title": "Go Concurrency Distilled",
+     "summary": "Article URL: https://antonz.org/go-concurrency-distilled/ Comments URL: https://news.ycombinator.com/item?id=49856988 Points: 349 # Comments: 147",
      "image": "",
-     "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+     "url": "https://antonz.org/go-concurrency-distilled/",
      "source": "Hacker News Front Page",
-     "published": "2026-09-27T06:19:33+00:00"
-    },
-    {
-     "title": "DeepSeek Elastic Compute (DSec)",
-     "summary": "Article URL: https://arxiv.org/abs/2609.22978 Comments URL: https://news.ycombinator.com/item?id=49859112 Points: 307 # Comments: 97",
-     "image": "",
-     "url": "https://arxiv.org/abs/2609.22978",
-     "source": "Hacker News Front Page",
-     "published": "2026-09-26T18:22:41+00:00"
+     "published": "2026-09-26T14:34:49+00:00"
     },
     {
      "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
@@ -223,20 +223,44 @@
    "label": "運動",
    "items": [
     {
+     "title": "Israel v Republic of Ireland, Norway v Portugal, Germany v Greece: Nations League – live",
+     "summary": "Updates from 7.45pm BST kick-offs in Nations League Live scores | Email John | And follow us over on TikTok The news from that Dutch win , Xavi’s first as coach, is that Cody Gakpo was forced off with…",
+     "image": "https://i.guim.co.uk/img/media/bb1bba5e8d9b55a1c50a2f9e52aeafd6c155d459/599_0_5968_4777/master/5968.jpg?width=140&quality=85&auto=format&fit=max&s=e782ff4565d185c276a131cd25496de9",
+     "url": "https://www.theguardian.com/football/live/2026/sep/27/israel-republic-of-ireland-norway-portugal-germany-greece-nations-league-live",
+     "source": "Guardian Sport",
+     "published": "2026-09-27T19:34:35+00:00"
+    },
+    {
      "title": "NFL week three: Chiefs at Dolphins, Chargers at Bills, Bengals at Steelers and more – live",
      "summary": "Live updates from the 6pm BST games around the NFL Get in touch: mail Graham about all the latest matches TOUCHDOWN! Chargers 7-0 Bills 10:33, 1st quarter J Herbert to K Mitchell for one yard A Rodger…",
      "image": "https://i.guim.co.uk/img/media/ce78658f61a3485d221fe7557b94eb50769e4952/0_0_2100_1681/master/2100.jpg?width=140&quality=85&auto=format&fit=max&s=942edbbe2c6148b1a684ae50ca4f0c44",
      "url": "https://www.theguardian.com/sport/live/2026/sep/27/nfl-week-three-chiefs-dolphins-chargers-bills-patriots-jaguars-live",
      "source": "Guardian Sport",
-     "published": "2026-09-27T17:33:49+00:00"
+     "published": "2026-09-27T19:33:14+00:00"
     },
     {
-     "title": "Zverev comeback leads Europe to Laver Cup victory",
-     "summary": "Alexander Zverev recovers from his day two defeat by Alex de Minaur to beat Learner Tien and clinch the Laver Cup title for Team Europe on the final day.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d10/live/87b8fae0-ba90-11f1-8b67-d15ca96e4c99.jpg",
-     "url": "https://www.bbc.co.uk/sport/tennis/articles/c3dx0w2rqqzpo?at_medium=RSS&at_campaign=rss",
+     "title": "Heroic York rearguard stuns Wigan in Grand Final",
+     "summary": "York Valkyrie become the first side to win the Women's Super League three times after an incredible defensive effort thwarts favourites Wigan.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7946/live/e1a32920-baa6-11f1-96c0-052f341a8103.jpg",
+     "url": "https://www.bbc.co.uk/sport/rugby-league/articles/ck1wxy1nwq4zo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
-     "published": "2026-09-27T16:55:10+00:00"
+     "published": "2026-09-27T19:07:55+00:00"
+    },
+    {
+     "title": "No handshakes between Republic of Ireland and Israel",
+     "summary": "The Republic of Ireland and Israel players do not shake hands with each other before Sunday's controversial Uefa Nations League game in Hungary.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6a0/live/2ebf9bd0-baa7-11f1-bc1f-3f186ca4140c.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-09-27T18:58:35+00:00"
+    },
+    {
+     "title": "Watch highlights from Knicks' Jalen Brunson hosting Saturday Night Live",
+     "summary": "Watch a few highlights from Brunson's big night here, or stream the entire episode on Peacock.",
+     "image": "",
+     "url": "https://www.yahoo.com/entertainment/tv/articles/watch-highlights-knicks-jalen-brunson-173804435.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-27T17:38:04+00:00"
     },
     {
      "title": "England win series as Banton delivers on potential",
@@ -255,28 +279,20 @@
      "published": "2026-09-27T16:32:32+00:00"
     },
     {
-     "title": "Charlotte trades Buddy Hield to Chicago for Rob Dillingham",
-     "summary": "For the second time in a week, veteran sharpshooter Buddy Heild has been traded.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/charlotte-trades-buddy-hield-chicago-160926475.html",
+     "title": "Tyler Nickel and Kevin McCullar Jr. sign two-way contracts",
+     "summary": "The Knicks waited until the day before Media Day to become the last team to fill a two-way spot.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/d7176b356d227b8030040914f1e4afca.jpg",
+     "url": "https://sports.yahoo.com/articles/tyler-nickel-kevin-mccullar-jr-163218802.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-09-27T16:09:26+00:00"
+     "published": "2026-09-27T16:32:18+00:00"
     },
     {
-     "title": "Do the Knicks have enough frontcourt depth for title defense? 3 reasons for optimism",
-     "summary": "New York losing Mitchell Robinson stings, but could the champs actually be better off?",
-     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ed-092426-nba-previews-knicks-frontcourt-better-update_3886.jpg",
-     "url": "https://sports.yahoo.com/nba/article/do-the-knicks-have-enough-frontcourt-depth-for-title-defense-3-reasons-for-optimism-154347419.html",
+     "title": "Preview: Three predictions that suggest Leonard has his best season yet",
+     "summary": "The stars are aligning for Kawhi Leonard to have the best season of his career.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/a59c37ca92b93635542136372ecd9643.jpg",
+     "url": "https://sports.yahoo.com/articles/preview-three-predictions-suggest-leonard-161810067.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-09-27T15:43:47+00:00"
-    },
-    {
-     "title": "Former NC State head coach Kevin Keatts releases UNC practice report",
-     "summary": "An unexpected source gave his thoughts on what he saw from Carolina’s first practice.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/e37a24eb28b40cae1889e59758b04101.jpg",
-     "url": "https://sports.yahoo.com/articles/former-nc-state-head-coach-150000729.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-09-27T15:00:00+00:00"
+     "published": "2026-09-27T16:18:10+00:00"
     },
     {
      "title": "Why Premier League faces uncertainty and chaos after Man City ruling",
@@ -295,28 +311,12 @@
      "published": "2026-09-27T12:06:56+00:00"
     },
     {
-     "title": "Horner a distraction for Ferrari says Vasseur",
-     "summary": "Christian Horner is proving a distraction for Ferrari by \"looking for a job\", team principal Frederic Vasseur says.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b3b/live/fca26ae0-ba62-11f1-ab5a-210fdaa1dd09.jpg",
-     "url": "https://www.bbc.co.uk/sport/formula1/articles/cvwyz791096jo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-09-27T11:44:25+00:00"
-    },
-    {
      "title": "In playful moments, the USMNT’s new youth movement is already paying off",
      "summary": "After a crushing World Cup exit, 11 debutants and two teenage scorers are giving the program renewed verve Subscribe to our free newsletter for US soccer fans Follow Guardian Soccer on Instagram and T…",
      "image": "https://i.guim.co.uk/img/media/4f250e4c9bb7a7ed785fa08b5157fa5ae4267bf8/451_0_5092_4075/master/5092.jpg?width=140&quality=85&auto=format&fit=max&s=0d84596457297fe37b7c92d372f62629",
      "url": "https://www.theguardian.com/football/2026/sep/27/usa-peru-soccer-justin-ellis-cavan-sullivan-julian-hall",
      "source": "Guardian Sport",
      "published": "2026-09-27T09:00:01+00:00"
-    },
-    {
-     "title": "Justin Verlander leaves field in tears with daughter after final start of 21-year career",
-     "summary": "Daughter Genevieve surprises 43-year-old on mound Three-time Cy Young winner ends 21-season career Verlander finishes with 3,560 career strikeouts Justin Verlander got an unexpected hook in his major…",
-     "image": "https://i.guim.co.uk/img/media/1e2ca5c67ec0f0d02dbc015ea975a4ab5b4a3448/488_0_3836_3070/master/3836.jpg?width=140&quality=85&auto=format&fit=max&s=eb9475811129609940d625509900e857",
-     "url": "https://www.theguardian.com/sport/2026/sep/26/justin-verlander-final-game-detroit-tigers-daughter-retirement",
-     "source": "Guardian Sport",
-     "published": "2026-09-26T22:36:22+00:00"
     },
     {
      "title": "Bulls-Hornets trade: Chicago adds shooting in Buddy Hield as Charlotte takes flier on Rob Dillingham",
