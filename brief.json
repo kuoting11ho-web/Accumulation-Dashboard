@@ -1,48 +1,112 @@
 {
- "generated": "2026-09-28T18:11:37.980973+00:00",
+ "generated": "2026-09-28T20:09:13.446411+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "Stocks fall to start the week as Treasury yields rise once again: Live updates",
-     "summary": "Stocks fell Monday, weighed down by a jump in oil prices and Treasury yields to start the week.",
+     "title": "Zuckerberg, Amodei among tech executives set to meet Trump Tuesday",
+     "summary": "The AI safety debate has raged in recent weeks, with Amodei, Musk and OpenAI CEO Sam Altman calling to pace the development of frontier models.",
      "image": "",
-     "url": "https://www.cnbc.com/2026/09/27/stock-market-today-live-updates.html",
+     "url": "https://www.cnbc.com/2026/09/28/trump-ai-tech-lunch.html",
      "source": "CNBC Top News",
-     "published": "2026-09-28T18:01:32+00:00"
+     "published": "2026-09-28T20:00:45+00:00"
     },
     {
-     "title": "Iran touts Hormuz attacks as oil flows increase despite tensions",
-     "summary": "Mediators are trying to facilitate more talks, but Washington signals faith in its pressure tactics.",
+     "title": "日本東京首次緊急獵殺　撲殺一頭受困陷阱黑熊",
+     "summary": "日本各地近年接連發生熊襲人事件，東京都八王子市小津町一處農地28日有一頭亞洲黑熊受困於套索陷阱，當局隨後實施可由地方政府判斷開槍的「緊急獵殺」措施，撲殺了這頭黑熊。 共同社報導，東京都政府...…",
      "image": "",
-     "url": "https://www.aljazeera.com/news/2026/9/28/iran-touts-hormuz-attacks-as-oil-flows-increase-despite-tensions?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-28T17:43:10+00:00"
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5588947",
+     "source": "自由時報",
+     "published": "2026-09-28T19:54:04+00:00"
     },
     {
-     "title": "Trump to announce plan for $15 billion steel plant, would be largest in U.S. history",
+     "title": "NFL asks US Homeland Security to remove video with former star player",
+     "summary": "Agency used video of Hall of Fame player Brian Dawkins to show readiness for border protection.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/9/28/nfl-asks-us-homeland-security-to-remove-video-with-former-star-player?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-28T19:49:25+00:00"
+    },
+    {
+     "title": "Boeing 737 Max 10 certification delayed by software issue, FAA says",
+     "summary": "The FAA administrator said the Max 10 will be delayed until the agency can assess a software issue on the aircraft.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/09/28/faa-boeing-737-max-10-certification-delay-software-issue.html",
+     "source": "CNBC Top News",
+     "published": "2026-09-28T19:46:42+00:00"
+    },
+    {
+     "title": "Italian court convicts three Egyptian agents for kidnap of Giulio Regeni",
+     "summary": "Defendants were sentenced in absentia to 10 years in prison over the 2016 fatal abduction of the Cambridge scholar.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/9/28/italian-court-convicts-three-egyptian-agents-for-kidnap-of-giulio-regeni?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-28T19:45:06+00:00"
+    },
+    {
+     "title": "UAE confirms Netanyahu visit to Abu Dhabi",
+     "summary": "The visit takes place as the Israeli prime minister battles domestic turmoil ahead of October's Knesset elections",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/9/28/uae-confirms-netanyahu-visit-to-abu-dhabi?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-28T19:42:30+00:00"
+    },
+    {
+     "title": "Trump announces plan for $15 billion steel plant, would be largest in U.S. history",
      "summary": "Trump's announcement with Mesabi Metallics comes as Americans' souring views of the economy are poised to shape the upcoming midterm election.",
      "image": "",
      "url": "https://www.cnbc.com/2026/09/28/trump-steel-plant-iowa.html",
      "source": "CNBC Top News",
-     "published": "2026-09-28T17:39:53+00:00"
+     "published": "2026-09-28T19:37:50+00:00"
     },
     {
-     "title": "Photos: Russian drone strikes pound civilian targets across Kyiv",
-     "summary": "Ukraine condemns Russian targeting of civilians as strikes kill seven and injure dozens across Kyiv.",
+     "title": "How can the UK’s Labour Party rebuild voter trust?",
+     "summary": "Members at annual conference are optimistic about new PM",
      "image": "",
-     "url": "https://www.aljazeera.com/gallery/2026/9/28/photos-aftermath-of-a-russian-drone-attack-in-kyiv?traffic_source=rss",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/9/28/how-can-the-uks-labour-party-rebuild-voter-trust?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-09-28T17:37:36+00:00"
+     "published": "2026-09-28T19:37:27+00:00"
     },
     {
-     "title": "UK police release suspects on bail after RAF arrests, investigation ongoing",
-     "summary": "British police officials say that suspects arrested over a 'terror' incident at a RAF base were released on police bail.",
+     "title": "SpaceX星艦首進地球軌道　部署26顆星鏈衛星",
+     "summary": "美國太空探索科技公司（SpaceX）的大型火箭「星艦」今天首度成功進入地球軌道，並部署26顆新一代星鏈衛星，象徵SpaceX老闆馬斯克充滿雄心的計畫邁進一大步。 法新社報導，這艘「星艦」（...…",
      "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/uk-police-release-suspects-on-bail-after-raf-arrests-investigation-ongoing?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-28T17:32:44+00:00"
+     "url": "https://news.ltn.com.tw/news/life/breakingnews/5588946",
+     "source": "自由時報",
+     "published": "2026-09-28T19:30:03+00:00"
+    },
+    {
+     "title": "LeBron James is already boosting ticket and merchandise demand for Philadelphia 76ers",
+     "summary": "NBA star LeBron James is having a major financial impact on the Philadelphia 76ers and Philadelphia, boosting sponsorships, ticket sales, and economic activity",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/09/28/lebron-james-boosts-ticket-jersey-demand-for-nba-philadelphia-76ers.html",
+     "source": "CNBC Top News",
+     "published": "2026-09-28T19:27:48+00:00"
+    },
+    {
+     "title": "Nvidia unveils security platform to rein in AI agents and $150bn stock buyback",
+     "summary": "Chipmaker says new system was designed to prevent AI agents from going rogue amid incidents at top companies Nvidia on Monday unveiled a new security platform that the chipmaker said can stop artifici…",
+     "image": "https://i.guim.co.uk/img/media/96fab7de9345f43684d2946c784849f9982aecfd/2_0_3536_2828/master/3536.jpg?width=140&quality=85&auto=format&fit=max&s=e7d08f5ed1931f164cf3c0971e8497fb",
+     "url": "https://www.theguardian.com/technology/2026/sep/28/nvidia-ai-agent-security-platform-stock-buyback",
+     "source": "Guardian Business",
+     "published": "2026-09-28T19:24:07+00:00"
+    },
+    {
+     "title": "繼續燒錢！俄羅斯2027年國防預算大增27％ 創俄烏戰爭以來新高",
+     "summary": "路透檢閱的政府文件顯示，俄羅斯計畫將2027年的國防支出提高至17.1兆盧布（約新台幣6兆元），較原先編列的13.5兆盧布預算增加約27％，創下2022年俄烏戰爭爆發以來的最...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5588941",
+     "source": "自由時報",
+     "published": "2026-09-28T19:18:18+00:00"
+    },
+    {
+     "title": "防關鍵技術流向海外 彭博：中國擴大民間AI人才出境限制 禁令擴及家屬",
+     "summary": "彭博28日引述知情人士報導，中國當局已擴大對民營企業頂尖人工智慧（AI）專業人才的出境限制，將限制範圍進一步延伸至關鍵人員的家屬，以防止核心技術與關鍵資訊外流至美國。 ...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5588932",
+     "source": "自由時報",
+     "published": "2026-09-28T19:15:25+00:00"
     },
     {
      "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
@@ -67,70 +131,6 @@
      "url": "https://www.npr.org/2026/09/28/nx-s1-5983480/cornell-fraternity-rape-chi-phi-case-updates",
      "source": "NPR News",
      "published": "2026-09-28T17:14:25+00:00"
-    },
-    {
-     "title": "台北要演「狸貓換太子」？鍘美發起人蘇先生：同溫層自high沒意義",
-     "summary": "「鍘美藝術節」落幕後，網路卻傳出要在台北搬演《狸貓換太子》，甚至被解讀為「鍘美續集」，引發討論。對此，鍘美藝術節發起人蘇先生明確表示，鍘美藝術節從未涉入政治議題，「我不贊成，也...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5588930",
-     "source": "自由時報",
-     "published": "2026-09-28T17:13:55+00:00"
-    },
-    {
-     "title": "Paris court finds Swiftair guilty over 2014 Mali crash that killed 116",
-     "summary": "Spain's Swiftair was fined 225,000 euros in France for corporate manslaughter over 2014 Air Algerie disaster in Mali.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/9/28/paris-court-finds-swiftair-guilty-over-2014-mali-crash-that-killed-116?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-28T17:13:03+00:00"
-    },
-    {
-     "title": "川普拒絕伊朗停火提案　歐股收盤基本持平",
-     "summary": "美國總統川普（Donald Trump）拒絕伊朗提出為期7天的停火提議後，國際油價攀升，歐洲股市主要指數今天收盤則是基本持平。 倫敦FTSE 100指數小跌10.37點或0.10%，收10...…",
-     "image": "",
-     "url": "https://ec.ltn.com.tw/article/breakingnews/5588931",
-     "source": "自由時報",
-     "published": "2026-09-28T17:12:03+00:00"
-    },
-    {
-     "title": "SpaceX星艦首度成功入軌 部署新一代星鏈後為安全提早返航",
-     "summary": "太空探索科技公司（SpaceX）旗下巨型火箭「星艦」（Starship）28日首度成功進入地球軌道，並順利部署迄今最先進的「星鏈」（Starlink）衛星，但隨後基於安全考量...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5588927",
-     "source": "自由時報",
-     "published": "2026-09-28T17:09:35+00:00"
-    },
-    {
-     "title": "被蔣萬安丟棄的甘蔗！劉柏君：80多歲長者誠心種來 獻給土地公的",
-     "summary": "民進黨台北市長參選人沈伯洋與現台北市長蔣萬安26日先後出席中山區中庄仔福德宮聖誕晚宴，2人皆受廟方致贈象徵祝福的甘蔗，不料本週一（28日）爆出蔣萬安隨意將獲贈的甘蔗給隨意丟棄，引...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5588867",
-     "source": "自由時報",
-     "published": "2026-09-28T16:52:43+00:00"
-    },
-    {
-     "title": "Trump's immigration push has largely spared farms. Idaho dairymen worry it won't last.",
-     "summary": "America's farms have largely escaped the president's aggressive immigration crackdown. But as ICE sweeps continue across the nation, farmers are uneasy because many still can't find enough workers.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5005x3337+0+0/resize/5005x3337!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F53%2F8b%2Ff5684ef849dbbe85c92a9b87a646%2Fgettyimages-2186095372.jpg",
-     "url": "https://www.npr.org/2026/09/28/nx-s1-5976810/trumps-immigration-idaho-dairy-industry",
-     "source": "NPR News",
-     "published": "2026-09-28T16:27:30+00:00"
-    },
-    {
-     "title": "The Trump administration weakens fuel efficiency standards for new cars",
-     "summary": "The Trump administration says easing these standards will make cars more affordable. Critics say it's not so simple and could be costly for the environment.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5266x3511+0+0/resize/5266x3511!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe4%2F30%2F10c1cbbb4d28abb52f01a2a22fcc%2Fgettyimages-2261037791.jpg",
-     "url": "https://www.npr.org/2026/09/28/nx-s1-5918509/car-fuel-efficiency-cafe-standards-rollback",
-     "source": "NPR News",
-     "published": "2026-09-28T16:07:15+00:00"
-    },
-    {
-     "title": "SpaceX launches its massive Starship rocket into orbit for the first time",
-     "summary": "Elon Musk's SpaceX launched a historic test flight of its massive Starship rocket early Monday.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html",
-     "source": "CNBC Top News",
-     "published": "2026-09-28T16:01:50+00:00"
     }
    ]
   },
@@ -138,12 +138,52 @@
    "label": "AI",
    "items": [
     {
-     "title": "F1 in Azerbaijan: That was almost a close-run thing",
-     "summary": "Kimi Antonelli could not repeat his Monza magic after a crash in qualifying.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2297234571-500x500.jpg",
-     "url": "https://arstechnica.com/cars/2026/09/f1-in-azerbaijan-that-was-almost-a-close-run-thing/",
+     "title": "To keep drug prices high, pharma has been piling up the patents",
+     "summary": "Add-on patents have increased drug patent periods from two years to over six.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/prescription-thicket-500x500.jpg",
+     "url": "https://arstechnica.com/health/2026/09/to-keep-drug-prices-high-pharma-has-been-piling-up-the-patents/",
      "source": "Ars Technica",
-     "published": "2026-09-28T17:41:35+00:00"
+     "published": "2026-09-28T19:53:37+00:00"
+    },
+    {
+     "title": "Trump cuts fuel economy standards back to 2014 levels",
+     "summary": "In 2020, Trump cut CAFE to 40 mpg. Now he’s cut it again to just 35 mpg.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-155384429-500x500.jpg",
+     "url": "https://arstechnica.com/cars/2026/09/trump-cuts-fuel-economy-standards-back-to-2014-levels/",
+     "source": "Ars Technica",
+     "published": "2026-09-28T19:35:51+00:00"
+    },
+    {
+     "title": "Kalshi loses again as judges rule prediction markets must obey gambling laws",
+     "summary": "Kalshi's defiance of state gambling laws may be headed to Supreme Court.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-500x500-1783536860.jpg",
+     "url": "https://arstechnica.com/tech-policy/2026/09/another-court-rules-kalshi-sports-bets-arent-swaps-says-states-can-crack-down/",
+     "source": "Ars Technica",
+     "published": "2026-09-28T19:04:09+00:00"
+    },
+    {
+     "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
+     "summary": "Google support maps out how Googlebooks can take over where ChromeOS left off.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/list-500x500.jpg",
+     "url": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034/",
+     "source": "Ars Technica",
+     "published": "2026-09-28T18:04:59+00:00"
+    },
+    {
+     "title": "Sonnet 5.5",
+     "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5 Comments URL: https://news.ycombinator.com/item?id=49881850 Points: 328 # Comments: 209",
+     "image": "",
+     "url": "https://www.anthropic.com/claude-sonnet-5-5",
+     "source": "Hacker News Front Page",
+     "published": "2026-09-28T17:58:11+00:00"
+    },
+    {
+     "title": "Windows 11½",
+     "summary": "Article URL: https://definitelynotwindows.com/ Comments URL: https://news.ycombinator.com/item?id=49881747 Points: 276 # Comments: 74",
+     "image": "",
+     "url": "https://definitelynotwindows.com/",
+     "source": "Hacker News Front Page",
+     "published": "2026-09-28T17:51:24+00:00"
     },
     {
      "title": "When can we say AI made a scientific discovery?",
@@ -154,60 +194,20 @@
      "published": "2026-09-28T17:03:16+00:00"
     },
     {
-     "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-     "summary": "US Government websites among \"dozens of third parties\" OpenAI has recently notified.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/sleepyrobot-500x500.jpg",
-     "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
-     "source": "Ars Technica",
-     "published": "2026-09-28T16:43:18+00:00"
-    },
-    {
-     "title": "The problem is not AI code, but not knowing about system architecture or intent",
-     "summary": "Article URL: https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/ Comments URL: https://news.ycombinator.com/item?id=49880312 Points: 255 # Comments: 169",
+     "title": "Pirating the Pirates",
+     "summary": "Article URL: https://mubi.com/en/notebook/posts/pirating-the-pirates Comments URL: https://news.ycombinator.com/item?id=49880036 Points: 263 # Comments: 102",
      "image": "",
-     "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+     "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
      "source": "Hacker News Front Page",
-     "published": "2026-09-28T16:11:42+00:00"
+     "published": "2026-09-28T15:54:15+00:00"
     },
     {
-     "title": "NASA, for the time being, is unable to move the space station's large robotic arm",
-     "summary": "NASA isn't saying much. The problem may be temporary.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2016/06/26523207085_7558984d60_k-500x500.jpg",
-     "url": "https://arstechnica.com/space/2026/09/nasa-for-the-time-being-is-unable-to-move-the-space-stations-large-robotic-armthe-large-robotic-arm-on-the-international-space-station-has-stopped-working/",
-     "source": "Ars Technica",
-     "published": "2026-09-28T16:03:50+00:00"
-    },
-    {
-     "title": "MongoDB CEO resigns to join Meta",
-     "summary": "Article URL: https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/ Comments URL: https://news.ycombinator.com/item?id=49879000 Points: 153 # Commen…",
+     "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
+     "summary": "Article URL: https://www.thisamericanlife.org/897/transcript Comments URL: https://news.ycombinator.com/item?id=49879697 Points: 168 # Comments: 110",
      "image": "",
-     "url": "https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/",
+     "url": "https://www.thisamericanlife.org/897/transcript",
      "source": "Hacker News Front Page",
-     "published": "2026-09-28T14:54:21+00:00"
-    },
-    {
-     "title": "Coding Is Not Solved",
-     "summary": "Article URL: https://blog.alexewerlof.com/p/coding-is-not-solved Comments URL: https://news.ycombinator.com/item?id=49877988 Points: 307 # Comments: 322",
-     "image": "",
-     "url": "https://blog.alexewerlof.com/p/coding-is-not-solved",
-     "source": "Hacker News Front Page",
-     "published": "2026-09-28T13:52:57+00:00"
-    },
-    {
-     "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
-     "summary": "“Microsoft claims to want to be a good neighbor, but the jury is still out.\"",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/microsoft-data-center-champion-500x500.jpg",
-     "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
-     "source": "Ars Technica",
-     "published": "2026-09-28T11:00:09+00:00"
-    },
-    {
-     "title": "Parley: Federated, decentralised chat that speaks plain IRC",
-     "summary": "Article URL: https://git.mills.io/prologic/parley Comments URL: https://news.ycombinator.com/item?id=49875913 Points: 243 # Comments: 116",
-     "image": "",
-     "url": "https://git.mills.io/prologic/parley",
-     "source": "Hacker News Front Page",
-     "published": "2026-09-28T10:30:54+00:00"
+     "published": "2026-09-28T15:35:09+00:00"
     },
     {
      "title": "美國擬限制中國光模組，中際旭創、新易盛雙雙重挫",
@@ -274,25 +274,81 @@
      "title": "Monday Night Club - Man City reaction",
      "summary": "Mark Chapman and guests debate the weekend's football.",
      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0n3mq8q.jpg",
-     "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live?at_medium=RSS&at_campaign=rss",
+     "url": "https://www.bbc.co.uk/sounds/play/m003259g?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-09-28T20:00:00+00:00"
     },
     {
-     "title": "State of the East: Knicks title defense, Duren drama & Philly’s upside with Jonathan Macri",
-     "summary": "Kevin O'Connor and Jonathan Macri preview the New York Knicks and react to the latest on Jalen Duren's contract drama.",
-     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/koc-snlknicks-thumb_6357.png",
-     "url": "https://sports.yahoo.com/nba/article/state-of-the-east-knicks-title-defense-duren-drama--phillys-upside-with-jonathan-macri-180401573.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-09-28T18:04:01+00:00"
+     "title": "Belgium v France, Northern Ireland v Hungary and more: Nations League – live",
+     "summary": "⚽ Updates from 7.45pm (BST) kick-offs across Europe ⚽ Get in touch: email Michael about the action The teams are out! We’ll have the anthems now. There really is nothing that holds a candle to Il Cant…",
+     "image": "https://i.guim.co.uk/img/media/a879c5434f29667469edc26d285feda4117ccb7c/1307_405_3440_2752/master/3440.jpg?width=140&quality=85&auto=format&fit=max&s=f97c9da058a9154f339068cf17e95cc6",
+     "url": "https://www.theguardian.com/football/live/2026/sep/28/belgium-v-france-northern-ireland-v-hungary-and-more-nations-league-live",
+     "source": "Guardian Sport",
+     "published": "2026-09-28T19:55:32+00:00"
     },
     {
-     "title": "All-Star Brandon Ingram has partially torn Achilles, will miss start of Clippers' season",
-     "summary": "Ingram was acquired in the trade that sent Kawhi Leonard to the Toronto Raptors.",
+     "title": "Pistons still awaiting Jalen Duren decision as training camp begins",
+     "summary": "Pistons president of basketball operations Trajan Langdon made one thing clear Monday: Detroit still wants Duren back.",
      "image": "",
-     "url": "https://sports.yahoo.com/nba/breaking-news/article/all-star-brandon-ingram-has-partially-torn-achilles-will-miss-start-of-clippers-season-175425286.html",
+     "url": "https://sports.yahoo.com/articles/pistons-still-awaiting-jalen-duren-194423363.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-09-28T17:54:25+00:00"
+     "published": "2026-09-28T19:44:23+00:00"
+    },
+    {
+     "title": "Luka Dončić says it 'feels great' to be the leader of the Lakers following LeBron James' exit",
+     "summary": "Luka Dončić is ready to be the Lakers' leader.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/article/luka-doncic-says-it-feels-great-to-be-the-leader-of-the-lakers-following-lebron-james-exit-192656504.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-28T19:26:56+00:00"
+    },
+    {
+     "title": "Hart trusts Man City chair Khaldoon over ruling",
+     "summary": "Former Manchester City goalkeeper Joe Hart believes club chairman Khaldoon Al Mubarak's claims they are innocent of breaking the Premier League's financial rules.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4db6/live/e6b87110-bb49-11f1-a071-65d2e11c8f4a.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c617jky597k7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-09-28T19:24:40+00:00"
+    },
+    {
+     "title": "Brandon Ingram injury will delay his Clippers debut after Kawhi Leonard trade",
+     "summary": "Brandon Ingram, acquired by the Raptors in the Kawhi Leonard trade, won't be ready for the season opener after a partially torn Achilles tendon was discovered during offseason surgery.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/brandon-ingram-injury-delay-clippers-191918815.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-28T19:19:18+00:00"
+    },
+    {
+     "title": "Spurs' Stephon Castle says Knicks crowd at MSG was 'underwhelming' in NBA Finals, OKC fans were 'way louder'",
+     "summary": "Castle thought the road environment in Oklahoma City was a different challenge than in New York City last spring",
+     "image": "https://sportshub.cbsistatic.com/i/2026/09/28/ab4ac4aa-f19a-4ba0-bd5e-ae4fb9ecb061/untitled-design-1.png",
+     "url": "https://www.cbssports.com/nba/news/spurs-stephon-castle-knicks-crowd-msg-underwhelming/",
+     "source": "CBS Sports NBA",
+     "published": "2026-09-28T19:17:09+00:00"
+    },
+    {
+     "title": "Clippers Brandon Ingram has surgery on partially torn Achilles, will miss start of season",
+     "summary": "The bad news just keeps on coming for the Clippers.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/clippers-brandon-ingram-surgery-partially-190348634.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-28T19:03:48+00:00"
+    },
+    {
+     "title": "Man City CEO defiant over Premier League charges",
+     "summary": "Manchester City chief executive Ferran Soriano issues a defiant message to other club executives about the club being found guilty of a majority of Premier League charges, BBC Sport has been told.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d258/live/a310cd20-bb6e-11f1-8200-bffada0fd8de.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/ckz7zxzdwl7lo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-09-28T18:53:30+00:00"
+    },
+    {
+     "title": "LeBron James confirms he nearly joined the Knicks, will live part-time in New York while playing for 76ers",
+     "summary": "James, who made his public debut in a 76ers jersey on Monday, likely would have signed with the Knicks if they hadn't won it all in June",
+     "image": "https://sportshub.cbsistatic.com/i/2026/09/28/9e5c9daa-a2a2-4f32-ab3c-cc507694ceb7/lebron-knicks-getty.png",
+     "url": "https://www.cbssports.com/nba/news/lebron-james-knicks-live-new-york-76ers/",
+     "source": "CBS Sports NBA",
+     "published": "2026-09-28T18:18:36+00:00"
     },
     {
      "title": "Mancini refers to ‘double’ Manchester City contract and says it ‘isn’t my problem’",
@@ -301,22 +357,6 @@
      "url": "https://www.theguardian.com/football/2026/sep/28/roberto-mancini-double-contract-manchester-city",
      "source": "Guardian Sport",
      "published": "2026-09-28T17:52:36+00:00"
-    },
-    {
-     "title": "Tyrese Haliburton declares himself '100%' healthy for Pacers season",
-     "summary": "Indiana Pacers star Tyrese Haliburton said he's been keeping tabs on his doubters ahead of his return from an Achilles injury this season.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/tyrese-haliburton-declares-himself-100-172947563.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-09-28T17:29:47+00:00"
-    },
-    {
-     "title": "Does LeBron James see 76ers as final stop? NBA star weighs in on retirement",
-     "summary": "Is retirement nearing for LeBron James as he enters his 24th season in the NBA? He spoke on his mindset and approach with the 76ers on Monday.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/does-lebron-james-see-76ers-172348985.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-09-28T17:23:48+00:00"
     },
     {
      "title": "Warriors' Kristaps Porziņģis out indefinitely with 'health issue' ahead of 2026-27 season",
@@ -335,14 +375,6 @@
      "published": "2026-09-28T16:36:03+00:00"
     },
     {
-     "title": "Israel captain stokes feud by saying ‘our country is 10 times better than Ireland’",
-     "summary": "Manor Solomon angry at Ireland’s stance over Gaza ‘They hate us and we don’t like them’ Manor Solomon claimed Israel was “10 times better” than Ireland as fallout intensified from their Nations League…",
-     "image": "https://i.guim.co.uk/img/media/e4b7d9c4cf62149c0530cf8b8143eb0b02e37035/122_757_2175_1740/master/2175.jpg?width=140&quality=85&auto=format&fit=max&s=4d55666e7e2dc96abdc6668d6fe9d369",
-     "url": "https://www.theguardian.com/football/2026/sep/28/israel-captain-manor-solomon-feud-republic-ireland-gaza-nations-league",
-     "source": "Guardian Sport",
-     "published": "2026-09-28T15:55:18+00:00"
-    },
-    {
      "title": "Jalen Duren contract standoff: Pistons center feels disrespected in negotiations, skips media day",
      "summary": "Duren and the Pistons have been unable to come to an agreement for three months, and the All-NBA center is not happy with how things have gone",
      "image": "https://sportshub.cbsistatic.com/i/2026/09/28/a152df13-0fd1-4458-b527-3a9a7ed87731/jalen-duren-getty-4.png",
@@ -351,23 +383,7 @@
      "published": "2026-09-28T14:50:32+00:00"
     },
     {
-     "title": "Konsa and O'Reilly doubts to face Czech Republic",
-     "summary": "Ezri Konsa and Nico O'Reilly are both doubts to play in England's Nations League match against the Czech Republic on Tuesday night.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc3f/live/8762ea60-bb3a-11f1-bc1f-3f186ca4140c.png",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cj62eyx9grzxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-09-28T13:20:44+00:00"
-    },
-    {
-     "title": "The four 'what next?' scenarios for Premier League after Man City ruling",
-     "summary": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee2f/live/cb7000d0-b9aa-11f1-8a1a-0176f978c211.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-09-28T08:28:30+00:00"
-    },
-    {
-     "title": "Award-winner to fourth choice - what has gone wrong for Ramsdale?",
+     "title": "Award winner to fourth choice - what has gone wrong for Ramsdale?",
      "summary": "From challenging for the Premier League with Arsenal and playing for England, Aaron Ramsdale is now Southampton's fourth-choice goalkeeper.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b734/live/7611bac0-a866-11f1-ae45-e9984fc27c77.jpg",
      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy802y2n9o?at_medium=RSS&at_campaign=rss",
