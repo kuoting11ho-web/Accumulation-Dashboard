@@ -1,48 +1,96 @@
 {
- "generated": "2026-09-29T18:41:23.121219+00:00",
+ "generated": "2026-09-29T20:53:50.944674+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "Burnham stakes his future on care, electoral reform and Europe in emotional Labour conference speech",
-     "summary": "PM says his plan, which includes ending pensions triple lock to fund national care service, will ‘allow us to rise again’ Analysis: PM’s promises will take time to come good Key takeaways from Burnham…",
+     "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect",
+     "summary": "Data is expected to show ongoing price pressures and consumers who nevertheless continue to spend.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/09/29/the-feds-main-inflation-measure-will-be-released-wednesday-heres-what-to-expect.html",
+     "source": "CNBC Top News",
+     "published": "2026-09-29T20:51:43+00:00"
+    },
+    {
+     "title": "Trump says he and tech leaders signed AI agreement that is 'morally binding'",
+     "summary": "The artificial intelligence luncheon comes as calls for a slowdown and regulation reach a fever pitch",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html",
+     "source": "CNBC Top News",
+     "published": "2026-09-29T20:49:29+00:00"
+    },
+    {
+     "title": "Dow posts back-to-back losses as Treasury yields continue their ascent",
+     "summary": "Stocks ended Tuesday lower as Treasury yields touched fresh multiyear highs.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/09/28/stock-market-today-live-updates.html",
+     "source": "CNBC Top News",
+     "published": "2026-09-29T20:43:07+00:00"
+    },
+    {
+     "title": "US ban on $1bn of Canadian goods takes effect in Trump’s latest retaliation",
+     "summary": "Trump retaliated against Canada's counter-tariffs on $20bn worth of US imports by banning $1bn of Canadian goods.",
+     "image": "",
+     "url": "https://www.aljazeera.com/economy/2026/9/29/us-ban-on-1bn-of-canadian-goods-takes-effect-in-trumps-latest-retaliation?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-29T20:08:33+00:00"
+    },
+    {
+     "title": "Has Gaza broken the Israel consensus in the US?",
+     "summary": "For decades, Israel was untouchable in Washington. Gaza changed that. Josh Rushing investigates how and what comes next.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/lets-focus/2026/9/29/has-gaza-broken-the-israel-consensus-in-the-us?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-29T20:05:41+00:00"
+    },
+    {
+     "title": "30-year Treasury bond yield scales to highest level since 2002",
+     "summary": "U.S. Treasury yields largely rose Tuesday, adding to the gains that catapulted them to multi-year highs amid central bank monetary policy concerns.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/09/29/treasury-yields-bonds.html",
+     "source": "CNBC Top News",
+     "published": "2026-09-29T20:03:39+00:00"
+    },
+    {
+     "title": "US troops fully withdraw from Baghdad base after two decades",
+     "summary": "US Army soldiers have fully withdrawn from the US base in Baghdad.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/us-troops-fully-withdraw-from-baghdad-base-after-two-decades?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-29T20:00:31+00:00"
+    },
+    {
+     "title": "U.S. Supreme Court sides with Trump administration in third-country deportations",
+     "summary": "The Supreme Court allowed the Trump administration to resume deportations of migrants to countries that are not identified in their removal orders. It also plans to hear full arguments on the case.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6192x4128+0+0/resize/6192x4128!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F52%2Fa4%2F09bbed3f4f69bab9f978810def56%2Fgettyimages-2270391041.jpg",
+     "url": "https://www.npr.org/2026/09/29/g-s1-145266/supreme-court-trump-third-country-deportations",
+     "source": "NPR News",
+     "published": "2026-09-29T19:19:37+00:00"
+    },
+    {
+     "title": "Can Iraq handle future security challenges alone?",
+     "summary": "More than two decades of US military presence in Iraq comes to an end.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/9/29/can-iraq-handle-future-security-challenges-alone?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-29T19:05:03+00:00"
+    },
+    {
+     "title": "Give BrewDog ‘second chance’ says new owner as it invests £50m",
+     "summary": "US cannabis and drinks firm Tilray, which took over in March, says it will improve beers, pubs and working conditions BrewDog’s new owner has urged drinkers to give the ailing brand “a second chance”…",
+     "image": "https://i.guim.co.uk/img/media/cec4d2c70c00b38bf5eef1c68055ef745ce4c0bf/848_0_6829_5464/master/6829.jpg?width=140&quality=85&auto=format&fit=max&s=c5961b725b95defe5cf022029e517ee4",
+     "url": "https://www.theguardian.com/business/2026/sep/29/give-brewdog-second-chance-says-new-owner-invests",
+     "source": "Guardian Business",
+     "published": "2026-09-29T18:35:27+00:00"
+    },
+    {
+     "title": "Burnham gambles on radical progressive plan to help Britain ‘rise again’",
+     "summary": "PM accepts some of his plan could be difficult and admits he ‘may pay a political price’ Analysis: PM’s promises will take time to come good Key takeaways from Burnham’s conference speech Andy Burnham…",
      "image": "https://i.guim.co.uk/img/media/f3c2eff90665f2d36a2026bfef003d10152ae35d/989_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=a1f24471658f1f756007d38775a1b72e",
      "url": "https://www.theguardian.com/politics/2026/sep/29/andy-burnham-vows-long-term-relationship-eu-labour-conference-speech",
      "source": "Guardian Business",
      "published": "2026-09-29T18:21:29+00:00"
-    },
-    {
-     "title": "Property Play: Homeowners are sitting on record equity – and not using it",
-     "summary": "U.S. homeowners have more housing wealth than ever before, thanks to fast-rising home prices over the last several years. But they aren't spending much of it.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/09/29/homeowners-are-sitting-on-record-equity-and-not-using-it.html",
-     "source": "CNBC Top News",
-     "published": "2026-09-29T18:19:31+00:00"
-    },
-    {
-     "title": "OpenAI DevDay live updates: AI lab unveils Dots agents and is in talks for new funding round",
-     "summary": "Follow CNBC’s live coverage of OpenAI DevDay 2026, including Sam Altman’s keynote and other developer announcements.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html",
-     "source": "CNBC Top News",
-     "published": "2026-09-29T18:13:16+00:00"
-    },
-    {
-     "title": "Knife-wielding schoolboy kills teacher, injures two in Slovakia",
-     "summary": "Police detain the 13-year-old in the northwestern village of Staskov, launch investigation into 'premeditated murder'.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/9/29/slovakia-teacher-killed-in-stabbing-by-student?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-29T18:03:19+00:00"
-    },
-    {
-     "title": "Trump Accounts will auto-enroll children, potentially adding 60 million accounts: Treasury",
-     "summary": "The Treasury Department announced that Trump Accounts will begin auto enrolling eligible children. Here's what families need to know.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/09/29/trump-accounts-auto-enroll.html",
-     "source": "CNBC Top News",
-     "published": "2026-09-29T18:01:58+00:00"
     },
     {
      "title": "Lindsay Clancy's lawyer now questions whether she killed her 3 children",
@@ -53,28 +101,12 @@
      "published": "2026-09-29T18:00:50+00:00"
     },
     {
-     "title": "Trump administration ‘must be changed’: Iran’s IRGC appeals to US voters",
-     "summary": "Iran's military has issued an open letter accusing Trump of lying to US citizens about the state of the ongoing war.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/9/29/trump-administration-must-be-changed-irans-irgc-appeals-to-us-voters?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-29T17:51:11+00:00"
-    },
-    {
      "title": "Will pensioners be poorer as a result of Burnham scrapping the triple lock?",
      "summary": "Original triple lock was designed to lift pensioners out of poverty but OBR says it contributes to unsustainability of public finances The prime minister has announced that the pensions triple lock wi…",
      "image": "https://i.guim.co.uk/img/media/41211e2507cd3620fdd00d89d1b50cad4ce6bec1/340_0_4105_3285/master/4105.jpg?width=140&quality=85&auto=format&fit=max&s=f82af642e123f3efff87a1386fdadd33",
      "url": "https://www.theguardian.com/money/2026/sep/29/will-pensioners-be-poorer-burnham-scrapping-triple-lock",
      "source": "Guardian Business",
      "published": "2026-09-29T17:47:20+00:00"
-    },
-    {
-     "title": "Ethiopia blames regional rivals as risk of conflict spillover rises",
-     "summary": "Ethiopia accuses Sudan and Egypt of backing armed groups, deepening tensions amid internal unrest.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/9/29/ethiopia-blames-regional-rivals-as-risk-of-conflict-spillover-rises?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-29T17:25:09+00:00"
     },
     {
      "title": "Potential Taiwan tension sparked 'last minute' change in Trump-Xi National Archives visit",
@@ -85,14 +117,6 @@
      "published": "2026-09-29T17:17:04+00:00"
     },
     {
-     "title": "Barclays softens return-to-office plans for UK staff after backlash",
-     "summary": "Bank allows employees to delay being in workplace at least three days a week until 2027, if permission granted Barclays has watered down its return-to-office plans after a major staff backlash , with…",
-     "image": "https://i.guim.co.uk/img/media/9bc32c324f860303f2630f4652b42b4e8d711e80/1054_34_3406_2726/master/3406.jpg?width=140&quality=85&auto=format&fit=max&s=7b93bb32b217d8c45668c25c0e0e2c52",
-     "url": "https://www.theguardian.com/business/2026/sep/29/barclays-softens-return-to-office-plans-for-uk-staff-after-backlash",
-     "source": "Guardian Business",
-     "published": "2026-09-29T17:12:45+00:00"
-    },
-    {
      "title": "This startup wants to prove gene-editing embryos is safe for making healthy babies",
      "summary": "Origin Genomics aims to prove that the potential benefits of its technology for editing disease-causing genes in human embryos outweigh the risks.",
      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5182x3455+0+0/resize/5182x3455!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F56%2F87%2Fae45aab04fdf8d47954c20869c83%2Fcalle-20260914-00352.jpg",
@@ -101,36 +125,12 @@
      "published": "2026-09-29T17:00:08+00:00"
     },
     {
-     "title": "Mourners in Gaza bury remains of loved ones killed in 2023 Israeli strike",
-     "summary": "Dozens of mourners in Gaza grieve the loss of their loved ones as they bury the fragmented remains of relatives killed.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/mourners-in-gaza-bury-remains-of-loved-ones-killed-in-2023-israeli-strike?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-29T16:57:59+00:00"
-    },
-    {
-     "title": "Consumer optimism slides to lowest since 2014 as fears escalate over rising prices and jobs",
-     "summary": "The Conference Board's Consumer Confidence Index tumbled to 81.9, a decline of 6.7 points and a reading well below the forecast for 89.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/09/29/consumer-optimism-slides-sharply-as-fears-escalate-over-rising-prices-and-jobs.html",
-     "source": "CNBC Top News",
-     "published": "2026-09-29T16:52:00+00:00"
-    },
-    {
      "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
      "summary": "The ban is part of a number of proposals that must be approved in parliament within 30 days.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cc7/live/fb735b70-bbfc-11f1-90b9-913e4354ed35.jpg",
      "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
      "published": "2026-09-29T16:23:58+00:00"
-    },
-    {
-     "title": "This year's MacArthur Fellows include researchers who fuse science and justice",
-     "summary": "The MacArthur Foundation has just announced its latest batch of 20 fellows. Among the recipients of the $800,000 \"no-strings-attached\" fellowships are researchers who were recognized for their work at…",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6399x3906+0+0/resize/6399x3906!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F66%2Fe3%2F2609d7384f10a465802e8ef2a3ab%2Fmcarthur-winners.jpg",
-     "url": "https://www.npr.org/2026/09/29/nx-s1-5983444/this-years-macarthur-fellows-include-researchers-who-fuse-science-and-justice",
-     "source": "NPR News",
-     "published": "2026-09-29T16:03:34+00:00"
     }
    ]
   },
@@ -138,7 +138,23 @@
    "label": "AI",
    "items": [
     {
-     "title": "Apple worked with Trump admin to remove ICE-tracking apps, lawmaker says",
+     "title": "NASA has a Dragon dilemma, and there appear to be no good answers",
+     "summary": "So is SpaceX just being selfish or what?",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/KSC-20211027-PH-SPX02_0003orig-500x500.jpg",
+     "url": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/",
+     "source": "Ars Technica",
+     "published": "2026-09-29T18:34:00+00:00"
+    },
+    {
+     "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
+     "summary": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\"",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1840671728-500x500.jpg",
+     "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
+     "source": "Ars Technica",
+     "published": "2026-09-29T18:11:09+00:00"
+    },
+    {
+     "title": "Apple pressured to explain Trump role in ICE-tracking app removals",
      "summary": "Lawmaker rejects Apple excuse for banning ICE-tracking apps as unconstitutional.",
      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2237457256-500x500-1790699681.jpg",
      "url": "https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says/",
@@ -146,8 +162,16 @@
      "published": "2026-09-29T17:29:14+00:00"
     },
     {
+     "title": "Tcl/Tk 9.1 Released",
+     "summary": "Article URL: https://www.tcl-lang.org/software/tcltk/9.1.html Comments URL: https://news.ycombinator.com/item?id=49896712 Points: 173 # Comments: 49",
+     "image": "",
+     "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+     "source": "Hacker News Front Page",
+     "published": "2026-09-29T17:13:38+00:00"
+    },
+    {
      "title": "Dots: Always-on agents",
-     "summary": "Article URL: https://openai.com/index/introducing-dots/ Comments URL: https://news.ycombinator.com/item?id=49896604 Points: 263 # Comments: 153",
+     "summary": "Article URL: https://openai.com/index/introducing-dots/ Comments URL: https://news.ycombinator.com/item?id=49896604 Points: 372 # Comments: 280",
      "image": "",
      "url": "https://openai.com/index/introducing-dots/",
      "source": "Hacker News Front Page",
@@ -155,7 +179,7 @@
     },
     {
      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-     "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586 Points: 359 # Comments: 292",
+     "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586 Points: 617 # Comments: 539",
      "image": "",
      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
      "source": "Hacker News Front Page",
@@ -163,7 +187,7 @@
     },
     {
      "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
-     "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising Comments URL: https://news.ycombinator.com/item?id=49896050 Points: 224 # Comment…",
+     "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising Comments URL: https://news.ycombinator.com/item?id=49896050 Points: 439 # Comment…",
      "image": "",
      "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
      "source": "Hacker News Front Page",
@@ -176,30 +200,6 @@
      "url": "https://arstechnica.com/cars/2026/09/connected-car-data-privacy-is-still-abysmal-study-finds/",
      "source": "Ars Technica",
      "published": "2026-09-29T14:49:44+00:00"
-    },
-    {
-     "title": "Less protein for maggots means longer lives for fruit flies",
-     "summary": "Eating less protein as larvae may limit their ability to produce proteins as adults.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1914127482-500x500.jpg",
-     "url": "https://arstechnica.com/science/2026/09/fruit-flies-remember-their-larval-diet-which-influences-their-longevity/",
-     "source": "Ars Technica",
-     "published": "2026-09-29T14:39:25+00:00"
-    },
-    {
-     "title": "macOS Golden Gate Is a Buggy Mess",
-     "summary": "Article URL: https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/ Comments URL: https://news.ycombinator.com/item?id=49894005 Points: 353 # Comments: 259",
-     "image": "",
-     "url": "https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/",
-     "source": "Hacker News Front Page",
-     "published": "2026-09-29T14:32:33+00:00"
-    },
-    {
-     "title": "OpenAI says planned GPT-6.1 is too insecure to release",
-     "summary": "Similar performance, security trade-offs also seen in current public models.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1822585391-500x500.jpg",
-     "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
-     "source": "Ars Technica",
-     "published": "2026-09-29T14:22:31+00:00"
     },
     {
      "title": "毅力號火星重大發現，耶澤羅撞擊坑岩石揭密「三階段」水活動歷史",
@@ -271,52 +271,60 @@
    "label": "運動",
    "items": [
     {
-     "title": "What have Man City been found guilty of doing?",
-     "summary": "Manchester City are found guilty of all charges related to breaches of Premier League financial rules between the 2009-10 and 2017-18 seasons. BBC sports editor Dan Roan explains what it means for the…",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7698/live/b00e4a00-bc2e-11f1-bd21-bdf910f2cec6.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/videos/cm1j46n74ke6o?at_medium=RSS&at_campaign=rss",
+     "title": "Who continues to show how important they are? - England player ratings",
+     "summary": "How the England players rated following their Nations League match.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e69/live/c94a88f0-bc40-11f1-8666-b5dc4bdc94cb.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c6g7kldr9378o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
-     "published": "2026-09-29T18:09:34+00:00"
+     "published": "2026-09-29T20:39:46+00:00"
     },
     {
-     "title": "Fury & Joshua in London for news conference as doubts ease",
-     "summary": "Tyson Fury and Anthony Joshua arrive in London for Wednesday’s launch news conference, with their December fight now expected to take place as scheduled.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/092b/live/6f075350-bc2c-11f1-bd21-bdf910f2cec6.png",
-     "url": "https://www.bbc.co.uk/sport/boxing/articles/cr9dwz3nppx8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-09-29T17:57:20+00:00"
+     "title": "Sham City: verdict on financial breaches is damning and punishment must be severe | Jonathan Wilson",
+     "summary": "How can Manchester City be trusted under its current owners? There is a good argument for Premier League expulsion How bad could it be, really? How serious can a breach of arcane financial regulations…",
+     "image": "https://i.guim.co.uk/img/media/7dae953ec1472f0847eb7fa49af4db2161d57aed/289_0_2662_2129/master/2662.jpg?width=140&quality=85&auto=format&fit=max&s=f6b3605b44464f2fa5fff36797309d58",
+     "url": "https://www.theguardian.com/football/2026/sep/29/manchester-city-financial-breaches-verdict-premier-league",
+     "source": "Guardian Sport",
+     "published": "2026-09-29T20:30:10+00:00"
     },
     {
-     "title": "Two-time NBA champion, former Knick J.R. Smith arrested on assault charge in Texas",
-     "summary": "He has been charged with assault causing bodily injury — family violence.",
+     "title": "NBA reportedly close to selecting winning bid for Las Vegas expansion team, has 3 finalist groups",
+     "summary": "The deal, which will include a new arena in the city, is expected to be worth at least $12 billion.",
      "image": "",
-     "url": "https://sports.yahoo.com/articles/two-time-nba-champion-former-170749137.html",
+     "url": "https://sports.yahoo.com/nba/breaking-news/article/nba-reportedly-close-to-selecting-winning-bid-for-las-vegas-expansion-team-has-3-finalist-groups-202453031.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-09-29T17:07:49+00:00"
+     "published": "2026-09-29T20:24:53+00:00"
     },
     {
-     "title": "The similarities between the 2026 Yankees and Knicks seasons",
-     "summary": "New York already had a memorable summer. What’s to say they can’t have a memorable fall, too?",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/7dbdae3fd20990223ac172129c1ddfb9.jpg",
-     "url": "https://sports.yahoo.com/articles/similarities-between-2026-yankees-knicks-170000337.html",
+     "title": "Yahoo High Score 101: Everything you need to know before playing the fantasy basketball format",
+     "summary": "We go over everything you need to know if you're new to Yahoo's High Score fantasy basketball format.",
+     "image": "",
+     "url": "https://sports.yahoo.com/fantasy/article/yahoo-high-score-101-everything-you-need-to-know-before-playing-the-fantasy-basketball-format-202420425.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-09-29T17:00:00+00:00"
+     "published": "2026-09-29T20:24:20+00:00"
     },
     {
-     "title": "Cavs champion J.R. Smith arrested for assault",
-     "summary": "Smith was arrested on a family violence charge.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/d5472d30507940546b29f393acfffcbf.jpg",
-     "url": "https://sports.yahoo.com/articles/cavs-champion-j-r-smith-164505903.html",
+     "title": "Knicks Notes: Jalen Brunson talks wrist rehab, complimentary remarks from LeBron James",
+     "summary": "New York Knicks point guard Jalen Brunson discussed several topics he's weighing ahead of the 2026-27 season.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/knicks-notes-jalen-brunson-talks-200602347.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-09-29T16:45:05+00:00"
+     "published": "2026-09-29T20:06:02+00:00"
     },
     {
-     "title": "NBA Central Division preview & WNBA playoffs round 1 biggest questions & takeaways",
-     "summary": "Nekias Duncan and Steve Jones preview the NBA teams in the Central Division and share their biggest questions from round 1 of the WNBA playoffs.",
-     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/tds-cade-thumb_6122.png",
-     "url": "https://sports.yahoo.com/nba/article/nba-central-division-preview--wnba-playoffs-round-1-biggest-questions--takeaways-164003015.html",
+     "title": "76ers training camp opens with Nick Nurse ready to experiment: 'We need to clearly define roles for everybody'",
+     "summary": "For the 76ers to reach the lofty goals that have been set, they'll need to be a much improved version of themselves tactically.",
+     "image": "https://d29szjachogqwa.cloudfront.net/images/2026-09/991b6c43-fa56-47f3-b26b-b5023ee383f8",
+     "url": "https://sports.yahoo.com/nba/article/76ers-training-camp-opens-with-nick-nurse-ready-to-experiment-we-need-to-clearly-define-roles-for-everybody-194710078.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-09-29T16:40:03+00:00"
+     "published": "2026-09-29T19:47:10+00:00"
+    },
+    {
+     "title": "Man City guilty of 'sham' contracts and £830m 'disguised funding scheme'",
+     "summary": "The Premier League confirms that Manchester City have been found guilty of all charges related to breaches of Premier League financial rules between 2009-10 and 2017-18.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d913/live/0bfbf2c0-bc2c-11f1-a430-4d16ee157c41.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-09-29T18:12:33+00:00"
     },
     {
      "title": "Ferrari say team has ‘made its choices’ and there’s no vacancy for Christian Horner",
@@ -327,20 +335,12 @@
      "published": "2026-09-29T16:37:25+00:00"
     },
     {
-     "title": "Manchester City guilty over Premier League charges after £900m of ‘sham’ contracts",
-     "summary": "Commission: club broke rules over nine-season period City will appeal against verdict before Friday deadline Manchester City breached Premier League financial rules by creating “sham” contracts to hel…",
-     "image": "https://i.guim.co.uk/img/media/8d3c9ebdd24f27bc803f2d1d82d256b52d187dd4/935_0_7217_5774/master/7217.jpg?width=140&quality=85&auto=format&fit=max&s=864a6b0f4d4944d7835d8baa30338695",
-     "url": "https://www.theguardian.com/football/2026/sep/29/manchester-city-found-guilty-all-premier-league-charges-rule-breaches",
-     "source": "Guardian Sport",
-     "published": "2026-09-29T16:05:21+00:00"
-    },
-    {
-     "title": "England's Palmer a 'victim' of 'sick' schedule, says PFA chief",
-     "summary": "Cole Palmer is the \"victim\" of a \"sick\" system that is expecting too much of players, according to Professional Footballers' Association chief executive Maheta Molango.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a85/live/6c44dd20-bc1a-11f1-9a78-d72908473b45.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c68048pynj94o?at_medium=RSS&at_campaign=rss",
+     "title": "Saracens face fines over 'wine consultant' Venter's media no-shows",
+     "summary": "Saracens are facing fines from Prem Rugby for director of rugby Brendan Venter's failure to fulfil media commitments.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8037/live/bd4228f0-bc19-11f1-9a78-d72908473b45.jpg",
+     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ck7902q3g5vgo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
-     "published": "2026-09-29T15:37:43+00:00"
+     "published": "2026-09-29T16:06:24+00:00"
     },
     {
      "title": "Man Utd do not deserve Man City titles - Rooney",
