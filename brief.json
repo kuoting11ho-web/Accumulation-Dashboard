@@ -1,56 +1,120 @@
 {
- "generated": "2026-09-30T18:28:44.959599+00:00",
+ "generated": "2026-09-30T20:52:13.343286+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained",
-     "summary": "It is unclear how long the recovery can be sustained given that it relies on U.S. military protecting tankers in the Persian Gulf.",
+     "title": "Micron beats on earnings and issues strong guidance as data center revenue jumps 11-fold",
+     "summary": "Micron is up over 500% in the past year as the company benefits from soaring AI demand.",
      "image": "",
-     "url": "https://www.cnbc.com/2026/09/30/iran-war-strait-hormuz-gulf-oil-fuel.html",
+     "url": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
      "source": "CNBC Top News",
-     "published": "2026-09-30T18:17:24+00:00"
+     "published": "2026-09-30T20:49:06+00:00"
     },
     {
-     "title": "Video: Bangladesh Dengue deaths surpass 233 in deadly outbreak",
-     "summary": "Bangladesh’s health authorities report that at least 233 people have died from dengue fever.",
+     "title": "美通膨低於預期　美股收盤互有漲跌",
+     "summary": "美國通膨數據低於預期，降低市場對聯邦準備理事會（Fed）10月升息的預期，美股主要指數今天收盤互有漲跌，那指收高，標普小跌，兩大指數連續2季收紅。 道瓊工業指數終場下跌443.87點或0....…",
      "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/video-bangladesh-dengue-deaths-surpass-233-in-deadly-outbreak?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-30T18:12:27+00:00"
-    },
-    {
-     "title": "Strong indications’ Iran linked to suspected UK airbase plot",
-     "summary": "UK Prime Minister says there are ‘strong indications’ Iran played a part in the suspected RAF Fairford airbase plot.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_indications-iran-linked-suspected-uk-airbase-plot-300926?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-30T18:09:51+00:00"
-    },
-    {
-     "title": "Trump set to announce $200bn in energy investments from South Korea",
-     "summary": "The investments come as Trump seeks to tout the Republican Party's economic record ahead of the US midterm races.",
-     "image": "",
-     "url": "https://www.aljazeera.com/economy/2026/9/30/trump-set-to-announce-200bn-in-energy-investments-from-south-korea?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-30T18:01:14+00:00"
-    },
-    {
-     "title": "Why is Malaysia sending back Rohingya refugees to Myanmar?",
-     "summary": "Kuala Lumpur calls it a voluntary process, but many are raising safety concerns.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/inside-story/2026/9/30/why-is-malaysia-sending-back-rohingya-refugees-to-myanmar?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-30T17:55:59+00:00"
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5591423",
+     "source": "自由時報",
+     "published": "2026-09-30T20:45:06+00:00"
     },
     {
      "title": "What we know about stabbing on Flydubai flight to Israel",
-     "summary": "The captain and first officer were injured, and one pilot has been arrested, officials say.",
+     "summary": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83af/live/a2587eb0-bce4-11f1-a64c-550be9e3c66b.jpg",
      "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-09-30T17:51:49+00:00"
+     "published": "2026-09-30T20:44:12+00:00"
+    },
+    {
+     "title": "Elon Musk, Palmer Luckey and Newt Gingrich to help Pentagon with warfare initiative, Hegseth says",
+     "summary": "Pete Hegseth, in remarks about the state of the military, announced a project led by two GOP-supporting tech executives to examine military capabilities.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/09/30/musk-luckey-gingrich-pentagon-hegseth-.html",
+     "source": "CNBC Top News",
+     "published": "2026-09-30T20:42:01+00:00"
+    },
+    {
+     "title": "美戰爭部長：美軍將官人數削減20%　旨在追究責任",
+     "summary": "美國戰爭部長赫格塞斯（Pete Hegseth）今天宣布，美國已把美軍將官人數削減20%。他指出，此舉旨在「追究責任」。 法新社報導，赫格塞斯在美國維吉尼亞州匡提科（Quantico）基地...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5591422",
+     "source": "自由時報",
+     "published": "2026-09-30T20:30:03+00:00"
+    },
+    {
+     "title": "Fed watchdog finds renovation failures, but no grounds for criminal referral",
+     "summary": "The long-awaited report by the Fed's inspector general said it found no reasonable grounds to believe federal criminal law had been violated.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/09/30/fed-inspector-general-report-powell-trump.html",
+     "source": "CNBC Top News",
+     "published": "2026-09-30T20:17:49+00:00"
+    },
+    {
+     "title": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained",
+     "summary": "It is unclear how long the recovery can be sustained given that it relies on the U.S. military protecting tankers in the Persian Gulf.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/09/30/iran-war-strait-hormuz-gulf-oil-fuel.html",
+     "source": "CNBC Top News",
+     "published": "2026-09-30T20:16:17+00:00"
+    },
+    {
+     "title": "Israeli attacks across Gaza kill at least eight",
+     "summary": "Israeli attacks on residential areas across Gaza killed at least eight civilians and wounded others on Wednesday",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/israeli-attacks-across-gaza-kill-at-least-eight?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-30T20:12:22+00:00"
+    },
+    {
+     "title": "US judge rules Wisconsin mosque leader Salah Sarsour can be deported",
+     "summary": "Sarsour’s lawyers say the decision threatens free speech protections and plan to fight the ruling.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/9/30/us-judge-rules-wisconsin-mosque-leader-salah-sarsour-can-be-deported?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-30T20:00:36+00:00"
+    },
+    {
+     "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
+     "summary": "Support for white Afrikaners, anti-communism and others reveals how US redefining what qualifies as human rights With hours left before the funding expires, the Trump administration is pushing to dire…",
+     "image": "https://i.guim.co.uk/img/media/41ac63906656f3420c997c8618d3b3a1a86a0811/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=0eae8119b24ab17bf968b2c5bced162e",
+     "url": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
+     "source": "Guardian World",
+     "published": "2026-09-30T19:51:24+00:00"
+    },
+    {
+     "title": "Netanyahu praises stabbed Indian pilot for saving lives on Flydubai flight",
+     "summary": "The Israeli prime minister thanks 'true hero' Captain Smit Machchhar for 'extraordinary bravery'.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/9/30/netanyahu-praises-indian-pilot-for-saving-lives-on-flydubai-flight?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-30T19:49:21+00:00"
+    },
+    {
+     "title": "US regulator launches probe into AI companies",
+     "summary": "FTC investigates AI firms amid concerns over rogue agents and potential threats to humanity within the next decade.",
+     "image": "",
+     "url": "https://www.aljazeera.com/economy/2026/9/30/us-regulator-launches-probe-into-ai-companies?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-30T19:46:35+00:00"
+    },
+    {
+     "title": "英國軍情五處發布罕見間諜警報 控中國利用學術資助竊取關鍵技術",
+     "summary": "英國國內情報機構「軍情五處」（MI5）9月30日發布一項罕見的「間諜警報」（Espionage Alert），指出中國情報機構正利用一家名為「中國通用技術研究院」（CGTRI...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5591417",
+     "source": "自由時報",
+     "published": "2026-09-30T19:26:51+00:00"
+    },
+    {
+     "title": "習近平訪美緊牽彭麗媛引關注 外媒熱議健康與權力訊號",
+     "summary": "在習近平成為中國數十年來最有權勢的領導人之前，他在國內更為人熟知的身分曾是「彭麗媛的丈夫」。這位享譽全國的解放軍女高音，在2012年底習近平攀上權力頂峰時，為其公眾形象加分不...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5591415",
+     "source": "自由時報",
+     "published": "2026-09-30T19:14:35+00:00"
     },
     {
      "title": "Greetings from Syria, where time seems to melt as a glassmaker braves scorching temps",
@@ -62,81 +126,65 @@
     },
     {
      "title": "Federal Reserve watchdog finds no criminal violations for building renovation cost overruns",
-     "summary": "Trump criticized $2.4bn rehab amid attempts to pressure then Fed chair Jerome Powell into lowering interest rates The Federal Reserve ’s internal watchdog said on Wednesday that the agency has broadly…",
+     "summary": "Trump criticized $2.4bn rehab amid attempts to pressure then Fed chair Jerome Powell into lowering interest rates An internal watchdog said the Federal Reserve mismanaged costs associated with a $2.4b…",
      "image": "https://i.guim.co.uk/img/media/9008fcfe55e193c3720ddb0c760438283893d262/467_0_4663_3731/master/4663.jpg?width=140&quality=85&auto=format&fit=max&s=86dd167b850cf557587e76aa98c39d89",
      "url": "https://www.theguardian.com/business/2026/sep/30/federal-reserve-watchdog-building-renovation",
      "source": "Guardian Business",
      "published": "2026-09-30T17:49:27+00:00"
-    },
-    {
-     "title": "就是伊朗！英空軍基地疑似恐攻事件 英國首相指德黑蘭「扮演一定角色」",
-     "summary": "英國首相柏南（Andy Burnham）9月30日接受英國廣播公司（BBC）專訪時表示，英國政府研判，伊朗在日前發生於英國皇家空軍費爾福基地（RAF Fairford）的疑似...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5591405",
-     "source": "自由時報",
-     "published": "2026-09-30T17:36:00+00:00"
-    },
-    {
-     "title": "美國第2季GDP成長上修至2.2%　消費支出強勁推動經濟",
-     "summary": "美國政府今天公布數據，將第2季GDP成長率上修至2.2%，主要受強勁消費支出及人工智慧（AI）基礎設施建設相關企業投資帶動。 路透社報導，美國商務部經濟分析局（BEA）今天公布第2季國內生...…",
-     "image": "",
-     "url": "https://ec.ltn.com.tw/article/breakingnews/5591407",
-     "source": "自由時報",
-     "published": "2026-09-30T17:30:04+00:00"
-    },
-    {
-     "title": "南韓情報機構：金正恩極度肥胖　心血管疾病風險高",
-     "summary": "南韓國家情報院今天表示，根據最新評估，北韓領導人金正恩體重超過140公斤，屬「極度肥胖」，罹患心血管疾病的風險偏高，但他的活動能力未受影響，健康狀況並無異狀。 法新社報導，金正恩平時深居簡...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5591406",
-     "source": "自由時報",
-     "published": "2026-09-30T17:21:03+00:00"
-    },
-    {
-     "title": "Police questioning can shape a sexual assault case. Their approach is often wrong",
-     "summary": "The Cornell lawsuit filed by a woman alleging a brutal rape raises questions on how police handle such cases. The majority of police lack adequate training on trauma-informed approaches, experts say.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5184x3456+0+0/resize/5184x3456!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa5%2F71%2Fe81662bc46088d42ea1e7ecd8392%2Fap21082458440500.jpg",
-     "url": "https://www.npr.org/2026/09/30/nx-s1-5983868/cornell-rape-police-interview-investigation-victim-trauma-informed",
-     "source": "NPR News",
-     "published": "2026-09-30T17:19:24+00:00"
-    },
-    {
-     "title": "蔣萬安指讀國小時聽老師說「你爺爺死了」 網友列疑點",
-     "summary": "尋求連任的台北市長蔣萬安近期爭議不斷，近日又被翻出過去聲稱1988年讀國小三年級，從老師口中得知爺爺（蔣經國）過世消息，他當時年紀小（不知身世）沒有太大反應。這段故事馬上被網友抓...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5590886",
-     "source": "自由時報",
-     "published": "2026-09-30T17:17:06+00:00"
-    },
-    {
-     "title": "Fed watchdog finds renovation failures, but no grounds for criminal referral",
-     "summary": "The long-awaited report by the Fed's inspector general said it found no reasonable grounds to believe federal criminal law had been violated.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/09/30/fed-inspector-general-report-powell-trump.html",
-     "source": "CNBC Top News",
-     "published": "2026-09-30T17:15:24+00:00"
-    },
-    {
-     "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
-     "summary": "Thirty-one migrants died when their boat went down in November 2021. The trial found that the guilty men were part of two smuggling networks.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb8a/live/2bc20fe0-bcef-11f1-8ce2-417f8f7cb095.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-09-30T17:14:03+00:00"
-    },
-    {
-     "title": "UK-France 'one in, one out' migrant scheme scrapped",
-     "summary": "Some 1,500 people have been removed to France since the scheme began just over a year ago.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3390/live/d0d6c780-bce7-11f1-8ce2-417f8f7cb095.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-09-30T17:11:08+00:00"
     }
    ]
   },
   "ai": {
    "label": "AI",
    "items": [
+    {
+     "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+     "summary": "So much for Gemini 3.5 Pro.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-1-500x500.jpg",
+     "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+     "source": "Ars Technica",
+     "published": "2026-09-30T20:11:08+00:00"
+    },
+    {
+     "title": "Gemini 4 Argon",
+     "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/ Comments URL: https://news.ycombinator.com/item?id=49913571 Points: 381 # Comments: 184",
+     "image": "",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+     "source": "Hacker News Front Page",
+     "published": "2026-09-30T20:04:37+00:00"
+    },
+    {
+     "title": "Reddit is putting more limits on Old.Reddit.com",
+     "summary": "Reddit says it's fighting \"automated abuse.\"",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2227553113-1-500x500.jpg",
+     "url": "https://arstechnica.com/gadgets/2026/09/reddit-will-block-old-reddit-com-from-people-who-havent-used-it-in-6-months/",
+     "source": "Ars Technica",
+     "published": "2026-09-30T19:53:33+00:00"
+    },
+    {
+     "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
+     "summary": "AI is far from a perfect resource. But it seems to hallucinate less than Kennedy.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294068904-500x500.jpg",
+     "url": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
+     "source": "Ars Technica",
+     "published": "2026-09-30T19:31:25+00:00"
+    },
+    {
+     "title": "The Disney protests were a wake-up call about the risks of streaming mergers",
+     "summary": "Boycotting Disney is hard.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2236794248-500x500.jpg",
+     "url": "https://arstechnica.com/gadgets/2026/09/what-the-disney-protests-over-kimmel-taught-us-about-streaming-mergers/",
+     "source": "Ars Technica",
+     "published": "2026-09-30T19:22:19+00:00"
+    },
+    {
+     "title": "A brief history of the Bloomberg terminal",
+     "summary": "Article URL: https://spectrum.ieee.org/bloomberg-terminal Comments URL: https://news.ycombinator.com/item?id=49909583 Points: 174 # Comments: 67",
+     "image": "",
+     "url": "https://spectrum.ieee.org/bloomberg-terminal",
+     "source": "Hacker News Front Page",
+     "published": "2026-09-30T14:34:07+00:00"
+    },
     {
      "title": "韋伯望遠鏡顛覆認知！宇宙誕生僅 5 億年，早期星系已開始向外散布重元素",
      "summary": "詹姆斯·韋伯太空望遠鏡（JWST）的觀測顯示，宇宙誕生僅約 5 億年後，早期星系便已開始將由恆星製造的重元素散 […]",
@@ -152,14 +200,6 @@
      "url": "https://technews.tw/2026/09/30/tncap-mg-zs/",
      "source": "科技新報 TechNews",
      "published": "2026-09-30T13:43:37+00:00"
-    },
-    {
-     "title": "Cloudflare plans to issue quantum-safe TLS certificates",
-     "summary": "The move will be part of a major overhaul of the ecosystem for website authentication.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-500x500-1772240635.jpg",
-     "url": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
-     "source": "Ars Technica",
-     "published": "2026-09-30T11:15:14+00:00"
     },
     {
      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
@@ -186,8 +226,8 @@
      "published": "2026-09-30T10:00:12+00:00"
     },
     {
-     "title": "You Said No MCP",
-     "summary": "Article URL: https://earendil.com/posts/you-said-no-mcp/ Comments URL: https://news.ycombinator.com/item?id=49906637 Points: 490 # Comments: 278",
+     "title": "You said no MCP",
+     "summary": "Article URL: https://earendil.com/posts/you-said-no-mcp/ Comments URL: https://news.ycombinator.com/item?id=49906637 Points: 545 # Comments: 316",
      "image": "",
      "url": "https://earendil.com/posts/you-said-no-mcp/",
      "source": "Hacker News Front Page",
@@ -224,46 +264,6 @@
      "url": "https://arxiv.org/abs/2609.35869",
      "source": "arXiv cs.AI",
      "published": "2026-09-30T04:00:00+00:00"
-    },
-    {
-     "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-     "summary": "Article URL: https://github.com/ninjahawk/livenerf Comments URL: https://news.ycombinator.com/item?id=49901736 Points: 833 # Comments: 346",
-     "image": "",
-     "url": "https://github.com/ninjahawk/livenerf",
-     "source": "Hacker News Front Page",
-     "published": "2026-09-29T22:36:14+00:00"
-    },
-    {
-     "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
-     "summary": "Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2291507729-500x500.jpg",
-     "url": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/",
-     "source": "Ars Technica",
-     "published": "2026-09-29T22:30:37+00:00"
-    },
-    {
-     "title": "Protests against OpenAI get increasingly creative",
-     "summary": "New sculpture depicts AI leaders escaping a sinking ship.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/IMG_0886-500x500.jpg",
-     "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
-     "source": "Ars Technica",
-     "published": "2026-09-29T21:52:58+00:00"
-    },
-    {
-     "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-     "summary": "The deal, which is expected to close by year's end, is worth $8.2 billion.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/AMD-World-Labs-500x500-1790711871.jpg",
-     "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
-     "source": "Ars Technica",
-     "published": "2026-09-29T21:14:49+00:00"
-    },
-    {
-     "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
-     "summary": "Article URL: https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/ Comments URL: https://news.ycombinator.com/item?i…",
-     "image": "",
-     "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
-     "source": "Hacker News Front Page",
-     "published": "2026-09-29T19:30:17+00:00"
     }
    ]
   },
@@ -271,20 +271,92 @@
    "label": "運動",
    "items": [
     {
-     "title": "Saracens boss Venter skips more media duties",
-     "summary": "Saracens director of rugby Brendan Venter misses a second pre-match media conference, as head coach Joe Shaw attends.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/127c/live/c8c90530-bcf6-11f1-8ce2-417f8f7cb095.jpg",
-     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmwyz9ypw3x2o?at_medium=RSS&at_campaign=rss",
+     "title": "Punish Man City this season, say other club chiefs",
+     "summary": "Manchester City's punishment for breaching Premier League rules should be handed down before the end of this season, senior football figures tell BBC Sport.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad93/live/d0252160-bd00-11f1-babe-4199b0e7ccea.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c6vgyg3zv3kwo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
-     "published": "2026-09-30T17:46:17+00:00"
+     "published": "2026-09-30T20:38:22+00:00"
     },
     {
-     "title": "Recapping Cavs Media Day with one quote from each player",
-     "summary": "“Experience is so important. You can’t replicate playoff experience.”",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/00c6112dfc5e57d696bcd889623d0f4c.jpg",
-     "url": "https://sports.yahoo.com/articles/recapping-cavs-media-day-one-170000885.html",
+     "title": "Where things stand with Pistons, Jalen Duren: Weight clause removed from offer",
+     "summary": "Thursday, Oct. 1, is the deadline.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/where-things-stand-pistons-jalen-203145391.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-09-30T17:00:00+00:00"
+     "published": "2026-09-30T20:31:45+00:00"
+    },
+    {
+     "title": "Cristiano Ronaldo walks out on Portugal after being dropped from starting lineup",
+     "summary": "Jorge Jesus earlier said captain would again be a sub The 41-year-old has trained alone in gym since weekend The Portugal captain, Cristiano Ronaldo, announced on Wednesday that he had left the team’s…",
+     "image": "https://i.guim.co.uk/img/media/c0a5d4d913d66f04d737bc7cc19938cada7c0017/1045_251_4834_3868/master/4834.jpg?width=140&quality=85&auto=format&fit=max&s=b2ecfd2eaf85d923dcd00e47be0d9b58",
+     "url": "https://www.theguardian.com/football/2026/sep/30/cristiano-ronaldo-misses-portugal-training-jorge-jesus-denmark",
+     "source": "Guardian Sport",
+     "published": "2026-09-30T19:55:55+00:00"
+    },
+    {
+     "title": "Jalen Duren contract standoff: Pistons reportedly remove weight clause from $200 million offer",
+     "summary": "Duren could instead sign a $9.6 million qualifying offer, allowing him to become an unrestricted free agent next offseason",
+     "image": "https://sportshub.cbsistatic.com/i/2026/09/30/b4d037bb-bd2e-4b4b-b56b-5b2ef64842b7/untitled-design-3.png",
+     "url": "https://www.cbssports.com/nba/news/jalen-duren-contract-standoff-pistons-weight-clause/",
+     "source": "CBS Sports NBA",
+     "published": "2026-09-30T19:38:02+00:00"
+    },
+    {
+     "title": "Suns forward Dillon Brooks charged with misdemeanor DUI after March arrest",
+     "summary": "Dillon Brooks was arrested in Scottsdale in March on suspicion of DUI, hours after a Suns game.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/article/suns-forward-dillon-brooks-charged-with-misdemeanor-dui-after-march-arrest-193752011.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-30T19:37:52+00:00"
+    },
+    {
+     "title": "Respect and laughs as Fury and Joshua face off",
+     "summary": "After more than a decade of public feuding and false starts, Tyson Fury and Anthony Joshua exchange pleasantries, trade jokes and even discuss going for a pint at a news conference in London.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2056/live/a96a29c0-bd01-11f1-ae73-153b8464afc4.jpg",
+     "url": "https://www.bbc.co.uk/sport/boxing/articles/cme8x7rey9dlo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-09-30T19:37:32+00:00"
+    },
+    {
+     "title": "Ronaldo leaves Portugal camp after coach denies rift",
+     "summary": "Cristiano Ronaldo says he has left Portugal's international camp and will explain why \"in time\", hours after head coach Jorge Jesus denied any rift with the player.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e680/live/3c053660-bcf5-11f1-8ce2-417f8f7cb095.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cm9dw7ddwgzwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-09-30T19:33:07+00:00"
+    },
+    {
+     "title": "NBC Sports Unveils Comic Book Campaign Celebrating American Express NBA Tip-Off",
+     "summary": "The comic, narrated by Mike Tirico, blends basketball culture with episodic storytelling that turns today's players into Superhero-sized stars.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/nbc-sports-unveils-comic-book-193049400.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-30T19:30:49+00:00"
+    },
+    {
+     "title": "Suns guard Dillon Brooks officially charged with DUI from March arrest",
+     "summary": "Phoenix Suns guard Dillon Brooks was arrested March 6 on suspicion of driving under the influence. He was formally charged on Sept. 28.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/suns-guard-dillon-brooks-officially-192312980.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-30T19:23:12+00:00"
+    },
+    {
+     "title": "Rival clubs feel relegating Manchester City to Championship would not be enough",
+     "summary": "Premier League executives pushing for severe punishment City maintain they are ‘innocent of the accusations’ The Premier League will face pressure from Manchester City’s rivals to push for a sanction…",
+     "image": "https://i.guim.co.uk/img/media/86f48ffa9fc8353c9198478f8167f7990e88002d/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b082cf95e40546c9d676403dd489b72d",
+     "url": "https://www.theguardian.com/football/2026/sep/30/rival-clubs-feel-relegating-manchester-city-championship-not-enough-premier-league",
+     "source": "Guardian Sport",
+     "published": "2026-09-30T18:55:24+00:00"
+    },
+    {
+     "title": "Arizona State hockey coach on leave after practice that left player fighting for life",
+     "summary": "Greg Powers taken off duties during investigation Matthew Mayich unlikely to recover, says lawyer Arizona State have placed hockey coach Greg Powers on administrative leave as the school investigates…",
+     "image": "https://i.guim.co.uk/img/media/f5e442f0d2a068642c30cd6fed7d7b691dd78168/141_0_3640_2912/master/3640.jpg?width=140&quality=85&auto=format&fit=max&s=5acdc4a08f866db0f19d93e3d7003de0",
+     "url": "https://www.theguardian.com/sport/2026/sep/30/arizona-state-hockey-coach-on-leave-after-practice-that-left-player-fighting-for-life",
+     "source": "Guardian Sport",
+     "published": "2026-09-30T18:50:51+00:00"
     },
     {
      "title": "‘We don’t need boos’: Astros players frustrated as own fans turn on them in playoffs",
@@ -293,14 +365,6 @@
      "url": "https://www.theguardian.com/sport/2026/sep/30/houston-astros-fans-empty-seats-boos-white-sox-mlb-playoffs",
      "source": "Guardian Sport",
      "published": "2026-09-30T16:46:02+00:00"
-    },
-    {
-     "title": "Five teams with the best chance to dethrone the New York Knicks",
-     "summary": "Sure the Thunder and Spurs are on the list, but what other teams make the cut?",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/five-teams-best-chance-dethrone-162628405.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-09-30T16:26:28+00:00"
     },
     {
      "title": "Burnham 'really concerned' if Man City owners sell up after rule breaches",
@@ -319,68 +383,12 @@
      "published": "2026-09-30T15:58:51+00:00"
     },
     {
-     "title": "Two Celtics players forming close bond as training camp kicks off",
-     "summary": "Mike Conley is more than a decade older than Payton Pritchard, and he’s taking him under his wing as Celtics training camp begins.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/83e2b69db548f555b1b9f3edc6e8c2ce.jpg",
-     "url": "https://sports.yahoo.com/articles/two-celtics-players-forming-close-153848258.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-09-30T15:38:48+00:00"
-    },
-    {
-     "title": "Roundtable: Which NBA team rises up? Who falls?",
-     "summary": "One shall rise, one shall fall",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/9315b684c67aa48a09727acab324eeae.jpg",
-     "url": "https://sports.yahoo.com/articles/roundtable-nba-team-rises-falls-153000494.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-09-30T15:30:00+00:00"
-    },
-    {
-     "title": "Cristiano Ronaldo misses Portugal training amid reports of rift with coach Jesus",
-     "summary": "Veteran left on bench by Jorge Jesus for win in Norway The 41-year-old has trained alone in gym since weekend Cristiano Ronaldo’s continued absence from Portugal team training has led to speculation t…",
-     "image": "https://i.guim.co.uk/img/media/c0a5d4d913d66f04d737bc7cc19938cada7c0017/1045_251_4834_3868/master/4834.jpg?width=140&quality=85&auto=format&fit=max&s=b2ecfd2eaf85d923dcd00e47be0d9b58",
-     "url": "https://www.theguardian.com/football/2026/sep/30/cristiano-ronaldo-misses-portugal-training-jorge-jesus-denmark",
-     "source": "Guardian Sport",
-     "published": "2026-09-30T14:01:38+00:00"
-    },
-    {
-     "title": "‘I am here more than ever’: Guardiola backs Manchester City owners over guilty verdicts",
-     "summary": "‘I am, always have been, always will, be behind my club’ Former City chair Bernstein calls for directors to quit Pep Guardiola has thrown his support behind Manchester City after the club were found g…",
-     "image": "https://i.guim.co.uk/img/media/a9e71f1ccab11923a0197fa28d9990188c06bc3b/610_115_3591_2873/master/3591.jpg?width=140&quality=85&auto=format&fit=max&s=f445731b5b28148afcf121701a5aad3f",
-     "url": "https://www.theguardian.com/football/2026/sep/30/guardiola-backs-manchester-city-owners-over-guilty-verdicts",
-     "source": "Guardian Sport",
-     "published": "2026-09-30T13:39:43+00:00"
-    },
-    {
-     "title": "Criminal investigation? Relegation or expulsion? The key Man City questions",
-     "summary": "BBC Sport takes a look at the key questions following the guilty verdicts handed down to Manchester City.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff90/live/6abf4e50-bcb9-11f1-a52f-e7c9a7884cfa.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c9y7zr4l6de1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-09-30T13:17:44+00:00"
-    },
-    {
      "title": "Cam Schlittler, Austin Riley open MLB playoffs in style; Pete Prisco's NFL Power Rankings are out",
      "summary": "Plus our first 2027 WNBA mock draft after a historic night in the postseason",
      "image": "https://sportshub.cbsistatic.com/i/2026/09/30/c7e1eade-277f-4b16-b98d-2be8dd922c26/gettyimages-2297799788-2.jpg",
      "url": "https://www.cbssports.com/mlb/news/cam-schlittler-austin-riley-open-mlb-playoffs-in-style-pete-priscos-nfl-power-rankings-are-out/",
      "source": "CBS Sports NBA",
      "published": "2026-09-30T12:57:04+00:00"
-    },
-    {
-     "title": "Ocon to leave Haas putting F1 future in doubt",
-     "summary": "Esteban Ocon is fighting to save his Formula 1 career after the Haas team announcement that they are splitting with the Frenchman at the end of the year.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e9e/live/83101dd0-bcb5-11f1-a3e9-bbda6f9b9e25.jpg",
-     "url": "https://www.bbc.co.uk/sport/formula1/articles/c9e8e5k21ge5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-09-30T10:24:02+00:00"
-    },
-    {
-     "title": "WNBA playoffs: Caitlin Clark shines in Fever win as A’ja Wilson confronts fan after Cunningham foul",
-     "summary": "Clark has 27 points and 15 assists in Indiana win Wilson assessed technical foul after confrontation All Caitlin Clark wanted was one more chance to play this season. She delivered a masterpiece. The…",
-     "image": "https://i.guim.co.uk/img/media/b0ec946f62fd2766ebae1348073b13f9898a6096/1624_626_5146_4117/master/5146.jpg?width=140&quality=85&auto=format&fit=max&s=f6d933aa1176a1b91a462ef3b78fa74e",
-     "url": "https://www.theguardian.com/sport/2026/sep/29/caitlin-clark-wnba-playoffs-aja-wilson-fan",
-     "source": "Guardian Sport",
-     "published": "2026-09-30T02:44:57+00:00"
     },
     {
      "title": "NBA closing in on choosing ownership for new Las Vegas franchise: When could team debut? What about Seattle?",
