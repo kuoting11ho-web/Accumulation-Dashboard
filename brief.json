@@ -1,136 +1,136 @@
 {
- "generated": "2026-09-29T20:53:50.944674+00:00",
+ "generated": "2026-09-30T16:26:28.976002+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect",
-     "summary": "Data is expected to show ongoing price pressures and consumers who nevertheless continue to spend.",
+     "title": "北市民眾怨「無菸城市」仍被二手菸霸凌 沈伯洋：政策太快出發了",
+     "summary": "民進黨籍台北市長參選人沈伯洋昨於台北小巨蛋舉辦「市長，你給我聽好了！」松山場肥皂箱快閃活動。中籤市民抱怨，市長蔣萬安今年拋出「無菸城市」，起初聽到時很興奮、終於有人要解決這個問...…",
      "image": "",
-     "url": "https://www.cnbc.com/2026/09/29/the-feds-main-inflation-measure-will-be-released-wednesday-heres-what-to-expect.html",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5591388",
+     "source": "自由時報",
+     "published": "2026-09-30T16:12:40+00:00"
+    },
+    {
+     "title": "曾文水庫滿水位進入10月 近8年來同期新高",
+     "summary": "中秋已過，汛期逐漸進入尾聲，國內規模最大的曾文水庫持續供應農業灌溉，在水利署南區水資源分署全力調控下，將以逾230公尺水位的100％蓄水率進入10月，水位是近8年來同期新高。 ...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/life/breakingnews/5591394",
+     "source": "自由時報",
+     "published": "2026-09-30T16:08:42+00:00"
+    },
+    {
+     "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
+     "summary": "Support for white Afrikaners, anti-communism and others reveals how US redefining what qualifies as human rights With hours left before the funding expires, the Trump administration is pushing to dire…",
+     "image": "https://i.guim.co.uk/img/media/41ac63906656f3420c997c8618d3b3a1a86a0811/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=0eae8119b24ab17bf968b2c5bced162e",
+     "url": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
+     "source": "Guardian World",
+     "published": "2026-09-30T15:59:32+00:00"
+    },
+    {
+     "title": "豐原工安意外5人送醫 議員轟台中職災率六都第二高 要求嚴查復工",
+     "summary": "台中豐原大道9月28日發生工安意外，5名工人進行地下管線工程，疑因坑道內一氧化碳濃度過高，造成5名工人集體倒臥送醫，其中一人一度失去生命跡象，議員邱愛珊今指出台中市去年職災千人...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/life/breakingnews/5591387",
+     "source": "自由時報",
+     "published": "2026-09-30T15:55:01+00:00"
+    },
+    {
+     "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+     "summary": "The probe adds to the mounting scrutiny that OpenAI and Anthropic have been facing over their safety practices following the Hugging Face hack.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
      "source": "CNBC Top News",
-     "published": "2026-09-29T20:51:43+00:00"
+     "published": "2026-09-30T15:54:38+00:00"
     },
     {
-     "title": "Trump says he and tech leaders signed AI agreement that is 'morally binding'",
-     "summary": "The artificial intelligence luncheon comes as calls for a slowdown and regulation reach a fever pitch",
+     "title": "龍潭轉運站營運首日 資訊不足、一樣塞車、709公車大改線挨批",
+     "summary": "桃園市龍潭轉運站今天（30日）上路營運，通勤族抱怨路線大改、沒座位，市區公車、高速公路客運、桃小巴全擠進來，加上最熱門的上班族709公車（大溪、龍潭往返新北永寧捷運站）路線調整...…",
      "image": "",
-     "url": "https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html",
-     "source": "CNBC Top News",
-     "published": "2026-09-29T20:49:29+00:00"
+     "url": "https://news.ltn.com.tw/news/life/breakingnews/5591385",
+     "source": "自由時報",
+     "published": "2026-09-30T15:51:34+00:00"
     },
     {
-     "title": "Dow posts back-to-back losses as Treasury yields continue their ascent",
-     "summary": "Stocks ended Tuesday lower as Treasury yields touched fresh multiyear highs.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/09/28/stock-market-today-live-updates.html",
-     "source": "CNBC Top News",
-     "published": "2026-09-29T20:43:07+00:00"
-    },
-    {
-     "title": "US ban on $1bn of Canadian goods takes effect in Trump’s latest retaliation",
-     "summary": "Trump retaliated against Canada's counter-tariffs on $20bn worth of US imports by banning $1bn of Canadian goods.",
-     "image": "",
-     "url": "https://www.aljazeera.com/economy/2026/9/29/us-ban-on-1bn-of-canadian-goods-takes-effect-in-trumps-latest-retaliation?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-29T20:08:33+00:00"
-    },
-    {
-     "title": "Has Gaza broken the Israel consensus in the US?",
-     "summary": "For decades, Israel was untouchable in Washington. Gaza changed that. Josh Rushing investigates how and what comes next.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/lets-focus/2026/9/29/has-gaza-broken-the-israel-consensus-in-the-us?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-29T20:05:41+00:00"
-    },
-    {
-     "title": "30-year Treasury bond yield scales to highest level since 2002",
-     "summary": "U.S. Treasury yields largely rose Tuesday, adding to the gains that catapulted them to multi-year highs amid central bank monetary policy concerns.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/09/29/treasury-yields-bonds.html",
-     "source": "CNBC Top News",
-     "published": "2026-09-29T20:03:39+00:00"
-    },
-    {
-     "title": "US troops fully withdraw from Baghdad base after two decades",
-     "summary": "US Army soldiers have fully withdrawn from the US base in Baghdad.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/us-troops-fully-withdraw-from-baghdad-base-after-two-decades?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-29T20:00:31+00:00"
-    },
-    {
-     "title": "U.S. Supreme Court sides with Trump administration in third-country deportations",
-     "summary": "The Supreme Court allowed the Trump administration to resume deportations of migrants to countries that are not identified in their removal orders. It also plans to hear full arguments on the case.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6192x4128+0+0/resize/6192x4128!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F52%2Fa4%2F09bbed3f4f69bab9f978810def56%2Fgettyimages-2270391041.jpg",
-     "url": "https://www.npr.org/2026/09/29/g-s1-145266/supreme-court-trump-third-country-deportations",
-     "source": "NPR News",
-     "published": "2026-09-29T19:19:37+00:00"
-    },
-    {
-     "title": "Can Iraq handle future security challenges alone?",
-     "summary": "More than two decades of US military presence in Iraq comes to an end.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/inside-story/2026/9/29/can-iraq-handle-future-security-challenges-alone?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-09-29T19:05:03+00:00"
-    },
-    {
-     "title": "Give BrewDog ‘second chance’ says new owner as it invests £50m",
-     "summary": "US cannabis and drinks firm Tilray, which took over in March, says it will improve beers, pubs and working conditions BrewDog’s new owner has urged drinkers to give the ailing brand “a second chance”…",
-     "image": "https://i.guim.co.uk/img/media/cec4d2c70c00b38bf5eef1c68055ef745ce4c0bf/848_0_6829_5464/master/6829.jpg?width=140&quality=85&auto=format&fit=max&s=c5961b725b95defe5cf022029e517ee4",
-     "url": "https://www.theguardian.com/business/2026/sep/29/give-brewdog-second-chance-says-new-owner-invests",
+     "title": "Energy bills: what to do as prices head for £2,000 a year, from switching deals to insulating",
+     "summary": "The price cap is to soar for about 20 million households in Great Britain from January, but there are ways to save Energy bills in Great Britain forecast to jump by £276 a year from January Household…",
+     "image": "https://i.guim.co.uk/img/media/e67f334ce2d02195caef171c26c43817bac276a4/302_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=dc6064e25df2affe2fbb0eb4aee7cc80",
+     "url": "https://www.theguardian.com/money/2026/sep/30/energy-bills-price-cap-switching-deals-insulating-save",
      "source": "Guardian Business",
-     "published": "2026-09-29T18:35:27+00:00"
+     "published": "2026-09-30T15:44:17+00:00"
     },
     {
-     "title": "Burnham gambles on radical progressive plan to help Britain ‘rise again’",
-     "summary": "PM accepts some of his plan could be difficult and admits he ‘may pay a political price’ Analysis: PM’s promises will take time to come good Key takeaways from Burnham’s conference speech Andy Burnham…",
-     "image": "https://i.guim.co.uk/img/media/f3c2eff90665f2d36a2026bfef003d10152ae35d/989_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=a1f24471658f1f756007d38775a1b72e",
-     "url": "https://www.theguardian.com/politics/2026/sep/29/andy-burnham-vows-long-term-relationship-eu-labour-conference-speech",
-     "source": "Guardian Business",
-     "published": "2026-09-29T18:21:29+00:00"
-    },
-    {
-     "title": "Lindsay Clancy's lawyer now questions whether she killed her 3 children",
-     "summary": "Lindsay Clancy's lawyer is arguing that there wasn't enough evidence to prove she killed her three children. It's a striking turn after a lengthy trial that focused more on her mental state than on wh…",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2128+0+0/resize/3000x2128!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F68%2Fc4%2Ff1b1fe8f479dbfa20ffb50753e44%2Fap26247685382832.jpg",
-     "url": "https://www.npr.org/2026/09/29/g-s1-145539/lindsay-clancy-trial-hearing-lawyer",
+     "title": "How Ukrainians are coping with new, more deadly Russian attacks",
+     "summary": "Zanny Minton Beddoes, The Economist's editor in chief , just visited Ukraine. She says, despite all its drone weaponry, Kyiv is under extraordinary bombardment, as Russia tries to make it unlivable.",
+     "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5984948",
+     "url": "https://www.npr.org/2026/09/30/nx-s1-5984948/how-ukrainians-are-coping-with-new-more-deadly-russian-attacks",
      "source": "NPR News",
-     "published": "2026-09-29T18:00:50+00:00"
+     "published": "2026-09-30T15:33:19+00:00"
     },
     {
-     "title": "Will pensioners be poorer as a result of Burnham scrapping the triple lock?",
-     "summary": "Original triple lock was designed to lift pensioners out of poverty but OBR says it contributes to unsustainability of public finances The prime minister has announced that the pensions triple lock wi…",
-     "image": "https://i.guim.co.uk/img/media/41211e2507cd3620fdd00d89d1b50cad4ce6bec1/340_0_4105_3285/master/4105.jpg?width=140&quality=85&auto=format&fit=max&s=f82af642e123f3efff87a1386fdadd33",
-     "url": "https://www.theguardian.com/money/2026/sep/29/will-pensioners-be-poorer-burnham-scrapping-triple-lock",
-     "source": "Guardian Business",
-     "published": "2026-09-29T17:47:20+00:00"
-    },
-    {
-     "title": "Potential Taiwan tension sparked 'last minute' change in Trump-Xi National Archives visit",
-     "summary": "The sudden change was precipitated because of Chinese displeasure over one document that the U.S. had planned to show.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4408x3017+0+0/resize/4408x3017!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2b%2Fbf%2Ff612e9154c1f92d1c4a55d775a55%2Fgettyimages-2297118196.jpg",
-     "url": "https://www.npr.org/2026/09/29/nx-s1-5984989/digital-archives-trump-xi",
-     "source": "NPR News",
-     "published": "2026-09-29T17:17:04+00:00"
-    },
-    {
-     "title": "This startup wants to prove gene-editing embryos is safe for making healthy babies",
-     "summary": "Origin Genomics aims to prove that the potential benefits of its technology for editing disease-causing genes in human embryos outweigh the risks.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5182x3455+0+0/resize/5182x3455!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F56%2F87%2Fae45aab04fdf8d47954c20869c83%2Fcalle-20260914-00352.jpg",
-     "url": "https://www.npr.org/2026/09/29/nx-s1-5950439/embryo-gene-editing-babies-biotech",
-     "source": "NPR News",
-     "published": "2026-09-29T17:00:08+00:00"
-    },
-    {
-     "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
-     "summary": "The ban is part of a number of proposals that must be approved in parliament within 30 days.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cc7/live/fb735b70-bbfc-11f1-90b9-913e4354ed35.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
+     "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
+     "summary": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7cd/live/e4a1ffd0-bbdb-11f1-bd21-bdf910f2cec6.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-09-29T16:23:58+00:00"
+     "published": "2026-09-30T15:29:11+00:00"
+    },
+    {
+     "title": "What happened on diverted Flydubai flight from Dubai to Tel Aviv?",
+     "summary": "Israel's prime minister said one of the pilots stabbed the other and then tried to crash the plane.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/9/30/what-happened-on-diverted-flydubai-flight-from-dubai-to-tel-aviv?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-30T15:27:26+00:00"
+    },
+    {
+     "title": "Photos: Kashmir’s 600-year-old Wazwan wedding feast adapts to modern life",
+     "summary": "Wazwan, a multicourse mutton feast, reflects Kashmiri cultural roots with recipes dating back to the 14th century.",
+     "image": "",
+     "url": "https://www.aljazeera.com/gallery/2026/9/30/photos-kashmirs-600-year-old-wazwan-wedding-feast-adapts-to-modern-life?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-30T15:22:52+00:00"
+    },
+    {
+     "title": "We need ‘right to intervene’ in AI amid growing threat, says Bank of England boss",
+     "summary": "Andrew Bailey’s comments come as fears grow that rogue models could take financial system hostage Business live – latest updates The governor of the Bank of England has called for the “right to interv…",
+     "image": "https://i.guim.co.uk/img/media/23b0ea2be283b07b648c19b8cc26c9fb9a6a40c8/61_0_3698_2958/master/3698.jpg?width=140&quality=85&auto=format&fit=max&s=959d75279ed826437e37e56beb59d70e",
+     "url": "https://www.theguardian.com/technology/2026/sep/30/intervene-ai-growing-threat-bank-of-england-boss",
+     "source": "Guardian Business",
+     "published": "2026-09-30T15:22:25+00:00"
+    },
+    {
+     "title": "Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
+     "summary": "The personal consumption expenditures price index was projected to show an annual gain of 3.7% on headline and 3.3% for core, according to the Dow Jones consensus.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
+     "source": "CNBC Top News",
+     "published": "2026-09-30T15:14:57+00:00"
+    },
+    {
+     "title": "Garvaghy Road standoff brings Northern Ireland’s old wounds back to surface",
+     "summary": "Residents block an Orange Order parade in a standoff that has revived tensions, legal disputes and political conflict.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/9/30/garvaghy-road-standoff-brings-northern-irelands-old-wounds-back-to-surface?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-30T15:06:37+00:00"
+    },
+    {
+     "title": "How Trump keeps undercutting his anti-communist message",
+     "summary": "The Trump administration has taken government equity stakes in more than three dozen private companies.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3354x2236+0+0/resize/3354x2236!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F47%2F64%2F0bc5a8f04e99bc3a4f522b5ebaa3%2Fgettyimages-2297113625.jpg",
+     "url": "https://www.npr.org/2026/09/30/nx-s1-5913363/how-trump-keeps-undercutting-his-anti-communist-message",
+     "source": "NPR News",
+     "published": "2026-09-30T14:58:51+00:00"
+    },
+    {
+     "title": "China extends 52-year unbeaten record as Asian Games organisers apologise",
+     "summary": "Chinese divers were unstoppable as the country's sizeable overall tally of gold medals swelled to 150.",
+     "image": "",
+     "url": "https://www.aljazeera.com/sports/2026/9/30/china-extends-52-year-unbeaten-record-as-asian-games-organisers-apologise?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-09-30T14:54:34+00:00"
     }
    ]
   },
@@ -138,132 +138,132 @@
    "label": "AI",
    "items": [
     {
-     "title": "NASA has a Dragon dilemma, and there appear to be no good answers",
-     "summary": "So is SpaceX just being selfish or what?",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/KSC-20211027-PH-SPX02_0003orig-500x500.jpg",
-     "url": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/",
-     "source": "Ars Technica",
-     "published": "2026-09-29T18:34:00+00:00"
-    },
-    {
-     "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
-     "summary": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\"",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1840671728-500x500.jpg",
-     "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
-     "source": "Ars Technica",
-     "published": "2026-09-29T18:11:09+00:00"
-    },
-    {
-     "title": "Apple pressured to explain Trump role in ICE-tracking app removals",
-     "summary": "Lawmaker rejects Apple excuse for banning ICE-tracking apps as unconstitutional.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2237457256-500x500-1790699681.jpg",
-     "url": "https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says/",
-     "source": "Ars Technica",
-     "published": "2026-09-29T17:29:14+00:00"
-    },
-    {
-     "title": "Tcl/Tk 9.1 Released",
-     "summary": "Article URL: https://www.tcl-lang.org/software/tcltk/9.1.html Comments URL: https://news.ycombinator.com/item?id=49896712 Points: 173 # Comments: 49",
+     "title": "韋伯望遠鏡顛覆認知！宇宙誕生僅 5 億年，早期星系已開始向外散布重元素",
+     "summary": "詹姆斯·韋伯太空望遠鏡（JWST）的觀測顯示，宇宙誕生僅約 5 億年後，早期星系便已開始將由恆星製造的重元素散 […]",
      "image": "",
-     "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
-     "source": "Hacker News Front Page",
-     "published": "2026-09-29T17:13:38+00:00"
-    },
-    {
-     "title": "Dots: Always-on agents",
-     "summary": "Article URL: https://openai.com/index/introducing-dots/ Comments URL: https://news.ycombinator.com/item?id=49896604 Points: 372 # Comments: 280",
-     "image": "",
-     "url": "https://openai.com/index/introducing-dots/",
-     "source": "Hacker News Front Page",
-     "published": "2026-09-29T17:07:57+00:00"
-    },
-    {
-     "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-     "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586 Points: 617 # Comments: 539",
-     "image": "",
-     "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-     "source": "Hacker News Front Page",
-     "published": "2026-09-29T17:06:45+00:00"
-    },
-    {
-     "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
-     "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising Comments URL: https://news.ycombinator.com/item?id=49896050 Points: 439 # Comment…",
-     "image": "",
-     "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-     "source": "Hacker News Front Page",
-     "published": "2026-09-29T16:30:48+00:00"
-    },
-    {
-     "title": "This study looks at how and with whom connected cars share your data",
-     "summary": "Between the cars and their companion apps, you’re exposed to a lot of trackers.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2212041468-1-500x500.jpg",
-     "url": "https://arstechnica.com/cars/2026/09/connected-car-data-privacy-is-still-abysmal-study-finds/",
-     "source": "Ars Technica",
-     "published": "2026-09-29T14:49:44+00:00"
-    },
-    {
-     "title": "毅力號火星重大發現，耶澤羅撞擊坑岩石揭密「三階段」水活動歷史",
-     "summary": "NASA「毅力號」（Perseverance）火星探測車在耶澤羅撞擊坑（Jezero Crater）內緣的「M […]",
-     "image": "",
-     "url": "https://technews.tw/2026/09/29/early-martian-rocks-reveal-at-least-three-independent-water-events/",
+     "url": "https://technews.tw/2026/09/30/early-galaxies-had-already-spread-heavy-elements-across-the-universe/",
      "source": "科技新報 TechNews",
-     "published": "2026-09-29T13:41:49+00:00"
+     "published": "2026-09-30T13:58:36+00:00"
     },
     {
-     "title": "金像電私募拍板亞馬遜 15.89 億元入股，另通過 79 億元新廠擴產案",
-     "summary": "PCB大廠金像電於2026年9月29日召開董事會，拍板確定引進雲端大廠亞馬遜（Amazon.com, Inc. […]",
+     "title": "TNCAP 撞出真本事，MG ZS 零顆星",
+     "summary": "台灣新車安全評等報告又冒出一個意外，銷量相當熱門的平價小型休旅車 MG ZS，竟然只獲得零顆星成績，究竟是哪個 […]",
      "image": "",
-     "url": "https://finance.technews.tw/2026/09/29/golden-image-private-equity-funds-invest-nt1-589-billion-in-amazon/",
+     "url": "https://technews.tw/2026/09/30/tncap-mg-zs/",
      "source": "科技新報 TechNews",
-     "published": "2026-09-29T11:00:54+00:00"
+     "published": "2026-09-30T13:43:37+00:00"
     },
     {
-     "title": "Making AI an asset, not an expense",
-     "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability?…",
-     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Cheri-blog.jpg?w=840",
-     "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+     "title": "Cloudflare plans to issue quantum-safe TLS certificates",
+     "summary": "The move will be part of a major overhaul of the ecosystem for website authentication.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-500x500-1772240635.jpg",
+     "url": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
+     "source": "Ars Technica",
+     "published": "2026-09-30T11:15:14+00:00"
+    },
+    {
+     "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+     "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady dr…",
+     "image": "",
+     "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
      "source": "MIT Tech Review AI",
-     "published": "2026-09-29T10:43:45+00:00"
+     "published": "2026-09-30T10:40:30+00:00"
     },
     {
-     "title": "賓士、輝能簽署合作協議，取得次世代固態電池優先權",
-     "summary": "台灣固態電池廠輝能和賓士之間的曖昧關係，今天終於更加清晰，雙方簽署合作協議，未來賓士將取得輝能最新電池的優先測 […]",
+     "title": "狂燒逾 1 萬美元 Token，神人打造網頁版「台北 GTA」",
+     "summary": "台灣開發者 @aicodewithme 近日在社交平台 Threads 分享，親自製作一款以台北街景為舞台的網 […]",
      "image": "",
-     "url": "https://technews.tw/2026/09/29/mercedes-benz-prologium-ssb-priority/",
+     "url": "https://technews.tw/2026/09/30/taipei-gta/",
      "source": "科技新報 TechNews",
-     "published": "2026-09-29T10:40:16+00:00"
+     "published": "2026-09-30T10:40:24+00:00"
     },
     {
-     "title": "AI 狂潮席捲！台灣三大科學園區 2026 上半年總營收破 3.5 兆創歷年同期新高",
-     "summary": "受惠於全球人工智慧（AI）浪潮、高效能運算（HPC）與先進半導體需求強勁擴增，台灣三大科學園區（竹科、中科、南 […]",
+     "title": "AI 攻擊 12 分鐘就能展開，企業平均修補時間仍需 3 天",
+     "summary": "資安大廠 Palo Alto Networks 22 日推出「Unit 42 Continuous Front […]",
      "image": "",
-     "url": "https://finance.technews.tw/2026/09/29/taiwans-three-major-science-parks-achieved-a-combined-revenue-exceeding-nt3-5-trillion-in-the-first-half-of-2026/",
+     "url": "https://infosecu.technews.tw/2026/09/30/palo-alto-networks-nikesh-arora-is-building-a-defense-against-the-dark-side-of-ai/",
      "source": "科技新報 TechNews",
-     "published": "2026-09-29T09:45:01+00:00"
+     "published": "2026-09-30T10:00:12+00:00"
     },
     {
-     "title": "SMARtCARE: Privacy-Preserving Agentic AI Systems for Bounded-Autonomy Clinical Decision Support",
-     "summary": "arXiv:2609.31763v1 Announce Type: new Abstract: Long-context clinical AI systems can miss relevant patient history when prior admissions fall outside the active reasoning context. In ICU monitoring, t…",
+     "title": "Pi.dev: You Said No MCP",
+     "summary": "Article URL: https://earendil.com/posts/you-said-no-mcp/ Comments URL: https://news.ycombinator.com/item?id=49906637 Points: 420 # Comments: 225",
      "image": "",
-     "url": "https://arxiv.org/abs/2609.31763",
-     "source": "arXiv cs.AI",
-     "published": "2026-09-29T04:00:00+00:00"
+     "url": "https://earendil.com/posts/you-said-no-mcp/",
+     "source": "Hacker News Front Page",
+     "published": "2026-09-30T09:55:23+00:00"
     },
     {
-     "title": "Witeness Overlap: Directional Provenance Inside Open-Weight Model Families",
-     "summary": "arXiv:2609.31784v1 Announce Type: new Abstract: Open-weight models are often released, fine-tuned, aligned, merged, and re-released, making provenance audits ask not only whether checkpoints are relat…",
+     "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
+     "summary": "arXiv:2609.35799v1 Announce Type: new Abstract: In July 2026, OpenAI's agents coordinated over channels outside their intended environment to breach Hugging Face's secured infrastructure. Could existi…",
      "image": "",
-     "url": "https://arxiv.org/abs/2609.31784",
+     "url": "https://arxiv.org/abs/2609.35799",
      "source": "arXiv cs.AI",
-     "published": "2026-09-29T04:00:00+00:00"
+     "published": "2026-09-30T04:00:00+00:00"
     },
     {
-     "title": "CP-Agent: A Harness-Engineered Agent for Crystal Plasticity Simulation Workflows",
-     "summary": "arXiv:2609.31790v1 Announce Type: new Abstract: Crystal plasticity (CP) simulations predict the mechanical behavior of polycrystalline metals, yet their routine use is hindered by the manual effort of…",
+     "title": "Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices",
+     "summary": "arXiv:2609.35833v1 Announce Type: new Abstract: Running a language model on edge hardware provides private and low-latency reasoning without a network connection, and yet the small models that fit on…",
      "image": "",
-     "url": "https://arxiv.org/abs/2609.31790",
+     "url": "https://arxiv.org/abs/2609.35833",
      "source": "arXiv cs.AI",
-     "published": "2026-09-29T04:00:00+00:00"
+     "published": "2026-09-30T04:00:00+00:00"
+    },
+    {
+     "title": "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?",
+     "summary": "arXiv:2609.35868v1 Announce Type: new Abstract: Is human readability necessary for effective fine-tuning of large language models? We investigate whether model-conditioned training representations can…",
+     "image": "",
+     "url": "https://arxiv.org/abs/2609.35868",
+     "source": "arXiv cs.AI",
+     "published": "2026-09-30T04:00:00+00:00"
+    },
+    {
+     "title": "The Price of Token Boundaries: Compression Certificates and Prediction",
+     "summary": "arXiv:2609.35869v1 Announce Type: new Abstract: Pre-tokenisation restricts which text fragments can become prediction units, but its compression cost is obscured when tokenisers are compared only unde…",
+     "image": "",
+     "url": "https://arxiv.org/abs/2609.35869",
+     "source": "arXiv cs.AI",
+     "published": "2026-09-30T04:00:00+00:00"
+    },
+    {
+     "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+     "summary": "Article URL: https://github.com/ninjahawk/livenerf Comments URL: https://news.ycombinator.com/item?id=49901736 Points: 802 # Comments: 340",
+     "image": "",
+     "url": "https://github.com/ninjahawk/livenerf",
+     "source": "Hacker News Front Page",
+     "published": "2026-09-29T22:36:14+00:00"
+    },
+    {
+     "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
+     "summary": "Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2291507729-500x500.jpg",
+     "url": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/",
+     "source": "Ars Technica",
+     "published": "2026-09-29T22:30:37+00:00"
+    },
+    {
+     "title": "Protests against OpenAI get increasingly creative",
+     "summary": "New sculpture depicts AI leaders escaping a sinking ship.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/IMG_0886-500x500.jpg",
+     "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+     "source": "Ars Technica",
+     "published": "2026-09-29T21:52:58+00:00"
+    },
+    {
+     "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+     "summary": "The deal, which is expected to close by year's end, is worth $8.2 billion.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/AMD-World-Labs-500x500-1790711871.jpg",
+     "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+     "source": "Ars Technica",
+     "published": "2026-09-29T21:14:49+00:00"
+    },
+    {
+     "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+     "summary": "Article URL: https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/ Comments URL: https://news.ycombinator.com/item?i…",
+     "image": "",
+     "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+     "source": "Hacker News Front Page",
+     "published": "2026-09-29T19:30:17+00:00"
     }
    ]
   },
@@ -271,138 +271,129 @@
    "label": "運動",
    "items": [
     {
-     "title": "Who continues to show how important they are? - England player ratings",
-     "summary": "How the England players rated following their Nations League match.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e69/live/c94a88f0-bc40-11f1-8666-b5dc4bdc94cb.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c6g7kldr9378o?at_medium=RSS&at_campaign=rss",
+     "title": "Burnham 'really concerned' if Man City owners sell up after rule breaches",
+     "summary": "The prime minister compares the allegations against Man City to the plight of his own club Everton.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9b1/live/6b9dd230-bcdf-11f1-afec-ebbb2634c4cd.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/crkgwvv8xvw0o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
-     "published": "2026-09-29T20:39:46+00:00"
+     "published": "2026-09-30T16:01:16+00:00"
     },
     {
-     "title": "Sham City: verdict on financial breaches is damning and punishment must be severe | Jonathan Wilson",
-     "summary": "How can Manchester City be trusted under its current owners? There is a good argument for Premier League expulsion How bad could it be, really? How serious can a breach of arcane financial regulations…",
-     "image": "https://i.guim.co.uk/img/media/7dae953ec1472f0847eb7fa49af4db2161d57aed/289_0_2662_2129/master/2662.jpg?width=140&quality=85&auto=format&fit=max&s=f6b3605b44464f2fa5fff36797309d58",
-     "url": "https://www.theguardian.com/football/2026/sep/29/manchester-city-financial-breaches-verdict-premier-league",
-     "source": "Guardian Sport",
-     "published": "2026-09-29T20:30:10+00:00"
+     "title": "Two-time NBA champion JR Smith arrested on assault charge in Texas",
+     "summary": "Smith was arrested this week on a charge of family violence assault causing bodily injury, according to county records",
+     "image": "https://sportshub.cbsistatic.com/i/2026/09/30/d41760fa-421f-470d-974b-b776e289b667/jr-smith-getty.png",
+     "url": "https://www.cbssports.com/nba/news/jr-smith-arrested-assault-charge-texas/",
+     "source": "CBS Sports NBA",
+     "published": "2026-09-30T15:58:51+00:00"
     },
     {
-     "title": "NBA reportedly close to selecting winning bid for Las Vegas expansion team, has 3 finalist groups",
-     "summary": "The deal, which will include a new arena in the city, is expected to be worth at least $12 billion.",
+     "title": "Cavs season preview: Jaylon Tyson – Is there more to uncover?",
+     "summary": "Tyson is on the verge of being one of the league’s premier role players.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/2c730db9b20977e7bd1b70cb93f67b9e.jpg",
+     "url": "https://sports.yahoo.com/articles/cavs-season-preview-jaylon-tyson-152243071.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-30T15:22:43+00:00"
+    },
+    {
+     "title": "How the Pacers' attack could look more potent since last we saw Tyrese Haliburton",
+     "summary": "The addition of Ivica Zubac provides a new wrinkle to Indiana's high-powered offense.",
+     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ed-092926-how-does-ivica-zubac-change-indiana-1_1640.jpg",
+     "url": "https://sports.yahoo.com/nba/article/how-the-pacers-attack-could-look-more-potent-since-last-we-saw-tyrese-haliburton-145729776.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-09-30T14:57:29+00:00"
+    },
+    {
+     "title": "Djokovic wins first match since Wimbledon in China",
+     "summary": "Novak Djokovic beats Nuno Borges at the China Open to secure his first win since reaching the Wimbledon semi-finals in July.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8353/live/cb281490-bcda-11f1-afec-ebbb2634c4cd.jpg",
+     "url": "https://www.bbc.co.uk/sport/tennis/articles/cq20vxxdxk54o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-09-30T14:50:46+00:00"
+    },
+    {
+     "title": "D'Angelo Russell leaves NBA, signs with China's Shanghai Sharks",
+     "summary": "Russell was released last week by the Grizzlies months after a July trade from the Wizards.",
      "image": "",
-     "url": "https://sports.yahoo.com/nba/breaking-news/article/nba-reportedly-close-to-selecting-winning-bid-for-las-vegas-expansion-team-has-3-finalist-groups-202453031.html",
+     "url": "https://sports.yahoo.com/nba/article/dangelo-russell-leaves-nba-signs-with-chinas-shanghai-sharks-141216489.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-09-29T20:24:53+00:00"
+     "published": "2026-09-30T14:12:16+00:00"
     },
     {
-     "title": "Yahoo High Score 101: Everything you need to know before playing the fantasy basketball format",
-     "summary": "We go over everything you need to know if you're new to Yahoo's High Score fantasy basketball format.",
-     "image": "",
-     "url": "https://sports.yahoo.com/fantasy/article/yahoo-high-score-101-everything-you-need-to-know-before-playing-the-fantasy-basketball-format-202420425.html",
+     "title": "There’s finally a silver lining to the Knicks’ championship for the Sixers",
+     "summary": "LeBron James confirmed Monday that he would have joined the Knicks this summer had they not won a championship last year.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/f12c25b9fe8019697e8592c85678924a.jpg",
+     "url": "https://sports.yahoo.com/articles/finally-silver-lining-knicks-championship-141056535.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-09-29T20:24:20+00:00"
+     "published": "2026-09-30T14:10:56+00:00"
     },
     {
-     "title": "Knicks Notes: Jalen Brunson talks wrist rehab, complimentary remarks from LeBron James",
-     "summary": "New York Knicks point guard Jalen Brunson discussed several topics he's weighing ahead of the 2026-27 season.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/knicks-notes-jalen-brunson-talks-200602347.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-09-29T20:06:02+00:00"
-    },
-    {
-     "title": "76ers training camp opens with Nick Nurse ready to experiment: 'We need to clearly define roles for everybody'",
-     "summary": "For the 76ers to reach the lofty goals that have been set, they'll need to be a much improved version of themselves tactically.",
-     "image": "https://d29szjachogqwa.cloudfront.net/images/2026-09/991b6c43-fa56-47f3-b26b-b5023ee383f8",
-     "url": "https://sports.yahoo.com/nba/article/76ers-training-camp-opens-with-nick-nurse-ready-to-experiment-we-need-to-clearly-define-roles-for-everybody-194710078.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-09-29T19:47:10+00:00"
-    },
-    {
-     "title": "Man City guilty of 'sham' contracts and £830m 'disguised funding scheme'",
-     "summary": "The Premier League confirms that Manchester City have been found guilty of all charges related to breaches of Premier League financial rules between 2009-10 and 2017-18.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d913/live/0bfbf2c0-bc2c-11f1-a430-4d16ee157c41.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-09-29T18:12:33+00:00"
-    },
-    {
-     "title": "Ferrari say team has ‘made its choices’ and there’s no vacancy for Christian Horner",
-     "summary": "Marque reaffirms commitment to Fred Vasseur Horner had expressed interest in joining Ferrari Ferrari have reaffirmed their backing for their team principal, Fred Vasseur, in an effort to end speculati…",
-     "image": "https://i.guim.co.uk/img/media/996106acae3e81525ad5b7906225ceedb6a25ead/0_0_3829_3064/master/3829.jpg?width=140&quality=85&auto=format&fit=max&s=d5b18ab05774f7cf3333709ac1c600a1",
-     "url": "https://www.theguardian.com/sport/2026/sep/29/ferrari-christian-horner-fred-vasseur-f1",
+     "title": "‘I am here more than ever’: Guardiola backs Manchester City owners over guilty verdicts",
+     "summary": "‘I am, always have been, always will, be behind my club’ Former City chair Bernstein calls for directors to quit Pep Guardiola has thrown his support behind Manchester City after the club were found g…",
+     "image": "https://i.guim.co.uk/img/media/a9e71f1ccab11923a0197fa28d9990188c06bc3b/610_115_3591_2873/master/3591.jpg?width=140&quality=85&auto=format&fit=max&s=f445731b5b28148afcf121701a5aad3f",
+     "url": "https://www.theguardian.com/football/2026/sep/30/guardiola-backs-manchester-city-owners-over-guilty-verdicts",
      "source": "Guardian Sport",
-     "published": "2026-09-29T16:37:25+00:00"
+     "published": "2026-09-30T13:39:43+00:00"
     },
     {
-     "title": "Saracens face fines over 'wine consultant' Venter's media no-shows",
-     "summary": "Saracens are facing fines from Prem Rugby for director of rugby Brendan Venter's failure to fulfil media commitments.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8037/live/bd4228f0-bc19-11f1-9a78-d72908473b45.jpg",
-     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ck7902q3g5vgo?at_medium=RSS&at_campaign=rss",
+     "title": "Criminal investigation? Relegation or expulsion? The key Man City questions",
+     "summary": "BBC Sport takes a look at the key questions following the guilty verdicts handed down to Manchester City.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff90/live/6abf4e50-bcb9-11f1-a52f-e7c9a7884cfa.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c9y7zr4l6de1o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
-     "published": "2026-09-29T16:06:24+00:00"
+     "published": "2026-09-30T13:17:44+00:00"
     },
     {
-     "title": "Man Utd do not deserve Man City titles - Rooney",
-     "summary": "Wayne Rooney says Man Utd do not \"deserve\" to be awarded Premier League titles if rivals Man City are stripped of them.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/008c/live/621fb7e0-bbfa-11f1-90b9-913e4354ed35.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cmed7q89vp5no?at_medium=RSS&at_campaign=rss",
+     "title": "Cam Schlittler, Austin Riley open MLB playoffs in style; Pete Prisco's NFL Power Rankings are out",
+     "summary": "Plus our first 2027 WNBA mock draft after a historic night in the postseason",
+     "image": "https://sportshub.cbsistatic.com/i/2026/09/30/c7e1eade-277f-4b16-b98d-2be8dd922c26/gettyimages-2297799788-2.jpg",
+     "url": "https://www.cbssports.com/mlb/news/cam-schlittler-austin-riley-open-mlb-playoffs-in-style-pete-priscos-nfl-power-rankings-are-out/",
+     "source": "CBS Sports NBA",
+     "published": "2026-09-30T12:57:04+00:00"
+    },
+    {
+     "title": "Ocon to leave Haas putting F1 future in doubt",
+     "summary": "Esteban Ocon is fighting to save his Formula 1 career after the Haas team announcement that they are splitting with the Frenchman at the end of the year.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e9e/live/83101dd0-bcb5-11f1-a3e9-bbda6f9b9e25.jpg",
+     "url": "https://www.bbc.co.uk/sport/formula1/articles/c9e8e5k21ge5o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
-     "published": "2026-09-29T12:36:50+00:00"
+     "published": "2026-09-30T10:24:02+00:00"
     },
     {
-     "title": "American exodus: why do so many US NHL stars want out of Canada?",
-     "summary": "Players across the league are leaving their teams up north to return home. It’s prompted questions around money, tax rates, geopolitics and respect Back in September 1925, Frederick Wilson, sports edi…",
-     "image": "https://i.guim.co.uk/img/media/2794de6b1fd0ede6d2296593d19bd6ed67d3f9b6/391_0_3250_2600/master/3250.jpg?width=140&quality=85&auto=format&fit=max&s=e3606b4bb9ade44bb1a0bff1987e2e08",
-     "url": "https://www.theguardian.com/sport/2026/sep/29/nhl-canada-us-moves-connor-hellebuyck-tkachuk-larkin-hughes",
+     "title": "WNBA playoffs: No 8 Liberty spring historic upset to take down No 1 seed Lynx",
+     "summary": "New York are first No 8 seed to beat first seed Liberty ease to 2-0 series victory over Minnesota Jonquel Jones had 21 points and 13 rebounds and the No 8 seed New York Liberty beat the top-seeded Min…",
+     "image": "https://i.guim.co.uk/img/media/d679aa596c9c887c6fcd6fd49da0399c28d04e1c/0_916_2658_2126/master/2658.jpg?width=140&quality=85&auto=format&fit=max&s=e615783da8cf98b52ba5852169cb6d30",
+     "url": "https://www.theguardian.com/sport/2026/sep/29/wnba-playoffs-no-8-liberty-spring-historic-upset-to-take-down-no-1-seed-lynx",
      "source": "Guardian Sport",
-     "published": "2026-09-29T10:00:47+00:00"
+     "published": "2026-09-30T02:55:41+00:00"
     },
     {
-     "title": "MLB playoff predictions: are the Dodgers heading for an inevitable fall?",
-     "summary": "As the postseason starts with the wildcard round, our writers pick the dark horses, likely winners and the high seeds at risk of going out early The Mariners . The only active MLB team to have never a…",
-     "image": "https://i.guim.co.uk/img/media/917344494182a087a56e9f94cc154fb660552855/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d9253908ff96c4e405907268600b7dd1",
-     "url": "https://www.theguardian.com/sport/2026/sep/29/mlb-playoff-predictions-dodgers-brewers-rays-wildcard",
+     "title": "WNBA playoffs: Caitlin Clark shines in Fever win as A’ja Wilson confronts fan after Cunningham foul",
+     "summary": "Clark has 27 points and 15 assists in Indiana win Wilson assessed technical foul after confrontation All Caitlin Clark wanted was one more chance to play this season. She delivered a masterpiece. The…",
+     "image": "https://i.guim.co.uk/img/media/b0ec946f62fd2766ebae1348073b13f9898a6096/1624_626_5146_4117/master/5146.jpg?width=140&quality=85&auto=format&fit=max&s=f6d933aa1176a1b91a462ef3b78fa74e",
+     "url": "https://www.theguardian.com/sport/2026/sep/29/caitlin-clark-wnba-playoffs-aja-wilson-fan",
      "source": "Guardian Sport",
-     "published": "2026-09-29T08:30:58+00:00"
+     "published": "2026-09-30T02:44:57+00:00"
     },
     {
-     "title": "Spurs star Dylan Harper, heading into Year 2, already knows he's too good to come off the bench",
-     "summary": "'I ain't coming off no bench,' Harper, a breakout star of the 2026 playoffs, told GQ in a recent interview",
-     "image": "https://sportshub.cbsistatic.com/i/2026/09/28/fac8eb30-0978-4e8f-9e80-26932dc5a7e2/dylan-harper-getty.png",
-     "url": "https://www.cbssports.com/nba/news/spurs-star-dylan-harper-too-good-come-off-bench/",
-     "source": "CBS Sports NBA",
-     "published": "2026-09-28T20:50:56+00:00"
+     "title": "USMNT youth shines again in contentious 4-2 win over Chile",
+     "summary": "Sebastian Berhalter scores and assists on winner Two scuffles between teams erupt as match ends Julian Hall, Mathis Albert set records for youngest scorers Riding goals from Sebastian Berhalter, Julia…",
+     "image": "https://i.guim.co.uk/img/media/e5f4cf8f9dea6c834a07027907740e275bf71486/527_0_4115_3292/master/4115.jpg?width=140&quality=85&auto=format&fit=max&s=d5eeafa01c50f652a6a6e42f1e761213",
+     "url": "https://www.theguardian.com/football/2026/sep/29/usmnt-chile-match-report",
+     "source": "Guardian Sport",
+     "published": "2026-09-30T02:18:05+00:00"
     },
     {
-     "title": "LeBron James begins his 76ers era by making the stakes clear in Philly",
-     "summary": "'I didn't leave my family to lose in the second round,' James told reporters on media day with his new team",
-     "image": "https://sportshub.cbsistatic.com/i/2026/09/28/8b4c02bd-29fd-45b3-8d1c-81318634fddd/lebron-76ers-getty.png",
-     "url": "https://www.cbssports.com/nba/news/lebron-james-begins-76ers-era/",
+     "title": "NBA closing in on choosing ownership for new Las Vegas franchise: When could team debut? What about Seattle?",
+     "summary": "The winning bid for the Las Vegas expansion team is expected to exceed $12 billion",
+     "image": "https://sportshub.cbsistatic.com/i/2026/09/29/830c2fc4-d897-4d13-9eb5-85ce430462e0/nba-ball-getty.png",
+     "url": "https://www.cbssports.com/nba/news/nba-expansion-franchise-las-vegas-owner-bids-seattle/",
      "source": "CBS Sports NBA",
-     "published": "2026-09-28T20:41:35+00:00"
-    },
-    {
-     "title": "Five most interesting moments from NBA media days: Nikola Jokić makes declaration, all eyes on new-look 76ers",
-     "summary": "Most NBA teams held their media days on Monday as the 2026-27 season approaches",
-     "image": "https://sportshub.cbsistatic.com/i/2026/09/28/44a53a93-1d27-433c-b941-3cff04d39a63/nikola-jokic-getty-3.png",
-     "url": "https://www.cbssports.com/nba/news/nba-media-days-nikola-jokic-76ers/",
-     "source": "CBS Sports NBA",
-     "published": "2026-09-28T20:14:35+00:00"
-    },
-    {
-     "title": "Spurs' Stephon Castle says Knicks crowd at MSG was 'underwhelming' in NBA Finals, OKC fans were 'way louder'",
-     "summary": "Castle thought the road environment in Oklahoma City was a different challenge than in New York City last spring",
-     "image": "https://sportshub.cbsistatic.com/i/2026/09/28/ab4ac4aa-f19a-4ba0-bd5e-ae4fb9ecb061/untitled-design-1.png",
-     "url": "https://www.cbssports.com/nba/news/spurs-stephon-castle-knicks-crowd-msg-underwhelming/",
-     "source": "CBS Sports NBA",
-     "published": "2026-09-28T19:17:09+00:00"
+     "published": "2026-09-29T21:57:25+00:00"
     }
    ]
   }
  },
  "failures": [
-  "自由時報: <unknown>:7:2: mismatched tag",
   "關鍵評論網: <unknown>:22:6: mismatched tag"
  ]
 }
