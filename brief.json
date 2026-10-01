@@ -1,32 +1,120 @@
 {
- "generated": "2026-10-01T17:03:38.639167+00:00",
+ "generated": "2026-10-01T18:56:05.130558+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "General Motor Q3 sales drop 5.5%, while Toyota buoyed by EVs, hybrids",
-     "summary": "GM's sales of all-electric vehicles are down across the board, as enthusiasm for electric vehicles wanes.",
+     "title": "The September jobs report will be released Friday. Here's what to expect",
+     "summary": "Wall Street is looking for job growth of 84,000 to close out the summer.",
      "image": "",
-     "url": "https://www.cnbc.com/2026/10/01/us-auto-sales-q3.html",
+     "url": "https://www.cnbc.com/2026/10/01/the-september-jobs-report-will-be-released-friday-heres-what-to-expect.html",
      "source": "CNBC Top News",
-     "published": "2026-10-01T16:58:39+00:00"
+     "published": "2026-10-01T18:55:02+00:00"
     },
     {
-     "title": "卓揆1招逼立法院快審預算 張育萌：藍白越耍廢軍公教口袋就越淺",
-     "summary": "立法院新會期9月29日正式開議，為了讓藍白盡速審議明年度總預算，賴政府除了編列2357億全民普發現金1萬，還有一筆針對軍公教待遇、社福加碼等規模達6076億的預算追加案，讓藍白有...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5592640",
-     "source": "自由時報",
-     "published": "2026-10-01T16:58:29+00:00"
+     "title": "Christa Pike is alive and receiving 'life-saving care' in hospital, her lawyers say",
+     "summary": "Pike had been on death row since she was convicted in 1996 for the murder of Colleen Slemmer.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5bc/live/73d236d0-bdb6-11f1-babe-4199b0e7ccea.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-01T18:51:56+00:00"
     },
     {
-     "title": "乖乖中壢廠工會94％高票通過 今天清晨5點起罷工",
-     "summary": "乖乖公司中壢廠工會與乖乖公司調整事項勞資爭議調解，9月16日在桃園市政府調解不成立，9月18日在第12屆第1次會員大會以94％的同意，取得罷工同意權，乖乖公司中壢廠工會今天（1...…",
+     "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
+     "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/806d/live/8cf56f00-8950-11f1-aee1-9f17574ebbb3.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-01T18:48:46+00:00"
+    },
+    {
+     "title": "川普稱杜拜航空喋血事件疑和伊朗有關　若屬實將狠狠打擊",
+     "summary": "美國總統川普今天被問及杜拜航空（flydubai）駕駛艙喋血事件時表示，根據他聽到的消息，這起事件與伊朗有關，「我們現在正在處理」。若證實德黑蘭確實涉入，川普揚言，「他們將遭受非常沉重的打擊...…",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5592651",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5592662",
      "source": "自由時報",
-     "published": "2026-10-01T16:56:04+00:00"
+     "published": "2026-10-01T18:45:03+00:00"
+    },
+    {
+     "title": "Google launches Project Suncatcher, a step towards AI data centers in space",
+     "summary": "The fridge-size satellite with AI chips on board is part of Project Suncatcher, the company's moonshot effort to put AI data centers in space and harness solar energy.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5568x3712+0+0/resize/5568x3712!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F60%2F8f%2F371cc0fe493fbe02541d94335b9a%2Fsuncatcher-planet-labs-pbc.JPG",
+     "url": "https://www.npr.org/2026/10/01/nx-s1-5983697/project-suncatcher-google-ai-data-center-space",
+     "source": "NPR News",
+     "published": "2026-10-01T18:41:07+00:00"
+    },
+    {
+     "title": "Brazil attorney general says meddling ‘cannot be tolerated’ after Trump funding plans revealed",
+     "summary": "Jorge Messias calls Guardian report ‘an important alert for Brazilian sovereignty’, as nation prepares to go to polls Brazil’s attorney general has said foreign meddling in his country’s institutions…",
+     "image": "https://i.guim.co.uk/img/media/1ee7c4708c6ff1dbbdcbad5d5bbc74b0a1ed128a/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=0f536d62e286cd1284978b5d4d61bf5f",
+     "url": "https://www.theguardian.com/world/2026/oct/01/brazil-attorney-general-election-meddling-trump-funding-plans",
+     "source": "Guardian World",
+     "published": "2026-10-01T18:34:10+00:00"
+    },
+    {
+     "title": "Brent oil jumps more than 4% as U.S. reportedly sends third aircraft carrier to Middle East",
+     "summary": "Oil prices rose sharply Thursday, following a report the U.S. is sending a third aircraft-carrier strike group to the Middle East.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/01/oil-prices-today-wti-brent.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-01T18:23:29+00:00"
+    },
+    {
+     "title": "A judge permanently dismisses former Olympian's Reflecting Pool charges",
+     "summary": "Citing \"exceptional circumstances,\" a D.C. judge has ruled that the federal government cannot refile its Reflecting Pool charges against David Hearn, despite pressure from President Trump to do so.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3167x2111+0+0/resize/3167x2111!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0a%2F81%2Ff7c44c6043469791ccc98a0dbcde%2Fap26247725626677.jpg",
+     "url": "https://www.npr.org/2026/10/01/nx-s1-5987947/reflecting-pool-vandalism-hearn-charges-dismissed",
+     "source": "NPR News",
+     "published": "2026-10-01T18:22:59+00:00"
+    },
+    {
+     "title": "School protests spread as fires, blockades deepen unrest in France",
+     "summary": "Police have detained hundreds as students protest overcrowded classrooms, teacher shortages and crumbling facilities.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/1/school-protests-spread-as-fires-blockades-deepen-unrest-in-france?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-01T18:18:18+00:00"
+    },
+    {
+     "title": "英國空軍基地疑險遭恐攻　伊朗雙重國籍男子被捕",
+     "summary": "有美軍轟炸機進駐的英國費爾福（Fairford）空軍基地27日疑險遭恐攻，警方今天進一步逮捕1名嫌犯，是27歲、具英國和伊朗雙重國籍的男子。此外，另有一名26歲男性英國公民接受訊問。 警方...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5592658",
+     "source": "自由時報",
+     "published": "2026-10-01T18:12:03+00:00"
+    },
+    {
+     "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+     "summary": "Vladimir Putin insists Moscow is \"not threatening anyone\" and merely responding to statements by Western leaders.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d348/live/42c7b520-bdc4-11f1-964e-45603b94c961.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-01T18:09:03+00:00"
+    },
+    {
+     "title": "US borrowing costs hit 24-year high as global bond sell-off intensifies",
+     "summary": "Fears that US deficit is unsustainable also drive UK 30-year bond yields briefly above 6% for first time since 1998 Business live – latest updates The global bond sell-off intensified on Thursday, dri…",
+     "image": "https://i.guim.co.uk/img/media/76edc7923aff2ae513af828a0f5f90d7d5162337/219_0_2282_1825/master/2282.jpg?width=140&quality=85&auto=format&fit=max&s=7ab8bd67d353806acf11e28eb6f7110d",
+     "url": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
+     "source": "Guardian Business",
+     "published": "2026-10-01T17:56:18+00:00"
+    },
+    {
+     "title": "Palestinian children in Israeli military detention",
+     "summary": "",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/palestinian-children-in-israeli-military-detention?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-01T17:44:51+00:00"
+    },
+    {
+     "title": "US Supreme Court agrees to take up Trump’s ICE detention policy",
+     "summary": "The case is the latest dispute over US President Donald Trump’s sweeping immigration crackdown.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/1/us-supreme-court-agrees-to-take-up-trumps-ice-detention-policy?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-01T17:35:58+00:00"
     },
     {
      "title": "What happened in the failed execution of Christa Pike - and what next?",
@@ -34,103 +122,15 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf7e/live/8225e2d0-bd8f-11f1-bc2e-018d645d8d21.jpg",
      "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-10-01T16:52:33+00:00"
+     "published": "2026-10-01T17:31:06+00:00"
     },
     {
-     "title": "Trump Accounts have auto-enrolled more than 60 million children, Treasury says",
-     "summary": "More than 60 million children have been automatically enrolled in Trump Accounts, according to a Treasury Department announcement exclusively provided to CNBC.",
+     "title": "Renee Good’s family sues Trump administration over fatal ICE shooting",
+     "summary": "Lawsuits accuse Trump officials of recklessness and civil rights violations in Renee Good's fatal Minneapolis shooting .",
      "image": "",
-     "url": "https://www.cnbc.com/2026/10/01/treasury-trump-accounts-auto-enroll-more-than-60-million-children.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-01T16:52:22+00:00"
-    },
-    {
-     "title": "Stocks making the biggest moves midday: Accenture, Synopsys, United Therapeutics, Vicor and more",
-     "summary": "These are some of the stocks posting the largest moves midday.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-midday-acn-snps-uthr-vicr-.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-01T16:48:57+00:00"
-    },
-    {
-     "title": "AI data centers: How much are ratepayers on the hook for?",
-     "summary": "Data centers consume large amounts of power and require upgrading infrastructure. But it's difficult to determine how much residential customers benefit and how much they actually pay for the benefit.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4965x3310+0+0/resize/4965x3310!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fef%2F28%2F8d9567c349eba8d8353635023ab8%2Fgettyimages-2296284534.jpg",
-     "url": "https://www.npr.org/2026/10/01/nx-s1-5984949/data-centers-ai-ratepayers-congress",
-     "source": "NPR News",
-     "published": "2026-10-01T16:47:53+00:00"
-    },
-    {
-     "title": "Google rolls out new Gemini AI model but restricts access over safety concerns",
-     "summary": "Tech company releases Gemini 4 Argon only to a vetted group of cybersecurity experts to avoid misuse by hackers Google on Wednesday said it would withhold its most powerful artificial intelligence mod…",
-     "image": "https://i.guim.co.uk/img/media/fc4f1adc6ddc32b6f538a74922af3ccdbb7d7c03/305_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=98b142c1f5f026ecd15c2735b4e6add1",
-     "url": "https://www.theguardian.com/technology/2026/oct/01/google-releases-gemini-model-restrictions",
-     "source": "Guardian Business",
-     "published": "2026-10-01T16:47:29+00:00"
-    },
-    {
-     "title": "Tennessee halts executions after Christa Pike survives two lethal injection attempts",
-     "summary": "Pike had been on death row since she was convicted in 1996 for the murder of Colleen Slemmer.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5bc/live/73d236d0-bdb6-11f1-babe-4199b0e7ccea.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-01T16:45:35+00:00"
-    },
-    {
-     "title": "又抓包！蔣萬安上節目特別強調留美碩+博 還自爆「愛跑趴」",
-     "summary": "台北市長蔣萬安擔任立委時立法院英文簡歷被抓包，將美國賓大「美化過」的學歷「校正回歸」，蔣萬安及團隊指稱是前立法院長游錫堃在任時，委託廠商英文翻譯有誤。最近又有人翻出，蔣萬安明明沒...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5592562",
-     "source": "自由時報",
-     "published": "2026-10-01T16:44:35+00:00"
-    },
-    {
-     "title": "Cornell Jane Doe's attorney says she told police in 2024: 'I was raped'",
-     "summary": "Counter to what a local prosecutor has claimed, the alleged victim of a 2024 gang rape at Cornell University clearly said in her police statement that she was sexually assaulted, her attorney told NPR…",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F04%2Fae%2F1025ebf4402dbf76ac6913d50406%2Fgettyimages-2297899878.jpg",
-     "url": "https://www.npr.org/2026/10/01/nx-s1-5987703/cornell-fraternity-rape-case-updates",
-     "source": "NPR News",
-     "published": "2026-10-01T16:43:26+00:00"
-    },
-    {
-     "title": "台中州廳「機器人」陽台探頭 週五爵士演出「樂夜樂美麗」",
-     "summary": "國定古蹟「台中州廳」建於1913年，距今有113年歷史，歷經6年大規模修復再利用工程，民眾發現有「全新機甲機器人」從陽台探頭，2日週五晚間還將舉辦日本及美國爵士樂團演出，文化局...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5592647",
-     "source": "自由時報",
-     "published": "2026-10-01T16:38:28+00:00"
-    },
-    {
-     "title": "Chinese hackers impersonated AI experts to target US policy minds",
-     "summary": "TA419 hackers used deceptive tactics to impersonate real figures, such as a former White House AI official.",
-     "image": "",
-     "url": "https://www.aljazeera.com/economy/2026/10/1/chinese-hackers-impersonated-ai-experts-to-target-us-policy-minds?traffic_source=rss",
+     "url": "https://www.aljazeera.com/news/2026/10/1/renee-goods-family-sues-trump-administration-over-fatal-ice-shooting?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-10-01T16:28:41+00:00"
-    },
-    {
-     "title": "Jerusalem Daily: Netanyahu calls flight incident another 9/11",
-     "summary": "Israeli officials claimed the Flydubai incident as a \"terror attack\", despite the airline’s ongoing investigation.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/jerusalem-daily-netanyahu-calls-flight-incident-another-9?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-01T16:19:35+00:00"
-    },
-    {
-     "title": "Who is Man City whistleblower Rui Pinto and what has become of him?",
-     "summary": "A look into the Portuguese whistleblower who played a key role in the Premier League's probe into City's inquiry.",
-     "image": "",
-     "url": "https://www.aljazeera.com/sports/2026/10/1/who-is-man-city-whistleblower-rui-pinto-and-whats-happening-to-him?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-01T16:13:28+00:00"
-    },
-    {
-     "title": "10-year Treasury yield climbs to a 24-year high amid relentless global bond sell-off",
-     "summary": "Treasury yields were higher on Thursday as investors kept selling government debt.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/01/us-treasury-bond-yield.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-01T15:59:12+00:00"
+     "published": "2026-10-01T17:28:13+00:00"
     }
    ]
   },
@@ -138,7 +138,31 @@
    "label": "AI",
    "items": [
     {
-     "title": "With most information hidden, the game Stratego",
+     "title": "Marvel releases one last VisionQuest trailer",
+     "summary": "\"This is a fight I likely won't win. We have said goodbye before. But remember, family is forever.\"",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/vision3-500x500-1790871477.jpg",
+     "url": "https://arstechnica.com/culture/2026/10/marvel-releases-one-last-visionquest-trailer/",
+     "source": "Ars Technica",
+     "published": "2026-10-01T18:04:48+00:00"
+    },
+    {
+     "title": "Memory executives expect RAM shortage to continue through 2028",
+     "summary": "Prices for memory sold for 2027 \"are much higher than 2026 prices.\"",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1723107474-500x500.jpg",
+     "url": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
+     "source": "Ars Technica",
+     "published": "2026-10-01T17:49:56+00:00"
+    },
+    {
+     "title": "Florida cops say they don't know who owns 11 unpermitted Flock cameras",
+     "summary": "Floridians alarmed by 14 mysterious Flock cameras; 11 have no clear owner.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2264289119-500x500-1790870154.jpg",
+     "url": "https://arstechnica.com/tech-policy/2026/10/florida-cops-say-they-dont-know-who-owns-11-unpermitted-flock-cameras/",
+     "source": "Ars Technica",
+     "published": "2026-10-01T16:49:33+00:00"
+    },
+    {
+     "title": "With most information hidden, the game Stratego had stumped AI—until now",
      "summary": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1864707238-500x500.jpg",
      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
@@ -146,52 +170,36 @@
      "published": "2026-10-01T16:28:04+00:00"
     },
     {
-     "title": "As US relations fray, Canada gets serious about its own launch industry",
-     "summary": "The Canada Rocket Company gets serious about medium-lift launch.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/R-2-rocket-500x500.jpg",
-     "url": "https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/",
-     "source": "Ars Technica",
-     "published": "2026-10-01T15:30:49+00:00"
+     "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+     "summary": "Article URL: https://blog.cloudflare.com/clef-decision-models/ Comments URL: https://news.ycombinator.com/item?id=49923692 Points: 235 # Comments: 82",
+     "image": "",
+     "url": "https://blog.cloudflare.com/clef-decision-models/",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-01T16:18:57+00:00"
+    },
+    {
+     "title": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+     "summary": "Article URL: https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/ Comments URL: https://news.ycombinator.com/item?id=49922278 Points: 171 # Comments: 121",
+     "image": "",
+     "url": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-01T14:38:35+00:00"
+    },
+    {
+     "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+     "summary": "Article URL: https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html Comments URL: https://news.ycombinator.com/item?id=49921050 Points: 168 # Comments: 111",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-01T13:00:55+00:00"
     },
     {
      "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
-     "summary": "Article URL: https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026 Comments URL: https://news.ycombinator.com/item?id=49920932 Points: 196…",
+     "summary": "Article URL: https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026 Comments URL: https://news.ycombinator.com/item?id=49920932 Points: 247…",
      "image": "",
      "url": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
      "source": "Hacker News Front Page",
      "published": "2026-10-01T12:48:59+00:00"
-    },
-    {
-     "title": "How to speed up the Rust compiler in September 2026",
-     "summary": "Article URL: https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html Comments URL: https://news.ycombinator.com/item?id=49920896 Points: 162 # Comments: 79",
-     "image": "",
-     "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-01T12:44:38+00:00"
-    },
-    {
-     "title": "PS5 emulation is suddenly making big strides on PC",
-     "summary": "Games like Astro Bot and Demon’s Souls are running ably without a console.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-8.12.38-PM-500x500-1790813725.png",
-     "url": "https://arstechnica.com/gaming/2026/10/ps5-emulation-is-suddenly-making-big-strides-on-pc/",
-     "source": "Ars Technica",
-     "published": "2026-10-01T11:30:41+00:00"
-    },
-    {
-     "title": "NASA squeezed Treasury, vibe coded, and broke the mold in bid to save Swift",
-     "summary": "\"We did some really, really cool stuff. I'm absolutely gutted we weren't able to get further.\"",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Testing-Link-Thermal-Vacuum-Testing-2._3382x1892-500x500.jpg",
-     "url": "https://arstechnica.com/space/2026/10/heres-why-nasa-is-celebrating-the-failed-mission-to-save-the-swift-observatory/",
-     "source": "Ars Technica",
-     "published": "2026-10-01T11:15:15+00:00"
-    },
-    {
-     "title": "StreetComplete on iOS is now in public beta",
-     "summary": "Article URL: https://github.com/streetcomplete/StreetComplete/issues/5421 Comments URL: https://news.ycombinator.com/item?id=49920160 Points: 385 # Comments: 77",
-     "image": "",
-     "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-01T10:59:57+00:00"
     },
     {
      "title": "Snapdragon 高峰會重點在哪？代理 AI 全布局，高通已準備搶攻個人 AI 入口",
@@ -256,20 +264,68 @@
      "url": "https://arxiv.org/abs/2609.38296",
      "source": "arXiv cs.AI",
      "published": "2026-10-01T04:00:00+00:00"
-    },
-    {
-     "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
-     "summary": "Article URL: https://www.thespacereview.com/article/4951/1 Comments URL: https://news.ycombinator.com/item?id=49915082 Points: 283 # Comments: 147",
-     "image": "",
-     "url": "https://www.thespacereview.com/article/4951/1",
-     "source": "Hacker News Front Page",
-     "published": "2026-09-30T22:03:04+00:00"
     }
    ]
   },
   "sport": {
    "label": "運動",
    "items": [
+    {
+     "title": "From Super Bowl champ to master architect: Mike Tomlin’s sprawling Minecraft city is magnificent",
+     "summary": "The former Pittsburgh Steelers head coach took 12 years to build a city filled with stadiums, skyscrapers and bespoke homes. It is a marvel We may finally have cracked the case as to why the Pittsburg…",
+     "image": "https://i.guim.co.uk/img/media/5e6abbea80bae5a32eb00b5ed758aa401981b420/0_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=6875029d2f9259ce58e515e0d6d4b50f",
+     "url": "https://www.theguardian.com/sport/2026/oct/01/mike-tomlin-minecraft-city",
+     "source": "Guardian Sport",
+     "published": "2026-10-01T18:42:51+00:00"
+    },
+    {
+     "title": "Wales v Norway, Denmark v Portugal, Germany v Serbia: Nations League – live",
+     "summary": "All the latest news from the 7.45pm BST kick-offs Live scores | Nations League tables | Email Michael Republic of Ireland (3-4-2-1): Kelleher, Scales, O’Shea, Egan, Manning, Coventry, Azaz, Abankwah,…",
+     "image": "https://i.guim.co.uk/img/media/e0319a7b41de13dbc75a8fdc309b0c34e392cf4e/31_0_3018_2415/master/3018.jpg?width=140&quality=85&auto=format&fit=max&s=bbf86191ba14fc6a39d8dbc756177065",
+     "url": "https://www.theguardian.com/football/live/2026/oct/01/wales-norway-denmark-portugal-germany-serbia-nations-league-live",
+     "source": "Guardian Sport",
+     "published": "2026-10-01T18:27:39+00:00"
+    },
+    {
+     "title": "HMRC urged to scrutinise tax implications of Man City case",
+     "summary": "The Treasury Committee, which is responsible for overseeing HMRC, has urged the body to scrutinise tax implications of the Manchester City verdict.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eda1/live/922cde20-bdaa-11f1-8373-27235719cf2a.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-01T18:21:22+00:00"
+    },
+    {
+     "title": "KOC's 10 biggest takeaways from NBA media day + non-top 10 rookies to watch this season",
+     "summary": "Kevin O'Connor & Tom Haberstroh break down the top stories out of NBA media day.",
+     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/100126-koc-thumb_3774.png",
+     "url": "https://sports.yahoo.com/nba/article/kocs-10-biggest-takeaways-from-nba-media-day--non-top-10-rookies-to-watch-this-season-181605786.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-01T18:16:05+00:00"
+    },
+    {
+     "title": "Timberwolves coach Chris Finch applauds NBA's renewed emphasis on flopping",
+     "summary": "\"Hopefully the league cleans up this crap, because nobody wants to watch it.\"",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/timberwolves-coach-chris-finch-applauds-175033015.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-01T17:50:33+00:00"
+    },
+    {
+     "title": "Man City not 'above the rules', says No 10 after backlash to Burnham remarks",
+     "summary": "The prime minister said he would be \"really concerned\" if the club's owners sell up after Premier League rule breaches.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61e8/live/059e20b0-bdb7-11f1-bc2e-018d645d8d21.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cj3v4vn3ydw1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-01T17:26:40+00:00"
+    },
+    {
+     "title": "Phil Mickelson’s reps say he sought treatment for family trauma and addiction",
+     "summary": "Golfer has spoken of gambling issues in past Six-time major winner has not played since March Phil Mickelson sought treatment earlier this year for “family trauma and addiction”, his representatives c…",
+     "image": "https://i.guim.co.uk/img/media/10177f14e8b735021d3afbc0d7e4eddd02b3afd7/305_0_2427_1942/master/2427.jpg?width=140&quality=85&auto=format&fit=max&s=46ae7b28c3dc9686914ac5dbd8847696",
+     "url": "https://www.theguardian.com/sport/2026/oct/01/phil-mickelson-treatment-addiction-family-trauma",
+     "source": "Guardian Sport",
+     "published": "2026-10-01T17:11:05+00:00"
+    },
     {
      "title": "England avoid Australia & India in World Cup draw",
      "summary": "England avoid defending champions Australia and world number one-ranked side India in the group-stage draw for the 2027 ICC Cricket World Cup.",
@@ -279,60 +335,20 @@
      "published": "2026-10-01T16:31:47+00:00"
     },
     {
-     "title": "The ultra-rich face … accountability? Manchester City and Clippers verdicts show it’s possible | Leander Schaerlaeckens",
-     "summary": "The sports world has accomplished a rare feat: calling out industrial-scale cheating on both sides of the Atlantic Sign up for our free newsletter here The first stage of billionaire exposure to accou…",
-     "image": "https://i.guim.co.uk/img/media/9b51f6b0220f9e9e4592c0753c9ff50d0213a02d/220_0_3553_2843/master/3553.jpg?width=140&quality=85&auto=format&fit=max&s=fda1baf9d36e442dcd0b6b241c904890",
-     "url": "https://www.theguardian.com/football/2026/oct/01/manchester-city-la-clippers-ultra-rich-accountability",
-     "source": "Guardian Sport",
-     "published": "2026-10-01T16:01:53+00:00"
-    },
-    {
-     "title": "Man City to argue sponsorship deals came from Abu Dhabi government",
-     "summary": "Manchester City's appeal against the Premier League's verdict hinges on the club's claim that its sponsorship deals came from the Abu Dhabi government.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eda1/live/922cde20-bdaa-11f1-8373-27235719cf2a.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-01T15:38:08+00:00"
-    },
-    {
-     "title": "Toronto, defensive guard Jamal Shead reportedly agree to three year, $24 million exception",
-     "summary": "This is a good deal for both sides and keeps Shead in Toronto through the summer of 2030.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/toronto-defensive-guard-jamal-shead-152414195.html",
+     "title": "MMBets: Bad vibes have the Detroit Pistons in a stranglehold",
+     "summary": "After missing a golden opportunity to make the East Finals last season, the road back for Detroit gets ever longer",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/2de64e91f977cbacb3f23ff28a36b44c.jpg",
+     "url": "https://sports.yahoo.com/articles/mmbets-bad-vibes-detroit-pistons-163000994.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-10-01T15:24:14+00:00"
+     "published": "2026-10-01T16:30:00+00:00"
     },
     {
-     "title": "What's next for Jalen Duren and the Pistons? Here are 4 sign-and-trade possibilities",
-     "summary": "The Bucks, Hawks, Kings and Wizards have reportedly shown interest in the Pistons' All-NBA center.",
-     "image": "",
-     "url": "https://sports.yahoo.com/nba/article/whats-next-for-jalen-duren-and-the-pistons-here-are-4-sign-and-trade-possibilities-150527643.html",
+     "title": "Wizards unveil 2026-27 promotional schedule",
+     "summary": "The Washington Wizards on Thursday released their 2026-27 promotional schedule, which features an AJ Dybantsa bobblehead night when the Wizards play the Miami Heat on Feb. 10. Dybantsa will have three…",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/2fd5d7b87cf60b2a945161ebdab713b7.jpg",
+     "url": "https://sports.yahoo.com/articles/wizards-unveil-2026-27-promotional-152704472.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-10-01T15:05:27+00:00"
-    },
-    {
-     "title": "2026-27 Fantasy Basketball: Kyrie Irving, Tyrese Haliburton among big names returning from injury",
-     "summary": "How will notable players returning from injuries fare in the upcoming NBA campaign?",
-     "image": "https://media.zenfs.com/en/nbcsports.com/61176490668b94ba6c0b5bf14c856efb.jpg",
-     "url": "https://sports.yahoo.com/articles/2026-27-fantasy-basketball-kyrie-145351469.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-01T14:53:51+00:00"
-    },
-    {
-     "title": "Fantasy Basketball: Playing in a Yahoo High Score league? Here are some useful in-season strategies and tips",
-     "summary": "Dan Titus takes you through in-season strategy for Yahoo High Score fantasy basketball leagues.",
-     "image": "",
-     "url": "https://sports.yahoo.com/fantasy/article/fantasy-basketball-playing-in-a-yahoo-high-score-league-here-are-some-useful-in-season-strategies-and-tips-145001546.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-01T14:50:01+00:00"
-    },
-    {
-     "title": "Nine scandals that rocked the sporting world",
-     "summary": "Manchester City are far from the first. The lure of glory and riches on the biggest stages have tempted plenty of other sports stars to break the rules.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce3e/live/cbd34770-bd84-11f1-babe-4199b0e7ccea.png",
-     "url": "https://www.bbc.co.uk/sport/articles/ck62m2n3yezno?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-01T11:32:37+00:00"
+     "published": "2026-10-01T15:27:04+00:00"
     },
     {
      "title": "Ranking the best British football exports this century",
@@ -343,28 +359,12 @@
      "published": "2026-10-01T09:04:58+00:00"
     },
     {
-     "title": "US soccer’s youth system is expensive, chaotic and overdue for reform",
-     "summary": "World Cup setbacks have renewed concern over America’s costly, fragmented youth system. The real test is whether the urgency survives the next news cycle A few years ago, the idea that the US soccer c…",
-     "image": "https://i.guim.co.uk/img/media/09d64b4e9befac7f354793489483226682396437/190_0_1900_1520/master/1900.jpg?width=140&quality=85&auto=format&fit=max&s=c21ff43ce0402943a95ea10596a73d30",
-     "url": "https://www.theguardian.com/football/2026/oct/01/us-soccer-youth-development-pay-to-play-travel-soccer",
-     "source": "Guardian Sport",
-     "published": "2026-10-01T09:00:36+00:00"
-    },
-    {
      "title": "Pleasant surprises of the NFL season so far: Brock Purdy for MVP and actual Raiders competence",
      "summary": "It’s still early in the 2026 season but a number of teams and players have found unexpected levels of success in the last few weeks Last season ended with a Super Bowl in which neither team – the Seat…",
      "image": "https://i.guim.co.uk/img/media/cec2c156537ede629123b672beaf0d72daf6d701/0_0_5000_4002/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=620a8509635ef83015f7d0188f395540",
      "url": "https://www.theguardian.com/sport/2026/oct/01/pleasant-surprises-of-the-nfl-season-so-far-brock-purdy-for-mvp-and-actual-raiders-competence",
      "source": "Guardian Sport",
      "published": "2026-10-01T08:30:32+00:00"
-    },
-    {
-     "title": "White Sox end 21-year playoff drought as Yankees and Padres complete sweeps",
-     "summary": "Meidroth’s three-run homer seals Chicago’s sweep Yankees rout Red Sox 9-2 and will face Rays Padres eliminate Cubs to set up Brewers showdown The Chicago White Sox used a big first inning and a three-…",
-     "image": "https://i.guim.co.uk/img/media/ed569a7af70b2f7d9be177767cbcc9b42da4f4fd/371_0_5760_4608/master/5760.jpg?width=140&quality=85&auto=format&fit=max&s=7fb5f636280596d6a8c4f2f022fb918f",
-     "url": "https://www.theguardian.com/sport/2026/sep/30/white-sox-astros-al-wild-card-series-sweep",
-     "source": "Guardian Sport",
-     "published": "2026-10-01T00:37:16+00:00"
     },
     {
      "title": "Jalen Duren contract standoff: Pistons reportedly remove weight clause from $200 million offer",
