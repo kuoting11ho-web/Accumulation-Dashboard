@@ -1,24 +1,104 @@
 {
- "generated": "2026-10-01T18:56:05.130558+00:00",
+ "generated": "2026-10-01T21:05:37.916271+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "The September jobs report will be released Friday. Here's what to expect",
-     "summary": "Wall Street is looking for job growth of 84,000 to close out the summer.",
+     "title": "Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring",
+     "summary": "Nike is expected to post another quarter of declining sales as the company tries to turn around its business and regain growth in China.",
      "image": "",
-     "url": "https://www.cnbc.com/2026/10/01/the-september-jobs-report-will-be-released-friday-heres-what-to-expect.html",
+     "url": "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html",
      "source": "CNBC Top News",
-     "published": "2026-10-01T18:55:02+00:00"
+     "published": "2026-10-01T21:05:18+00:00"
     },
     {
-     "title": "Christa Pike is alive and receiving 'life-saving care' in hospital, her lawyers say",
-     "summary": "Pike had been on death row since she was convicted in 1996 for the murder of Colleen Slemmer.",
+     "title": "Trump could target three Fed governors. Removing them may be harder than it looks",
+     "summary": "Trump could seek to remove Jerome Powell, Lisa Cook and Michael Barr from the Federal Reserve, but court rulings and lengthy litigation could limit him.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/01/trump-fed-powell-lisa-cook-michael-barr-removal.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-01T20:59:39+00:00"
+    },
+    {
+     "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+     "summary": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5bc/live/73d236d0-bdb6-11f1-babe-4199b0e7ccea.jpg",
      "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-10-01T18:51:56+00:00"
+     "published": "2026-10-01T20:48:12+00:00"
+    },
+    {
+     "title": "Funeral held for Palestinian man killed in the occupied West Bank",
+     "summary": "",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/funeral-held-for-palestinian-man-killed-in-the-occupied-west-bank?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-01T20:45:04+00:00"
+    },
+    {
+     "title": "數名芬蘭議員住所遭闖入　總理：可能與外國勢力有關",
+     "summary": "芬蘭當局今天表示，正在調查多起國會議員住所疑似遭闖入的案件。總理表示，這些事件「非常有可能」與外國勢力有關。 法新社報導，在媒體報導這類事件後，芬蘭國會議長哈拉霍（Jussi Halla-...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5592672",
+     "source": "自由時報",
+     "published": "2026-10-01T20:36:03+00:00"
+    },
+    {
+     "title": "傳中國暫停出口燃料、美增派部隊赴中東　油價大漲",
+     "summary": "在傳出美國將增派部隊與航空母艦前往中東，以及中國暫停油品出口後，市場憂心全球燃料短缺問題可能加劇，國際油價今天大漲。 倫敦北海布倫特原油12月交割價上漲4.28美元或4.37%，收在每桶1...…",
+     "image": "",
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5592671",
+     "source": "自由時報",
+     "published": "2026-10-01T20:30:03+00:00"
+    },
+    {
+     "title": "美國將在委內瑞拉設軍事基地？川普：正考慮做很多事情",
+     "summary": "美國總統川普日前表示，美軍今年初突襲逮捕時任委內瑞拉總統馬杜洛，並和委國臨時政府達成石油協議，凸顯美方在這個地區採取行動的意志。川普今天被問及是否將在委內瑞拉或南美其他國家設立軍事基地時表示...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5592670",
+     "source": "自由時報",
+     "published": "2026-10-01T20:30:03+00:00"
+    },
+    {
+     "title": "The filmmaker taking on Kenya’s colonised tea plantations",
+     "summary": "",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/the-filmmaker-taking-on-kenyas-colonised-tea-plantations?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-01T20:29:51+00:00"
+    },
+    {
+     "title": "S&P 500 closes higher to start October as Treasury yields retreat from multiyear highs: Live updates",
+     "summary": "Stocks seesawed Thursday, with traders closely watching neck-breaking moves in Treasury yields.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/09/30/stock-market-today-live-updates.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-01T20:20:43+00:00"
+    },
+    {
+     "title": "ICC ends contract with French insurer amid US sanctions threat",
+     "summary": "ICC and Axa terminate agreement amid mounting US criticism and looming financial restrictions on the court, FT reports.",
+     "image": "",
+     "url": "https://www.aljazeera.com/economy/2026/10/1/icc-ends-contract-with-french-insurer-amid-us-sanctions-threat?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-01T20:20:00+00:00"
+    },
+    {
+     "title": "The family of Renee Good files lawsuits over her death during Minneapolis ICE raids",
+     "summary": "The fatal shooting of Renee Good by a federal immigration agent last January in Minneapolis set off a firestorm of protests around the U.S. Her family is speaking out for the first time.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5593x3729+0+0/resize/5593x3729!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F75%2Fe3%2F1d681a5d41479bd46578b4568c38%2Fap26274601303241.jpg",
+     "url": "https://www.npr.org/2026/10/01/nx-s1-5986224/renee-good-ice-lawsuit-minneapolis",
+     "source": "NPR News",
+     "published": "2026-10-01T20:15:07+00:00"
+    },
+    {
+     "title": "Eritrea severs diplomatic ties with Ethiopia in tit-for-tat move",
+     "summary": "Ethiopia says it will shut its embassy in Asmara, declares 10 Eritrean diplomats persona non grata.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/1/eritrea-severs-diplomatic-ties-with-ethiopia-in-tit-for-tat-move?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-01T20:10:52+00:00"
     },
     {
      "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
@@ -26,117 +106,69 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/806d/live/8cf56f00-8950-11f1-aee1-9f17574ebbb3.jpg",
      "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-10-01T18:48:46+00:00"
+     "published": "2026-10-01T19:59:24+00:00"
     },
     {
-     "title": "川普稱杜拜航空喋血事件疑和伊朗有關　若屬實將狠狠打擊",
-     "summary": "美國總統川普今天被問及杜拜航空（flydubai）駕駛艙喋血事件時表示，根據他聽到的消息，這起事件與伊朗有關，「我們現在正在處理」。若證實德黑蘭確實涉入，川普揚言，「他們將遭受非常沉重的打擊...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5592662",
-     "source": "自由時報",
-     "published": "2026-10-01T18:45:03+00:00"
-    },
-    {
-     "title": "Google launches Project Suncatcher, a step towards AI data centers in space",
-     "summary": "The fridge-size satellite with AI chips on board is part of Project Suncatcher, the company's moonshot effort to put AI data centers in space and harness solar energy.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5568x3712+0+0/resize/5568x3712!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F60%2F8f%2F371cc0fe493fbe02541d94335b9a%2Fsuncatcher-planet-labs-pbc.JPG",
-     "url": "https://www.npr.org/2026/10/01/nx-s1-5983697/project-suncatcher-google-ai-data-center-space",
+     "title": "'It's a nightmare.' Former refugee, professor on Trump's new Medicaid policy",
+     "summary": "Starting Oct. 1, many immigrants who are here legally lose their Medicaid coverage because of the Republican budget bill passed last year.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F14%2Fd4%2F785d038f4b23befc3deeea8f0896%2Fap21354634223266.jpg",
+     "url": "https://www.npr.org/2026/10/01/nx-s1-5987948/trump-medicaid-health-insurance-disability-refugee",
      "source": "NPR News",
-     "published": "2026-10-01T18:41:07+00:00"
+     "published": "2026-10-01T19:49:45+00:00"
     },
     {
-     "title": "Brazil attorney general says meddling ‘cannot be tolerated’ after Trump funding plans revealed",
-     "summary": "Jorge Messias calls Guardian report ‘an important alert for Brazilian sovereignty’, as nation prepares to go to polls Brazil’s attorney general has said foreign meddling in his country’s institutions…",
-     "image": "https://i.guim.co.uk/img/media/1ee7c4708c6ff1dbbdcbad5d5bbc74b0a1ed128a/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=0f536d62e286cd1284978b5d4d61bf5f",
-     "url": "https://www.theguardian.com/world/2026/oct/01/brazil-attorney-general-election-meddling-trump-funding-plans",
-     "source": "Guardian World",
-     "published": "2026-10-01T18:34:10+00:00"
-    },
-    {
-     "title": "Brent oil jumps more than 4% as U.S. reportedly sends third aircraft carrier to Middle East",
-     "summary": "Oil prices rose sharply Thursday, following a report the U.S. is sending a third aircraft-carrier strike group to the Middle East.",
+     "title": "衣索比亞首都疑遭無人機攻擊　與厄利垂亞爆發斷交危機",
+     "summary": "衣索比亞首都昨天深夜傳出爆炸，政府將矛頭指向其指控支持反對派聯盟的鄰國厄利垂亞，今天下令驅逐其外交官並關閉在當地大使館。厄利垂亞隨後也宣布與衣索比亞斷交。 3名衣索比亞外交界消息人士向路透...…",
      "image": "",
-     "url": "https://www.cnbc.com/2026/10/01/oil-prices-today-wti-brent.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-01T18:23:29+00:00"
-    },
-    {
-     "title": "A judge permanently dismisses former Olympian's Reflecting Pool charges",
-     "summary": "Citing \"exceptional circumstances,\" a D.C. judge has ruled that the federal government cannot refile its Reflecting Pool charges against David Hearn, despite pressure from President Trump to do so.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3167x2111+0+0/resize/3167x2111!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0a%2F81%2Ff7c44c6043469791ccc98a0dbcde%2Fap26247725626677.jpg",
-     "url": "https://www.npr.org/2026/10/01/nx-s1-5987947/reflecting-pool-vandalism-hearn-charges-dismissed",
-     "source": "NPR News",
-     "published": "2026-10-01T18:22:59+00:00"
-    },
-    {
-     "title": "School protests spread as fires, blockades deepen unrest in France",
-     "summary": "Police have detained hundreds as students protest overcrowded classrooms, teacher shortages and crumbling facilities.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/1/school-protests-spread-as-fires-blockades-deepen-unrest-in-france?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-01T18:18:18+00:00"
-    },
-    {
-     "title": "英國空軍基地疑險遭恐攻　伊朗雙重國籍男子被捕",
-     "summary": "有美軍轟炸機進駐的英國費爾福（Fairford）空軍基地27日疑險遭恐攻，警方今天進一步逮捕1名嫌犯，是27歲、具英國和伊朗雙重國籍的男子。此外，另有一名26歲男性英國公民接受訊問。 警方...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5592658",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5592669",
      "source": "自由時報",
-     "published": "2026-10-01T18:12:03+00:00"
+     "published": "2026-10-01T19:45:04+00:00"
     },
     {
-     "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-     "summary": "Vladimir Putin insists Moscow is \"not threatening anyone\" and merely responding to statements by Western leaders.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d348/live/42c7b520-bdc4-11f1-964e-45603b94c961.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-01T18:09:03+00:00"
-    },
-    {
-     "title": "US borrowing costs hit 24-year high as global bond sell-off intensifies",
-     "summary": "Fears that US deficit is unsustainable also drive UK 30-year bond yields briefly above 6% for first time since 1998 Business live – latest updates The global bond sell-off intensified on Thursday, dri…",
-     "image": "https://i.guim.co.uk/img/media/76edc7923aff2ae513af828a0f5f90d7d5162337/219_0_2282_1825/master/2282.jpg?width=140&quality=85&auto=format&fit=max&s=7ab8bd67d353806acf11e28eb6f7110d",
-     "url": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
-     "source": "Guardian Business",
-     "published": "2026-10-01T17:56:18+00:00"
-    },
-    {
-     "title": "Palestinian children in Israeli military detention",
-     "summary": "",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/palestinian-children-in-israeli-military-detention?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-01T17:44:51+00:00"
-    },
-    {
-     "title": "US Supreme Court agrees to take up Trump’s ICE detention policy",
-     "summary": "The case is the latest dispute over US President Donald Trump’s sweeping immigration crackdown.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/1/us-supreme-court-agrees-to-take-up-trumps-ice-detention-policy?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-01T17:35:58+00:00"
-    },
-    {
-     "title": "What happened in the failed execution of Christa Pike - and what next?",
-     "summary": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf7e/live/8225e2d0-bd8f-11f1-bc2e-018d645d8d21.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-01T17:31:06+00:00"
-    },
-    {
-     "title": "Renee Good’s family sues Trump administration over fatal ICE shooting",
-     "summary": "Lawsuits accuse Trump officials of recklessness and civil rights violations in Renee Good's fatal Minneapolis shooting .",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/1/renee-goods-family-sues-trump-administration-over-fatal-ice-shooting?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-01T17:28:13+00:00"
+     "title": "A new California law bans child marriage. What's the global outlook on the practice?",
+     "summary": "The governor of California has signed into law a ban on child marriage. What is the status of other efforts to ban the practice? And do bans prove effective?",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3612+0+0/resize/4500x3612!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F08%2F36%2F22cf71714ef9a1626d277ab00251%2Fgettyimages-1133569169.jpg",
+     "url": "https://www.npr.org/2026/10/01/g-s1-145998/child-marriage-ban-law-california-newsom",
+     "source": "NPR News",
+     "published": "2026-10-01T19:44:41+00:00"
     }
    ]
   },
   "ai": {
    "label": "AI",
    "items": [
+    {
+     "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
+     "summary": "It has been a bad month for federal government cybersecurity.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/data-leak-500x500.jpeg",
+     "url": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
+     "source": "Ars Technica",
+     "published": "2026-10-01T20:28:45+00:00"
+    },
+    {
+     "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+     "summary": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-500x500-1748638352.jpg",
+     "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
+     "source": "Ars Technica",
+     "published": "2026-10-01T20:11:55+00:00"
+    },
+    {
+     "title": "Pi 1.0",
+     "summary": "Article URL: https://earendil.com/posts/pi-1-0/ Comments URL: https://news.ycombinator.com/item?id=49926069 Points: 305 # Comments: 109",
+     "image": "",
+     "url": "https://earendil.com/posts/pi-1-0/",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-01T19:33:05+00:00"
+    },
+    {
+     "title": "Can good design stop content creators from having sex in robotaxis?",
+     "summary": "Autonomous vehicle designers have to worry about riders getting frisky in public.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-boink-taxi-500x500.jpg",
+     "url": "https://arstechnica.com/cars/2026/10/can-good-design-stop-content-creators-from-having-sex-in-robotaxis/",
+     "source": "Ars Technica",
+     "published": "2026-10-01T19:19:42+00:00"
+    },
     {
      "title": "Marvel releases one last VisionQuest trailer",
      "summary": "\"This is a fight I likely won't win. We have said goodbye before. But remember, family is forever.\"",
@@ -146,60 +178,28 @@
      "published": "2026-10-01T18:04:48+00:00"
     },
     {
-     "title": "Memory executives expect RAM shortage to continue through 2028",
-     "summary": "Prices for memory sold for 2027 \"are much higher than 2026 prices.\"",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1723107474-500x500.jpg",
-     "url": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
-     "source": "Ars Technica",
-     "published": "2026-10-01T17:49:56+00:00"
-    },
-    {
-     "title": "Florida cops say they don't know who owns 11 unpermitted Flock cameras",
-     "summary": "Floridians alarmed by 14 mysterious Flock cameras; 11 have no clear owner.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2264289119-500x500-1790870154.jpg",
-     "url": "https://arstechnica.com/tech-policy/2026/10/florida-cops-say-they-dont-know-who-owns-11-unpermitted-flock-cameras/",
-     "source": "Ars Technica",
-     "published": "2026-10-01T16:49:33+00:00"
-    },
-    {
-     "title": "With most information hidden, the game Stratego had stumped AI—until now",
-     "summary": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1864707238-500x500.jpg",
-     "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-     "source": "Ars Technica",
-     "published": "2026-10-01T16:28:04+00:00"
-    },
-    {
      "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
-     "summary": "Article URL: https://blog.cloudflare.com/clef-decision-models/ Comments URL: https://news.ycombinator.com/item?id=49923692 Points: 235 # Comments: 82",
+     "summary": "Article URL: https://blog.cloudflare.com/clef-decision-models/ Comments URL: https://news.ycombinator.com/item?id=49923692 Points: 334 # Comments: 134",
      "image": "",
      "url": "https://blog.cloudflare.com/clef-decision-models/",
      "source": "Hacker News Front Page",
      "published": "2026-10-01T16:18:57+00:00"
     },
     {
-     "title": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
-     "summary": "Article URL: https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/ Comments URL: https://news.ycombinator.com/item?id=49922278 Points: 171 # Comments: 121",
+     "title": "RIP, vector database",
+     "summary": "Article URL: https://turbopuffer.com/blog/rip-vector-database Comments URL: https://news.ycombinator.com/item?id=49923466 Points: 224 # Comments: 60",
      "image": "",
-     "url": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/",
+     "url": "https://turbopuffer.com/blog/rip-vector-database",
      "source": "Hacker News Front Page",
-     "published": "2026-10-01T14:38:35+00:00"
+     "published": "2026-10-01T16:01:56+00:00"
     },
     {
-     "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-     "summary": "Article URL: https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html Comments URL: https://news.ycombinator.com/item?id=49921050 Points: 168 # Comments: 111",
+     "title": "Red Hat being phased out of existence?",
+     "summary": "Article URL: https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml Comments URL: https://news.ycombinator.com/item?id=49923056 Points: 151 # Comment…",
      "image": "",
-     "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+     "url": "https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml",
      "source": "Hacker News Front Page",
-     "published": "2026-10-01T13:00:55+00:00"
-    },
-    {
-     "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
-     "summary": "Article URL: https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026 Comments URL: https://news.ycombinator.com/item?id=49920932 Points: 247…",
-     "image": "",
-     "url": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-01T12:48:59+00:00"
+     "published": "2026-10-01T15:33:26+00:00"
     },
     {
      "title": "Snapdragon 高峰會重點在哪？代理 AI 全布局，高通已準備搶攻個人 AI 入口",
@@ -271,6 +271,38 @@
    "label": "運動",
    "items": [
     {
+     "title": "Wales 2-1 Norway, Denmark 2-4 Portugal, Ireland game interrupted by Palestine protests: Nations League – live",
+     "summary": "All the latest news from the 7.45pm BST kick-offs Live scores | Nations League tables | Email Michael We are underway in all of the 7.45pm BST kick-offs! Republic of Ireland (3-4-2-1): Kelleher, Scale…",
+     "image": "https://i.guim.co.uk/img/media/37d91a77b9dec6dee85b5cb4664de9bb08ee936d/220_50_4371_3497/master/4371.jpg?width=140&quality=85&auto=format&fit=max&s=63949cd633066f8468f543a5d8258211",
+     "url": "https://www.theguardian.com/football/live/2026/oct/01/wales-norway-denmark-portugal-germany-serbia-nations-league-live",
+     "source": "Guardian Sport",
+     "published": "2026-10-01T21:03:43+00:00"
+    },
+    {
+     "title": "2026-27 NBA Season Preview: Spurs, Rockets, Pelicans, Mavericks, Grizzlies (Southwest Division)",
+     "summary": "Let's break down what to like and be concerned about, a lineup to watch and a reasonable range for them to finish in the standings.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/article/2026-27-nba-season-preview-spurs-rockets-pelicans-mavericks-grizzlies-southwest-division-201302612.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-01T20:13:02+00:00"
+    },
+    {
+     "title": "Victor Wembanyama takes strong stand against promoting sports betting",
+     "summary": "San Antonio Spurs phenom Victor Wembanyama has spoken out about a number of cultural issues. His latest was about the sports gambling industry.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/victor-wembanyama-takes-strong-stand-191217883.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-01T19:12:17+00:00"
+    },
+    {
+     "title": "Quentin Grimes is ready to compete for a starting spot",
+     "summary": "Quentin Grimes is one of a few candidates trying to crack the Lakers’ starting five",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/43d0260bc5dd7c5d9b6e3300e90a7888.jpg",
+     "url": "https://sports.yahoo.com/articles/quentin-grimes-ready-compete-starting-184500006.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-01T18:45:00+00:00"
+    },
+    {
      "title": "From Super Bowl champ to master architect: Mike Tomlin’s sprawling Minecraft city is magnificent",
      "summary": "The former Pittsburgh Steelers head coach took 12 years to build a city filled with stadiums, skyscrapers and bespoke homes. It is a marvel We may finally have cracked the case as to why the Pittsburg…",
      "image": "https://i.guim.co.uk/img/media/5e6abbea80bae5a32eb00b5ed758aa401981b420/0_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=6875029d2f9259ce58e515e0d6d4b50f",
@@ -279,12 +311,12 @@
      "published": "2026-10-01T18:42:51+00:00"
     },
     {
-     "title": "Wales v Norway, Denmark v Portugal, Germany v Serbia: Nations League – live",
-     "summary": "All the latest news from the 7.45pm BST kick-offs Live scores | Nations League tables | Email Michael Republic of Ireland (3-4-2-1): Kelleher, Scales, O’Shea, Egan, Manning, Coventry, Azaz, Abankwah,…",
-     "image": "https://i.guim.co.uk/img/media/e0319a7b41de13dbc75a8fdc309b0c34e392cf4e/31_0_3018_2415/master/3018.jpg?width=140&quality=85&auto=format&fit=max&s=bbf86191ba14fc6a39d8dbc756177065",
-     "url": "https://www.theguardian.com/football/live/2026/oct/01/wales-norway-denmark-portugal-germany-serbia-nations-league-live",
-     "source": "Guardian Sport",
-     "published": "2026-10-01T18:27:39+00:00"
+     "title": "Now that Payton Pritchard is extension eligible, the Celtics should pay him, right?",
+     "summary": "The Celtics can lock up the Sixth Man of the Year to an additional three years at $67 million.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/7dda8c433cc2ffbec2165d2c82bd94ff.jpg",
+     "url": "https://sports.yahoo.com/articles/now-payton-pritchard-extension-eligible-183403590.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-01T18:34:03+00:00"
     },
     {
      "title": "HMRC urged to scrutinise tax implications of Man City case",
@@ -293,22 +325,6 @@
      "url": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-10-01T18:21:22+00:00"
-    },
-    {
-     "title": "KOC's 10 biggest takeaways from NBA media day + non-top 10 rookies to watch this season",
-     "summary": "Kevin O'Connor & Tom Haberstroh break down the top stories out of NBA media day.",
-     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/100126-koc-thumb_3774.png",
-     "url": "https://sports.yahoo.com/nba/article/kocs-10-biggest-takeaways-from-nba-media-day--non-top-10-rookies-to-watch-this-season-181605786.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-01T18:16:05+00:00"
-    },
-    {
-     "title": "Timberwolves coach Chris Finch applauds NBA's renewed emphasis on flopping",
-     "summary": "\"Hopefully the league cleans up this crap, because nobody wants to watch it.\"",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/timberwolves-coach-chris-finch-applauds-175033015.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-01T17:50:33+00:00"
     },
     {
      "title": "Man City not 'above the rules', says No 10 after backlash to Burnham remarks",
@@ -333,22 +349,6 @@
      "url": "https://www.bbc.co.uk/sport/cricket/articles/cqlylygyl3pro?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-10-01T16:31:47+00:00"
-    },
-    {
-     "title": "MMBets: Bad vibes have the Detroit Pistons in a stranglehold",
-     "summary": "After missing a golden opportunity to make the East Finals last season, the road back for Detroit gets ever longer",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/2de64e91f977cbacb3f23ff28a36b44c.jpg",
-     "url": "https://sports.yahoo.com/articles/mmbets-bad-vibes-detroit-pistons-163000994.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-01T16:30:00+00:00"
-    },
-    {
-     "title": "Wizards unveil 2026-27 promotional schedule",
-     "summary": "The Washington Wizards on Thursday released their 2026-27 promotional schedule, which features an AJ Dybantsa bobblehead night when the Wizards play the Miami Heat on Feb. 10. Dybantsa will have three…",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/2fd5d7b87cf60b2a945161ebdab713b7.jpg",
-     "url": "https://sports.yahoo.com/articles/wizards-unveil-2026-27-promotional-152704472.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-01T15:27:04+00:00"
     },
     {
      "title": "Ranking the best British football exports this century",
