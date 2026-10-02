@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T16:17:56.463175+00:00",
+ "generated": "2026-10-02T18:31:24.897554+00:00",
  "streams": {
   "world": {
    "label": "世界",
@@ -10,7 +10,63 @@
      "image": "",
      "url": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
      "source": "CNBC Top News",
-     "published": "2026-10-02T16:13:37+00:00"
+     "published": "2026-10-02T18:21:13+00:00"
+    },
+    {
+     "title": "Israeli barrier cuts off water to West Bank Palestinians before elections",
+     "summary": "Residents of Ras al-Ahmar say Israeli restrictions have cut access to water, animal feed, healthcare.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/2/israeli-barrier-cuts-off-water-to-west-bank-palestinians-before-elections?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-02T18:18:42+00:00"
+    },
+    {
+     "title": "October 1 ushered in a new era in U.S. foreign aid. What's the plan? Will it work?",
+     "summary": "The America First strategy asks for a Memorandum of Understanding as a condition for healthcare and development aid. It's been praised for promoting self-reliance but criticized for its conditions.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2934x1762+0+0/resize/2934x1762!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7b%2Fbc%2Fe022d62a4f859ff4c48649b85df9%2Fmou-23.jpg",
+     "url": "https://www.npr.org/2026/10/02/g-s1-146042/foreign-aid-united-states-healthcare-america-first",
+     "source": "NPR News",
+     "published": "2026-10-02T18:16:07+00:00"
+    },
+    {
+     "title": "Israel’s Supreme Court overturns election panel ban on Arab parties",
+     "summary": "Court reinstates two Arab lists and Jewish Knesset member Ofer Cassif as Balad leader withdraws after pressure.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-02T18:11:37+00:00"
+    },
+    {
+     "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
+     "summary": "These are some of the stocks posting the largest moves midday.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-02T17:52:39+00:00"
+    },
+    {
+     "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+     "summary": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d36/live/09d5ba60-be7c-11f1-a64c-550be9e3c66b.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-02T17:44:08+00:00"
+    },
+    {
+     "title": "‘I want the truth’: NY governor appoints prosecutor in Cornell rape case",
+     "summary": "New York Governor Kathy Hochul says local authorities failed to properly investigate the 2024 allegations.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/2/i-want-the-truth-ny-governor-appoints-prosecutor-in-cornell-rape-case?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-02T17:43:30+00:00"
+    },
+    {
+     "title": "Riot police clash with students as education protests rage in France",
+     "summary": "More than 600 schools have faced disruption as protests over standards and lack of teachers continue.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/061e/live/ef36beb0-be8b-11f1-888b-4d28ea12c7e2.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-02T17:43:10+00:00"
     },
     {
      "title": "Men are losing ground in the labor market. Here's why",
@@ -18,15 +74,23 @@
      "image": "",
      "url": "https://www.cnbc.com/2026/10/02/men-labor-market-jobs-report.html",
      "source": "CNBC Top News",
-     "published": "2026-10-02T16:09:17+00:00"
+     "published": "2026-10-02T17:38:59+00:00"
     },
     {
-     "title": "Three in four households go hungry in parts of Yemen amid fighting: UN",
-     "summary": "World Food Programme warns of 'devastating' impact as conflict displaces thousands and cuts off food supplies.",
+     "title": "Jerusalem Daily: Who gets to run in Israel’s elections?",
+     "summary": "Palestinians in Israel are asking whether they will have a fair say in the upcoming Israeli elections.",
      "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/2/three-in-four-households-go-hungry-in-parts-of-yemen-amid-fighting-un?traffic_source=rss",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/jerusalem-daily-who-gets-to-run-in-israels-elections?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-10-02T16:06:25+00:00"
+     "published": "2026-10-02T17:30:06+00:00"
+    },
+    {
+     "title": "油價拉回和升息預期降低　歐股收紅",
+     "summary": "七大工業國集團（G7）同意大規模釋出燃料儲備，國際油價下挫，加上美國公布9月就業成長趨緩，讓外界對聯準會10月升息預期降低，歐洲股市今天收紅。 倫敦FTSE 100指數上漲33.68點或0...…",
+     "image": "",
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5593843",
+     "source": "自由時報",
+     "published": "2026-10-02T17:30:06+00:00"
     },
     {
      "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter",
@@ -34,109 +98,77 @@
      "image": "",
      "url": "https://www.cnbc.com/2026/10/02/ford-q3-sales.html",
      "source": "CNBC Top News",
-     "published": "2026-10-02T16:06:16+00:00"
+     "published": "2026-10-02T17:20:33+00:00"
     },
     {
-     "title": "Trump to name intelligence chief Clayton as AI tsar: Reports",
-     "summary": "The possible selection comes amid increasing calls for the government to intervene in the rapidly developing technology.",
+     "title": "屏東里長候選人送肉粽、提杯涉賄選　屏檢聲押",
+     "summary": "屏東縣潮州鎮四春里潘姓里長候選人等4人涉賄選，於今年6月13日，向選民發放價值共新台幣500元以上肉粽及提杯。屏東地檢署昨天發動搜索，晚間聲押潘男等3人。 屏檢追查，潮州鎮四春里潘姓候選人...…",
      "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/2/reports-trump-to-name-intel-chief-clayton-as-ai-tsar?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-02T16:06:15+00:00"
-    },
-    {
-     "title": "Does the punishment fit the crime? Controversy erupts around ‘Cornell 7’",
-     "summary": "US university Cornell’s handling of sexual assault allegations is under scrutiny.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/does-the-punishment-fit-the-crime-controversy-erupts-around-cornell?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-02T16:02:39+00:00"
-    },
-    {
-     "title": "雨彈升級雨區擴大！北北基宜花慎防豪、大雨 大雷雨轟宜蘭",
-     "summary": "雨彈升級！中央氣象署深夜發布豪、大雨特報提醒，受東北季風影響，易有短延時強降雨，夜間到明（3）日宜蘭縣山區有局部大雨或豪雨，大台北、宜蘭、花蓮地區有局部大雨發生機率，注意雷擊及強...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5593835",
+     "url": "https://news.ltn.com.tw/news/society/breakingnews/5593836",
      "source": "自由時報",
-     "published": "2026-10-02T15:57:22+00:00"
+     "published": "2026-10-02T16:54:03+00:00"
     },
     {
-     "title": "Bosses of three firms that supply trains to UK railways made £3.5m last year",
-     "summary": "Rolling stock companies, which also paid out nearly £400m to shareholders, accused of profiting at passengers’ expense The chief executives of three firms that rent out trains to Britain’s railways we…",
-     "image": "https://i.guim.co.uk/img/media/210ce4b681e9c98869e77db09c230fca96b5a73d/238_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=b82bc3044bc520adc5f154035a4d9a40",
-     "url": "https://www.theguardian.com/business/2026/oct/02/bosses-firms-trains-uk-35m-pounds-last-year",
+     "title": "愈拚愈旺！命理師點名「這生肖」有財有福、一路笑到跨年",
+     "summary": "〔娛樂頻道／綜合報導〕中秋過後，隨著節氣轉換、五行更迭，12生肖迎來運勢大洗牌，命理專家湯鎮瑋報喜，直言步入10月將有「特定生肖」迎來福氣大爆發，甚至能打破常理，靠著「一分耕耘換來超額報酬」，一...…",
+     "image": "",
+     "url": "https://ent.ltn.com.tw/news/breakingnews/5593832",
+     "source": "自由時報",
+     "published": "2026-10-02T16:33:00+00:00"
+    },
+    {
+     "title": "新竹棒球場案確定不起訴 林智堅發文回應了",
+     "summary": "新竹市前市長林智堅被現任市長高虹安市府針對新竹市立棒球場統包工程案指控疑涉圖利，經新竹地檢署審理近4年，今年8月21日獲不起訴處分，新竹市府提出再議，高檢署昨天駁回市府再議，林...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/society/breakingnews/5593834",
+     "source": "自由時報",
+     "published": "2026-10-02T16:16:38+00:00"
+    },
+    {
+     "title": "G7 to release up to 100m barrels of emergency oil and diesel reserves",
+     "summary": "Leaders agree a coordinated drawdown within four months as rising prices put pressure on households and economies Leaders of G7 nations are to release up to 100m barrels of their emergency diesel and…",
+     "image": "https://i.guim.co.uk/img/media/cd8bc11681e930e9fb439157f7dff38ec4bf8e2a/912_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=6b03b4230ae5f9f2cd96c3515c6492c5",
+     "url": "https://www.theguardian.com/business/2026/oct/02/g7-release-barrels-oil-diesel-reserves-emergency",
      "source": "Guardian Business",
-     "published": "2026-10-02T15:54:18+00:00"
-    },
-    {
-     "title": "Stocks rise after soft jobs data; Nasdaq hits record led by Nvidia: Live updates",
-     "summary": "The Dow was headed for a losing week.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/01/stock-market-today-live-updates-.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-02T15:52:21+00:00"
-    },
-    {
-     "title": "爆蔣萬安市府廣場蓋風水池！張益贍：難道要替自己改運？",
-     "summary": "年底選戰進入白熱化，台北市長蔣萬安近日卻陷入許多爭議。前民眾黨中央委員張益贍在政論節目《台灣最前線》爆出，蔣萬安10月開始要在市府廣場蓋一座風水池，還要把市府路封閉近2年，質疑難...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5593812",
-     "source": "自由時報",
-     "published": "2026-10-02T15:51:59+00:00"
-    },
-    {
-     "title": "法律白話文批蔣萬安「問A答B」 網友讚：說出台北市民心聲",
-     "summary": "人氣Podcast節目「法律白話文」發布影片，探討台北市長選舉「沈伯洋能不能贏蔣萬安」，有網友在社群平台PO出節目片段，大讚法律白話文2名主持人批評蔣萬安，說出台北市民的心聲，引...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5593825",
-     "source": "自由時報",
-     "published": "2026-10-02T15:51:21+00:00"
-    },
-    {
-     "title": "LIVE: France vs Italy – UEFA Nations League",
-     "summary": "Follow the updates, with build-up, predictions, team news and full match coverage, from our live text commentary stream.",
-     "image": "",
-     "url": "https://www.aljazeera.com/sports/liveblog/2026/10/2/live-france-vs-italy-uefa-nations-league?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-02T15:45:55+00:00"
-    },
-    {
-     "title": "萊比錫機場無人機炸彈攻擊事件   指向GRU暗殺部隊",
-     "summary": "德國萊比錫—哈雷機場8月發生無人機炸彈攻擊未遂，《政客》（Politico）網站和《每日電訊報》2日披露更多內幕，指出一名與俄羅斯軍事情報總局（GRU）關係密切的男子，疑似負責...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5593831",
-     "source": "自由時報",
-     "published": "2026-10-02T15:42:41+00:00"
-    },
-    {
-     "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
-     "summary": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc2f/live/1f543100-be6d-11f1-b36c-81ad410b221e.png",
-     "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-02T15:26:37+00:00"
-    },
-    {
-     "title": "US Coast Guard says it intercepted ship carrying fuel to Cuba",
-     "summary": "US says ship thought to be using common ‘dark fleet’ tactics was boarded and taken to Mexico as embargo continues The US Coast ⁠Guard has announced that it intercepted a large cargo ship carrying fuel…",
-     "image": "https://i.guim.co.uk/img/media/8decb894ae83b63e0d30ed259536918b34ef7ce1/3473_2437_2385_1909/master/2385.jpg?width=140&quality=85&auto=format&fit=max&s=6544cd2cf8e9d5e551bff195541688fc",
-     "url": "https://www.theguardian.com/world/2026/oct/02/us-coast-guard-says-it-has-intercepted-ship-carrying-fuel-to-cuba",
-     "source": "Guardian World",
-     "published": "2026-10-02T15:13:23+00:00"
-    },
-    {
-     "title": "Cloaked in anonymity, Israeli soldiers describe mass civilian killings in 'NAZA'",
-     "summary": "NAZA is an acronym for nezek agavi , Hebrew for \"collateral damage.\" It refers to the number of civilian casualties the Israeli military deems acceptable. The documentary is made by Israeli filmmakers…",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3569x2006+0+86/resize/3569x2006!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F82%2Fb9%2Ffc602b504c2492145b2d4bd9c99d%2Fnaza-still-credit-naza-the-guardian.tiff",
-     "url": "https://www.npr.org/2026/10/02/nx-s1-5987714/naza-review-israel-palestine",
-     "source": "NPR News",
-     "published": "2026-10-02T14:37:27+00:00"
+     "published": "2026-10-02T15:57:13+00:00"
     }
    ]
   },
   "ai": {
    "label": "AI",
    "items": [
+    {
+     "title": "Research roundup: 6 cool science stories we almost missed",
+     "summary": "Also: Spooky action at the LHC, Ice Age psychoactive use, yeast for building homes on Mars, and more.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/darkmatter-500x500.jpg",
+     "url": "https://arstechnica.com/science/2026/10/research-roundup-6-cool-science-stories-we-almost-missed-6/",
+     "source": "Ars Technica",
+     "published": "2026-10-02T18:17:27+00:00"
+    },
+    {
+     "title": "US military ends long-running program to spot nuclear missile launches",
+     "summary": "A newer program has been operational since 2011, and the next generation could launch within 12 months.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/071110-D-1584B-011-500x500.jpeg",
+     "url": "https://arstechnica.com/space/2026/10/us-military-ends-long-running-program-to-spot-nuclear-missile-launches/",
+     "source": "Ars Technica",
+     "published": "2026-10-02T17:32:14+00:00"
+    },
+    {
+     "title": "How I kept cool with NYC's free battery program for window AC units",
+     "summary": "Bonus: Every Electric’s batteries are beloved by household cats.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image2-500x500.jpeg",
+     "url": "https://arstechnica.com/gadgets/2026/10/how-i-kept-cool-with-nycs-free-battery-program-for-window-ac-units/",
+     "source": "Ars Technica",
+     "published": "2026-10-02T17:20:21+00:00"
+    },
+    {
+     "title": "Cybertruck sales in free fall as Tesla reports mediocre sales for Q3",
+     "summary": "Tesla met analysts expectations as it sold fewer cars in Q3 2026 than Q3 2025.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1415090444-2-1-500x500.jpg",
+     "url": "https://arstechnica.com/cars/2026/10/tesla-sales-drop-2-percent-in-underwhelming-q3-2026/",
+     "source": "Ars Technica",
+     "published": "2026-10-02T16:05:26+00:00"
+    },
     {
      "title": "尋找超新星爆發前的「母星」，NASA 錢卓拉最新發現 84 個神祕天體帶來破案曙光",
      "summary": "美國太空總署（NASA）的錢卓拉 X 射線天文台（Chandra X-ray Observatory）9 月 […]",
@@ -162,20 +194,12 @@
      "published": "2026-10-02T15:49:04+00:00"
     },
     {
-     "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI",
-     "summary": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Shield-10-yrs-1-500x500.jpg",
-     "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
-     "source": "Ars Technica",
-     "published": "2026-10-02T14:52:16+00:00"
-    },
-    {
-     "title": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract",
-     "summary": "Blue Origin seeks FAA approval for up to 50 New Glenn launches and 50 booster landings per year.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon9_falconheavy-500x500.jpg",
-     "url": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/",
-     "source": "Ars Technica",
-     "published": "2026-10-02T13:54:34+00:00"
+     "title": "The Legend of von Neumann (1973) [pdf]",
+     "summary": "Article URL: https://gwern.net/doc/math/1973-halmos.pdf Comments URL: https://news.ycombinator.com/item?id=49933235 Points: 185 # Comments: 97",
+     "image": "",
+     "url": "https://gwern.net/doc/math/1973-halmos.pdf",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-02T13:18:32+00:00"
     },
     {
      "title": "欲藉 2 奈米盼重返高通供應鏈，台積電一單不漏全數拿下讓三星盼了個寂寞",
@@ -194,14 +218,6 @@
      "published": "2026-10-02T12:10:06+00:00"
     },
     {
-     "title": "TCL is right to question Samsung’s use of the term “Mini LED”",
-     "summary": "Can it be Mini LED without a FALD backlight?",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/2026_Mini-LED_M80H_FRONT_WALL_Image-1-1024x683-1-500x500.jpg",
-     "url": "https://arstechnica.com/gadgets/2026/10/tcl-is-right-to-question-samsungs-use-of-the-term-mini-led/",
-     "source": "Ars Technica",
-     "published": "2026-10-02T10:30:11+00:00"
-    },
-    {
      "title": "Don’t be fooled—LLMs don’t reason",
      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five…",
      "image": "",
@@ -211,7 +227,7 @@
     },
     {
      "title": "Shimano Bicycle Museum Review",
-     "summary": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/ Comments URL: https://news.ycombinator.com/item?id=49930047 Points: 242 # Comments: 52",
+     "summary": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/ Comments URL: https://news.ycombinator.com/item?id=49930047 Points: 270 # Comments: 65",
      "image": "",
      "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
      "source": "Hacker News Front Page",
@@ -248,22 +264,6 @@
      "url": "https://arxiv.org/abs/2610.00018",
      "source": "arXiv cs.AI",
      "published": "2026-10-02T04:00:00+00:00"
-    },
-    {
-     "title": "DeepSeek Harness Desktop for macOS and Windows",
-     "summary": "Article URL: https://www.deepseek.com/en/harness/ Comments URL: https://news.ycombinator.com/item?id=49929489 Points: 353 # Comments: 178",
-     "image": "",
-     "url": "https://www.deepseek.com/en/harness/",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-02T03:11:20+00:00"
-    },
-    {
-     "title": "Several vulnerabilities have been discovered in the Linux kernel",
-     "summary": "Article URL: https://lwn.net/Articles/1097401/ Comments URL: https://news.ycombinator.com/item?id=49928121 Points: 476 # Comments: 333",
-     "image": "",
-     "url": "https://lwn.net/Articles/1097401/",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-01T23:10:44+00:00"
     }
    ]
   },
@@ -271,20 +271,60 @@
    "label": "運動",
    "items": [
     {
-     "title": "NBA preseason: 8 intriguing teams to watch, including Giannis Antetokounmpo's Heat",
-     "summary": "I've always found value in the preseason. It's the first glimpse into what teams are emphasizing and working on.",
-     "image": "https://d29szjachogqwa.cloudfront.net/images/2026-10/4ecd05d1-f53a-4174-bb4f-6413e80d22be",
-     "url": "https://sports.yahoo.com/nba/article/nba-preseason-8-intriguing-teams-to-watch-including-giannis-antetokounmpos-heat-160000463.html",
+     "title": "2026-27 Fantasy Basketball: 6 players who are worth more in High Score than in standard points leagues",
+     "summary": "Dan Titus highlights players with more value in Yahoo High Score fantasy basketball for the 2026-27 season.",
+     "image": "",
+     "url": "https://sports.yahoo.com/fantasy/article/2026-27-fantasy-basketball-6-players-who-are-worth-more-in-high-score-than-in-standard-points-leagues-182545280.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-10-02T16:00:00+00:00"
+     "published": "2026-10-02T18:25:45+00:00"
     },
     {
-     "title": "Kawhi Leonard solves one Raptors problem. Who solves the others?",
-     "summary": "Toronto's front office still has work to do if it wants to repeat history and win a championship in Year 1 of Kawhi again.",
-     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ed-092926-nba-previews-kawhi-raptors_4011.jpg",
-     "url": "https://sports.yahoo.com/nba/article/kawhi-leonard-solves-one-raptors-problem-who-solves-the-others-153000091.html",
+     "title": "France v Italy: Nations League football – live",
+     "summary": "⚽ Nations League updates from the 7.45pm BST kick-off ⚽ Live scores | Nations League tables | Read Football Daily “Is Marco Materazzi in the house?” asks Peter Oh. “Given the primacy of gestures in to…",
+     "image": "https://i.guim.co.uk/img/media/3c6e94b1bcd6bae6082b9edf23e9e0afa1162111/887_0_4466_3573/master/4466.jpg?width=140&quality=85&auto=format&fit=max&s=ecb57ee33e906a39b6ae84d39ba099b9",
+     "url": "https://www.theguardian.com/football/live/2026/oct/02/france-v-italy-nations-league-football-live-score-updates",
+     "source": "Guardian Sport",
+     "published": "2026-10-02T18:07:04+00:00"
+    },
+    {
+     "title": "A “special NBA guest” is coming to Big Blue Madness: Who will it be?",
+     "summary": "Who is your guess for who shows up tonight in Rupp Arena?",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/9f478ff7d1f085f5076b1a6e4828c3ee.jpg",
+     "url": "https://sports.yahoo.com/articles/special-nba-guest-coming-big-180614923.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-10-02T15:30:00+00:00"
+     "published": "2026-10-02T18:06:14+00:00"
+    },
+    {
+     "title": "Trail Blazers fire new play-by-play announcer hours after hiring due to racist social media posts",
+     "summary": "Braiden Bell, 29, made those posts as a teenager more than a decade ago, and they came to light after his hiring.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/trail-blazers-fire-play-play-180212455.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-02T18:02:12+00:00"
+    },
+    {
+     "title": "Man City confirm appeal against guilty verdict",
+     "summary": "The club's statement says the ruling contains \"clear material errors, of law, principle and fact, and is unsafe\".",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/250e/live/77b09c80-be45-11f1-a64c-550be9e3c66b.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cqn7470513n0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-02T17:43:48+00:00"
+    },
+    {
+     "title": "NBA reportedly won't discipline Wizards, Bub Carrington after guard admitted team held back to get AJ Dybantsa",
+     "summary": "The Wizards recorded only 17 victories in 2025-26 — their second-fewest in single-season franchise history — before winning the No. 1 overall pick and drafting Dybantsa.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/article/nba-reportedly-wont-discipline-wizards-bub-carrington-after-guard-admitted-team-held-back-to-get-aj-dybantsa-172801586.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-02T17:28:01+00:00"
+    },
+    {
+     "title": "Tony Romo will not return to CBS Sports in wake of drunk driving arrest",
+     "summary": "NFL analyst and network mutually agree to part ways Ex-Dallas Cowboys star was on $180m contract Tony Romo will not return as an NFL analyst for CBS Sports, the network announced Friday, after his Jul…",
+     "image": "https://i.guim.co.uk/img/media/5fc642d98035b6dc463370ffe60059159b15c826/0_0_2292_1834/master/2292.jpg?width=140&quality=85&auto=format&fit=max&s=194ae74e1160bee630934563a5e51ad2",
+     "url": "https://www.theguardian.com/sport/2026/oct/02/tony-romo-will-not-return-cbs-arrest",
+     "source": "Guardian Sport",
+     "published": "2026-10-02T16:53:20+00:00"
     },
     {
      "title": "Tuchel would never rule out players not in top flight",
@@ -293,22 +333,6 @@
      "url": "https://www.bbc.co.uk/sport/football/articles/cqd095z49gjvo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-10-02T15:05:31+00:00"
-    },
-    {
-     "title": "Knicks Training Camp Notes: Latest contract extension talks; backup center battle",
-     "summary": "A few notes from the first three days of Knicks training camp...",
-     "image": "https://media.zenfs.com/en/sny_articles_235/d8e2fc6f6506c125aec8b18ae14127c6.jpg",
-     "url": "https://sports.yahoo.com/articles/knicks-training-camp-notes-latest-145508652.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-02T14:55:08+00:00"
-    },
-    {
-     "title": "Tarik Biberović in Dallas may be one of the most interesting storylines to watch for Europeans. Here’s why",
-     "summary": "Will Biberović get a real shot on the Dallas Mavericks? Or will he be yet another euro star mismanaged by an NBA team?",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/tarik-biberovi-dallas-may-one-140019942.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-02T14:00:19+00:00"
     },
     {
      "title": "How Gordon became one of England's main men",
@@ -335,36 +359,12 @@
      "published": "2026-10-02T12:15:06+00:00"
     },
     {
-     "title": "Manchester City verdict has big integrity implications, warns FA as club lodge appeal",
-     "summary": "FA has the power to charge club and individuals It will not act until appeal process completed The Football Association has confirmed it has powers to take disciplinary action against Manchester City…",
-     "image": "https://i.guim.co.uk/img/media/2e89118af52b3cb69ac182bcba8ae2ba78f48710/0_23_1536_1228/master/1536.jpg?width=140&quality=85&auto=format&fit=max&s=235355667dd5042d903d07527ce3b79f",
-     "url": "https://www.theguardian.com/football/2026/oct/02/manchester-city-fa-guilty-verdict-premier-league-appeal",
-     "source": "Guardian Sport",
-     "published": "2026-10-02T10:50:18+00:00"
-    },
-    {
      "title": "What does Man City guilty verdict mean for their squad?",
      "summary": "BBC Sport looks at how Manchester City's guilty verdict will affect their existing players' futures and the club's dealings in the transfer market.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9c7/live/372ea260-be45-11f1-beff-83dd12d67cca.jpg",
      "url": "https://www.bbc.co.uk/sport/football/articles/c68jdjdz32n3o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-10-02T09:00:51+00:00"
-    },
-    {
-     "title": "Clay Travis: inside the Maga permadad’s world of sports bros, trans panic and mortgages",
-     "summary": "The rightwing media mogul has lost ground to the likes of Pat McAfee and Joe Rogan. He’s hoping his new venture can recapture some headway When Maga media blowhard Clay Travis offered $2m to Colin Kae…",
-     "image": "https://i.guim.co.uk/img/media/160f0b836cd1ab23954a390515b52ccc0ea151a1/656_191_3926_3141/master/3926.jpg?width=140&quality=85&auto=format&fit=max&s=9ddaab4f59249c8a2882152c4961c14e",
-     "url": "https://www.theguardian.com/sport/2026/oct/02/clay-travis-sport-and-state",
-     "source": "Guardian Sport",
-     "published": "2026-10-02T09:00:15+00:00"
-    },
-    {
-     "title": "Man City confirm appeal against guilty verdict",
-     "summary": "The club's statement says the ruling contains \"clear material errors, of law, principle and fact, and is unsafe\".",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/250e/live/77b09c80-be45-11f1-a64c-550be9e3c66b.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cqn7470513n0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-02T08:50:24+00:00"
     },
     {
      "title": "Trail Blazers fire new announcer hours after hiring him over social media posts he made as a teen",
