@@ -1,24 +1,112 @@
 {
- "generated": "2026-10-02T18:31:24.897554+00:00",
+ "generated": "2026-10-02T20:48:55.890784+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
-     "summary": "EU countries are set for crisis talks on soaring diesel prices, with officials warning a U.S. export ban could hurt Europe’s economic outlook.",
+     "title": "DOJ says it will not reopen criminal probe into former Fed Chair Powell",
+     "summary": "The confirmation comes after the Fed's inspector general report that said there were no grounds for a criminal referral over the mismanaged headquarters renovation.",
      "image": "",
-     "url": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
+     "url": "https://www.cnbc.com/2026/10/02/doj-says-it-will-not-reopen-criminal-probe-into-former-fed-chair-powell.html",
      "source": "CNBC Top News",
-     "published": "2026-10-02T18:21:13+00:00"
+     "published": "2026-10-02T20:32:54+00:00"
     },
     {
-     "title": "Israeli barrier cuts off water to West Bank Palestinians before elections",
-     "summary": "Residents of Ras al-Ahmar say Israeli restrictions have cut access to water, animal feed, healthcare.",
+     "title": "Iraq grants Iranian airlines 40 daily Najaf flights after US exemption",
+     "summary": "Mahan Air is excluded from the agreement as Baghdad says Washington granted its request for a waiver.",
      "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/2/israeli-barrier-cuts-off-water-to-west-bank-palestinians-before-elections?traffic_source=rss",
+     "url": "https://www.aljazeera.com/news/2026/10/2/iraq-grants-iranian-airlines-40-daily-najaf-flights-after-us-exemption?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-10-02T18:18:42+00:00"
+     "published": "2026-10-02T20:32:02+00:00"
+    },
+    {
+     "title": "California leads lawsuit against Trump fuel efficiency standards rollback",
+     "summary": "Lawsuit alleges NHTSA contravenes its congressional mandate to set fuel-economy standards at 'maximum feasible' .",
+     "image": "",
+     "url": "https://www.aljazeera.com/economy/2026/10/2/california-leads-lawsuit-against-trump-fuel-efficiency-standards-rollback?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-02T20:28:07+00:00"
+    },
+    {
+     "title": "Could conflict in Ethiopia expand across the region?",
+     "summary": "Addis Ababa accuses Egypt, Eritrea and Sudan of backing armed groups.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/10/2/could-conflict-in-ethiopia-expand-across-the-region?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-02T20:17:50+00:00"
+    },
+    {
+     "title": "豪宅拚配備、小宅拚配色　歐洲精品家具廚具搶進台灣",
+     "summary": "AI與半導體產業帶動台灣經濟成長，外資陸續上修2026年GDP成長率預測，隨著科技產業帶動企業投資與消費支出，高資產族群居住需求也受到國際品牌關注，從進口廚具、家具到私人娛樂空間，歐洲品牌加快在台布局，瞄準高端住宅裝修及個人化生活需求。…",
+     "image": "",
+     "url": "https://estate.ltn.com.tw/article/28972",
+     "source": "自由時報",
+     "published": "2026-10-02T20:00:00+00:00"
+    },
+    {
+     "title": "美媒：川普擬任命國家情報總監克雷頓擔任「AI沙皇」",
+     "summary": "有線電視新聞網（CNN）和其他美國媒體今天報導，美國總統川普預計將任命國家情報總監克雷頓（Jay Clayton）擔任白宮新的「AI沙皇」。 哥倫比亞廣播公司新聞網（CBS News）前一...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5593862",
+     "source": "自由時報",
+     "published": "2026-10-02T19:54:03+00:00"
+    },
+    {
+     "title": "Germany's political center fights for relevance after far-right and far-left gains",
+     "summary": "Centrist politicians are soul-searching after electoral gains by the far right and the far left. Today's weak coalitions, political fragmentation and dire economy echo a past that led to the rise of f…",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3558x2400+0+0/resize/3558x2400!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F61%2Fce%2Fa3c4e61844c191f71b542f62b12d%2Fgettyimages-2295879496.jpg",
+     "url": "https://www.npr.org/2026/10/02/g-s1-146108/germany-politics-center-afd-die-linke-cdu-merz",
+     "source": "NPR News",
+     "published": "2026-10-02T19:22:57+00:00"
+    },
+    {
+     "title": "FAA says Boeing 737 Max software glitch not a flight-safety issue",
+     "summary": "The FAA on Monday said it was reviewing the software glitch, which could affect procedures during certain landings.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/02/faa-says-boeing-737-max-10-software-glitch-not-a-flight-safety-issue.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-02T19:19:15+00:00"
+    },
+    {
+     "title": "Arab party leader withdraws from Israeli elections",
+     "summary": "Palestinian politician Sami Abu Shehadeh withdrew from Israel’s upcoming election.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/arab-party-leader-withdraws-from-israeli-elections?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-02T19:10:23+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》Donated ship cannot be used against Taiwanese: OAC",
+     "summary": "By Chen Chih-cheng and Jonathan Chin / Staff reporter, with staff writer The donation of offshore...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5593804",
+     "source": "自由時報",
+     "published": "2026-10-02T19:00:00+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》Traffic fines to be fully allocated to road safety",
+     "summary": "By Wu Liang-yi and Jake Chung / Staff reporter, with staff writer The Ministry of Transportation an...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5593809",
+     "source": "自由時報",
+     "published": "2026-10-02T19:00:00+00:00"
+    },
+    {
+     "title": "G7 to release up to 100m barrels of emergency oil and diesel reserves",
+     "summary": "Leaders agree a coordinated drawdown after surge in prices and Donald Trump’s threat to cut off US supplies Leaders of G7 nations are to release up to 100m barrels of their emergency diesel and crude…",
+     "image": "https://i.guim.co.uk/img/media/cd8bc11681e930e9fb439157f7dff38ec4bf8e2a/912_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=6b03b4230ae5f9f2cd96c3515c6492c5",
+     "url": "https://www.theguardian.com/business/2026/oct/02/g7-release-barrels-oil-diesel-reserves-emergency",
+     "source": "Guardian Business",
+     "published": "2026-10-02T18:52:03+00:00"
+    },
+    {
+     "title": "Pro-Trump Influencer Benny Johnson is being sued for defamation by ICE protesters",
+     "summary": "The lawsuit says the prominent conservative podcaster falsely claimed the protesters were assaulting ICE officers during demonstrations at an ICE facility in Illinois last year.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2Fda%2F5abc94a446be9f722eea345ee8d9%2Fgettyimages-2243829061.jpg",
+     "url": "https://www.npr.org/2026/10/02/nx-s1-5989413/benny-johnson-defamation-lawsuit-ice-protesters",
+     "source": "NPR News",
+     "published": "2026-10-02T18:43:30+00:00"
     },
     {
      "title": "October 1 ushered in a new era in U.S. foreign aid. What's the plan? Will it work?",
@@ -29,22 +117,6 @@
      "published": "2026-10-02T18:16:07+00:00"
     },
     {
-     "title": "Israel’s Supreme Court overturns election panel ban on Arab parties",
-     "summary": "Court reinstates two Arab lists and Jewish Knesset member Ofer Cassif as Balad leader withdraws after pressure.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-02T18:11:37+00:00"
-    },
-    {
-     "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
-     "summary": "These are some of the stocks posting the largest moves midday.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-02T17:52:39+00:00"
-    },
-    {
      "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
      "summary": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d36/live/09d5ba60-be7c-11f1-a64c-550be9e3c66b.jpg",
@@ -53,84 +125,12 @@
      "published": "2026-10-02T17:44:08+00:00"
     },
     {
-     "title": "‘I want the truth’: NY governor appoints prosecutor in Cornell rape case",
-     "summary": "New York Governor Kathy Hochul says local authorities failed to properly investigate the 2024 allegations.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/2/i-want-the-truth-ny-governor-appoints-prosecutor-in-cornell-rape-case?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-02T17:43:30+00:00"
-    },
-    {
      "title": "Riot police clash with students as education protests rage in France",
      "summary": "More than 600 schools have faced disruption as protests over standards and lack of teachers continue.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/061e/live/ef36beb0-be8b-11f1-888b-4d28ea12c7e2.jpg",
      "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
      "published": "2026-10-02T17:43:10+00:00"
-    },
-    {
-     "title": "Men are losing ground in the labor market. Here's why",
-     "summary": "Women outnumbered men in the workforce for eight straight months as of September, according to one analysis.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/02/men-labor-market-jobs-report.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-02T17:38:59+00:00"
-    },
-    {
-     "title": "Jerusalem Daily: Who gets to run in Israel’s elections?",
-     "summary": "Palestinians in Israel are asking whether they will have a fair say in the upcoming Israeli elections.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/jerusalem-daily-who-gets-to-run-in-israels-elections?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-02T17:30:06+00:00"
-    },
-    {
-     "title": "油價拉回和升息預期降低　歐股收紅",
-     "summary": "七大工業國集團（G7）同意大規模釋出燃料儲備，國際油價下挫，加上美國公布9月就業成長趨緩，讓外界對聯準會10月升息預期降低，歐洲股市今天收紅。 倫敦FTSE 100指數上漲33.68點或0...…",
-     "image": "",
-     "url": "https://ec.ltn.com.tw/article/breakingnews/5593843",
-     "source": "自由時報",
-     "published": "2026-10-02T17:30:06+00:00"
-    },
-    {
-     "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter",
-     "summary": "Ford on Friday reported a year-over-year sales decline of 6.6% during the third quarter to 507,395 light-duty vehicles.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/02/ford-q3-sales.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-02T17:20:33+00:00"
-    },
-    {
-     "title": "屏東里長候選人送肉粽、提杯涉賄選　屏檢聲押",
-     "summary": "屏東縣潮州鎮四春里潘姓里長候選人等4人涉賄選，於今年6月13日，向選民發放價值共新台幣500元以上肉粽及提杯。屏東地檢署昨天發動搜索，晚間聲押潘男等3人。 屏檢追查，潮州鎮四春里潘姓候選人...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/society/breakingnews/5593836",
-     "source": "自由時報",
-     "published": "2026-10-02T16:54:03+00:00"
-    },
-    {
-     "title": "愈拚愈旺！命理師點名「這生肖」有財有福、一路笑到跨年",
-     "summary": "〔娛樂頻道／綜合報導〕中秋過後，隨著節氣轉換、五行更迭，12生肖迎來運勢大洗牌，命理專家湯鎮瑋報喜，直言步入10月將有「特定生肖」迎來福氣大爆發，甚至能打破常理，靠著「一分耕耘換來超額報酬」，一...…",
-     "image": "",
-     "url": "https://ent.ltn.com.tw/news/breakingnews/5593832",
-     "source": "自由時報",
-     "published": "2026-10-02T16:33:00+00:00"
-    },
-    {
-     "title": "新竹棒球場案確定不起訴 林智堅發文回應了",
-     "summary": "新竹市前市長林智堅被現任市長高虹安市府針對新竹市立棒球場統包工程案指控疑涉圖利，經新竹地檢署審理近4年，今年8月21日獲不起訴處分，新竹市府提出再議，高檢署昨天駁回市府再議，林...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/society/breakingnews/5593834",
-     "source": "自由時報",
-     "published": "2026-10-02T16:16:38+00:00"
-    },
-    {
-     "title": "G7 to release up to 100m barrels of emergency oil and diesel reserves",
-     "summary": "Leaders agree a coordinated drawdown within four months as rising prices put pressure on households and economies Leaders of G7 nations are to release up to 100m barrels of their emergency diesel and…",
-     "image": "https://i.guim.co.uk/img/media/cd8bc11681e930e9fb439157f7dff38ec4bf8e2a/912_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=6b03b4230ae5f9f2cd96c3515c6492c5",
-     "url": "https://www.theguardian.com/business/2026/oct/02/g7-release-barrels-oil-diesel-reserves-emergency",
-     "source": "Guardian Business",
-     "published": "2026-10-02T15:57:13+00:00"
     }
    ]
   },
@@ -138,36 +138,44 @@
    "label": "AI",
    "items": [
     {
-     "title": "Research roundup: 6 cool science stories we almost missed",
-     "summary": "Also: Spooky action at the LHC, Ice Age psychoactive use, yeast for building homes on Mars, and more.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/darkmatter-500x500.jpg",
-     "url": "https://arstechnica.com/science/2026/10/research-roundup-6-cool-science-stories-we-almost-missed-6/",
+     "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
+     "summary": "Amazon praised for ending NDAs but slammed for downplaying data center pollution.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2292181016-500x500.jpg",
+     "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
      "source": "Ars Technica",
-     "published": "2026-10-02T18:17:27+00:00"
+     "published": "2026-10-02T20:30:27+00:00"
     },
     {
-     "title": "US military ends long-running program to spot nuclear missile launches",
-     "summary": "A newer program has been operational since 2011, and the next generation could launch within 12 months.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/071110-D-1584B-011-500x500.jpeg",
-     "url": "https://arstechnica.com/space/2026/10/us-military-ends-long-running-program-to-spot-nuclear-missile-launches/",
+     "title": "Patient-zero drill put health facilities to the test—40% of them failed",
+     "summary": "Actors with makeup and fake symptoms staggered into 73 healthcare facilities.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1227666052-500x500.jpg",
+     "url": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/",
      "source": "Ars Technica",
-     "published": "2026-10-02T17:32:14+00:00"
+     "published": "2026-10-02T20:07:59+00:00"
     },
     {
-     "title": "How I kept cool with NYC's free battery program for window AC units",
-     "summary": "Bonus: Every Electric’s batteries are beloved by household cats.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image2-500x500.jpeg",
-     "url": "https://arstechnica.com/gadgets/2026/10/how-i-kept-cool-with-nycs-free-battery-program-for-window-ac-units/",
+     "title": "Lyft settles landmark driver misclassification lawsuit for $272.5M",
+     "summary": "Critics say workers are still owed far more.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2288109986-500x500.jpg",
+     "url": "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/",
      "source": "Ars Technica",
-     "published": "2026-10-02T17:20:21+00:00"
+     "published": "2026-10-02T19:09:49+00:00"
     },
     {
-     "title": "Cybertruck sales in free fall as Tesla reports mediocre sales for Q3",
-     "summary": "Tesla met analysts expectations as it sold fewer cars in Q3 2026 than Q3 2025.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1415090444-2-1-500x500.jpg",
-     "url": "https://arstechnica.com/cars/2026/10/tesla-sales-drop-2-percent-in-underwhelming-q3-2026/",
+     "title": "Apple Pass Designer",
+     "summary": "Article URL: https://developer.apple.com/pass-designer/ Comments URL: https://news.ycombinator.com/item?id=49937276 Points: 166 # Comments: 97",
+     "image": "",
+     "url": "https://developer.apple.com/pass-designer/",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-02T19:06:56+00:00"
+    },
+    {
+     "title": "The 2008 economic crisis changed the US's relationship with energy",
+     "summary": "It wasn't obvious at the time, but the US uncoupled carbon emissions and GDP growth.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1487351817-500x500.jpg",
+     "url": "https://arstechnica.com/science/2026/10/the-2008-economic-crisis-changed-the-uss-relationship-to-energy/",
      "source": "Ars Technica",
-     "published": "2026-10-02T16:05:26+00:00"
+     "published": "2026-10-02T18:56:21+00:00"
     },
     {
      "title": "尋找超新星爆發前的「母星」，NASA 錢卓拉最新發現 84 個神祕天體帶來破案曙光",
@@ -195,7 +203,7 @@
     },
     {
      "title": "The Legend of von Neumann (1973) [pdf]",
-     "summary": "Article URL: https://gwern.net/doc/math/1973-halmos.pdf Comments URL: https://news.ycombinator.com/item?id=49933235 Points: 185 # Comments: 97",
+     "summary": "Article URL: https://gwern.net/doc/math/1973-halmos.pdf Comments URL: https://news.ycombinator.com/item?id=49933235 Points: 214 # Comments: 123",
      "image": "",
      "url": "https://gwern.net/doc/math/1973-halmos.pdf",
      "source": "Hacker News Front Page",
@@ -224,14 +232,6 @@
      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
      "source": "MIT Tech Review AI",
      "published": "2026-10-02T08:00:00+00:00"
-    },
-    {
-     "title": "Shimano Bicycle Museum Review",
-     "summary": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/ Comments URL: https://news.ycombinator.com/item?id=49930047 Points: 270 # Comments: 65",
-     "image": "",
-     "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-02T05:12:58+00:00"
     },
     {
      "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
@@ -271,36 +271,68 @@
    "label": "運動",
    "items": [
     {
-     "title": "2026-27 Fantasy Basketball: 6 players who are worth more in High Score than in standard points leagues",
-     "summary": "Dan Titus highlights players with more value in Yahoo High Score fantasy basketball for the 2026-27 season.",
-     "image": "",
-     "url": "https://sports.yahoo.com/fantasy/article/2026-27-fantasy-basketball-6-players-who-are-worth-more-in-high-score-than-in-standard-points-leagues-182545280.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-02T18:25:45+00:00"
-    },
-    {
      "title": "France v Italy: Nations League football – live",
-     "summary": "⚽ Nations League updates from the 7.45pm BST kick-off ⚽ Live scores | Nations League tables | Read Football Daily “Is Marco Materazzi in the house?” asks Peter Oh. “Given the primacy of gestures in to…",
-     "image": "https://i.guim.co.uk/img/media/3c6e94b1bcd6bae6082b9edf23e9e0afa1162111/887_0_4466_3573/master/4466.jpg?width=140&quality=85&auto=format&fit=max&s=ecb57ee33e906a39b6ae84d39ba099b9",
+     "summary": "⚽ Nations League updates from the 7.45pm BST kick-off ⚽ Live scores | Nations League tables | Read Football Daily 3 min A strong start from France, who have barely permitted Italy a kick. 1 min Peep p…",
+     "image": "https://i.guim.co.uk/img/media/c4e32500b40bea8f75133de54178b9a1f4f434bd/243_159_2248_1798/master/2248.jpg?width=140&quality=85&auto=format&fit=max&s=005407c70addf8bf840c7c7dfa5d83a1",
      "url": "https://www.theguardian.com/football/live/2026/oct/02/france-v-italy-nations-league-football-live-score-updates",
      "source": "Guardian Sport",
-     "published": "2026-10-02T18:07:04+00:00"
+     "published": "2026-10-02T20:34:55+00:00"
     },
     {
-     "title": "A “special NBA guest” is coming to Big Blue Madness: Who will it be?",
-     "summary": "Who is your guess for who shows up tonight in Rupp Arena?",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/9f478ff7d1f085f5076b1a6e4828c3ee.jpg",
-     "url": "https://sports.yahoo.com/articles/special-nba-guest-coming-big-180614923.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-02T18:06:14+00:00"
-    },
-    {
-     "title": "Trail Blazers fire new play-by-play announcer hours after hiring due to racist social media posts",
-     "summary": "Braiden Bell, 29, made those posts as a teenager more than a decade ago, and they came to light after his hiring.",
+     "title": "NBA's Las Vegas expansion team may not debut until 2029-30 season",
+     "summary": "Whoever owns the new Las Vegas team will build a new arena, which will take time.",
      "image": "",
-     "url": "https://sports.yahoo.com/articles/trail-blazers-fire-play-play-180212455.html",
+     "url": "https://sports.yahoo.com/articles/nbas-las-vegas-expansion-team-192824181.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-10-02T18:02:12+00:00"
+     "published": "2026-10-02T19:28:24+00:00"
+    },
+    {
+     "title": "Man City whistleblower to lose witness protection",
+     "summary": "Portuguese computer hacker who released documents which led to the Premier League investigation into Manchester City set to lose his witness protection despite fears for his life.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c09c/live/ec8c2630-be8d-11f1-888b-4d28ea12c7e2.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cxyvrp78ddvqo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-02T19:26:13+00:00"
+    },
+    {
+     "title": "How best to punish City? Restitution over retribution, then hand club to the fans | Jonathan Liew",
+     "summary": "There are no real precedents and emotions are still raw, but good can come from this mess if ownership models change A 17-year transfer embargo. Replay the entire era with all the original players. Re…",
+     "image": "https://i.guim.co.uk/img/media/6a87bf94e531fa9fc471dd16196a58f680403260/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=0840821b920d7ba1c0d59078e0505158",
+     "url": "https://www.theguardian.com/football/2026/oct/02/how-best-to-punish-manchester-city-restitution-retribution-hand-club-to-fans",
+     "source": "Guardian Sport",
+     "published": "2026-10-02T19:00:37+00:00"
+    },
+    {
+     "title": "Jalen Duren is back + Southwest Division Preview! Aces advance, Liberty-Dream preview + Valkyries-Wings look-ahead",
+     "summary": "Nekias Duncan and Steve Jones preview the NBA Southwest Division, recap the electric Round 1 of the WNBA playoffs and preview the semifinal matchups.",
+     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/tds-duren-thumb_5076.png",
+     "url": "https://sports.yahoo.com/nba/article/jalen-duren-is-back--southwest-division-preview-aces-advance-liberty-dream-preview--valkyries-wings-look-ahead-185426684.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-02T18:54:26+00:00"
+    },
+    {
+     "title": "Top 10 Fantasy Basketball Rookies: Cameron Boozer, Caleb Wilson lead the way for 2026-27",
+     "summary": "Cameron Boozer leads the rookie class, but who rounds out the Top 10?",
+     "image": "https://media.zenfs.com/en/nbcsports.com/4329a5e18b741e910bafff1e2c813711.jpg",
+     "url": "https://sports.yahoo.com/articles/top-10-fantasy-basketball-rookies-183535867.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-02T18:35:35+00:00"
+    },
+    {
+     "title": "2026-27 Fantasy Basketball Draft Kit: Strategy, rankings, analysis, everything you need to dominate your league",
+     "summary": "Welcome to the 2026-27 fantasy basketball draft kit! We've got all the analysis you need to get ready for the season.",
+     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ed-092926-fantasyhoops-draftkit_8911.jpg",
+     "url": "https://sports.yahoo.com/fantasy/article/2026-27-fantasy-basketball-draft-kit-strategy-rankings-analysis-everything-you-need-to-dominate-your-league-183354053.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-02T18:33:54+00:00"
+    },
+    {
+     "title": "49ers owner Jed York suspended, fined $500K after prostitution sting arrest",
+     "summary": "NFL announces violation of personal conduct policy York pleaded no contest after arrest at Ohio trailer park The NFL suspended San Francisco 49ers owner Jed York for six games Friday after his arrest…",
+     "image": "https://i.guim.co.uk/img/media/4f4a50c89707be1cbd76795c4008fabb237947bf/0_0_5227_4184/master/5227.jpg?width=140&quality=85&auto=format&fit=max&s=3923948101952d9acb152414119b97ce",
+     "url": "https://www.theguardian.com/sport/2026/oct/02/jed-york-49ers-nfl-suspension-arrest",
+     "source": "Guardian Sport",
+     "published": "2026-10-02T18:26:37+00:00"
     },
     {
      "title": "Man City confirm appeal against guilty verdict",
@@ -311,20 +343,12 @@
      "published": "2026-10-02T17:43:48+00:00"
     },
     {
-     "title": "NBA reportedly won't discipline Wizards, Bub Carrington after guard admitted team held back to get AJ Dybantsa",
-     "summary": "The Wizards recorded only 17 victories in 2025-26 — their second-fewest in single-season franchise history — before winning the No. 1 overall pick and drafting Dybantsa.",
-     "image": "",
-     "url": "https://sports.yahoo.com/nba/article/nba-reportedly-wont-discipline-wizards-bub-carrington-after-guard-admitted-team-held-back-to-get-aj-dybantsa-172801586.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-02T17:28:01+00:00"
-    },
-    {
-     "title": "Tony Romo will not return to CBS Sports in wake of drunk driving arrest",
-     "summary": "NFL analyst and network mutually agree to part ways Ex-Dallas Cowboys star was on $180m contract Tony Romo will not return as an NFL analyst for CBS Sports, the network announced Friday, after his Jul…",
-     "image": "https://i.guim.co.uk/img/media/5fc642d98035b6dc463370ffe60059159b15c826/0_0_2292_1834/master/2292.jpg?width=140&quality=85&auto=format&fit=max&s=194ae74e1160bee630934563a5e51ad2",
-     "url": "https://www.theguardian.com/sport/2026/oct/02/tony-romo-will-not-return-cbs-arrest",
-     "source": "Guardian Sport",
-     "published": "2026-10-02T16:53:20+00:00"
+     "title": "Sabalenka 'trying hard to be easier on myself'",
+     "summary": "Aryna Sabalenka says she is \"trying so hard to be easier on myself\" as she begins her China Open campaign with victory over Renata Zarazua.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03bf/live/2624e5d0-be66-11f1-babe-4199b0e7ccea.jpg",
+     "url": "https://www.bbc.co.uk/sport/tennis/articles/c52e9dkmm7ylo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-02T16:23:39+00:00"
     },
     {
      "title": "Tuchel would never rule out players not in top flight",
@@ -333,14 +357,6 @@
      "url": "https://www.bbc.co.uk/sport/football/articles/cqd095z49gjvo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-10-02T15:05:31+00:00"
-    },
-    {
-     "title": "How Gordon became one of England's main men",
-     "summary": "Anthony Gordon has been England's in-form player since the World Cup knockout stage - is the Barcelona forward now undroppable?",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f014/live/cd024a60-bdac-11f1-8373-27235719cf2a.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cm9qrqelnd49o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-02T13:15:44+00:00"
     },
     {
      "title": "Grading Jalen Duren's $200 million contract: Pistons pay up to keep All-NBA center",
@@ -359,28 +375,12 @@
      "published": "2026-10-02T12:15:06+00:00"
     },
     {
-     "title": "What does Man City guilty verdict mean for their squad?",
-     "summary": "BBC Sport looks at how Manchester City's guilty verdict will affect their existing players' futures and the club's dealings in the transfer market.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9c7/live/372ea260-be45-11f1-beff-83dd12d67cca.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c68jdjdz32n3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-02T09:00:51+00:00"
-    },
-    {
      "title": "Trail Blazers fire new announcer hours after hiring him over social media posts he made as a teen",
      "summary": "Braiden Bell was let go on Thursday shortly after being hired; the team says it has 'zero tolerance for racist, sexist or harmful comments'",
      "image": "https://sportshub.cbsistatic.com/i/2026/10/02/d7dc3bee-9c67-4091-999c-b7d018e475ce/trail-blazers-logo-getty.png",
      "url": "https://www.cbssports.com/nba/news/blazers-fire-new-announcer-hours-after-hiring-him-braiden-bell/",
      "source": "CBS Sports NBA",
      "published": "2026-10-02T04:57:55+00:00"
-    },
-    {
-     "title": "Watson and Browns hold off Steelers’ fightback on last-gasp 56-yard field goal",
-     "summary": "Szmyt hits career-long kick with 10 seconds remaining Cleveland improve to 3-1 after surviving Pittsburgh rally Rodgers throws three TDs but two costly interceptions Deshaun Watson passed for 268 yard…",
-     "image": "https://i.guim.co.uk/img/media/7d90b3203a75a0a20367cd6fd04486a1897c7b53/352_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=5fe977dfb0da8911ba2dd3ec341bfc1d",
-     "url": "https://www.theguardian.com/sport/2026/oct/02/browns-steelers-deshaun-watson-andre-szmyt-nfl",
-     "source": "Guardian Sport",
-     "published": "2026-10-02T04:32:56+00:00"
     },
     {
      "title": "Jalen Duren, Pistons reportedly agree to five-year, $200 million contract, ending monthslong stalemate",
