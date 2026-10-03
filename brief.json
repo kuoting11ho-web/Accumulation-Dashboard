@@ -1,16 +1,80 @@
 {
- "generated": "2026-10-03T17:25:27.240139+00:00",
+ "generated": "2026-10-03T19:17:53.768157+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "毒品不分藍綠卻會挑上脆弱孩子 沈伯洋：勿為選舉扭曲減害政策",
-     "summary": "民進黨台北市長參選人沈伯洋2014年一篇談毒品的文章被藍營翻出，質疑他的立場。台北市長蔣萬安競選辦公室今（4）日上午更將召開「戳破沈伯洋，洋流變毒流？」記者會。對此，沈伯洋深夜...…",
+     "title": "西班牙租屋援助措施遭國會否決　數萬人上街抗議",
+     "summary": "西班牙國會議員否決政府提出的租屋援助措施後，今天有數以萬計民眾走上首都馬德里及其他城市的街頭抗議，要求提供負擔得起的住房。 法新社報導，這波示威延續了已持續逾1週的危機，起因是87歲退休婦...…",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5594717",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5594725",
      "source": "自由時報",
-     "published": "2026-10-03T17:16:21+00:00"
+     "published": "2026-10-03T19:12:03+00:00"
+    },
+    {
+     "title": "Is the CJP changing India’s political landscape?",
+     "summary": "Youth-led movement demands resignation of chief election commissioner.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/10/3/is-the-cjp-changing-indias-political-landscape?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-03T19:00:01+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》 ‘Ghost Town’ translator wins Italian book award",
+     "summary": "/ Staff writer, with CNA Italian translator Silvia Pozzi has won a Pisa Book Translation Award fo...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5594675",
+     "source": "自由時報",
+     "published": "2026-10-03T19:00:00+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》 US to assign liaisons in MND: sources",
+     "summary": "SHIFTING COOPERATION:With the new arrangement, US representatives would be able to participate direc...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5594671",
+     "source": "自由時報",
+     "published": "2026-10-03T19:00:00+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》 Manila, Taipei monitor China’s ships",
+     "summary": "‘GRAY ZONE’ TACTICS: Beijing sent two China Coast Guard vessels to escort a ‘supposedly private rese...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5594678",
+     "source": "自由時報",
+     "published": "2026-10-03T19:00:00+00:00"
+    },
+    {
+     "title": "Al Jazeera speaks to Palestinian schoolboy from viral photograph",
+     "summary": "A photo went viral of a Palestinian boy hiding from Israeli forces on his way home from class in the occupied West Bank.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/al-jazeera-speaks-to-palestinian-schoolboy-from-viral-photograph?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-03T18:49:03+00:00"
+    },
+    {
+     "title": "Fernandes hails Ronaldo and calls for Portugal unity ahead of Norway game",
+     "summary": "Cristiano Ronaldo withdrew from the Portugal squad, but Bruno Fernandes says forward remains team's 'greatest symbol'.",
+     "image": "",
+     "url": "https://www.aljazeera.com/sports/2026/10/3/fernandes-hails-ronaldo-and-calls-for-portugal-unity-ahead-of-norway-game?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-03T18:23:29+00:00"
+    },
+    {
+     "title": "England trounce Croatia 7-0 in Nations League as Kane goal run continues",
+     "summary": "Harry Kane scores in sixth successive away game for England as Bukayo Saka also scores twice in Nations League thumping.",
+     "image": "",
+     "url": "https://www.aljazeera.com/sports/2026/10/3/england-trounce-croatia-7-0-in-nations-league-as-kane-goal-run-continues?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-03T18:20:51+00:00"
+    },
+    {
+     "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+     "summary": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d3/live/7d12d1b0-bf45-11f1-babe-4199b0e7ccea.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-03T17:48:42+00:00"
     },
     {
      "title": "US Coast Guard searches for missing air ambulance off coast of Massachusetts",
@@ -21,76 +85,12 @@
      "published": "2026-10-03T17:03:54+00:00"
     },
     {
-     "title": "Tennessee prison chief to resign after Christa Pike's failed execution, governor says",
-     "summary": "Pike survived two lethal injections on Wednesday and is currently in critical condition in hospital.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d3/live/7d12d1b0-bf45-11f1-babe-4199b0e7ccea.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-03T16:57:02+00:00"
-    },
-    {
-     "title": "江和樹深夜接到電話「可全員上台」 不缺席江啟臣競總大會了",
-     "summary": "國民黨台中市長參選人、立法院副院長江啟臣今成立競選總部，民眾黨秘書長周榆修原訂率台中市6名黨議員參選人共襄盛舉，但民眾黨台中市議員江和樹爆昨晚（3日）臨時接獲江幕僚通知，僅3人...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5594714",
-     "source": "自由時報",
-     "published": "2026-10-03T16:44:54+00:00"
-    },
-    {
-     "title": "卓榮泰議場秀「洋流船員證」 國民黨：拿公務手機助選依法究責",
-     "summary": "行政院長卓榮泰在立法院備詢期間，展示民進黨台北市長沈伯洋競選「船員證」，競選總幹事吳思瑤還拍攝公開宣傳。國民黨文傳會主委陳以信質疑，卓榮泰當時拿的究竟是不是公務手機？若以公務設...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5594712",
-     "source": "自由時報",
-     "published": "2026-10-03T16:39:45+00:00"
-    },
-    {
-     "title": "不怕「錢四腳，人兩腳」！ 未來7天財氣沖天3生肖揭榜",
-     "summary": "〔娛樂頻道／綜合報導〕大家都說「錢四腳，人兩腳」，追錢追得心好累，但這週偏偏有人能讓鈔票自己送上門！命理專家雨揚老師命理專家雨揚老師揭曉未來7天12生肖運勢，榜首3生肖財運飆破5顆星，事業貴人齊...…",
-     "image": "",
-     "url": "https://ent.ltn.com.tw/news/breakingnews/5594663",
-     "source": "自由時報",
-     "published": "2026-10-03T16:33:00+00:00"
-    },
-    {
-     "title": "Somalia won’t accept Israeli presence ‘under any circumstances’: President",
-     "summary": "In exclusive Al Jazeera interview, President Hassan Sheikh Mohamud says Israel planning a naval base in Berbera.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-03T16:25:03+00:00"
-    },
-    {
-     "title": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
-     "summary": "",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-03T16:17:23+00:00"
-    },
-    {
      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
      "summary": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/554e/live/87c08780-bf1b-11f1-9b47-174f268aae1d.jpg",
      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
      "published": "2026-10-03T16:16:49+00:00"
-    },
-    {
-     "title": "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference",
-     "summary": "",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-reporters-verbal-attack-cuts-short-ireland-press-conference?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-03T16:16:32+00:00"
-    },
-    {
-     "title": "What we know about the co-pilot accused in Flydubai attack",
-     "summary": "The co-pilot accused of attacking a Flydubai captain has reportedly been identified as Hamam al-Hammami.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/what-we-know-about-the-co-pilot-accused-in-flydubai-attack?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-03T15:39:10+00:00"
     },
     {
      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
@@ -170,16 +170,8 @@
      "published": "2026-10-03T11:15:33+00:00"
     },
     {
-     "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
-     "summary": "Article URL: https://tej.as/blog/aleph-alpha-kolibri Comments URL: https://news.ycombinator.com/item?id=49943034 Points: 348 # Comments: 140",
-     "image": "",
-     "url": "https://tej.as/blog/aleph-alpha-kolibri",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-03T10:43:51+00:00"
-    },
-    {
-     "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
-     "summary": "Article URL: https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/ Comments URL: https://news.ycombinator.com/item?id=49942706 Points: 225 # Comments: 37",
+     "title": "Kolibri: A Sovereign Open-Weight Model",
+     "summary": "https://tej.as/blog/aleph-alpha-kolibri Comments URL: https://news.ycombinator.com/item?id=49942706 Points: 314 # Comments: 231",
      "image": "",
      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
      "source": "Hacker News Front Page",
@@ -194,20 +186,28 @@
      "published": "2026-10-03T08:30:57+00:00"
     },
     {
-     "title": "Extra Big Ass Intelligence",
-     "summary": "Article URL: https://www.extrabigassintelligence.com/ Comments URL: https://news.ycombinator.com/item?id=49941114 Points: 423 # Comments: 97",
+     "title": "An Update on Orion for Linux and Windows",
+     "summary": "Article URL: https://blog.kagi.com/update-orion-linux-windows Comments URL: https://news.ycombinator.com/item?id=49941447 Points: 157 # Comments: 91",
      "image": "",
-     "url": "https://www.extrabigassintelligence.com/",
+     "url": "https://blog.kagi.com/update-orion-linux-windows",
      "source": "Hacker News Front Page",
-     "published": "2026-10-03T03:19:10+00:00"
+     "published": "2026-10-03T04:53:57+00:00"
     },
     {
      "title": "Cloudflare OHTTP gateway",
-     "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/ Comments URL: https://news.ycombinator.com/item?id=49941091 Points: 156 # Comments: 68",
+     "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/ Comments URL: https://news.ycombinator.com/item?id=49941091 Points: 169 # Comments: 76",
      "image": "",
      "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
      "source": "Hacker News Front Page",
      "published": "2026-10-03T03:15:05+00:00"
+    },
+    {
+     "title": "Newgrounds.com – A community of games, music, and art",
+     "summary": "Article URL: https://www.newgrounds.com/ Comments URL: https://news.ycombinator.com/item?id=49940394 Points: 399 # Comments: 116",
+     "image": "",
+     "url": "https://www.newgrounds.com/",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-03T00:55:25+00:00"
     },
     {
      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
@@ -255,12 +255,36 @@
    "label": "運動",
    "items": [
     {
-     "title": "Croatia v England: Nations League football – live",
-     "summary": "Nations League updates, 5pm BST kick-off (6pm local) Live scores | Get the Football Daily newsletter | Mail Scott Thomas Tuchel speaks to ITV. “[Being in Rijeka on the sunny Adriatic coast] has helped…",
-     "image": "https://i.guim.co.uk/img/media/3363563f71c4937ad126e394f4e33c6eed48f556/259_0_2733_2186/master/2733.jpg?width=140&quality=85&auto=format&fit=max&s=6985065c126a90d0fd9f0a5f51e34196",
+     "title": "Knicks' Mike Brown challenges Mo Diawara to 'take a step forward' in 2026-27",
+     "summary": "New York Knicks head coach Mike Brown is challenging second-year swingman Mohamed Diawara to 'take a step forward' during the 2026-27 NBA season.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/knicks-mike-brown-challenges-mo-185624959.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-03T18:56:24+00:00"
+    },
+    {
+     "title": "Gloucester thrash sorry Quins to go top of the Prem",
+     "summary": "Gloucester thrash a limp Harlequins at Kingsholm to go to the top of the early Prem standings.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d4e/live/e73dbdd0-bf53-11f1-a84d-81c67bc2828e.jpg",
+     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw305gm8j591o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-03T18:44:00+00:00"
+    },
+    {
+     "title": "Croatia 0-7 England: Nations League football – as it happened",
+     "summary": "Harry Kane and Bukayo Saka grabbed two goals each as England demolished their opponents in Rijeka Thomas Tuchel speaks to ITV. “[Being in Rijeka on the sunny Adriatic coast] has helped us to unwind an…",
+     "image": "https://i.guim.co.uk/img/media/e4a60f635ee3e89ac93c44df3d447e52e7277600/302_0_2864_2292/master/2864.jpg?width=140&quality=85&auto=format&fit=max&s=e84b3bd8f3639d45edea7720f4af1a4f",
      "url": "https://www.theguardian.com/football/live/2026/oct/03/croatia-v-england-nations-league-football-live-score-updates",
      "source": "Guardian Sport",
-     "published": "2026-10-03T17:23:27+00:00"
+     "published": "2026-10-03T18:22:23+00:00"
+    },
+    {
+     "title": "Who was the best player on the pitch? - England player ratings",
+     "summary": "England produce one of their best performances in recent times as they thump Croatia 6-0 in Rijeka. How did our report rate the players' performances?",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d1/live/36cf3a10-bf52-11f1-a84d-81c67bc2828e.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cq4g1x8znyd0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-03T17:58:13+00:00"
     },
     {
      "title": "The Blazers are betting on a Ja Morant comeback",
@@ -279,12 +303,12 @@
      "published": "2026-10-03T16:59:29+00:00"
     },
     {
-     "title": "Desmond targeted by Celtic fan protest at Alfred Dunhill",
-     "summary": "Celtic's largest shareholder Dermot Desmond is targeted in a protest at the Alfred Dunhill Links golf tournament in St Andrews as tennis balls were thrown towards him.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94e2/live/cf56a740-bf44-11f1-8acc-0bb5649ca116.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c60qke217knjo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-03T16:24:56+00:00"
+     "title": "How Dusty May plans to get Cooper Flagg easy points",
+     "summary": "Who doesn’t want easy Cooper Flagg baskets?",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/d91c89a9a35f56ed76f98f3c137915a6.jpg",
+     "url": "https://sports.yahoo.com/articles/dusty-may-plans-cooper-flagg-164516967.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-03T16:45:16+00:00"
     },
     {
      "title": "WNBA playoffs: Valkyries rally from 16 down to oust Wings and reach last four",
@@ -295,28 +319,12 @@
      "published": "2026-10-03T16:15:55+00:00"
     },
     {
-     "title": "Kartal wins again as Zverev sets up Djokovic tie",
-     "summary": "Great Britain's Sonay Kartal reaches last-32 at the China Open as Alexander Zverev sets up a quarter-final clash against Novak Djokovic in Beijing.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aca/live/48bd6330-bf31-11f1-b10d-f956452c9061.jpg",
-     "url": "https://www.bbc.co.uk/sport/tennis/articles/cvlyd856kdr8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-03T15:27:03+00:00"
-    },
-    {
      "title": "Ireland cut short news conference as mood darkens further before Israel game",
-     "summary": "Irish manager Hallgrimsson calls for ‘cool heads’ Accusations of racism dismissed as ‘completely untrue’ The Republic of Ireland’s press conference on the eve of their second Nations League match agai…",
+     "summary": "Ireland manager Hallgrímsson calls for ‘cool heads’ Accusations of racism dismissed as ‘completely untrue’ The Republic of Ireland’s press conference on the eve of their second Nations League match ag…",
      "image": "https://i.guim.co.uk/img/media/926e7622d214ccc74e63083c8ae8e7aac0ec8f12/1685_794_3673_2939/master/3673.jpg?width=140&quality=85&auto=format&fit=max&s=7add9a7c807a8d73eca58e17bdcba1c0",
      "url": "https://www.theguardian.com/football/2026/oct/03/ireland-cut-short-news-conference-israel-nations-league-football",
      "source": "Guardian Sport",
      "published": "2026-10-03T15:02:38+00:00"
-    },
-    {
-     "title": "The Raptors’ preseason is here!",
-     "summary": "After months of anticipation, we finally get our first taste of the 2026-2027 NBA season",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/a67f20dae48158f9b88e307787d1493b.jpg",
-     "url": "https://sports.yahoo.com/articles/raptors-preseason-140000715.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-03T14:00:00+00:00"
     },
     {
      "title": "Republic of Ireland news conference ends abruptly amid accusations",
@@ -333,14 +341,6 @@
      "url": "https://www.bbc.co.uk/sport/formula1/articles/c5vgj31224kmo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-10-03T12:25:57+00:00"
-    },
-    {
-     "title": "Bucks Reacts Survey Results: Fans want dawgs",
-     "summary": "We already got dawgs, they just don’t know how to be dawgs. And we gon’ be dawgs.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/1d565803e2a9dbd549f8365265583752.jpg",
-     "url": "https://sports.yahoo.com/articles/bucks-reacts-survey-results-fans-120000310.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-03T12:00:00+00:00"
     },
     {
      "title": "Manchester City’s guilty verdict brings football’s great sell-off crashing to earth",
