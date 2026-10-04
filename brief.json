@@ -1,16 +1,96 @@
 {
- "generated": "2026-10-04T17:39:22.341678+00:00",
+ "generated": "2026-10-04T19:42:08.259860+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "拉脫維亞國會大選　總理有望勝出組挺烏克蘭聯盟政府",
-     "summary": "拉脫維亞總理庫爾伯格斯所屬中間派「聯合名單」於國會選舉中贏得自從1991年重獲獨立以來最大勝利，預計將繼續執政，籌組挺烏克蘭聯盟政府。 路透社報導，這個與俄羅斯接壤的北大西洋公約組織（NA...…",
+     "title": "學生抗議浪潮延燒暴力頻傳 法國多達500所高中全面或部分停課",
+     "summary": "法國教育部長杰弗雷（Edouard Geffray）4日表示，受到席捲全國的高中生抗議浪潮影響，全法國5日將有多達500所高中全面或部分停課。 法新社報導，杰弗雷指出，...…",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5595566",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5595576",
      "source": "自由時報",
-     "published": "2026-10-04T17:21:03+00:00"
+     "published": "2026-10-04T19:11:22+00:00"
+    },
+    {
+     "title": "難有效反制 澤倫斯基：俄羅斯向北韓轉移噴射無人機技術",
+     "summary": "烏克蘭總統澤倫斯基（Volodymyr Zelenskiy）4日指出，俄羅斯很可能已將最新的噴射動力無人機技術，分享給其長期盟友北韓。 路透報導，近幾週來，俄軍大幅增加...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5595562",
+     "source": "自由時報",
+     "published": "2026-10-04T19:07:00+00:00"
+    },
+    {
+     "title": "Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom",
+     "summary": "Trump is promoting two federal payment programs already underway while reiterating a $5,000 dividend promise contingent on Republicans retaining Congress.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/04/trump-5000-checks-cash-payments-midterms.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-04T19:06:46+00:00"
+    },
+    {
+     "title": "Brazil presidential election 2026: first-round live results",
+     "summary": "Luiz Inácio Lula da Silva is standing against Flávio Bolsonaro in the first round of the presidential race The incumbent, Luiz Inácio Lula da Silva, is up against Flávio Bolsonaro, the son of the form…",
+     "image": "https://i.guim.co.uk/img/media/57b638a4d4d903a611efbeecbdfac0df5ef21692/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=9c00a21e71375914289846c3d01d7179",
+     "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
+     "source": "Guardian World",
+     "published": "2026-10-04T19:01:28+00:00"
+    },
+    {
+     "title": "伊朗總統府：石油部長請辭獲准",
+     "summary": "伊朗總統府今天在聲明中宣布，由於中東戰爭導致加油站大排長龍，石油部長帕克尼加德已經辭職。 法新社報導，伊朗伊斯蘭共和國廣播電視台（Islamic Republic of Iran Broa...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5595577",
+     "source": "自由時報",
+     "published": "2026-10-04T19:00:03+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》 Army plans dedicated testing facility for missiles",
+     "summary": "By Lo Tien-pin and Fion Khan / Staff reporter, with staff writer The army plans to commission the...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5595519",
+     "source": "自由時報",
+     "published": "2026-10-04T19:00:00+00:00"
+    },
+    {
+     "title": "War on Iran: Is escalation more likely than a deal?",
+     "summary": "Former Iranian and US diplomats agree that the war on Iran is likely to get worse in the coming weeks.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/the-bottom-line/2026/10/4/war-on-iran-is-escalation-more-likely-than-a-deal-2?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-04T18:47:22+00:00"
+    },
+    {
+     "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
+     "summary": "Trump said Clayton will lead the White House's new \"Super Intelligence Force,\" which will coordinate government engagement with artificial intelligence.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4525x3017+0+0/resize/4525x3017!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2Fd7%2Ff235a8db45239880a2816c1cf983%2Fap26196593850558.jpg",
+     "url": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
+     "source": "NPR News",
+     "published": "2026-10-04T18:36:48+00:00"
+    },
+    {
+     "title": "Ku Klux Klan leader claims rising support ahead of US midterm elections",
+     "summary": "The Ku Klux Klan says support for its message is growing as it seeks to rebrand around family and faith.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/ku-klux-klan-leader-claims-rising-support-ahead-of-us-midterm-elections?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-04T18:34:30+00:00"
+    },
+    {
+     "title": "Police investigating Flydubai co-pilot’s Australia ties",
+     "summary": "Australian police and intelligence join the list of those probing the incident.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/4/police-investigating-flydubai-co-pilots-australia-ties?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-04T17:53:34+00:00"
+    },
+    {
+     "title": "Supreme Court Justice Alito said he's 'thought about' retirement as Senate control hangs in balance",
+     "summary": "The Senate could flip to Democrats after November's midterm election, jeopardizing a potential Supreme Court nomination by President Donald Trump.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/04/supreme-court-justice-alito-thought-about-retiring.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-04T17:53:11+00:00"
     },
     {
      "title": "Ukraine ready for US-backed talks with Russia: Zelenskyy",
@@ -21,60 +101,12 @@
      "published": "2026-10-04T17:17:42+00:00"
     },
     {
-     "title": "國際車禍救援挑戰賽落幕 台日菲消防菁英交流",
-     "summary": "2026國際車禍救援挑戰賽於本月3、4日盛大登場，昨圓滿落幕，由消防署組長李明憲主持閉幕式暨頒獎典禮，嘉勉來自全國各消防機關的參賽菁英，並感謝遠道而來代表日本東京消防廳、大阪市...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5595557",
-     "source": "自由時報",
-     "published": "2026-10-04T17:01:03+00:00"
-    },
-    {
-     "title": "蔣萬安臉書遭灌爆稱有證據是機器人洗版 名醫貼1張照笑翻網友！",
-     "summary": "國民黨翻出民進黨台北市長參選人沈伯洋10多年前寫的毒品防治文章斷章取義，指控沈伯洋「縱容吸毒」、「支持毒品」，尋求連任台北市長蔣萬安也在臉書發文抨擊卻大翻車，遭數十萬則留言灌爆，...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5595529",
-     "source": "自由時報",
-     "published": "2026-10-04T16:55:15+00:00"
-    },
-    {
-     "title": "Mass protests demanding poll chief resignation shake India for third day",
-     "summary": "Protesters say the election commission’s voter-roll revision has removed millions of eligible voters to benefit PM Modi.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/4/mass-protests-demanding-poll-chief-resignation-shake-india-for-third-day?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-04T16:55:03+00:00"
-    },
-    {
      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
      "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7653/live/2853dd30-bffa-11f1-8c3e-3b2eab095459.jpg",
      "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
      "published": "2026-10-04T16:51:30+00:00"
-    },
-    {
-     "title": "不只小粉紅！蔡康永現身沈伯洋競總大會 藍白粉崩潰出征",
-     "summary": "台北市長參選人沈伯洋週日舉辦競選總部成立大會，知名主持人蔡康永低調現身被鏡頭捕獲，引發網路熱烈討論。除了中國小粉紅已在中網高呼封殺，部分藍白支持者也「趖（sô）」進蔡康永的臉書砲...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5595553",
-     "source": "自由時報",
-     "published": "2026-10-04T16:47:05+00:00"
-    },
-    {
-     "title": "Germany’s Merz in Kyiv announces $1.5B in aid, urges Putin to end war",
-     "summary": "German Chancellor Friedrich Merz, on a surprise visit to Kyiv, announced $1.5 billion in military and reconstruction aid",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/germany-merz-visits-kyiv-air-raids-ukraine?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-04T16:38:45+00:00"
-    },
-    {
-     "title": "Air strike in Sudan kills UN aid truck driver: WFP",
-     "summary": "Trucks were 'clearly marked as humanitarian vehicles', UN agency says.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/4/air-strike-in-sudan-kills-un-aid-truck-driver-wfp?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-04T16:28:43+00:00"
     },
     {
      "title": "Cornell president calls gang rape allegations 'deeply disturbing'",
@@ -99,38 +131,6 @@
      "url": "https://www.npr.org/2026/10/04/nx-s1-5990790/us-marine-arrested-for-alleged-murder-woman-on-okinawa",
      "source": "NPR News",
      "published": "2026-10-04T15:15:09+00:00"
-    },
-    {
-     "title": "Nigel Farage questioned by standards commissioner over £5m gift",
-     "summary": "Reform UK leader was interviewed for half an hour last month over money from crypto billionaire Nigel Farage has been interviewed by the standards commissioner for an investigation into whether he sho…",
-     "image": "https://i.guim.co.uk/img/media/d2504defce6c0c66cd42eb91fb4a7a1b8eca4845/134_0_2733_2187/master/2733.jpg?width=140&quality=85&auto=format&fit=max&s=0ae8f999448f320029074138c0bc0d97",
-     "url": "https://www.theguardian.com/politics/2026/oct/04/nigel-farage-questioned-by-standards-commissioner-over-gift-reform-uk",
-     "source": "Guardian Business",
-     "published": "2026-10-04T15:04:34+00:00"
-    },
-    {
-     "title": "How the Cornell case is affecting women who have experienced sexual assault",
-     "summary": "The rape allegations that have emerged from a Cornell University frat house are leading many women to remember their own experiences — and call for a wider reckoning over sexual violence.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/427x391+0+0/resize/427x391!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F38%2F99%2F83b4f540447fa526a6ab672ca21d%2Fpetter-4.jpg",
-     "url": "https://www.npr.org/2026/10/04/nx-s1-5990232/how-the-cornell-case-is-affecting-women-who-have-experienced-sexual-assault",
-     "source": "NPR News",
-     "published": "2026-10-04T14:51:27+00:00"
-    },
-    {
-     "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-     "summary": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df42/live/012a8270-bff2-11f1-a64c-550be9e3c66b.jpg",
-     "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-04T14:25:32+00:00"
-    },
-    {
-     "title": "Would slashing migration tank the economy or reset Australia’s living standards? Canada may offer clues",
-     "summary": "Annual population growth for the North American nation has slowed to just 0.5% – and the economy is ‘adjusting’ Get our breaking news email , free app or daily news podcast Would slashing net overseas…",
-     "image": "https://i.guim.co.uk/img/media/9c3ffccfc11cdc1d3c6d0e7dc84170f187cd7104/281_0_2262_1810/master/2262.jpg?width=140&quality=85&auto=format&fit=max&s=6aa48336465eae1f390502e5ceb7ce12",
-     "url": "https://www.theguardian.com/australia-news/2026/oct/05/canada-migration-technical-recession-economy-lessons-for-australia",
-     "source": "Guardian World",
-     "published": "2026-10-04T14:00:32+00:00"
     }
    ]
   },
@@ -147,7 +147,7 @@
     },
     {
      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-     "summary": "Article URL: https://github.com/Niko1221/Strata Comments URL: https://news.ycombinator.com/item?id=49953495 Points: 316 # Comments: 168",
+     "summary": "Article URL: https://github.com/Niko1221/Strata Comments URL: https://news.ycombinator.com/item?id=49953495 Points: 417 # Comments: 222",
      "image": "",
      "url": "https://github.com/Niko1221/Strata",
      "source": "Hacker News Front Page",
@@ -195,7 +195,7 @@
     },
     {
      "title": "Why don't more developers “use the platform”?",
-     "summary": "Article URL: https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/ Comments URL: https://news.ycombinator.com/item?id=49950554 Points: 234 # Comments: 237",
+     "summary": "Article URL: https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/ Comments URL: https://news.ycombinator.com/item?id=49950554 Points: 254 # Comments: 252",
      "image": "",
      "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
      "source": "Hacker News Front Page",
@@ -210,12 +210,12 @@
      "published": "2026-10-04T00:50:52+00:00"
     },
     {
-     "title": "We're going to need default hard budget caps on pretty much everything",
-     "summary": "Article URL: https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/ Comments URL: https://news.ycombinator.com/item?id=49949235 Points: 553 # Comments: 283",
+     "title": "Reasons I didn't become an EMT, ranked",
+     "summary": "Article URL: https://ben.stolovitz.com/posts/reasons-not-emt-ranked/ Comments URL: https://news.ycombinator.com/item?id=49947631 Points: 217 # Comments: 103",
      "image": "",
-     "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+     "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
      "source": "Hacker News Front Page",
-     "published": "2026-10-04T00:20:16+00:00"
+     "published": "2026-10-03T20:49:15+00:00"
     },
     {
      "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
@@ -239,6 +239,30 @@
    "label": "運動",
    "items": [
     {
+     "title": "Wales v Denmark, Republic of Ireland v Israel and more: Nations League – live",
+     "summary": "⚽️ Nations League updates from 7.45pm kick-offs ⚽️ Live scoreboard | And mail Daniel Ronaldo may have thrown his toys out the cot and stormed off in a huff, but he remains the greatest player his coun…",
+     "image": "https://i.guim.co.uk/img/media/38e6bd959087677e847e52218bdb790c50232a45/466_275_4055_3246/master/4055.jpg?width=140&quality=85&auto=format&fit=max&s=288ff78be9be07253f6017d343845e3d",
+     "url": "https://www.theguardian.com/football/live/2026/oct/04/wales-v-denmark-republic-of-ireland-v-israel-and-more-nations-league-live",
+     "source": "Guardian Sport",
+     "published": "2026-10-04T19:29:29+00:00"
+    },
+    {
+     "title": "Jonathan Taylor’s double earns Colts win against Commanders in London",
+     "summary": "Indianapolis 30-13 Washington Treylon Burks scores 47-yard TD for Washington “Welcome to the NFL’s home away from home,” was the rallying cry from former running back and current in-stadium hype man R…",
+     "image": "https://i.guim.co.uk/img/media/773cd856f7d60ca33ab8c50d5835caf7e4ea6ffc/211_0_3614_2892/master/3614.jpg?width=140&quality=85&auto=format&fit=max&s=cfb565c52cd60ddb4fbe59a89a0da0e3",
+     "url": "https://www.theguardian.com/sport/2026/oct/04/jonathan-taylor-indianapolis-colts-washington-commanders-nfl-london",
+     "source": "Guardian Sport",
+     "published": "2026-10-04T18:28:29+00:00"
+    },
+    {
+     "title": "World No. 979 Stewart's dilemma after finishing fourth at Alfred Dunhill Links",
+     "summary": "Scotland's Michael Stewart has a choice to make after securing his best finish at a DP World Tour event.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f70/live/bb6d8220-c00d-11f1-b8fc-7927883c19e9.jpg",
+     "url": "https://www.bbc.co.uk/sport/golf/articles/c6pwg5z9982zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-04T17:55:17+00:00"
+    },
+    {
      "title": "Hamilton bemused after glitch turns F1 into 'Lego race'",
      "summary": "Max Verstappen and Lewis Hamilton liken the effects of a software bug that affected multiple cars before the Bahrain Grand Prix in Malaysia to a \"Lego race\".",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0d8/live/b118f330-c013-11f1-b8fc-7927883c19e9.jpg",
@@ -247,12 +271,20 @@
      "published": "2026-10-04T16:58:56+00:00"
     },
     {
-     "title": "Djokovic rolls back years to beat Zverev as Sabalenka swept out in China Open",
-     "summary": "Novak Djokovic into semi-finals after 4-6, 6-4, 6-4 win Aryna Sabalenka loses to 34th-ranked Bartunkova Novak Djokovic rolled back the years to oust Alexander Zverev from the China Open on Sunday, bea…",
-     "image": "https://i.guim.co.uk/img/media/0c1c4bf434fd5d7a66e05643b2ff08f6d203a67f/184_0_4303_3443/master/4303.jpg?width=140&quality=85&auto=format&fit=max&s=0974c9619a5cd512f9d8494196858137",
-     "url": "https://www.theguardian.com/sport/2026/oct/04/aryna-sabalenka-out-of-china-open-straight-sets-tennis-defeat-nikola-bartunkova",
-     "source": "Guardian Sport",
-     "published": "2026-10-04T15:33:08+00:00"
+     "title": "For Egor Dëmin, strength the big improvement, versatility the big priority",
+     "summary": "He’s not just a shooter.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/6e173e7515431bbb94bb7fffc70df377.jpg",
+     "url": "https://sports.yahoo.com/articles/egor-d-min-strength-big-155415715.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-04T15:54:15+00:00"
+    },
+    {
+     "title": "Celtics Charleston training camp notebook: yoga, an unlikely vet, and new coaches",
+     "summary": "The Celtics have begun their second half of training camp in Charleston, South Carolina. Here’s the full dispatch from on-the-ground at The Citadel.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/2c71ca4959cab8ee86b580db93b5588e.jpg",
+     "url": "https://sports.yahoo.com/articles/celtics-charleston-training-camp-notebook-155245345.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-04T15:52:45+00:00"
     },
     {
      "title": "‘Insane’: F1 drivers unite over engine regulations after chaotic Bahrain GP",
@@ -261,6 +293,14 @@
      "url": "https://www.theguardian.com/sport/2026/oct/04/f1-drivers-unite-engine-regulations-chaotic-bahrain-grand-prix-kimi-antonelli-lewis-hamilton",
      "source": "Guardian Sport",
      "published": "2026-10-04T15:30:11+00:00"
+    },
+    {
+     "title": "‘Moments I still play for’ - Djokovic battles past world number two Zverev",
+     "summary": "Novak Djokovic's quest to win a first trophy of 2026 continues with a hard-fought victory in the quarter-finals of the China Open.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f94/live/569b9790-bffb-11f1-8c3e-3b2eab095459.jpg",
+     "url": "https://www.bbc.co.uk/sport/tennis/articles/c8kge0d95dzno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-04T14:47:14+00:00"
     },
     {
      "title": "ESPN lists Rockets Ime Udoka as a coach with the most pressure",
@@ -279,30 +319,6 @@
      "published": "2026-10-04T14:00:00+00:00"
     },
     {
-     "title": "Evans claims dramatic WRC title after Solberg crash",
-     "summary": "Five-time runner-up Elfyn Evans is world champion for the first time after rival Oliver Solberg crashes in the final moments of Rally Italia Sardegna.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55c7/live/3bc8ec40-c00c-11f1-b8fc-7927883c19e9.jpg",
-     "url": "https://www.bbc.co.uk/sport/motorsport/articles/cmd6dq5gyw7xo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-04T13:46:49+00:00"
-    },
-    {
-     "title": "3 Knicks due for bigger roles for the 2026-27 NBA season",
-     "summary": "Here are the three Knicks whose roles are likeliest to grow this season, as New York pursues the first repeat in recent NBA history.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/3-knicks-due-bigger-roles-134500291.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-04T13:45:00+00:00"
-    },
-    {
-     "title": "Moneyball Mailbag – Media Day Edition",
-     "summary": "Answering questions from the mailbag following an eventful Media Day",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/f0a4ab0be05d2476cd7e63d51ada734e.jpg",
-     "url": "https://sports.yahoo.com/articles/moneyball-mailbag-media-day-edition-130000947.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-04T13:00:00+00:00"
-    },
-    {
      "title": "Cable robs Padres of potential home run in bizarre playoff loss to Brewers",
      "summary": "Ty France’s ninth-inning drive hits roof cable Brewers go on to win NLDS opener 3-2 Brewers manager Pat Murphy credited the team’s legendary late broadcaster Bob Uecker for an unlikely boost in the ni…",
      "image": "https://i.guim.co.uk/img/media/2dc3c957bad8b706aba070c3c4c8c4101fc49b83/0_394_1890_1512/master/1890.jpg?width=140&quality=85&auto=format&fit=max&s=35f9f2158e54cf0576fc9599a759753a",
@@ -311,28 +327,12 @@
      "published": "2026-10-04T12:04:18+00:00"
     },
     {
-     "title": "Modric 'ashamed' of Croatia's 'catastrophic night'",
-     "summary": "Croatia captain Luka Modric says he was \"ashamed\" of his side's performance on a \"catastrophic night\" against England.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04d7/live/e638a110-bfdb-11f1-b4e6-d96c2bf27b65.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cwzrdm3lyk21o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-04T10:35:47+00:00"
-    },
-    {
      "title": "Verstappen wins in Malaysia after long delays as Russell retires",
      "summary": "Max Verstappen takes his and Red Bull's first win of the year with a dominant drive in a dramatic Bahrain Grand Prix in Malaysia that started amid chaotic and unprecedented scenes.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f49/live/2354bb70-bffe-11f1-bc2e-018d645d8d21.jpg",
      "url": "https://www.bbc.co.uk/sport/formula1/articles/c5n49zx3zlvwo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-10-04T10:32:37+00:00"
-    },
-    {
-     "title": "Cavan Sullivan’s stunner makes him youngest-ever USMNT scorer in romp over Mexico",
-     "summary": "17-year-old scores brilliant long-range chip Julian Hall and Mailk Tillman also grab goals US have scored 11 goals in last three games As it happened: USA 3-0 Mexico The first time the United States a…",
-     "image": "https://i.guim.co.uk/img/media/fe3d45f92210f4637a4bf3a241bb3130119065d8/498_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=b76066fac37d2387047fac9f9da0d883",
-     "url": "https://www.theguardian.com/football/2026/oct/04/usmnt-mexico-match-report",
-     "source": "Guardian Sport",
-     "published": "2026-10-04T04:35:03+00:00"
     }
    ]
   }
