@@ -1,9 +1,97 @@
 {
- "generated": "2026-10-06T18:56:36.734245+00:00",
+ "generated": "2026-10-06T21:03:14.376488+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
+    {
+     "title": "US death row inmate Christa Pike conscious after failed execution, lawyers say",
+     "summary": "Pike, 50, continues to receive critical medical care while handcuffed in hospital, according to a statement from her lawyers on Tuesday.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+     "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-06T21:01:36+00:00"
+    },
+    {
+     "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
+     "summary": "The S&P 500 returned to an intraday record Tuesday as tech gains, easing oil prices and Treasury yields helped stocks overcome months of market shocks.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-06T20:50:54+00:00"
+    },
+    {
+     "title": "British adventurer back in UK after 28-year trek on foot around the world",
+     "summary": "",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/british-adventurer-back-in-uk-after-28-year-trek-on-foot-around-the-world?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-06T20:30:34+00:00"
+    },
+    {
+     "title": "楊双子慕尼黑口譯遭批　當事人承認疏漏否認刻意避中",
+     "summary": "作家楊双子日前在慕尼黑參加講座，現場口譯引發爭議。柏林台灣協會今天發布聲明，批評口譯刻意避開中國；口譯曹昌振首度回應，承認當天確有漏譯及失真，但否認出於政治立場刻意迴避中國相關內容。 慕尼...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5597862",
+     "source": "自由時報",
+     "published": "2026-10-06T20:12:03+00:00"
+    },
+    {
+     "title": "Trump hedges on paying back government for ads that already aired",
+     "summary": "The New York Times reported \"Trump personally instructed his budget director to use taxpayer money for TV ads praising him and his presidency.\"",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-06T20:09:17+00:00"
+    },
+    {
+     "title": "Is there a MAGA after Trump?",
+     "summary": "From the Epstein files to the war on Iran, Josh Rushing examines the cracks forming within MAGA in Trump's second term.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/lets-focus/2026/10/6/is-there-a-maga-after-trump?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-06T20:07:11+00:00"
+    },
+    {
+     "title": "近距離朝學生射催淚瓦斯釀傷　法國警察被控施暴已停職",
+     "summary": "法國高中生上週發起抗爭期間，1名警察朝1名14歲學生近距離發射催淚瓦斯，造成學生雙側下顎骨折、掉牙，法國檢方表示涉案警官今天遭控施暴，已受到司法管制，停職另候通知。 綜合法新社與英國廣播公...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5597860",
+     "source": "自由時報",
+     "published": "2026-10-06T20:00:03+00:00"
+    },
+    {
+     "title": "Ronaldo apologizes for Portugal walkout; says Jesus broke promise",
+     "summary": "Cristiano Ronaldo accuses Portugal coach Jorge Jesus of broken promises, but leaves international return open.",
+     "image": "",
+     "url": "https://www.aljazeera.com/sports/2026/10/6/ronaldo-apologizes-for-portugal-walkout-says-jesus-broke-promise?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-06T19:56:14+00:00"
+    },
+    {
+     "title": "Yemen’s government is on the attack against the Houthis. What has changed?",
+     "summary": "Yemeni forces are trying to reverse Houthi gains, aided by heavier air power and renewed international support.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news-analysis/2026/10/6/yemen-government-is-on-the-attack-against-the-houthis-what-has-changed?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-06T19:43:05+00:00"
+    },
+    {
+     "title": "傳美中正商討相互參訪核設施 學者示警北京意在謀取台灣議題讓步",
+     "summary": "針對中國持續擴張核武力量，美國有線電視新聞網（CNN）6日引述知情人士報導，川普政府內部已討論與中國相互參訪核設施的構想，並計畫在未來數月的實體會晤中，持續推動此一可能性。但...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5597857",
+     "source": "自由時報",
+     "published": "2026-10-06T19:06:15+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》US vows to protect from repression",
+     "summary": "SOVEREIGN SOIL: The remarks from US officials come after a woman was arrested for allegedly spying o...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5597807",
+     "source": "自由時報",
+     "published": "2026-10-06T19:00:00+00:00"
+    },
     {
      "title": "Cornell names former acting U.S. attorney general to review rape case",
      "summary": "Cornell University names Sally Yates, former acting U.S. attorney general and career federal prosecutor, to lead an independent review into how the school handled a former student's rape allegations.",
@@ -11,22 +99,6 @@
      "url": "https://www.npr.org/2026/10/06/nx-s1-5992799/cornell-yates-rape-case-updates-review",
      "source": "NPR News",
      "published": "2026-10-06T18:31:45+00:00"
-    },
-    {
-     "title": "Amid protests, Kosovo’s political deadlock raises prospect of new elections",
-     "summary": "Kosovo faces tensions as protests against former rebel leaders’ convictions coincide with the prospect of new elections.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/6/amid-protests-kosovos-political-deadlock-raises-prospect-of-new-elections?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-06T18:25:45+00:00"
-    },
-    {
-     "title": "Stocks making the biggest moves midday: Marvell, Moderna, Lamb Weston, Constellation Energy & more",
-     "summary": "Here are some of the companies making headlines in midday trading.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/06/stocks-making-the-biggest-moves-midday-mrvl-mrna-lw-ceg.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-06T18:22:31+00:00"
     },
     {
      "title": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
@@ -37,14 +109,6 @@
      "published": "2026-10-06T18:06:40+00:00"
     },
     {
-     "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
-     "summary": "New York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6613/live/f2cf53b0-c189-11f1-83c7-97e75190a976.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-06T18:05:53+00:00"
-    },
-    {
      "title": "France's police fire tear gas and water cannons as school protests sweep the country",
      "summary": "More than a quarter of a million people rallied nationwide to support school students demanding more education funding, according to government figures, with thousands of arrests.",
      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7208x4807+0+0/resize/7208x4807!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0b%2Fcb%2F54df968b4dfba40b5189745f93d6%2Fap26279398075586.jpg",
@@ -53,84 +117,20 @@
      "published": "2026-10-06T18:05:44+00:00"
     },
     {
+     "title": "Tear gas in Paris and Marseille as school protests grow across France",
+     "summary": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aed/live/289aad70-c1ab-11f1-8fa2-19a1e9b6288f.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-06T18:03:19+00:00"
+    },
+    {
      "title": "Google told to halt work on datacentres in Finland over environmental concerns",
-     "summary": "Order on two construction sites comes after Google failed to carry out the necessary environmental impact assessments Google has been ordered to temporarily stop work on two datacentres in Finland aft…",
+     "summary": "Order on two construction sites comes after Google failed to carry out environmental impact assessments Google has been ordered to temporarily stop work on two datacentres in Finland after failing to…",
      "image": "https://i.guim.co.uk/img/media/5a426a4caa58ecb7baabf8e19319bb4ee7c46a53/669_0_3162_2531/master/3162.jpg?width=140&quality=85&auto=format&fit=max&s=94737ebde78cf77bb6f11a8127225101",
      "url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
      "source": "Guardian Business",
      "published": "2026-10-06T18:02:56+00:00"
-    },
-    {
-     "title": "Indian opposition leaders detained during voter lists protest",
-     "summary": "Police detained Indian opposition leaders during a protest outside the Election Commission in New Delhi where lawmakers",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/indian-opposition-leaders-detained-during-voter-lists-protest?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-06T17:47:05+00:00"
-    },
-    {
-     "title": "Tuareg rebels withdraw from strategic town of Kidal in northern Mali",
-     "summary": "The Azawad Liberation Front said sustained air strikes by Malian troops and Russian allies forced its tactical retreat.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/6/tuareg-rebels-withdraw-from-strategic-town-of-kidal-in-northern-mali?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-06T17:46:52+00:00"
-    },
-    {
-     "title": "AI熱潮率科技股走高　歐股收紅",
-     "summary": "國際油價回落之際，人工智慧（AI）熱潮率科技股走高，歐洲股市主要指數今天收盤齊揚。 倫敦FTSE 100指數小漲43.75點或0.42%，收報10541.69點。 法蘭克福DAX指數上揚...…",
-     "image": "",
-     "url": "https://ec.ltn.com.tw/article/breakingnews/5597849",
-     "source": "自由時報",
-     "published": "2026-10-06T17:45:04+00:00"
-    },
-    {
-     "title": "Asos warns customer data may be compromised after ‘unauthorised’ app access",
-     "summary": "Shares in fashion company fall nearly 10% after its app systems are accessed by ‘unidentified third party’ Asos is investigating unauthorised access to its app system after shoppers received a notific…",
-     "image": "https://i.guim.co.uk/img/media/821c0d8f486bde0335fe5d90a13160fa0e838ab2/722_176_4748_3799/master/4748.jpg?width=140&quality=85&auto=format&fit=max&s=0505896dbd7bc33042326a8598e90ea5",
-     "url": "https://www.theguardian.com/business/2026/oct/06/asos-hack-notification-website-app",
-     "source": "Guardian Business",
-     "published": "2026-10-06T17:44:16+00:00"
-    },
-    {
-     "title": "Jerusalem Daily:  Tension high in Israel ahead of October 7",
-     "summary": "Jerusalem Daily: Tension high in Israel ahead of October 7",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/jerusalem-daily-tension-high-in-israel-ahead-of-october-7?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-06T17:39:19+00:00"
-    },
-    {
-     "title": "沈伯洋上《少康戰情室》1打5？驚見5大主持人列陣 網：太勇敢",
-     "summary": "民進黨台北市長參選人沈伯洋積極破圈，繼媒體人平秀琳、王偉忠、李四端等人後，週三（7日）他將上國民黨「戰鬥藍」發起人趙少康主持的節目《少康戰情室》接受專訪，引發關注。有網友注意到，...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5597837",
-     "source": "自由時報",
-     "published": "2026-10-06T17:02:31+00:00"
-    },
-    {
-     "title": "Outcry in Trinidad and Tobago after passing of police bill that could threaten press freedom",
-     "summary": "Journalists call for urgent amendment to special operations bill, which increases police search and seizure powers Journalists in Trinidad and Tobago have called for an urgent amendment to a sweeping…",
-     "image": "https://i.guim.co.uk/img/media/c630aec5eeb70ecdc9b28ef75fee330e661673a2/776_386_2017_1614/master/2017.jpg?width=140&quality=85&auto=format&fit=max&s=9e4887838a6799bd71fb74b3f5a51261",
-     "url": "https://www.theguardian.com/world/2026/oct/06/outcry-in-trinidad-and-tobago-after-passing-of-police-bill-that-could-threaten-press-freedom",
-     "source": "Guardian World",
-     "published": "2026-10-06T16:53:21+00:00"
-    },
-    {
-     "title": "直面美商關切！蕭美琴拋台美3大要務：避免雙重課稅 確保可靠能源",
-     "summary": "副總統蕭美琴6日晚間出席「台灣美國商會75周年慶祝活動」時表示，面對地緣政治競爭與供應鏈重組，台美未來至少有「深化科技產業合作、打造穩定商業環境、強化國內發展根基」三大優先要務，...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5597843",
-     "source": "自由時報",
-     "published": "2026-10-06T16:41:47+00:00"
-    },
-    {
-     "title": "藍營狂抹黑沈伯洋挺毒品 醫師怒斥：為一己之私的政治算計",
-     "summary": "國民黨和尋求連任的台北市長蔣萬安，近期拿民進黨台北市長參選人沈伯洋10多年前寫的毒品防制文章，斷章取義抹黑沈伯洋「縱容毒品」、「支持毒品除罪」，引發大批協助毒品或管制藥物成癮者戒...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5597816",
-     "source": "自由時報",
-     "published": "2026-10-06T16:39:18+00:00"
     }
    ]
   },
@@ -179,19 +179,11 @@
     },
     {
      "title": "Mistral Large 4",
-     "summary": "https://docs.mistral.ai/models/mistral-large-4-0 Comments URL: https://news.ycombinator.com/item?id=49977979 Points: 1118 # Comments: 721",
+     "summary": "https://docs.mistral.ai/models/mistral-large-4-0 Comments URL: https://news.ycombinator.com/item?id=49977979 Points: 1358 # Comments: 849",
      "image": "",
      "url": "https://mistral.ai/news/mistral-large-4/\\",
      "source": "Hacker News Front Page",
      "published": "2026-10-06T13:15:49+00:00"
-    },
-    {
-     "title": "Meta's Muse Is an Adorable Privacy and Security Dumpster Fire",
-     "summary": "Article URL: https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/ Comments URL: https://news.ycombinator.com/item?id=49977588 Points: 310 # Comments: 211",
-     "image": "",
-     "url": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-06T12:45:49+00:00"
     },
     {
      "title": "聯電 9 月營收創歷史新高，AI 營收將大幅成長帶動代工價格",
@@ -202,20 +194,12 @@
      "published": "2026-10-06T12:15:53+00:00"
     },
     {
-     "title": "Release of Polars 2.0",
-     "summary": "Article URL: https://pola.rs/posts/release-polars-2/ Comments URL: https://news.ycombinator.com/item?id=49977177 Points: 319 # Comments: 64",
+     "title": "Polars 2.0",
+     "summary": "Article URL: https://pola.rs/posts/release-polars-2/ Comments URL: https://news.ycombinator.com/item?id=49977177 Points: 372 # Comments: 86",
      "image": "",
      "url": "https://pola.rs/posts/release-polars-2/",
      "source": "Hacker News Front Page",
      "published": "2026-10-06T11:59:01+00:00"
-    },
-    {
-     "title": "JetBrains reported a net financial loss first time in its tracked history",
-     "summary": "Article URL: https://www.helgilibrary.com/companies/jetbrains Comments URL: https://news.ycombinator.com/item?id=49977072 Points: 542 # Comments: 487",
-     "image": "",
-     "url": "https://www.helgilibrary.com/companies/jetbrains",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-06T11:45:55+00:00"
     },
     {
      "title": "2026 諾貝爾物理學獎一人獨得，美籍學者推動南極天文台活捉宇宙微中子",
@@ -226,12 +210,28 @@
      "published": "2026-10-06T11:15:45+00:00"
     },
     {
+     "title": "Nature's capacity to 'bounce back' when species are lost is overestimated: study",
+     "summary": "Article URL: https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html Comments URL: https://news.ycombinator.com/item?id=49976823 Points: 277 # Comments: 140",
+     "image": "",
+     "url": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-06T11:11:51+00:00"
+    },
+    {
      "title": "BMW 逆勢投資德國 20 億歐元生產新 3 系列與電池，同時裁減 8 千個行政職",
      "summary": "德國車廠 BMW 9 月 30 日宣布，投資約 20 億歐元在德國生產汽車與電池，為旗下最暢銷的新 3 系列車 […]",
      "image": "",
      "url": "https://finance.technews.tw/2026/10/06/bmws-e2bn-investment-in-german-car-production-explained/",
      "source": "科技新報 TechNews",
      "published": "2026-10-06T10:30:26+00:00"
+    },
+    {
+     "title": "Nobel Prize in Physics 2026: Francis Halzen",
+     "summary": "Article URL: https://www.nobelprize.org/prizes/physics/2026/ Comments URL: https://news.ycombinator.com/item?id=49976265 Points: 460 # Comments: 153",
+     "image": "",
+     "url": "https://www.nobelprize.org/prizes/physics/2026/",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-06T09:48:46+00:00"
     },
     {
      "title": "Training Numerical Intelligence via Auto-Diagnosis and Skill Discovery",
@@ -271,20 +271,76 @@
    "label": "運動",
    "items": [
     {
+     "title": "Harry Kane doubles up on landmark night as England cruise past Czechia",
+     "summary": "It was a night that belonged to Harry Kane. Yet another one. It began with him being shown a replay of his first England goal during a pre-match interview with ITV – the header against Lithuania in 20…",
+     "image": "https://i.guim.co.uk/img/media/bd0a586ad097f31bb5739e7e23900c9b1556378c/426_74_3558_2847/master/3558.jpg?width=140&quality=85&auto=format&fit=max&s=9d8be0a76e96f30ecacf6115b181ff3e",
+     "url": "https://www.theguardian.com/football/2026/oct/06/england-czechia-nations-league-match-report",
+     "source": "Guardian Sport",
+     "published": "2026-10-06T20:50:39+00:00"
+    },
+    {
+     "title": "Kane scores twice but who else was a 'real threat'? England player ratings",
+     "summary": "Senior football correspondent Sami Mokbel rates the England players after Tuesday's 3-0 win against the Czech Republic.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/961a/live/7b935fd0-c1c5-11f1-babe-4199b0e7ccea.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cx7vp3lqv985o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-06T20:42:24+00:00"
+    },
+    {
+     "title": "Philadelphia Eagles great Lane Johnson abruptly retires citing ‘mental health’",
+     "summary": "Two-time All-Pro won two Super Bowls with Eagles Johnson says family priorities have changed 36-year-old started 171 games for Philadelphia Lane Johnson, the Philadelphia Eagles’ decorated right tackl…",
+     "image": "https://i.guim.co.uk/img/media/deba668d53af09f06664089acdabd0ad5f24df6e/608_0_4278_3423/master/4278.jpg?width=140&quality=85&auto=format&fit=max&s=d0936dfe36c1ca459f62be145874c4d8",
+     "url": "https://www.theguardian.com/sport/2026/oct/06/lane-johnson-retirement-philadelphia-eagles-nfl-mental-health",
+     "source": "Guardian Sport",
+     "published": "2026-10-06T20:32:32+00:00"
+    },
+    {
+     "title": "Ronaldo wants Portugal 'punishment' but not retiring",
+     "summary": "Cristiano Ronaldo says he is not retiring from international football but deserves to be punished for walking out on Portugal even though head coach Jorge Jesus \"broke his word to me\".",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aa4/live/8a4523d0-c1be-11f1-babe-4199b0e7ccea.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cmd7qn48q13lo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-06T20:12:24+00:00"
+    },
+    {
+     "title": "Cristiano Ronaldo accuses Portugal coach Jorge Jesus of broken promises",
+     "summary": "Forward says he will be available after punishment Ronaldo insists coach ‘had broken his word to me’ Cristiano Ronaldo has accused the Portugal head coach, Jorge Jesus, of twice breaking his word, say…",
+     "image": "https://i.guim.co.uk/img/media/0865ca2e077657309e0bc77496ecd625c68c4630/321_1086_2915_2332/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=512ee87c68789cb6fc2b86dd4090d63a",
+     "url": "https://www.theguardian.com/football/2026/oct/06/cristiano-ronaldo-accuses-portugal-coach-jorge-jesus-of-broken-promises",
+     "source": "Guardian Sport",
+     "published": "2026-10-06T19:48:11+00:00"
+    },
+    {
+     "title": "Rival clubs want retrospective and future punishments for Man City",
+     "summary": "A number of Premier League clubs want Manchester City to be hit with both retrospective punishments and sanctions in the future.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/135d/live/c0091b70-c19b-11f1-a64c-550be9e3c66b.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c623d8707k5lo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-06T19:30:20+00:00"
+    },
+    {
      "title": "Kane's rise from childhood keeper to equalling England cap record",
      "summary": "Harry Kane reaches another significant England milestone by equalling Peter Shilton's record as the most-capped Three Lions player that he has held for 36 years.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8e4/live/6ceccdf0-c1a1-11f1-8fa2-19a1e9b6288f.jpg",
      "url": "https://www.bbc.co.uk/sport/football/articles/cx2ln5n7yqdo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
-     "published": "2026-10-06T18:45:39+00:00"
+     "published": "2026-10-06T19:15:12+00:00"
     },
     {
-     "title": "England v Czechia: Nations League football – live",
-     "summary": "Nations League updates from the 7.45pm BST kick-off Live scores | Read today’s Football Daily | And mail Scott Some slapstick shenanigans on ITV as the Wembley water sprinklers turn on Ian Wright, Roy…",
-     "image": "https://i.guim.co.uk/img/media/900c1a9757cd9ee667f0bf042f6ce853ff19f60f/539_0_4046_3237/master/4046.jpg?width=140&quality=85&auto=format&fit=max&s=43567bcfadb2fb0dcfee4d2e84b624a0",
-     "url": "https://www.theguardian.com/football/live/2026/oct/06/england-v-czechia-nations-league-football-live",
-     "source": "Guardian Sport",
-     "published": "2026-10-06T18:41:42+00:00"
+     "title": "Timberwolves star Anthony Edwards claps back at Drake in shoe reveal",
+     "summary": "The Timberwolves superstar revealed the latest colorway for the AE3s and responded to the Canadian rapper's diss from a Kevin Durant ad.",
+     "image": "https://media.zenfs.com/en/usa_today_sports_articles_558/a8b51867a26510d165c83500ee88dc08.jpg",
+     "url": "https://sports.yahoo.com/articles/anthony-edwards-claps-back-drake-190033387.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-06T19:00:33+00:00"
+    },
+    {
+     "title": "Luka Dončić says he ‘felt great’ physically after preseason opener",
+     "summary": "The Lakers’ superstar sounded happy and healthy in his return to the court",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/1dc0ae08af7e684acbdf9ed12c94dbea.jpg",
+     "url": "https://sports.yahoo.com/articles/luka-don-says-felt-great-182006636.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-06T18:20:06+00:00"
     },
     {
      "title": "Northwest Division preview + WNBA semifinals game 1 reactions",
@@ -295,36 +351,12 @@
      "published": "2026-10-06T18:06:15+00:00"
     },
     {
-     "title": "2026-27 Fantasy Basketball Mock Draft: Round-by-round analysis for a 12-team Yahoo standard points league",
-     "summary": "Dan Titus recaps a 12-team standard Yahoo points league mock draft with round-by-round fantasy basketball analysis.",
-     "image": "",
-     "url": "https://sports.yahoo.com/fantasy/article/2026-27-fantasy-basketball-mock-draft-round-by-round-analysis-for-a-12-team-yahoo-standard-points-league-175326304.html",
+     "title": "Meet Jordan Ott’s coaching staff",
+     "summary": "From player development to defense, these coaches play an important role in Phoenix’s success.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/9560f7d4957401cdff61a71602a8e87b.jpg",
+     "url": "https://sports.yahoo.com/articles/meet-jordan-ott-coaching-staff-180000740.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-10-06T17:53:26+00:00"
-    },
-    {
-     "title": "EuroLeague rejects NBA Europe initial merger proposal, more negotiations to come",
-     "summary": "The EuroLeague stakeholders also voted to postpone expansion, opening the door to future talks with the NBA.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/euroleague-rejects-nba-europe-initial-172804904.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-06T17:28:04+00:00"
-    },
-    {
-     "title": "2026-27 Fantasy Basketball: Collin Murray-Boyles, Derik Queen among sophomore stars",
-     "summary": "Which second-year NBA players will be the best options for fantasy managers?",
-     "image": "https://media.zenfs.com/en/nbcsports.com/a22fba66b978b0762905e6b8bccc921e.jpg",
-     "url": "https://sports.yahoo.com/articles/2026-27-fantasy-basketball-collin-171213346.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-06T17:12:13+00:00"
-    },
-    {
-     "title": "Rival clubs want retrospective and future punishments for Man City",
-     "summary": "A number of Premier League clubs want Manchester City to be hit with both retrospective punishments and sanctions in the future.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/135d/live/c0091b70-c19b-11f1-a64c-550be9e3c66b.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c623d8707k5lo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-06T16:15:04+00:00"
+     "published": "2026-10-06T18:00:00+00:00"
     },
     {
      "title": "Giannis Antetokounmpo leaning into 'Heat Culture' ahead of first season in Miami: 'It gives me goosebumps'",
@@ -351,14 +383,6 @@
      "published": "2026-10-06T13:58:14+00:00"
     },
     {
-     "title": "Djokovic ends title drought with China Open triumph while Alcaraz claims glory in Japan",
-     "summary": "Serb victorious after De Minaur retires injured Alcaraz beats Lehecka for first title since February Novak Djokovic capped an outstanding week at the China Open with his first title for nearly a year.…",
-     "image": "https://i.guim.co.uk/img/media/53f2616180daf5c141bb700f4ed1a8872620f64d/208_0_4308_3447/master/4308.jpg?width=140&quality=85&auto=format&fit=max&s=fc34ff9b75106b76304713f343800f58",
-     "url": "https://www.theguardian.com/sport/2026/oct/06/alcaraz-japan-open-djokovic-de-minaur-china-open-sinner-injury-tennis",
-     "source": "Guardian Sport",
-     "published": "2026-10-06T13:35:03+00:00"
-    },
-    {
      "title": "NBA head coach rankings: Where all 30 stand entering the 2026-27 season",
      "summary": "Joe Mazzulla and JJ Redick are on the rise, Ime Udoka and Nick Nurse have something to prove ... and who's No. 1?",
      "image": "https://sportshub.cbsistatic.com/i/2026/10/06/92bc6f2b-a234-4444-98ad-a2c9a6a1dda2/nbacoaches.png",
@@ -373,30 +397,6 @@
      "url": "https://www.theguardian.com/sport/2026/oct/06/wnba-connecticut-sun-move-native-american-fans",
      "source": "Guardian Sport",
      "published": "2026-10-06T10:00:51+00:00"
-    },
-    {
-     "title": "Coco Gauff says ‘insane’ wave of racist abuse followed disputed point at China Open",
-     "summary": "American stopped rally after being distracted in match ‘You can dislike me or disagree … without being racist’ Coco Gauff said she received an “insane” amount of racist ­comments on social media ­foll…",
-     "image": "https://i.guim.co.uk/img/media/e8c207c3d59a213cdb8179f598678a87bfefd8c4/282_0_3135_2508/master/3135.jpg?width=140&quality=85&auto=format&fit=max&s=4adad8716568a9ff2c144a3dc2042992",
-     "url": "https://www.theguardian.com/sport/2026/oct/06/coco-gauff-racist-abuse-disputed-point-china-open-tennis",
-     "source": "Guardian Sport",
-     "published": "2026-10-06T08:28:27+00:00"
-    },
-    {
-     "title": "LIV Golf secures potential $300m investment",
-     "summary": "LIV Golf secures a possible $300m in financing from BC Partners Credit in order to emerge from restructuring before the 2027 season.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f267/live/89038610-c150-11f1-a043-4511bb61bfac.jpg",
-     "url": "https://www.bbc.co.uk/sport/golf/articles/ckjwe02v4xdlo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-06T07:02:33+00:00"
-    },
-    {
-     "title": "Owner, businessman & player: Messi has big plans as a golden era ends",
-     "summary": "Lionel Messi's Argentina career will end in a friendly against Benin. BBC Sport looks at what is next for the 39-year-old.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/736a/live/3de6acd0-c0b4-11f1-837f-5ba27a94daa8.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cwly3lpmyye9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-06T05:39:49+00:00"
     }
    ]
   }
