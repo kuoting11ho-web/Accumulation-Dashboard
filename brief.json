@@ -1,9 +1,121 @@
 {
- "generated": "2026-10-06T16:51:09.532324+00:00",
+ "generated": "2026-10-06T18:56:36.734245+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
+    {
+     "title": "Cornell names former acting U.S. attorney general to review rape case",
+     "summary": "Cornell University names Sally Yates, former acting U.S. attorney general and career federal prosecutor, to lead an independent review into how the school handled a former student's rape allegations.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4446x3114+0+0/resize/4446x3114!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F20%2Fb3%2F8116ad26463b8f38098cbcea2522%2Fap26279617987696.jpg",
+     "url": "https://www.npr.org/2026/10/06/nx-s1-5992799/cornell-yates-rape-case-updates-review",
+     "source": "NPR News",
+     "published": "2026-10-06T18:31:45+00:00"
+    },
+    {
+     "title": "Amid protests, Kosovo’s political deadlock raises prospect of new elections",
+     "summary": "Kosovo faces tensions as protests against former rebel leaders’ convictions coincide with the prospect of new elections.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/6/amid-protests-kosovos-political-deadlock-raises-prospect-of-new-elections?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-06T18:25:45+00:00"
+    },
+    {
+     "title": "Stocks making the biggest moves midday: Marvell, Moderna, Lamb Weston, Constellation Energy & more",
+     "summary": "Here are some of the companies making headlines in midday trading.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/06/stocks-making-the-biggest-moves-midday-mrvl-mrna-lw-ceg.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-06T18:22:31+00:00"
+    },
+    {
+     "title": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
+     "summary": "The expansion marks the AI company's latest push to deepen its ties to founders and fast-growing companies.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-06T18:06:40+00:00"
+    },
+    {
+     "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
+     "summary": "New York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6613/live/f2cf53b0-c189-11f1-83c7-97e75190a976.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-06T18:05:53+00:00"
+    },
+    {
+     "title": "France's police fire tear gas and water cannons as school protests sweep the country",
+     "summary": "More than a quarter of a million people rallied nationwide to support school students demanding more education funding, according to government figures, with thousands of arrests.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7208x4807+0+0/resize/7208x4807!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0b%2Fcb%2F54df968b4dfba40b5189745f93d6%2Fap26279398075586.jpg",
+     "url": "https://www.npr.org/2026/10/06/nx-s1-5992819/france-student-protests-schools",
+     "source": "NPR News",
+     "published": "2026-10-06T18:05:44+00:00"
+    },
+    {
+     "title": "Google told to halt work on datacentres in Finland over environmental concerns",
+     "summary": "Order on two construction sites comes after Google failed to carry out the necessary environmental impact assessments Google has been ordered to temporarily stop work on two datacentres in Finland aft…",
+     "image": "https://i.guim.co.uk/img/media/5a426a4caa58ecb7baabf8e19319bb4ee7c46a53/669_0_3162_2531/master/3162.jpg?width=140&quality=85&auto=format&fit=max&s=94737ebde78cf77bb6f11a8127225101",
+     "url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
+     "source": "Guardian Business",
+     "published": "2026-10-06T18:02:56+00:00"
+    },
+    {
+     "title": "Indian opposition leaders detained during voter lists protest",
+     "summary": "Police detained Indian opposition leaders during a protest outside the Election Commission in New Delhi where lawmakers",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/indian-opposition-leaders-detained-during-voter-lists-protest?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-06T17:47:05+00:00"
+    },
+    {
+     "title": "Tuareg rebels withdraw from strategic town of Kidal in northern Mali",
+     "summary": "The Azawad Liberation Front said sustained air strikes by Malian troops and Russian allies forced its tactical retreat.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/6/tuareg-rebels-withdraw-from-strategic-town-of-kidal-in-northern-mali?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-06T17:46:52+00:00"
+    },
+    {
+     "title": "AI熱潮率科技股走高　歐股收紅",
+     "summary": "國際油價回落之際，人工智慧（AI）熱潮率科技股走高，歐洲股市主要指數今天收盤齊揚。 倫敦FTSE 100指數小漲43.75點或0.42%，收報10541.69點。 法蘭克福DAX指數上揚...…",
+     "image": "",
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5597849",
+     "source": "自由時報",
+     "published": "2026-10-06T17:45:04+00:00"
+    },
+    {
+     "title": "Asos warns customer data may be compromised after ‘unauthorised’ app access",
+     "summary": "Shares in fashion company fall nearly 10% after its app systems are accessed by ‘unidentified third party’ Asos is investigating unauthorised access to its app system after shoppers received a notific…",
+     "image": "https://i.guim.co.uk/img/media/821c0d8f486bde0335fe5d90a13160fa0e838ab2/722_176_4748_3799/master/4748.jpg?width=140&quality=85&auto=format&fit=max&s=0505896dbd7bc33042326a8598e90ea5",
+     "url": "https://www.theguardian.com/business/2026/oct/06/asos-hack-notification-website-app",
+     "source": "Guardian Business",
+     "published": "2026-10-06T17:44:16+00:00"
+    },
+    {
+     "title": "Jerusalem Daily:  Tension high in Israel ahead of October 7",
+     "summary": "Jerusalem Daily: Tension high in Israel ahead of October 7",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/jerusalem-daily-tension-high-in-israel-ahead-of-october-7?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-06T17:39:19+00:00"
+    },
+    {
+     "title": "沈伯洋上《少康戰情室》1打5？驚見5大主持人列陣 網：太勇敢",
+     "summary": "民進黨台北市長參選人沈伯洋積極破圈，繼媒體人平秀琳、王偉忠、李四端等人後，週三（7日）他將上國民黨「戰鬥藍」發起人趙少康主持的節目《少康戰情室》接受專訪，引發關注。有網友注意到，...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5597837",
+     "source": "自由時報",
+     "published": "2026-10-06T17:02:31+00:00"
+    },
+    {
+     "title": "Outcry in Trinidad and Tobago after passing of police bill that could threaten press freedom",
+     "summary": "Journalists call for urgent amendment to special operations bill, which increases police search and seizure powers Journalists in Trinidad and Tobago have called for an urgent amendment to a sweeping…",
+     "image": "https://i.guim.co.uk/img/media/c630aec5eeb70ecdc9b28ef75fee330e661673a2/776_386_2017_1614/master/2017.jpg?width=140&quality=85&auto=format&fit=max&s=9e4887838a6799bd71fb74b3f5a51261",
+     "url": "https://www.theguardian.com/world/2026/oct/06/outcry-in-trinidad-and-tobago-after-passing-of-police-bill-that-could-threaten-press-freedom",
+     "source": "Guardian World",
+     "published": "2026-10-06T16:53:21+00:00"
+    },
     {
      "title": "直面美商關切！蕭美琴拋台美3大要務：避免雙重課稅 確保可靠能源",
      "summary": "副總統蕭美琴6日晚間出席「台灣美國商會75周年慶祝活動」時表示，面對地緣政治競爭與供應鏈重組，台美未來至少有「深化科技產業合作、打造穩定商業環境、強化國內發展根基」三大優先要務，...…",
@@ -19,118 +131,6 @@
      "url": "https://news.ltn.com.tw/news/politics/breakingnews/5597816",
      "source": "自由時報",
      "published": "2026-10-06T16:39:18+00:00"
-    },
-    {
-     "title": "南迴線金崙至瀧溪段電車線冒火花  故障3小時 台鐵派接駁車載客至高雄",
-     "summary": "6日晚間8時許，台鐵432次電車行經金崙=瀧溪間大竹2號隧道時發現電車線有火花，於瀧溪站2股停車檢查發現集電弓損壞，K62處有2處電桿三角架異常，無法行駛電力列車，最後接駁旅客...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5597845",
-     "source": "自由時報",
-     "published": "2026-10-06T16:38:45+00:00"
-    },
-    {
-     "title": "S&P 500 rises to record high as oil and yields move lower: Live updates",
-     "summary": "The S&P 500 rose to a fresh all-time intraday high on Tuesday, boosted by gains in key technology names as well as declines in oil prices and Treasury yields.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/05/stock-market-today-live-updates.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-06T16:36:28+00:00"
-    },
-    {
-     "title": "起風了！農曆9月運勢大洗牌 雨揚揭曉「躺贏vs渡劫」生肖榜",
-     "summary": "〔娛樂頻道／綜合報導〕進入農曆9月，五行磁場迎來年度重大翻轉！命理專家雨揚老師指出，隨著九九重陽節氣場推動，12生肖運勢呈現極端兩樣情：有3個生肖喜逢貴人主動抬轎、正偏財雙收直接「原地躺贏」；卻也有3...…",
-     "image": "",
-     "url": "https://ent.ltn.com.tw/news/breakingnews/5597823",
-     "source": "自由時報",
-     "published": "2026-10-06T16:33:00+00:00"
-    },
-    {
-     "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-     "summary": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e38/live/ca132f80-c177-11f1-bed0-05ebd781c53c.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-06T16:22:37+00:00"
-    },
-    {
-     "title": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
-     "summary": "The expansion marks the AI company's latest push to deepen its ties to founders and fast-growing companies.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-06T16:19:16+00:00"
-    },
-    {
-     "title": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
-     "summary": "Nearly 20 commercial ships, mostly tankers, have come under attack over the past month while sailing through the Hormuz choke point.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/06/crude-oil-tanker-strait-hormuz-iran-attack.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-06T16:19:10+00:00"
-    },
-    {
-     "title": "Is Europe preparing for a wider war with Russia?",
-     "summary": "A British war-game show simulating a Russian attack has drawn a nuclear warning from Moscow.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/is-europe-preparing-for-a-wider-war-with-russia?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-06T16:17:58+00:00"
-    },
-    {
-     "title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
-     "summary": "That marked a 13.7% jump from July and was ahead of the Dow Jones consensus estimate for $102 billion.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-06T15:52:22+00:00"
-    },
-    {
-     "title": "FIFA chief Infantino’s ‘abuse of power’ questioned by Norway in complaints",
-     "summary": "The three complaints filed by Norway's football body ask FIFA's Ethics Committee to examine Infantino's conduct.",
-     "image": "",
-     "url": "https://www.aljazeera.com/sports/2026/10/6/fifa-chief-infantinos-abuse-of-power-questioned-by-norway-in-complaints?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-06T15:49:54+00:00"
-    },
-    {
-     "title": "LIVE: Croatia vs Spain – UEFA Nations League",
-     "summary": "Follow updates, with build-up and team news, from our live text commentary stream coverage as Lamine Yamal headlines.",
-     "image": "",
-     "url": "https://www.aljazeera.com/sports/liveblog/2026/10/6/live-crostia-vs-spain-uefa-nations-league?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-06T15:47:16+00:00"
-    },
-    {
-     "title": "Birzeit University memorial destruction aims to crush Palestinian memory",
-     "summary": "Israeli soldiers removed the monument to students and alumni killed by Israel and replaced it with a fig sapling.",
-     "image": "",
-     "url": "https://www.aljazeera.com/features/2026/10/6/birzeit-university-memorial-destruction-aims-to-crush-palestinian-memory?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-06T15:14:28+00:00"
-    },
-    {
-     "title": "Asos warns customer data may be compromised after ‘unauthorised’ app access",
-     "summary": "Shares in fashion company fall 11% after its app systems are accessed by ‘unidentified third party’ Business live – latest updates Asos is investigating unauthorised access to its app system after sho…",
-     "image": "https://i.guim.co.uk/img/media/821c0d8f486bde0335fe5d90a13160fa0e838ab2/722_176_4748_3799/master/4748.jpg?width=140&quality=85&auto=format&fit=max&s=0505896dbd7bc33042326a8598e90ea5",
-     "url": "https://www.theguardian.com/business/2026/oct/06/asos-hack-notification-website-app",
-     "source": "Guardian Business",
-     "published": "2026-10-06T15:06:35+00:00"
-    },
-    {
-     "title": "Here are the finalists for the 2026 National Book Awards",
-     "summary": "Three-time National Book Award finalist Edwidge Danticat and debut novelist Morgan Thomas are up for the fiction prize. Nonfiction books cover the prison system and music, and queer parenthood.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1084+0+18/resize/2000x1084!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2F73%2F3a307a1b4a229daf6ff87a9f126f%2Fcopy-of-6-book-covers-5.jpg",
-     "url": "https://www.npr.org/2026/10/06/nx-s1-5991463/2026-national-book-award-shortlist-finalists",
-     "source": "NPR News",
-     "published": "2026-10-06T14:30:20+00:00"
-    },
-    {
-     "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
-     "summary": "New York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6613/live/f2cf53b0-c189-11f1-83c7-97e75190a976.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-06T13:36:46+00:00"
     }
    ]
   },
@@ -138,20 +138,36 @@
    "label": "AI",
    "items": [
     {
-     "title": "Big Oil asks Supreme Court to kill climate lawsuits before trial",
-     "summary": "Oil companies say federal law should block state climate deception claims.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/oilprotest-500x500.jpg",
-     "url": "https://arstechnica.com/tech-policy/2026/10/big-oil-asks-supreme-court-to-kill-climate-lawsuits-before-trial/",
+     "title": "Paramount completes $111B Warner merger, creating “Skydance” behemoth",
+     "summary": "Paramount now owns Warner Bros. as last-ditch effort to stop $111B merger fails.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/david-ellison-500x500-1791303841.jpg",
+     "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
      "source": "Ars Technica",
-     "published": "2026-10-06T13:29:46+00:00"
+     "published": "2026-10-06T17:33:44+00:00"
     },
     {
-     "title": "Mistral Large 4: \"Le Chonk\"",
-     "summary": "Article URL: https://mistral.ai/news/mistral-large-4/ Comments URL: https://news.ycombinator.com/item?id=49978116 Points: 476 # Comments: 59",
-     "image": "",
-     "url": "https://mistral.ai/news/mistral-large-4/",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-06T13:25:50+00:00"
+     "title": "Support Ars and get a better reading experience in return",
+     "summary": "ArsPro gives you more ways to read while directly supporting our journalism.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ars-subscriber-reading-modes-500x500.jpg",
+     "url": "https://arstechnica.com/staff/2026/10/make-ars-better-with-an-arspro-subscription/",
+     "source": "Ars Technica",
+     "published": "2026-10-06T17:21:15+00:00"
+    },
+    {
+     "title": "Amazon kills Alexa’s ability to control Echo speakers' AUX input",
+     "summary": "Amazon hasn't made an Echo with a 3.5mm port in six years.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/11/71I6oj6ZFBL._SL1000_-500x500.jpg",
+     "url": "https://arstechnica.com/gadgets/2026/10/amazon-bricks-alexas-ability-to-control-echo-speakers-aux-input/",
+     "source": "Ars Technica",
+     "published": "2026-10-06T17:03:16+00:00"
+    },
+    {
+     "title": "Neutrino physicist wins 2026 Nobel Physics Prize",
+     "summary": "Francis Halzen of University of Wisconsin-Madison led development of IceCube Neutrino Observatory.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/icecube1-500x500.jpg",
+     "url": "https://arstechnica.com/science/2026/10/neutrino-physicist-wins-2026-nobel-physics-prize/",
+     "source": "Ars Technica",
+     "published": "2026-10-06T16:53:17+00:00"
     },
     {
      "title": "104 人力銀行遭駭客入侵，12 萬筆履歷資料遭未授權讀取",
@@ -163,27 +179,19 @@
     },
     {
      "title": "Mistral Large 4",
-     "summary": "Article URL: https://docs.mistral.ai/models/mistral-large-4-0 Comments URL: https://news.ycombinator.com/item?id=49977979 Points: 837 # Comments: 495",
+     "summary": "https://docs.mistral.ai/models/mistral-large-4-0 Comments URL: https://news.ycombinator.com/item?id=49977979 Points: 1118 # Comments: 721",
      "image": "",
-     "url": "https://docs.mistral.ai/models/mistral-large-4-0",
+     "url": "https://mistral.ai/news/mistral-large-4/\\",
      "source": "Hacker News Front Page",
      "published": "2026-10-06T13:15:49+00:00"
     },
     {
      "title": "Meta's Muse Is an Adorable Privacy and Security Dumpster Fire",
-     "summary": "Article URL: https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/ Comments URL: https://news.ycombinator.com/item?id=49977588 Points: 239 # Comments: 131",
+     "summary": "Article URL: https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/ Comments URL: https://news.ycombinator.com/item?id=49977588 Points: 310 # Comments: 211",
      "image": "",
      "url": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/",
      "source": "Hacker News Front Page",
      "published": "2026-10-06T12:45:49+00:00"
-    },
-    {
-     "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-     "summary": "The reports of OpenAI agents harming 3rd party sites keep coming.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-500x500.jpg",
-     "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-     "source": "Ars Technica",
-     "published": "2026-10-06T12:21:53+00:00"
     },
     {
      "title": "聯電 9 月營收創歷史新高，AI 營收將大幅成長帶動代工價格",
@@ -194,20 +202,20 @@
      "published": "2026-10-06T12:15:53+00:00"
     },
     {
-     "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
-     "summary": "Users want to \"reduce risk and avoid unnecessary disruption\" while making changes.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-500x500.jpg",
-     "url": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/",
-     "source": "Ars Technica",
-     "published": "2026-10-06T12:00:31+00:00"
-    },
-    {
      "title": "Release of Polars 2.0",
-     "summary": "Article URL: https://pola.rs/posts/release-polars-2/ Comments URL: https://news.ycombinator.com/item?id=49977177 Points: 247 # Comments: 40",
+     "summary": "Article URL: https://pola.rs/posts/release-polars-2/ Comments URL: https://news.ycombinator.com/item?id=49977177 Points: 319 # Comments: 64",
      "image": "",
      "url": "https://pola.rs/posts/release-polars-2/",
      "source": "Hacker News Front Page",
      "published": "2026-10-06T11:59:01+00:00"
+    },
+    {
+     "title": "JetBrains reported a net financial loss first time in its tracked history",
+     "summary": "Article URL: https://www.helgilibrary.com/companies/jetbrains Comments URL: https://news.ycombinator.com/item?id=49977072 Points: 542 # Comments: 487",
+     "image": "",
+     "url": "https://www.helgilibrary.com/companies/jetbrains",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-06T11:45:55+00:00"
     },
     {
      "title": "2026 諾貝爾物理學獎一人獨得，美籍學者推動南極天文台活捉宇宙微中子",
@@ -256,14 +264,6 @@
      "url": "https://arxiv.org/abs/2610.03934",
      "source": "arXiv cs.AI",
      "published": "2026-10-06T04:00:00+00:00"
-    },
-    {
-     "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
-     "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-500x500.jpg",
-     "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
-     "source": "Ars Technica",
-     "published": "2026-10-05T22:26:35+00:00"
     }
    ]
   },
@@ -271,12 +271,52 @@
    "label": "運動",
    "items": [
     {
-     "title": "Philadelphia reserve center Ariel Hukporti suffers non-contact leg injury, undergoing imaging",
-     "summary": "This didn't look good, and if it's a worst-case scenario, it's bad for Hukporti and the 76ers.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/philadelphia-center-ariel-hukporti-suffers-162712218.html",
+     "title": "Kane's rise from childhood keeper to equalling England cap record",
+     "summary": "Harry Kane reaches another significant England milestone by equalling Peter Shilton's record as the most-capped Three Lions player that he has held for 36 years.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8e4/live/6ceccdf0-c1a1-11f1-8fa2-19a1e9b6288f.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cx2ln5n7yqdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-06T18:45:39+00:00"
+    },
+    {
+     "title": "England v Czechia: Nations League football – live",
+     "summary": "Nations League updates from the 7.45pm BST kick-off Live scores | Read today’s Football Daily | And mail Scott Some slapstick shenanigans on ITV as the Wembley water sprinklers turn on Ian Wright, Roy…",
+     "image": "https://i.guim.co.uk/img/media/900c1a9757cd9ee667f0bf042f6ce853ff19f60f/539_0_4046_3237/master/4046.jpg?width=140&quality=85&auto=format&fit=max&s=43567bcfadb2fb0dcfee4d2e84b624a0",
+     "url": "https://www.theguardian.com/football/live/2026/oct/06/england-v-czechia-nations-league-football-live",
+     "source": "Guardian Sport",
+     "published": "2026-10-06T18:41:42+00:00"
+    },
+    {
+     "title": "Northwest Division preview + WNBA semifinals game 1 reactions",
+     "summary": "Nekias Duncan and Steve Jones preview the Northwest Division, recap the WNBA semifinals matchups, and preview the Game 2 slate of games.",
+     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/tds-shai-thumb_9294.png",
+     "url": "https://sports.yahoo.com/nba/article/northwest-division-preview--wnba-semifinals-game-1-reactions-180615026.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-10-06T16:27:12+00:00"
+     "published": "2026-10-06T18:06:15+00:00"
+    },
+    {
+     "title": "2026-27 Fantasy Basketball Mock Draft: Round-by-round analysis for a 12-team Yahoo standard points league",
+     "summary": "Dan Titus recaps a 12-team standard Yahoo points league mock draft with round-by-round fantasy basketball analysis.",
+     "image": "",
+     "url": "https://sports.yahoo.com/fantasy/article/2026-27-fantasy-basketball-mock-draft-round-by-round-analysis-for-a-12-team-yahoo-standard-points-league-175326304.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-06T17:53:26+00:00"
+    },
+    {
+     "title": "EuroLeague rejects NBA Europe initial merger proposal, more negotiations to come",
+     "summary": "The EuroLeague stakeholders also voted to postpone expansion, opening the door to future talks with the NBA.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/euroleague-rejects-nba-europe-initial-172804904.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-06T17:28:04+00:00"
+    },
+    {
+     "title": "2026-27 Fantasy Basketball: Collin Murray-Boyles, Derik Queen among sophomore stars",
+     "summary": "Which second-year NBA players will be the best options for fantasy managers?",
+     "image": "https://media.zenfs.com/en/nbcsports.com/a22fba66b978b0762905e6b8bccc921e.jpg",
+     "url": "https://sports.yahoo.com/articles/2026-27-fantasy-basketball-collin-171213346.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-06T17:12:13+00:00"
     },
     {
      "title": "Rival clubs want retrospective and future punishments for Man City",
@@ -287,36 +327,12 @@
      "published": "2026-10-06T16:15:04+00:00"
     },
     {
-     "title": "2026-27 Rotoworld Fantasy Basketball Draft Kit: Rankings, player profiles, expert analysis, free download",
-     "summary": "Get ready for your fantasy basketball draft with Rotoworld’s FREE draft kit, including rankings, player profiles for the 2026-27 season.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/2026-27-rotoworld-fantasy-basketball-151404782.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-06T15:14:04+00:00"
-    },
-    {
      "title": "Giannis Antetokounmpo leaning into 'Heat Culture' ahead of first season in Miami: 'It gives me goosebumps'",
      "summary": "Antetokounmpo says his experience with the Heat is much different than with the Bucks",
      "image": "https://sportshub.cbsistatic.com/i/2026/10/06/d4aba6d1-8309-4c3f-9771-436ff7754a5e/giannis-heat.jpg",
      "url": "https://www.cbssports.com/nba/news/giannis-antetokounmpo-miami-heat-culture-bucks-nba/",
      "source": "CBS Sports NBA",
      "published": "2026-10-06T15:03:25+00:00"
-    },
-    {
-     "title": "76ers center Ariel Hukporti leaves preseason opener after non-contact right leg injury",
-     "summary": "The Sixers' reserve center had to be helped off the floor, and left the arena on crutches and in a walking boot.",
-     "image": "",
-     "url": "https://sports.yahoo.com/nba/article/76ers-center-ariel-hukporti-leaves-preseason-opener-after-non-contact-right-leg-injury-144947423.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-06T14:49:47+00:00"
-    },
-    {
-     "title": "James Wiseman makes strong first impression in bid for final Knicks roster spot",
-     "summary": "James Wiseman is among several veterans competing for the Knicks’ final roster spot, and he got off to a strong start in Monday's preseason opener.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/james-wiseman-makes-strong-first-143501490.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-06T14:35:01+00:00"
     },
     {
      "title": "Why James Dolan doesn't deserve blame in Knicks' contract standoff with Karl-Anthony Towns",
@@ -333,14 +349,6 @@
      "url": "https://www.cbssports.com/nba/news/nba-draft-2027-storylines-no-1-pick-tyran-stokes/",
      "source": "CBS Sports NBA",
      "published": "2026-10-06T13:58:14+00:00"
-    },
-    {
-     "title": "F1 drivers face ‘unhealthy’ Singapore air as ‘super’ El Niño fuels wildfire haze",
-     "summary": "F1 circus greeted by smoky skies before this Sunday’s GP Pollution affects reaction times like ‘alcoholic beverage’ Singapore’s Formula One night race is an annual opportunity for the city-state to sh…",
-     "image": "https://i.guim.co.uk/img/media/3fb7df60e48f6019bb82a0700ef2879e17828f0f/0_0_5133_4107/master/5133.jpg?width=140&quality=85&auto=format&fit=max&s=097a33c363f61e51bf2dad9ce19e59cf",
-     "url": "https://www.theguardian.com/sport/2026/oct/06/f1-drivers-face-unhealthy-singapore-air-as-super-el-nino-fuels-wildfire-haze",
-     "source": "Guardian Sport",
-     "published": "2026-10-06T13:57:24+00:00"
     },
     {
      "title": "Djokovic ends title drought with China Open triumph while Alcaraz claims glory in Japan",
@@ -367,12 +375,12 @@
      "published": "2026-10-06T10:00:51+00:00"
     },
     {
-     "title": "Next Generation 2026: 60 of the best young talents in world football",
-     "summary": "From ‘the new Toni Kroos’ to the US’ next big hope, Cavan Sullivan, we select some of the most talented players born in 2009. Check the progress of our classes of 2025 | 2024 | 2023 | 2022 | 2021 … ba…",
-     "image": "https://i.guim.co.uk/img/media/b7ba568b001c9d37f27a841072d55afde100d7cf/0_0_1250_1000/master/1250.jpg?width=140&quality=85&auto=format&fit=max&s=0507d3e072209b7f638dc49015d73c5d",
-     "url": "https://www.theguardian.com/football/ng-interactive/2026/oct/06/next-generation-2026-60-of-the-best-young-talents-in-world-football",
+     "title": "Coco Gauff says ‘insane’ wave of racist abuse followed disputed point at China Open",
+     "summary": "American stopped rally after being distracted in match ‘You can dislike me or disagree … without being racist’ Coco Gauff said she received an “insane” amount of racist ­comments on social media ­foll…",
+     "image": "https://i.guim.co.uk/img/media/e8c207c3d59a213cdb8179f598678a87bfefd8c4/282_0_3135_2508/master/3135.jpg?width=140&quality=85&auto=format&fit=max&s=4adad8716568a9ff2c144a3dc2042992",
+     "url": "https://www.theguardian.com/sport/2026/oct/06/coco-gauff-racist-abuse-disputed-point-china-open-tennis",
      "source": "Guardian Sport",
-     "published": "2026-10-06T10:00:51+00:00"
+     "published": "2026-10-06T08:28:27+00:00"
     },
     {
      "title": "LIV Golf secures potential $300m investment",
@@ -381,14 +389,6 @@
      "url": "https://www.bbc.co.uk/sport/golf/articles/ckjwe02v4xdlo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-10-06T07:02:33+00:00"
-    },
-    {
-     "title": "Captain apologises for gloating over military service exemption",
-     "summary": "Lee Gi-hyuk apologises for gloating about avoiding South Korea's mandatory military service.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efe7/live/8b257120-c14f-11f1-a043-4511bb61bfac.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c6wy4xd80xyvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-06T06:43:45+00:00"
     },
     {
      "title": "Owner, businessman & player: Messi has big plans as a golden era ends",
