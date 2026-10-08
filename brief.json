@@ -1,88 +1,128 @@
 {
- "generated": "2026-10-08T19:19:01.054658+00:00",
+ "generated": "2026-10-08T21:23:16.912739+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "Nasdaq drops, weighed down by AI stock sell-off after OpenAI revenue details disappoint: Live updates",
-     "summary": "U.S. stocks were lower on Thursday as investors faced more pressure from rising Treasury yields and elevated oil prices.",
+     "title": "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile",
+     "summary": "SpaceX agreed to purchase a nationwide spectrum portfolio as it to pushes its Starlink service deeper into the U.S. telecommunications market.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-08T21:19:49+00:00"
+    },
+    {
+     "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
+     "summary": "OpenAI has told investors that it hit roughly $50 billion in annualized revenue at the end of September, CNBC confirmed.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-08T21:19:14+00:00"
+    },
+    {
+     "title": "Police use tear gas and water cannons on student protestors in Paris",
+     "summary": "Police fired tear gas and water cannons as demonstrators gathered in Paris to demand more funding and teachers.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/police-use-tear-gas-and-water-cannons-on-student-protestors-in-paris?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-08T21:17:05+00:00"
+    },
+    {
+     "title": "Trump gives top US science awards to Elon Musk and other tech executives",
+     "summary": "The National Medal of Science is annually given to scientists and engineers for major contributions in their fields.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/8/trump-gives-top-us-science-awards-to-elon-musk-and-other-tech-executives?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-08T21:11:54+00:00"
+    },
+    {
+     "title": "What is the Mecca defence pact?",
+     "summary": "Saudi Arabia, Turkiye and Pakistan are activating their defence pact to counter attacks from Yemen’s Houthis.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/what-is-the-mecca-defence-pact?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-08T21:04:48+00:00"
+    },
+    {
+     "title": "中東緊張及颶風影響　國際油價大漲",
+     "summary": "國際油價今天收漲約4%，主因市場再度擔心起中東戰爭，以及颶風逼近美國墨西哥灣沿岸地區（US Gulf Coast）將進一步干擾供應。 路透社報導，市場擔心美國可能打擊伊朗，且颶風伊塞亞斯（...…",
+     "image": "",
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5600477",
+     "source": "自由時報",
+     "published": "2026-10-08T20:54:03+00:00"
+    },
+    {
+     "title": "US charges Venezuela’s Nicolas Maduro over torture allegations",
+     "summary": "Former Venezuelan President Nicolas Maduro and his wife, Cilia Flores face a new US charge over alleged torture.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/us-charges-venezuelas-nicolas-maduro-over-torture-allegations?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-08T20:47:43+00:00"
+    },
+    {
+     "title": "Nasdaq falls 1% as AI trade stumbles following OpenAI revenue setback",
+     "summary": "The S&P 500 and Nasdaq were lower on Thursday as investors faced more pressure from rising Treasury yields and elevated oil prices.",
      "image": "",
      "url": "https://www.cnbc.com/2026/10/07/stock-market-today-live-updates-.html",
      "source": "CNBC Top News",
-     "published": "2026-10-08T19:17:42+00:00"
+     "published": "2026-10-08T20:43:52+00:00"
     },
     {
-     "title": "Why a Starbucks takeover of Chipotle would — and wouldn't — make sense for both companies",
-     "summary": "Starbucks has reportedly been working with advisers on a takeover proposal for Chipotle, but a potential deal comes with pros and cons for investors.",
+     "title": "Men accused of shooting Australian surfer brothers and US friend dead in Mexico to learn fate as trial concludes",
+     "summary": "Martin and Debra Robinson, the brothers’ parents, will address the court before a Mexican judge hands down the verdict A Mexican judge is expected to hand down his verdict on Thursday in the high-prof…",
+     "image": "https://i.guim.co.uk/img/media/803a6b4b97e168ef99e8d8f6d05ed5c149c09e7f/246_0_2463_1970/master/2463.jpg?width=140&quality=85&auto=format&fit=max&s=3af8f82f816ebd3d11dcdcccd67070d8",
+     "url": "https://www.theguardian.com/australia-news/2026/oct/09/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-trial-ntwnfb",
+     "source": "Guardian World",
+     "published": "2026-10-08T20:40:55+00:00"
+    },
+    {
+     "title": "Scientists discover 180,000 giant tortoises on one Seychelles island",
+     "summary": "Free-roaming Aldabra population far exceeds human population of Seychelles after decades-long recovery programme A survey of the world’s largest free-roaming giant tortoise population has discovered t…",
+     "image": "https://i.guim.co.uk/img/media/44734eef89578d79f13141440454c9abeccc49c1/398_0_2263_1812/master/2263.jpg?width=140&quality=85&auto=format&fit=max&s=005c85225cce3ac8004bb44fa50e7820",
+     "url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
+     "source": "Guardian World",
+     "published": "2026-10-08T20:20:31+00:00"
+    },
+    {
+     "title": "Treasury yields are 'really, really high' but can come down soon, Bessent's new advisor says",
+     "summary": "The comments from David Zervos come after the 10-year and 30-year yields marched to 24-year highs in recent days.",
      "image": "",
-     "url": "https://www.cnbc.com/2026/10/08/starbucks-chipotle-acquisition.html",
+     "url": "https://www.cnbc.com/2026/10/08/treasury-yields-david-zervos.html",
      "source": "CNBC Top News",
-     "published": "2026-10-08T19:15:26+00:00"
+     "published": "2026-10-08T20:06:31+00:00"
     },
     {
-     "title": "‘War lives in me’: Gaza playwright Ali Abu Yasin wins English PEN award",
-     "summary": "Honoured for his artistic resilience, Ali Abu Yasin continued writing for theatre amid the rubble.",
+     "title": "川普：「人工智慧」應改稱「超級智慧」　不從者都是敵人",
+     "summary": "美國總統川普曾表態希望以「超級智慧」取代「人工智慧」一詞，他今天表示，任何不聽從他意願的人都將被視為「敵人」，但並未說明可能面臨的後果。 法新社報導，川普（Donald Trump）在自家...…",
      "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/8/gaza-playwright-award?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-08T19:12:33+00:00"
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5600475",
+     "source": "自由時報",
+     "published": "2026-10-08T20:00:04+00:00"
+    },
+    {
+     "title": "川普攜矽谷巨頭推AI科研計畫 募得24億美元資金承諾",
+     "summary": "彭博報導，美國總統川普預計8日在華府舉行的一場峰會上宣布，已獲得矽谷巨頭高達24億美元的資金承諾，旨在支持科學研究。這是美國政府推動與應用人工智慧（AI）的最新舉措。 ...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5600472",
+     "source": "自由時報",
+     "published": "2026-10-08T19:33:52+00:00"
+    },
+    {
+     "title": "俄西伯利亞小鎮疑爆鼠疫 官方稱「不明肺炎」遭民眾狂酸",
+     "summary": "俄羅斯西伯利亞小鎮謝列霍夫（Shelekhov）近期因疑似爆發鼠疫，而登上全球媒體頭條。然而，在充滿未解之謎與不透明治理的俄羅斯社會，當地居民坦言，他們對這起危機的了解並不比...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5600462",
+     "source": "自由時報",
+     "published": "2026-10-08T19:32:37+00:00"
     },
     {
      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
      "summary": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d62a/live/d11c0100-c341-11f1-b521-0bbd7e4f1f2e.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6230/live/587d61f0-c353-11f1-9a39-31b474234113.jpg",
      "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
      "published": "2026-10-08T19:10:06+00:00"
-    },
-    {
-     "title": "蘋果宣布下週再發新品！10／13登場　「歡迎回家」明示主角",
-     "summary": "果粉準備迎接新品，蘋果全球行銷資深副總裁Greg Joswiak在X(前推特)宣布，蘋果將於下週10月13日發布新品，發文還特別寫下「Welcome home(歡迎回家)」，幾乎明示這波新品將以智慧家庭為主角。…",
-     "image": "",
-     "url": "https://3c.ltn.com.tw/news/67863",
-     "source": "自由時報",
-     "published": "2026-10-08T19:07:00+00:00"
-    },
-    {
-     "title": "Philippines ex-President Duterte fit to stand trial, ICC rules",
-     "summary": "The former president is able to understand the charges and follow the proceedings, panel of experts find.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/8/philippines-ex-president-duterte-fit-to-stand-trial-icc-rules?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-08T19:06:08+00:00"
-    },
-    {
-     "title": "《TAIPEI TIMES》 Lai urges US to shift toward joint arms research, production",
-     "summary": "By Su Yung-yao and Jake Chung / Staff reporter, with staff writer President William Lai （賴清德） yes...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5600423",
-     "source": "自由時報",
-     "published": "2026-10-08T19:00:00+00:00"
-    },
-    {
-     "title": "《TAIPEI TIMES》 Working with Taiwan key to regional stability, Tsai says",
-     "summary": "/ Staff writer, with CNA, SAN FRANCISCO Deeper international cooperation with Taiwan would not on...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5600420",
-     "source": "自由時報",
-     "published": "2026-10-08T19:00:00+00:00"
-    },
-    {
-     "title": "《TAIPEI TIMES》 Exports hit record amid AI demand",
-     "summary": "MONTHLY HIGH: Shipments have risen for 35 straight months, extending Taiwan’s longest uninterrupted ...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5600427",
-     "source": "自由時報",
-     "published": "2026-10-08T19:00:00+00:00"
-    },
-    {
-     "title": "U.S. suspends Microsoft, Adobe from green card labor program in foreign worker crackdown",
-     "summary": "Labor Secretary Keith Sonderling cited \"multiple active federal investigations\" around the two companies' involvement in the program Thursday.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/08/microsoft-adobe-green-card-labor-suspension.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-08T18:52:59+00:00"
     },
     {
      "title": "Suicide is up among Black Americans. We need to talk about it.",
@@ -91,52 +131,44 @@
      "url": "https://www.npr.org/2026/10/08/nx-s1-5963905/suicide-black-americans-discussion-analysis",
      "source": "NPR News",
      "published": "2026-10-08T18:37:02+00:00"
-    },
-    {
-     "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
-     "summary": "OpenAI has told investors that it hit roughly $50 billion in annualized revenue at the end of September, CNBC confirmed.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-08T18:18:31+00:00"
-    },
-    {
-     "title": "Israel opens first-ever pavilion at Morocco defence show",
-     "summary": "Israel opened its first national pavilion at Morocco's Marrakech Air Show, joined by Israel's top military contractors.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/8/israel-opens-first-ever-pavilion-at-morocco-defence-show?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-08T18:11:14+00:00"
-    },
-    {
-     "title": "Top bosses at Goldman Sachs to share bonus pot worth up to $500m",
-     "summary": "Eye-watering sum, to be split between 20 bankers, is one of the biggest payouts in the bank’s history Top bosses at Goldman Sachs are in line to share a bonus pot worth up to $500m (£378m) this year,…",
-     "image": "https://i.guim.co.uk/img/media/d13c86c3d209df178d1dad6d8eb73e937800289e/416_0_4161_3329/master/4161.jpg?width=140&quality=85&auto=format&fit=max&s=1e299cd873e657bee0d40abcde94fd88",
-     "url": "https://www.theguardian.com/business/2026/oct/08/top-bosses-goldman-sachs-bonus-pot",
-     "source": "Guardian Business",
-     "published": "2026-10-08T18:09:14+00:00"
-    },
-    {
-     "title": "Colombian embassy to open in Jerusalem, Israeli FM says",
-     "summary": "Colombian President Abelardo De la Espriella had promised closer ties with Israel on the campaign trail.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/8/colombian-embassy-to-open-in-jerusalem-israeli-fm-says?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-08T18:07:06+00:00"
-    },
-    {
-     "title": "Nicolás Maduro and his wife indicted for alleged torture of US citizens",
-     "summary": "Ousted Venezuelan president and Cilia Flores have been in jail in New York since early January The deposed Venezuelan president Nicolás Maduro and his wife, Cilia Flores, have been indicted for allege…",
-     "image": "https://i.guim.co.uk/img/media/70b1767069c0df5b2fa1c5751b7b2cb91f75fe37/139_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=8b41a2a9c969f2b18a24f0ef722086d5",
-     "url": "https://www.theguardian.com/world/2026/oct/08/cilia-flores-nicolas-maduro-new-york-court",
-     "source": "Guardian World",
-     "published": "2026-10-08T18:04:16+00:00"
     }
    ]
   },
   "ai": {
    "label": "AI",
    "items": [
+    {
+     "title": "R.I.P. Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
+     "summary": "Hamilton also coined the term \"software engineering\" and founded two successful software companies.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/hamilton2-500x500.jpg",
+     "url": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
+     "source": "Ars Technica",
+     "published": "2026-10-08T20:15:53+00:00"
+    },
+    {
+     "title": "Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027",
+     "summary": "Free SSL/TLS certificate lifetimes reduce to 64 days in February.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/getty-security-privacy-500x500-1736892656.jpg",
+     "url": "https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027/",
+     "source": "Ars Technica",
+     "published": "2026-10-08T19:57:17+00:00"
+    },
+    {
+     "title": "Driver wins $76 after ALPR led to bogus traffic stop, drug searches",
+     "summary": "Mass surveillance gets stupider.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/texas-flag-500x500.jpg",
+     "url": "https://arstechnica.com/tech-policy/2026/10/driver-wins-76-after-alpr-led-to-bogus-traffic-stop-drug-searches/",
+     "source": "Ars Technica",
+     "published": "2026-10-08T19:42:30+00:00"
+    },
+    {
+     "title": "RFK Jr. unveils sweeping federal initiative to find evidence of vaccine injuries",
+     "summary": "\"[T]he Trump-RFK Jr anti-vax agenda keeps getting more corrupt and dangerous.\"",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294068904-500x500.jpg",
+     "url": "https://arstechnica.com/health/2026/10/rfk-jr-unveils-sweeping-federal-initiative-to-find-evidence-of-vaccine-injuries/",
+     "source": "Ars Technica",
+     "published": "2026-10-08T19:26:32+00:00"
+    },
     {
      "title": "Google 推 Gemini agent 攻企業市場，自選合適模型、內建成本控制",
      "summary": "Google Cloud 在 Gemini at Work 大會宣布推出 Gemini 代理（Gemini a […]",
@@ -147,7 +179,7 @@
     },
     {
      "title": "Whistle: Speech to Text in 16.9 MB",
-     "summary": "Article URL: https://cactuscompute.com/blog/whistle Comments URL: https://news.ycombinator.com/item?id=50008427 Points: 184 # Comments: 52",
+     "summary": "Article URL: https://cactuscompute.com/blog/whistle Comments URL: https://news.ycombinator.com/item?id=50008427 Points: 352 # Comments: 81",
      "image": "",
      "url": "https://cactuscompute.com/blog/whistle",
      "source": "Hacker News Front Page",
@@ -155,27 +187,11 @@
     },
     {
      "title": "OpenAI annualised revenues $20B less than previously signalled",
-     "summary": "Article URL: https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a Comments URL: https://news.ycombinator.com/item?id=50008187 Points: 162 # Comments: 86",
+     "summary": "Article URL: https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html Comments URL: https://news.ycombinator.com/item?id=50008187 Points: 312 # Comments: 200",
      "image": "",
-     "url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a",
+     "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
      "source": "Hacker News Front Page",
      "published": "2026-10-08T16:45:58+00:00"
-    },
-    {
-     "title": "Amazon's new Alexa Tablets drop the Fire branding but are more Android than ever",
-     "summary": "Amazon killed its app store, so Google Play it is.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/assets.aboutamazon-500x500.png",
-     "url": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/",
-     "source": "Ars Technica",
-     "published": "2026-10-08T16:32:46+00:00"
-    },
-    {
-     "title": "4-hour battery storage is cheaper to install than gas turbines all across globe",
-     "summary": "Article URL: https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/ Comments URL: https://news.ycombinator.com/item?id=50007519…",
-     "image": "",
-     "url": "https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-08T16:03:33+00:00"
     },
     {
      "title": "熱浪前後的暖水期被忽略，海洋生態實際承受熱壓力遠超預期",
@@ -186,16 +202,8 @@
      "published": "2026-10-08T16:00:40+00:00"
     },
     {
-     "title": "Amazon builds 1,000th satellite, will launch space internet service by end of year",
-     "summary": "\"If this was easy, everybody else would be doing it.\"",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Satellite-1000-500x500.png",
-     "url": "https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/",
-     "source": "Ars Technica",
-     "published": "2026-10-08T15:28:36+00:00"
-    },
-    {
      "title": "Trump administration is suspending Microsoft from a green card program",
-     "summary": "Article URL: https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea Comments URL: https://news.ycombinator.com/item?id=50006832 Points: 595 # Comments: 1003",
+     "summary": "Article URL: https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea Comments URL: https://news.ycombinator.com/item?id=50006832 Points: 739 # Comments: 1279",
      "image": "",
      "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
      "source": "Hacker News Front Page",
@@ -218,20 +226,12 @@
      "published": "2026-10-08T14:10:05+00:00"
     },
     {
-     "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
-     "summary": "Court filings reveal new details about Exxon's decades of internal climate deliberations.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/refinery-500x500.jpg",
-     "url": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/",
-     "source": "Ars Technica",
-     "published": "2026-10-08T14:04:42+00:00"
-    },
-    {
-     "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-     "summary": "Full-stack safety solution for physical AI is being used by robotics companies.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-500x500.jpg",
-     "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
-     "source": "Ars Technica",
-     "published": "2026-10-08T11:15:33+00:00"
+     "title": "Beauty in DVD Menus",
+     "summary": "Article URL: https://vale.rocks/posts/dvd-menus Comments URL: https://news.ycombinator.com/item?id=50005527 Points: 221 # Comments: 138",
+     "image": "",
+     "url": "https://vale.rocks/posts/dvd-menus",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-08T13:22:01+00:00"
     },
     {
      "title": "AI breakthroughs in robotics won’t change your life any time soon",
@@ -271,52 +271,68 @@
    "label": "運動",
    "items": [
     {
+     "title": "2026-27 NBA Season Preview: Lakers, Suns, Clippers, Warriors, Kings (Pacific Division)",
+     "summary": "Let's break down what to like and be concerned about, a lineup to watch and a reasonable range for them to finish in the standings.",
+     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ed-092326-nbadivisionpreview-template-modart_5224.jpg",
+     "url": "https://sports.yahoo.com/nba/article/2026-27-nba-season-preview-lakers-suns-clippers-warriors-kings-pacific-division-211838517.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-08T21:18:38+00:00"
+    },
+    {
+     "title": "A’ja Wilson stands alone with record fifth WNBA MVP award after historic three-peat",
+     "summary": "Aces star wins record fifth WNBA MVP award Wilson becomes first player to win three straight Olivia Miles finishes second in MVP voting A’ja Wilson was named the WNBA’s most valuable player on Thursda…",
+     "image": "https://i.guim.co.uk/img/media/b98f4b588c2427d3a1848a743245bcdca316be06/239_0_2706_2166/master/2706.jpg?width=140&quality=85&auto=format&fit=max&s=efa4e044157516fd1cc39d29218a03a5",
+     "url": "https://www.theguardian.com/sport/2026/oct/08/aja-wilson-record-fifth-wnba-mvp-award-las-vegas-aces",
+     "source": "Guardian Sport",
+     "published": "2026-10-08T21:05:10+00:00"
+    },
+    {
+     "title": "Maresca says 'feeling is fantastic' among Man City squad",
+     "summary": "Enzo Maresca says his players \"don't care too much about the noise\" surrounding Manchester City over the 115 Premier League charges.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f74/live/19a47500-c334-11f1-9981-cf94ea240e40.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c6n4ex2lgg2ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-08T20:40:15+00:00"
+    },
+    {
+     "title": "Could LeBron James help solve the 76ers' depth problem at center? Here's what the numbers say",
+     "summary": "LeBron at the 5? The 76ers might need to try it after their backup center was hurt in their preseason opener",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/08/1cfda317-883e-4022-a731-1a6da670f518/lebron-james-imagn.png",
+     "url": "https://www.cbssports.com/nba/news/lebron-james-76ers-depth-problem-at-center/",
+     "source": "CBS Sports NBA",
+     "published": "2026-10-08T19:21:47+00:00"
+    },
+    {
+     "title": "LeBron James to reportedly make 76ers preseason debut with rest of starting 5 Thursday vs. Nets",
+     "summary": "LeBron James and every other projected 76ers starter will play in the contest.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/breaking-news/article/lebron-james-to-reportedly-make-76ers-preseason-debut-thursday-vs-nets-191948345.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-08T19:19:48+00:00"
+    },
+    {
+     "title": "Oso Ighodaro is winning the Suns’ center battle for a reason",
+     "summary": "Maluach has the physical tools, but Ighodaro is currently doing more of the little things.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/91cb3e7d431230f0821c2cdc17e5ef6b.jpg",
+     "url": "https://sports.yahoo.com/articles/oso-ighodaro-winning-suns-center-190000342.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-08T19:00:00+00:00"
+    },
+    {
      "title": "Ticket rises and more TV packages - why is price of sport increasing?",
      "summary": "The price of sports tickets and TV subscriptions are on the rise - so what is behind the increases and how are they justified?",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a070/live/42ad9370-c314-11f1-8f04-85217d686658.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c0b/live/198c3cd0-c35a-11f1-bc2e-018d645d8d21.jpg",
      "url": "https://www.bbc.co.uk/sport/articles/cx7vpe1p070mo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-10-08T18:57:13+00:00"
     },
     {
-     "title": "Highlights from Damian Lillard's return to court, first game with Ja Morant",
-     "summary": "This was his first game in more than a year due to a torn Achilles.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/highlights-damian-lillards-return-court-175303881.html",
+     "title": "How will the NBA’s new focus on push-offs impact the Lakers?",
+     "summary": "What do JJ Redick and Austin Reaves think about the crackdown on off-arm push offs?",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/b53e5771de3e4150c2147beb417fbbca.jpg",
+     "url": "https://sports.yahoo.com/articles/nba-focus-push-offs-impact-180901514.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-10-08T17:53:03+00:00"
-    },
-    {
-     "title": "Question Marks: The first look at a new era with Celtics-Cavaliers",
-     "summary": "Boston kicks off the preseason in Cleveland with a starting spot open and rotation minutes up for grabs",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/f4f2f3b5de1c302f04e1245ad9ca5dc1.jpg",
-     "url": "https://sports.yahoo.com/articles/marks-first-look-era-celtics-170000815.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-08T17:00:00+00:00"
-    },
-    {
-     "title": "Trying to repeat last season’s over/under predictions success: Western Conference",
-     "summary": "Although Vegas is on to the Spurs this year.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/cea2777115ce3e22bf1419aec5020553.jpg",
-     "url": "https://sports.yahoo.com/articles/trying-repeat-last-season-over-164957713.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-08T16:49:57+00:00"
-    },
-    {
-     "title": "Luka Dončić sounds thrilled to have Ziaire Williams, Matisse Thybulle on the Lakers",
-     "summary": "Luka is quite happy with two of the Lakers’ pickups in free agency thus far",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/3d5188a081d45fea5eaf02f2ae3aea79.jpg",
-     "url": "https://sports.yahoo.com/articles/luka-don-sounds-thrilled-ziaire-164127548.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-08T16:41:27+00:00"
-    },
-    {
-     "title": "Maresca says 'feeling is fantastic' among Man City squad",
-     "summary": "Manchester City head coach Enzo Maresca says the \"feeling is fantastic\" among his players and that they \"don't care too much about the noise\" surrounding the club after it was found guilty of the majo…",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f74/live/19a47500-c334-11f1-9981-cf94ea240e40.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c6n4ex2lgg2ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-08T16:10:37+00:00"
+     "published": "2026-10-08T18:09:01+00:00"
     },
     {
      "title": "Valtteri Bottas reveals lizard-leaping, python-dodging cycling exploits on epic ride",
@@ -351,14 +367,6 @@
      "published": "2026-10-08T14:38:18+00:00"
     },
     {
-     "title": "Rays sweep Yankees out of playoffs after ‘crazy’ fan interference downgrades New York home run",
-     "summary": "Rays sweep Yankees 3-0 after fan interference call Dodgers eliminate Braves to keep three-peat bid alive Ramírez leads Guardians past Sox to avoid sweep Anthony Volpe rounded the bases, touched home p…",
-     "image": "https://i.guim.co.uk/img/media/b9a93c72160868ed2a8098af8763f65ee06da706/769_0_3951_3161/master/3951.jpg?width=140&quality=85&auto=format&fit=max&s=227b4642e910862a64325ff9f55d1981",
-     "url": "https://www.theguardian.com/sport/2026/oct/07/mlb-playoffs-2026-division-series-results-scores-highlights",
-     "source": "Guardian Sport",
-     "published": "2026-10-08T11:39:45+00:00"
-    },
-    {
      "title": "Clubs fear political interference in Man City appeal",
      "summary": "Premier League clubs are \"concerned\" about political interference in Manchester City's appeal after Prime Minister Andy Burnham's comments.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c127/live/c855ee70-c290-11f1-a13a-652a29dd7204.jpg",
@@ -389,14 +397,6 @@
      "url": "https://www.cbssports.com/nba/news/pressing-nba-questions-2026-27-season-knicks-repeat-76ers-break-through/",
      "source": "CBS Sports NBA",
      "published": "2026-10-07T13:07:35+00:00"
-    },
-    {
-     "title": "Dodgers take NLDS lead, Padres extend series vs. Brewers; Pete Prisco's Week 5 NFL Power Rankings",
-     "summary": "Plus NBA coach rankings for the 2026-27 season",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/07/b7dba04f-fd94-4d90-bb83-447415b358b3/gettyimages-2298376503-2.jpg",
-     "url": "https://www.cbssports.com/mlb/news/dodgers-take-nlds-lead-padres-extend-series-vs-brewers-pete-priscos-week-5-nfl-power-rankings/",
-     "source": "CBS Sports NBA",
-     "published": "2026-10-07T12:58:25+00:00"
     }
    ]
   }
