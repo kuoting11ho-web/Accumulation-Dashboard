@@ -1,24 +1,112 @@
 {
- "generated": "2026-10-09T17:02:50.198593+00:00",
+ "generated": "2026-10-09T18:51:37.886088+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "Stocks rise as tech shares rebound following sell-off: Live updates",
+     "title": "Trump Media advisor Katie Zacharia offered White House press secretary role",
+     "summary": "The White House has tapped Katie Zacharia to be its next press secretary, a White House official confirmed to CNBC.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/09/katie-zacharia-white-house-press-secretary.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-09T18:46:03+00:00"
+    },
+    {
+     "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+     "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70c6/live/7c05c3c0-c401-11f1-9a39-31b474234113.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-09T18:40:10+00:00"
+    },
+    {
+     "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+     "summary": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf5/live/cc41a870-c40d-11f1-838e-6d1d6d701264.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-09T18:40:05+00:00"
+    },
+    {
+     "title": "Dow rallies 400 points as Wall Street tries to wrap up volatile week on a high note: Live updates",
      "summary": "The Nasdaq Composite rose on Friday following a losing session.",
      "image": "",
      "url": "https://www.cnbc.com/2026/10/08/stock-market-today-live-updates.html",
      "source": "CNBC Top News",
-     "published": "2026-10-09T17:00:12+00:00"
+     "published": "2026-10-09T18:34:37+00:00"
     },
     {
-     "title": "蔣萬安競選曲MV畫面遭質疑未獲授權　競辦致歉：已調整",
-     "summary": "台北市長蔣萬安今天公布競選主題曲及MV，卻被發現使用棒球選手張育成在國際賽的畫面，遭質疑未獲授權及選手同意。蔣萬安競辦回應，對於造成球員困擾深感抱歉，已調整相關畫面。 蔣萬安競選團隊今天舉...…",
+     "title": "Gaza ceasefire ‘exists in name only’, more than 100 NGOs say",
+     "summary": "Humanitarian and human rights groups call out Israel's continued killings and restrictions across the enclave.",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/society/breakingnews/5601398",
+     "url": "https://www.aljazeera.com/news/2026/10/9/gaza-ceasefire-exists-in-name-only-more-than-100-ngos-say?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-09T18:15:06+00:00"
+    },
+    {
+     "title": "‘An attack against sovereign states’: ICC President slams US sanctions",
+     "summary": "International Criminal Court President Tomoko Akane has responded to US sanctions imposed to ‘defend sovereignty’.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/an-attack-against-sovereign-states-icc-president-slams-us-sanctions?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-09T18:06:48+00:00"
+    },
+    {
+     "title": "Tanker attacks in Strait of Hormuz surge to wartime high as Iran tries to choke off oil exports",
+     "summary": "The escalating attacks are testing whether a rebound in crude oil exports from the Middle East can be sustained under high risk conditions.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/09/iran-war-strait-hormuz-tanker-attack-oil.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-09T18:02:01+00:00"
+    },
+    {
+     "title": "油價回落　歐股收紅",
+     "summary": "美國總統川普排除在11月期中選舉前對伊朗發動攻擊的可能性，油價應聲回落，激勵歐洲股市今天收紅。 倫敦FTSE 100指數上漲110.45點或1.06%，收在10552.05點。 法蘭克福...…",
+     "image": "",
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5601400",
      "source": "自由時報",
-     "published": "2026-10-09T16:54:03+00:00"
+     "published": "2026-10-09T17:54:03+00:00"
+    },
+    {
+     "title": "U.S. working to reverse an Egyptian man's third-country deportation to Africa",
+     "summary": "The Trump administration's effort to return Ahmed Soliman to the U.S. come after an Arizona judge said his deportation violated due process.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2260+0+0/resize/3600x2260!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F78%2F76%2Ffedb4c01483190601424b3f5f19e%2Fgettyimages-2250389212.jpg",
+     "url": "https://www.npr.org/2026/10/09/g-s1-147476/trump-third-country-deportation-africa-reverse",
+     "source": "NPR News",
+     "published": "2026-10-09T17:49:28+00:00"
+    },
+    {
+     "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+     "summary": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de59/live/0e911af0-c3df-11f1-95ba-dba767ffba7e.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-09T17:37:10+00:00"
+    },
+    {
+     "title": "Jerusalem Daily: US charity to use AI to monitor Gaza classrooms",
+     "summary": "A US charity announced it will use an AI-software to monitor Gaza classrooms for ‘anti-Semitism’ and ‘hate speech’.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/jerusalem-daily-us-charity-to-use-ai-to-monitor-gaza-classrooms?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-09T17:37:05+00:00"
+    },
+    {
+     "title": "Drone strike kills 30 people in Sudan’s Blue Nile region",
+     "summary": "Drone reportedly linked to RSF targets Wad al-Mahi, killing dozens near displacement camp, including women and children.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/9/drone-strike-kills-30-people-in-sudans-blue-nile-region?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-09T17:19:43+00:00"
+    },
+    {
+     "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+     "summary": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e67c/live/c75f8690-c3fb-11f1-9a39-31b474234113.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-09T17:14:44+00:00"
     },
     {
      "title": "Did Russia play by the rules in reporting lab worker's death?",
@@ -27,30 +115,6 @@
      "url": "https://www.npr.org/2026/10/09/g-s1-147295/russia-lab-death-pneumonia-plague",
      "source": "NPR News",
      "published": "2026-10-09T16:43:45+00:00"
-    },
-    {
-     "title": "Powerful tornado rips through western Sicily",
-     "summary": "A powerful tornado tore through western Sicily, causing destruction across the cities of Marsala and Petrosino.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/powerful-tornado-rips-through-western-sicily?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-09T16:37:33+00:00"
-    },
-    {
-     "title": "DHS defends ICE shooting in NYC, says officers believed they were in danger",
-     "summary": "The shooting prompted protests in New York City and Mayor Zohran Mamdani condemned the incident.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/9/dhs-defends-ice-shooting-in-nyc-says-officers-believed-they-were-in-danger?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-09T16:36:31+00:00"
-    },
-    {
-     "title": "‘A Ceuta-style surge is possible’: Border tensions on NATO’s eastern flank",
-     "summary": "Belarus-linked incidents trouble Latvia and Lithuania, where experts warn of security challenges.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/9/a-ceuta-style-surge-is-possible-border-tensions-on-natos-eastern-flank?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-09T16:33:26+00:00"
     },
     {
      "title": "農曆9月誰最賺？謝沅瑾點名「5生肖」搶先卡位2027起跳點",
@@ -67,70 +131,6 @@
      "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
      "source": "Guardian World",
      "published": "2026-10-09T16:30:09+00:00"
-    },
-    {
-     "title": "Firing squad execution to be livestreamed, Pentagon says",
-     "summary": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c51/live/097ea900-c3c7-11f1-9a39-31b474234113.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-09T16:29:47+00:00"
-    },
-    {
-     "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-     "summary": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de59/live/0e911af0-c3df-11f1-95ba-dba767ffba7e.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-09T16:15:09+00:00"
-    },
-    {
-     "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
-     "summary": "Researchers found that while wealth disparities narrowed somewhat, the ability to meet debt payments deteriorated significantly.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-09T16:10:41+00:00"
-    },
-    {
-     "title": "Trump appoints committee to investigate statements by the Fed's Lisa Cook",
-     "summary": "Trump tried to fire Cook, a nominee of former President Joe Biden, but the Supreme Court blocked his first attempt.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-09T16:10:02+00:00"
-    },
-    {
-     "title": "Thousands rally for anti-austerity protest in Brussels amid clashes",
-     "summary": "Belgian police respond to 'troublemakers' on sidelines of main rally with tear gas, water cannon and baton charges.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/9/thousands-rally-for-anti-austerity-protest-in-brussels-amid-clashes?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-09T16:07:29+00:00"
-    },
-    {
-     "title": "US imposes sanctions on International Criminal Court",
-     "summary": "The US says the measures are aimed at restricting the tribunal's resources and ability to operate.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1175/live/0f69f420-c3f2-11f1-97a9-2d4b5e26e282.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-09T16:06:59+00:00"
-    },
-    {
-     "title": "士林美崙公園傳恐砍樹蓋停車場惹毛市民 停管處挨轟急稱未定案",
-     "summary": "有媒體報導，台北市規劃於士林區美崙公園興建地下停車場，但恐需移除園區內119棵樹木，惹毛市民，停車管理工程處發布271字回應，指稱報導非事實，目前工程具體設計方案尚未定案，「後...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5601396",
-     "source": "自由時報",
-     "published": "2026-10-09T16:06:29+00:00"
-    },
-    {
-     "title": "How the oil industry is preparing for Hurricane Isaias",
-     "summary": "Hurricane Isaias is this season's first Atlantic hurricane, and is on a path to hit the northern Gulf Coast. How is the oil industry preparing?",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe0%2Fc1%2Fe80e7e06427d888749e4131db8a2%2Fgettyimages-2298728974.jpg",
-     "url": "https://www.npr.org/2026/10/09/nx-s1-5995417/hurricane-isaias-oil-refineries-diesel-gasoline-prices",
-     "source": "NPR News",
-     "published": "2026-10-09T16:03:32+00:00"
     }
    ]
   },
@@ -154,22 +154,6 @@
      "published": "2026-10-09T16:00:07+00:00"
     },
     {
-     "title": "US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
-     "summary": "Article URL: https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/ Comments URL: https://news.ycombinator.com/item?id=50021066 Point…",
-     "image": "",
-     "url": "https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-09T14:31:54+00:00"
-    },
-    {
-     "title": "Yandex Takes a Second Data Center Hit in 48 Hours",
-     "summary": "Article URL: https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277 Comments URL: https://news.ycombinator.com/item?id…",
-     "image": "",
-     "url": "https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-09T14:20:19+00:00"
-    },
-    {
      "title": "Microsoft barred from sponsoring foreign workers for US residency",
      "summary": "The US says Microsoft abused immigration rules; the company disputes the claim.",
      "image": "https://cdn.arstechnica.net/wp-content/uploads/2019/04/microsoft-logo-lights-500x500.jpg",
@@ -179,19 +163,27 @@
     },
     {
      "title": "Our $445M Series D",
-     "summary": "Article URL: https://oxide.computer/blog/our-445m-series-d Comments URL: https://news.ycombinator.com/item?id=50020014 Points: 333 # Comments: 128",
+     "summary": "Article URL: https://oxide.computer/blog/our-445m-series-d Comments URL: https://news.ycombinator.com/item?id=50020014 Points: 424 # Comments: 176",
      "image": "",
      "url": "https://oxide.computer/blog/our-445m-series-d",
      "source": "Hacker News Front Page",
      "published": "2026-10-09T13:12:47+00:00"
     },
     {
-     "title": "Deno Is Joining Cloudflare",
-     "summary": "Article URL: https://deno.com/blog/cloudflare Comments URL: https://news.ycombinator.com/item?id=50019911 Points: 616 # Comments: 332",
+     "title": "Cloudflare acquires Deno",
+     "summary": "Article URL: https://deno.com/blog/cloudflare Comments URL: https://news.ycombinator.com/item?id=50019911 Points: 778 # Comments: 418",
      "image": "",
      "url": "https://deno.com/blog/cloudflare",
      "source": "Hacker News Front Page",
      "published": "2026-10-09T13:03:48+00:00"
+    },
+    {
+     "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+     "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 316 # Comments: 136",
+     "image": "",
+     "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-09T11:03:48+00:00"
     },
     {
      "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
@@ -200,6 +192,14 @@
      "url": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
      "source": "Ars Technica",
      "published": "2026-10-09T11:00:57+00:00"
+    },
+    {
+     "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
+     "summary": "Article URL: https://www.nobelprize.org/prizes/peace/2026/press-release/ Comments URL: https://news.ycombinator.com/item?id=50018420 Points: 353 # Comments: 184",
+     "image": "",
+     "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-09T10:12:11+00:00"
     },
     {
      "title": "Volkswagen's replacement for the ID.4 crossover is here",
@@ -271,12 +271,52 @@
    "label": "運動",
    "items": [
     {
+     "title": "Ranking every NBA team's defense entering the 2026-27 season: Thunder and Spurs competing for top spot",
+     "summary": "Who will be the best -- and worst -- on defense this season? We're projecting each team",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/09/e4fc538a-5169-4be0-82a8-92ecd5b0b860/wemby-sga-getty-1.png",
+     "url": "https://www.cbssports.com/nba/news/ranking-every-nba-defense-2026-27-season-thunder-spurs/",
+     "source": "CBS Sports NBA",
+     "published": "2026-10-09T18:36:57+00:00"
+    },
+    {
+     "title": "Pacific Division preview + WNBA Semifinals Game 2 reactions",
+     "summary": "Nekias Duncan and Steve Jones preview the Pacific Division and the WNBA Semifinals.",
+     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/tds-arluka-thumb_2754.png",
+     "url": "https://sports.yahoo.com/nba/article/pacific-division-preview--wnba-semifinals-game-2-reactions-183315263.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-09T18:33:15+00:00"
+    },
+    {
+     "title": "Cavs season preview: Donovan Mitchell – measured in the playoffs",
+     "summary": "Can Donovan Mitchell be the best player on a championship team?",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/22be8734280d8bf1b7f76d4acdf815fc.jpg",
+     "url": "https://sports.yahoo.com/articles/cavs-season-preview-donovan-mitchell-170827833.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-09T17:08:27+00:00"
+    },
+    {
      "title": "Karl-Anthony Towns, Josh Hart in contract limbo after Knicks talks paused",
      "summary": "The Knicks said they are pausing negotiations with all extension-eligible players. It could have a big impact on Karl-Anthony Towns and Josh Hart.",
      "image": "",
      "url": "https://sports.yahoo.com/articles/karl-anthony-towns-josh-hart-164238395.html",
      "source": "Yahoo Sports NBA",
      "published": "2026-10-09T16:42:38+00:00"
+    },
+    {
+     "title": "Wolff tells critics to ‘watch Teletubbies or Mickey Mouse not F1’ as he defends Mercedes’ strategy",
+     "summary": "Principal denies bias towards Antonelli over Russell Verstappen takes pole in sprint qualifying in Singapore Toto Wolff has condemned accusations of bias in how he has managed his drivers George Russe…",
+     "image": "https://i.guim.co.uk/img/media/2edb2cb798b41ffeb2372f46c38a1df049e180ad/396_0_5776_4621/master/5776.jpg?width=140&quality=85&auto=format&fit=max&s=ddd31f853a11cb654273850bce901997",
+     "url": "https://www.theguardian.com/sport/2026/oct/09/f1-wolff-tells-critics-watch-teletubbies-or-mickey-mouse-defends-mercedes-strategy",
+     "source": "Guardian Sport",
+     "published": "2026-10-09T16:42:03+00:00"
+    },
+    {
+     "title": "Mike Ditka: a life in pictures",
+     "summary": "Mike Ditka, the fiery former NFL player and coach who led the Chicago Bears to their lone Super Bowl title and became one of the most recognizable figures in American sports, has died aged 86 Mike Dit…",
+     "image": "https://i.guim.co.uk/img/media/449d1b268559d1a68635c7ed7af4c81ffe7e05c3/415_0_3038_2430/master/3038.jpg?width=140&quality=85&auto=format&fit=max&s=e8ba63ded0145f2e5b6dae40fae897c7",
+     "url": "https://www.theguardian.com/sport/gallery/2026/oct/09/mike-ditka-a-life-in-pictures",
+     "source": "Guardian Sport",
+     "published": "2026-10-09T16:41:53+00:00"
     },
     {
      "title": "Check out Giannis Antetokounmpo's poster dunk in Miami (the first of many)",
@@ -301,30 +341,6 @@
      "url": "https://www.bbc.co.uk/sport/formula1/articles/ck62y7jz1qqro?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-10-09T15:48:28+00:00"
-    },
-    {
-     "title": "Knicks announce they are pausing all contract extension talks, including with Karl-Anthony Towns",
-     "summary": "Contract extension talks were becoming a distraction around the team, so the Knicks postponed them.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/knicks-announce-pausing-contract-extension-153604780.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-09T15:36:04+00:00"
-    },
-    {
-     "title": "Mike Ditka, legendary Chicago Bears head coach, dies aged 86",
-     "summary": "Hall of Famer led 1985 Bears to Super Bowl title Coach was known for tough, gruff demeanor The Super Bowl Shuffle to SNL: a life in pictures Mike Ditka, who won NFL titles as a player and coach with t…",
-     "image": "https://i.guim.co.uk/img/media/8efb5e1f89a25960feea099da43a7d5150485e79/109_0_1687_1350/master/1687.jpg?width=140&quality=85&auto=format&fit=max&s=76d95eb4998ebec3784de52e57df0e71",
-     "url": "https://www.theguardian.com/sport/2026/oct/09/mike-ditka-dies-86-chicago-bears",
-     "source": "Guardian Sport",
-     "published": "2026-10-09T15:33:16+00:00"
-    },
-    {
-     "title": "Joel Embiid’s preseason disaster raises scary questions for the 76ers",
-     "summary": "Joel Embiid looked completely washed in his first preseason game for the new-look 76ers.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/9e98aa6b06726dbf54920ac2761e95af.png",
-     "url": "https://sports.yahoo.com/articles/joel-embiid-preseason-disaster-raises-151036114.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-09T15:10:36+00:00"
     },
     {
      "title": "I've got my own questions on Man City case - Carrick",
@@ -365,14 +381,6 @@
      "url": "https://www.theguardian.com/sport/2026/oct/08/bucky-irving-tampa-bay-buccaneers-dallas-cowboys-nfl",
      "source": "Guardian Sport",
      "published": "2026-10-09T03:44:15+00:00"
-    },
-    {
-     "title": "LeBron James shines in pre-season debut for revamped Philadelphia 76ers",
-     "summary": "James scores 10 points in 18-minute Sixers debut Jaylen Brown leads Philadelphia with 18 points Nets pull away in third quarter for 114-108 victory NBA superstar LeBron James delivered a solid first-h…",
-     "image": "https://i.guim.co.uk/img/media/1fb91bd031d6d6ce6a48f2ee4b29cade141f7d16/222_0_4221_3379/master/4221.jpg?width=140&quality=85&auto=format&fit=max&s=3e3ca8610dca6640f7a696c3168e23f8",
-     "url": "https://www.theguardian.com/sport/2026/oct/08/lebron-james-philadelphia-76ers-debut-brooklyn-nets-preseason",
-     "source": "Guardian Sport",
-     "published": "2026-10-09T03:29:04+00:00"
     },
     {
      "title": "Could LeBron James help solve the 76ers' depth problem at center? Here's what the numbers say",
