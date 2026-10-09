@@ -1,24 +1,16 @@
 {
- "generated": "2026-10-09T18:51:37.886088+00:00",
+ "generated": "2026-10-09T21:00:36.581924+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "Trump Media advisor Katie Zacharia offered White House press secretary role",
-     "summary": "The White House has tapped Katie Zacharia to be its next press secretary, a White House official confirmed to CNBC.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/09/katie-zacharia-white-house-press-secretary.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-09T18:46:03+00:00"
-    },
-    {
-     "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-     "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70c6/live/7c05c3c0-c401-11f1-9a39-31b474234113.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-09T18:40:10+00:00"
+     "title": "Opinion: Can I keep the baseball I caught?",
+     "summary": "What would you do if you caught a baseball during the MLB playoffs? Give it to a kid nearby or keep it? This very scenario played out this week, with a fan deciding to keep the ball.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x682+0+0/resize/1024x682!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F08%2F68%2F1884dab84d7aafb22dc23149203f%2Fap26281086247695.jpg",
+     "url": "https://www.npr.org/2026/10/09/nx-s1-5982500/opinion-can-i-keep-the-baseball-i-caught",
+     "source": "NPR News",
+     "published": "2026-10-09T20:49:30+00:00"
     },
     {
      "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
@@ -26,117 +18,157 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf5/live/cc41a870-c40d-11f1-838e-6d1d6d701264.jpg",
      "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-10-09T18:40:05+00:00"
+     "published": "2026-10-09T20:42:11+00:00"
     },
     {
-     "title": "Dow rallies 400 points as Wall Street tries to wrap up volatile week on a high note: Live updates",
+     "title": "How will Spain’s housing crisis affect elections?",
+     "summary": "Snap vote called after Parliament rejects measures to protect tenants and freeze rents.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/10/9/how-will-spains-housing-crisis-impact-elections?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-09T20:39:11+00:00"
+    },
+    {
+     "title": "特朗普與普京達成協議允俄國出售柴油，澤連斯基批評「送大禮」",
+     "summary": "烏克蘭總統表示，容許俄羅斯出售石油產品，只會延長這場本應結束的戰爭。",
+     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a5d0/live/a1bc1010-c415-11f1-a175-8928617a734f.jpg",
+     "url": "https://www.bbc.com/zhongwen/articles/cwg7xz103032o/trad?at_medium=RSS&at_campaign=rss",
+     "source": "BBC 中文",
+     "published": "2026-10-09T20:33:46+00:00"
+    },
+    {
+     "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+     "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61b/live/93d8fbd0-c41e-11f1-a175-8928617a734f.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-09T20:32:42+00:00"
+    },
+    {
+     "title": "Human rights veteran Navi Pillay wins 2026 Nobel Peace Prize",
+     "summary": "South African jurist Navanethem Pillay has been awarded the 2026 Nobel Peace Prize for her work to promote peace.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-09T20:29:30+00:00"
+    },
+    {
+     "title": "【高雄】左營、巨蛋房價衝6字頭　高大特區「每坪省10萬」搶換屋族",
+     "summary": "高雄北高雄房市價格逐漸拉開差距，左營高鐵特區、巨蛋生活圈受惠高鐵、捷運及百貨商圈成形，房價已站上6字頭，相較之下，鄰近的楠梓高雄大學特區房價約5字頭，每坪價差達10萬元，隨著台積電高雄廠、楠梓科技產業園區帶動就業人口，加上生活機能逐步完善，區域購屋需求也從過去…",
+     "image": "",
+     "url": "https://estate.ltn.com.tw/article/29012",
+     "source": "自由時報",
+     "published": "2026-10-09T20:25:00+00:00"
+    },
+    {
+     "title": "規模7.7強震襲巴拿馬　觸發東太平洋沿岸海嘯警報",
+     "summary": "巴拿馬今天發生規模7.7強震，引發首都民眾恐慌，亦觸發危險海嘯警報。 法新社報導，美國地質調查所（USGS）表示，地震發生於格林威治標準時間17時56分（台灣時間今晨1時56分），震央位於...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5601415",
+     "source": "自由時報",
+     "published": "2026-10-09T20:21:03+00:00"
+    },
+    {
+     "title": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets",
+     "summary": "President Donald Trump has few options to reduce diesel prices given the destruction done to refineries by the wars in Eastern Europe and the Middle East.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-09T20:20:57+00:00"
+    },
+    {
+     "title": "Rising fuel costs slashed Delta’s profit outlook despite strong demand",
+     "summary": "Rising fuel prices push Delta's annual fuel expenses up by $6bn, affecting its profit outlook for 2026.",
+     "image": "",
+     "url": "https://www.aljazeera.com/economy/2026/10/9/rising-fuel-costs-slashed-deltas-profit-outlook-despite-strong-demand?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-09T20:17:15+00:00"
+    },
+    {
+     "title": "Dow rises 400 points on Friday as Wall Street scores winning week: Live updates",
      "summary": "The Nasdaq Composite rose on Friday following a losing session.",
      "image": "",
      "url": "https://www.cnbc.com/2026/10/08/stock-market-today-live-updates.html",
      "source": "CNBC Top News",
-     "published": "2026-10-09T18:34:37+00:00"
+     "published": "2026-10-09T20:14:57+00:00"
     },
     {
-     "title": "Gaza ceasefire ‘exists in name only’, more than 100 NGOs say",
-     "summary": "Humanitarian and human rights groups call out Israel's continued killings and restrictions across the enclave.",
+     "title": "Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says",
+     "summary": "Attorney General says suspect admitted he acted alone after preparing ‌‌psychologically ‌‌and physically for the attack.",
      "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/9/gaza-ceasefire-exists-in-name-only-more-than-100-ngos-say?traffic_source=rss",
+     "url": "https://www.aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-10-09T18:15:06+00:00"
+     "published": "2026-10-09T20:13:24+00:00"
     },
     {
-     "title": "‘An attack against sovereign states’: ICC President slams US sanctions",
-     "summary": "International Criminal Court President Tomoko Akane has responded to US sanctions imposed to ‘defend sovereignty’.",
+     "title": "10/5~10/9市場話題",
+     "summary": "AI、高效能運算需求持續升溫，半導體供應鏈擴充產能，帶動大型產業用地交易。和碩集團旗下景碩科技（3189）6日公告，以新台幣60億元（含稅）購入桃園市平鎮區延平路三段工業土地，面積約1萬5,122坪，將作為新廠建置用地，因應高層數載板需求。 …",
      "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/an-attack-against-sovereign-states-icc-president-slams-us-sanctions?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-09T18:06:48+00:00"
+     "url": "https://estate.ltn.com.tw/article/29014",
+     "source": "自由時報",
+     "published": "2026-10-09T20:00:00+00:00"
     },
     {
-     "title": "Tanker attacks in Strait of Hormuz surge to wartime high as Iran tries to choke off oil exports",
-     "summary": "The escalating attacks are testing whether a rebound in crude oil exports from the Middle East can be sustained under high risk conditions.",
+     "title": "NFL名人堂傳奇迪特卡86歲逝世　家人、球隊同悼念",
+     "summary": "職業美式足球聯盟NFL芝加哥熊隊（Chicago Bears）傳奇教練迪特卡（Mike Ditka）今天去世，享壽86歲。 法新社報導，迪特卡是1961年NFL選秀大會上第五順位新秀，在1...…",
      "image": "",
-     "url": "https://www.cnbc.com/2026/10/09/iran-war-strait-hormuz-tanker-attack-oil.html",
+     "url": "https://sports.ltn.com.tw/news/breakingnews/5601413",
+     "source": "自由時報",
+     "published": "2026-10-09T19:45:03+00:00"
+    },
+    {
+     "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
+     "summary": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ae5/live/091da400-c419-11f1-9a39-31b474234113.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-09T19:39:52+00:00"
+    },
+    {
+     "title": "Trump Media advisor Katie Zacharia offered White House press secretary role",
+     "summary": "The White House has tapped Katie Zacharia to be its next press secretary, a White House official confirmed to CNBC.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/09/katie-zacharia-white-house-press-secretary.html",
      "source": "CNBC Top News",
-     "published": "2026-10-09T18:02:01+00:00"
-    },
-    {
-     "title": "油價回落　歐股收紅",
-     "summary": "美國總統川普排除在11月期中選舉前對伊朗發動攻擊的可能性，油價應聲回落，激勵歐洲股市今天收紅。 倫敦FTSE 100指數上漲110.45點或1.06%，收在10552.05點。 法蘭克福...…",
-     "image": "",
-     "url": "https://ec.ltn.com.tw/article/breakingnews/5601400",
-     "source": "自由時報",
-     "published": "2026-10-09T17:54:03+00:00"
-    },
-    {
-     "title": "U.S. working to reverse an Egyptian man's third-country deportation to Africa",
-     "summary": "The Trump administration's effort to return Ahmed Soliman to the U.S. come after an Arizona judge said his deportation violated due process.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2260+0+0/resize/3600x2260!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F78%2F76%2Ffedb4c01483190601424b3f5f19e%2Fgettyimages-2250389212.jpg",
-     "url": "https://www.npr.org/2026/10/09/g-s1-147476/trump-third-country-deportation-africa-reverse",
-     "source": "NPR News",
-     "published": "2026-10-09T17:49:28+00:00"
-    },
-    {
-     "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-     "summary": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de59/live/0e911af0-c3df-11f1-95ba-dba767ffba7e.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-09T17:37:10+00:00"
-    },
-    {
-     "title": "Jerusalem Daily: US charity to use AI to monitor Gaza classrooms",
-     "summary": "A US charity announced it will use an AI-software to monitor Gaza classrooms for ‘anti-Semitism’ and ‘hate speech’.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/jerusalem-daily-us-charity-to-use-ai-to-monitor-gaza-classrooms?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-09T17:37:05+00:00"
-    },
-    {
-     "title": "Drone strike kills 30 people in Sudan’s Blue Nile region",
-     "summary": "Drone reportedly linked to RSF targets Wad al-Mahi, killing dozens near displacement camp, including women and children.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/9/drone-strike-kills-30-people-in-sudans-blue-nile-region?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-09T17:19:43+00:00"
-    },
-    {
-     "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
-     "summary": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e67c/live/c75f8690-c3fb-11f1-9a39-31b474234113.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-09T17:14:44+00:00"
-    },
-    {
-     "title": "Did Russia play by the rules in reporting lab worker's death?",
-     "summary": "A global treaty signed by 197 countries — including Russia — requires reporting any death that could be a sign of an outbreak to come.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5464+0+0/resize/8192x5464!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6e%2F2a%2F3ddd11034463ac7c7879271335f8%2Frussia-plague-2298434595.jpg",
-     "url": "https://www.npr.org/2026/10/09/g-s1-147295/russia-lab-death-pneumonia-plague",
-     "source": "NPR News",
-     "published": "2026-10-09T16:43:45+00:00"
-    },
-    {
-     "title": "農曆9月誰最賺？謝沅瑾點名「5生肖」搶先卡位2027起跳點",
-     "summary": "〔娛樂頻道／綜合報導〕今（10日）起正式邁入農曆9月，年度氣運迎來關鍵洗牌期！知名命理大師謝沅瑾點出，此時正是佈局2027運勢的黃金起跳點，其中有5個生肖的財庫大門敞開，不僅有機會靠小額投資斬獲...…",
-     "image": "",
-     "url": "https://ent.ltn.com.tw/news/breakingnews/5601394",
-     "source": "自由時報",
-     "published": "2026-10-09T16:33:00+00:00"
-    },
-    {
-     "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
-     "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza The Nobel peace prize has been awarded to Navi Pillay, the South African forme…",
-     "image": "https://i.guim.co.uk/img/media/1af4719571646d49b58a7ed6e715293e288fb0b4/221_146_6359_5087/master/6359.jpg?width=140&quality=85&auto=format&fit=max&s=c3a3342197ea60869e430d51e4329640",
-     "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
-     "source": "Guardian World",
-     "published": "2026-10-09T16:30:09+00:00"
+     "published": "2026-10-09T19:25:28+00:00"
     }
    ]
   },
   "ai": {
    "label": "AI",
    "items": [
+    {
+     "title": "AI coding agents generate more code, but not more software",
+     "summary": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2264559974-500x500-1791573923.jpg",
+     "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+     "source": "Ars Technica",
+     "published": "2026-10-09T19:43:50+00:00"
+    },
+    {
+     "title": "Outrage grows as CDC reportedly poised to fund \"unethical\" vaccine trial",
+     "summary": "CDC allocated $1.6M for study on alleged harms of hepatitis B vaccine.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2252095020-500x500.jpg",
+     "url": "https://arstechnica.com/health/2026/10/rfk-jr-still-eager-to-fund-vaccine-trial-that-would-expose-babies-to-deadly-virus/",
+     "source": "Ars Technica",
+     "published": "2026-10-09T19:27:27+00:00"
+    },
+    {
+     "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
+     "summary": "\"The current decline may be just the beginning of a new downward cycle.\"",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298480400-500x500.jpg",
+     "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
+     "source": "Ars Technica",
+     "published": "2026-10-09T18:54:52+00:00"
+    },
+    {
+     "title": "AI disqualification yields new Nikon Small World in Motion winner",
+     "summary": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/nikon1-500x500-1791567849.jpg",
+     "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+     "source": "Ars Technica",
+     "published": "2026-10-09T18:44:06+00:00"
+    },
     {
      "title": "SMILE 衛星獨特紫外波段發威，捕捉覆蓋 1/3 地球的極光帶",
      "summary": "歐洲與中國合作研發的 SMILE 衛星（Solar wind Magnetosphere Ionosphere […]",
@@ -154,16 +186,24 @@
      "published": "2026-10-09T16:00:07+00:00"
     },
     {
-     "title": "Microsoft barred from sponsoring foreign workers for US residency",
-     "summary": "The US says Microsoft abused immigration rules; the company disputes the claim.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2019/04/microsoft-logo-lights-500x500.jpg",
-     "url": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/",
-     "source": "Ars Technica",
-     "published": "2026-10-09T13:14:33+00:00"
+     "title": "Triple-A Minesweeper",
+     "summary": "Article URL: https://minesweeper.mikelacher.com/ Comments URL: https://news.ycombinator.com/item?id=50022292 Points: 302 # Comments: 68",
+     "image": "",
+     "url": "https://minesweeper.mikelacher.com/",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-09T15:51:05+00:00"
+    },
+    {
+     "title": "Germany transforms former coal mines into Europe's largest lake landscape",
+     "summary": "Article URL: https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands Comments URL: https://news.ycombinator.com/item?id=50021540…",
+     "image": "",
+     "url": "https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-09T15:05:24+00:00"
     },
     {
      "title": "Our $445M Series D",
-     "summary": "Article URL: https://oxide.computer/blog/our-445m-series-d Comments URL: https://news.ycombinator.com/item?id=50020014 Points: 424 # Comments: 176",
+     "summary": "Article URL: https://oxide.computer/blog/our-445m-series-d Comments URL: https://news.ycombinator.com/item?id=50020014 Points: 501 # Comments: 209",
      "image": "",
      "url": "https://oxide.computer/blog/our-445m-series-d",
      "source": "Hacker News Front Page",
@@ -171,43 +211,11 @@
     },
     {
      "title": "Cloudflare acquires Deno",
-     "summary": "Article URL: https://deno.com/blog/cloudflare Comments URL: https://news.ycombinator.com/item?id=50019911 Points: 778 # Comments: 418",
+     "summary": "Article URL: https://deno.com/blog/cloudflare Comments URL: https://news.ycombinator.com/item?id=50019911 Points: 902 # Comments: 487",
      "image": "",
      "url": "https://deno.com/blog/cloudflare",
      "source": "Hacker News Front Page",
      "published": "2026-10-09T13:03:48+00:00"
-    },
-    {
-     "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-     "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 316 # Comments: 136",
-     "image": "",
-     "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-09T11:03:48+00:00"
-    },
-    {
-     "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
-     "summary": "\"I can say we’re weeks away from launching on Vulcan.\"",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/55092272338_83965929d0_o-500x500.jpg",
-     "url": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
-     "source": "Ars Technica",
-     "published": "2026-10-09T11:00:57+00:00"
-    },
-    {
-     "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
-     "summary": "Article URL: https://www.nobelprize.org/prizes/peace/2026/press-release/ Comments URL: https://news.ycombinator.com/item?id=50018420 Points: 353 # Comments: 184",
-     "image": "",
-     "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-09T10:12:11+00:00"
-    },
-    {
-     "title": "Volkswagen's replacement for the ID.4 crossover is here",
-     "summary": "The new EV’s digital cockpit can mimic instrument displays from VWs of old.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/DB2026AU00895-500x500.jpg",
-     "url": "https://arstechnica.com/cars/2026/10/volkswagens-replacement-for-the-id-4-crossover-is-here/",
-     "source": "Ars Technica",
-     "published": "2026-10-09T10:00:59+00:00"
     },
     {
      "title": "天然氣管線延宕，甲骨文擬動用卡車供氣搶救 AI 資料中心進度",
@@ -256,20 +264,44 @@
      "url": "https://arxiv.org/abs/2610.10590",
      "source": "arXiv cs.AI",
      "published": "2026-10-09T04:00:00+00:00"
-    },
-    {
-     "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
-     "summary": "arXiv:2610.10611v1 Announce Type: new Abstract: Agentic AI systems can improve by searching longer, receiving additional support, or modifying how they propose and verify outputs. A performance score…",
-     "image": "",
-     "url": "https://arxiv.org/abs/2610.10611",
-     "source": "arXiv cs.AI",
-     "published": "2026-10-09T04:00:00+00:00"
     }
    ]
   },
   "sport": {
    "label": "運動",
    "items": [
+    {
+     "title": "Tyrese Haliburton hopes to squash Damian Lillard beef over signature celebration",
+     "summary": "Indiana Pacers star Tyrese Haliburton addressed his multi-year rift with current Portland Trail Blazers icon Damian Lillard.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/tyrese-haliburton-hopes-squash-damian-202622538.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-09T20:26:22+00:00"
+    },
+    {
+     "title": "Takeaways from Knicks pausing contract extension talks: Is Josh Hart's time in New York running out?",
+     "summary": "Coming off a title, four Knicks players are eligible for contract extensions, including starters Karl-Anthony Towns and Josh Hart",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/09/3faee22c-c09e-4c38-9217-e56b37ce4a5d/towns-josh-hart-getty.png",
+     "url": "https://www.cbssports.com/nba/news/knicks-pause-contract-extension-talks-karl-anthony-towns-josh-hart-deuce-mcbride/",
+     "source": "CBS Sports NBA",
+     "published": "2026-10-09T19:22:19+00:00"
+    },
+    {
+     "title": "The Premier League is back: welcome to the new era of post-verdict unreality | Barney Ronay",
+     "summary": "As the top flight returns, armed with the knowledge its serial champions have been the authors of a 10-year sham supremacy, the first question is simple: how is it going to feel? The internet: an apol…",
+     "image": "https://i.guim.co.uk/img/media/3b5a45f626069075962052339878faacacff3271/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=411f4262d76edec3e663a5f63c7adaea",
+     "url": "https://www.theguardian.com/football/2026/oct/09/the-premier-league-is-back-welcome-to-the-new-era-of-post-verdict-unreality",
+     "source": "Guardian Sport",
+     "published": "2026-10-09T19:00:35+00:00"
+    },
+    {
+     "title": "76ers' Joel Embiid denies tardiness report, questions why it happened: 'It feels like I'm an easy target'",
+     "summary": "ESPN announcer Mike Breen previously apologized for recounting a since-refuted story in which LeBron James was depicted reprimanding Embiid for being late to practice.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/article/76ers-joel-embiid-denies-tardiness-report-questions-why-it-happened-it-feels-like-im-an-easy-target-191017824.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-09T18:53:50+00:00"
+    },
     {
      "title": "Ranking every NBA team's defense entering the 2026-27 season: Thunder and Spurs competing for top spot",
      "summary": "Who will be the best -- and worst -- on defense this season? We're projecting each team",
@@ -287,20 +319,12 @@
      "published": "2026-10-09T18:33:15+00:00"
     },
     {
-     "title": "Cavs season preview: Donovan Mitchell – measured in the playoffs",
-     "summary": "Can Donovan Mitchell be the best player on a championship team?",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/22be8734280d8bf1b7f76d4acdf815fc.jpg",
-     "url": "https://sports.yahoo.com/articles/cavs-season-preview-donovan-mitchell-170827833.html",
+     "title": "Wizards Practice Notebook: Keefe says Sarr is ‘trending toward’ returning Saturday",
+     "summary": "WASHINGTON — Less than 14 hours after a 111-109 win over the New York Knicks to open preseason play, the Wizards returned to CareFirst Arena for an early practice. Alex Sarr, who missed Thursday’s gam…",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/5c65fedfda2939c44dde8b0852f97d56.jpg",
+     "url": "https://sports.yahoo.com/articles/wizards-practice-notebook-keefe-says-174621553.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-10-09T17:08:27+00:00"
-    },
-    {
-     "title": "Karl-Anthony Towns, Josh Hart in contract limbo after Knicks talks paused",
-     "summary": "The Knicks said they are pausing negotiations with all extension-eligible players. It could have a big impact on Karl-Anthony Towns and Josh Hart.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/karl-anthony-towns-josh-hart-164238395.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-09T16:42:38+00:00"
+     "published": "2026-10-09T17:46:21+00:00"
     },
     {
      "title": "Wolff tells critics to ‘watch Teletubbies or Mickey Mouse not F1’ as he defends Mercedes’ strategy",
@@ -317,22 +341,6 @@
      "url": "https://www.theguardian.com/sport/gallery/2026/oct/09/mike-ditka-a-life-in-pictures",
      "source": "Guardian Sport",
      "published": "2026-10-09T16:41:53+00:00"
-    },
-    {
-     "title": "Check out Giannis Antetokounmpo's poster dunk in Miami (the first of many)",
-     "summary": "Put Antetokounmpo on the team that played at the fastest pace in the league last season and good things will happen.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/check-giannis-antetokounmpos-poster-dunk-163151134.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-09T16:31:51+00:00"
-    },
-    {
-     "title": "Maresca maintains almost total control as he follows Manchester City owners’ line | Jamie Jackson",
-     "summary": "Manager’s media conference was three times busier than usual, but he and his club are still speaking with one voice – for now Enzo Maresca’s first public display since Manchester City were found guilt…",
-     "image": "https://i.guim.co.uk/img/media/0e92a178ff5c49eff109229f005e08bcd127d208/795_0_3895_3117/master/3895.jpg?width=140&quality=85&auto=format&fit=max&s=bb220b8b768ac502e64c06dd5c0aac17",
-     "url": "https://www.theguardian.com/football/2026/oct/09/maresca-maintains-almost-total-control-as-he-follows-manchester-city-owners-line",
-     "source": "Guardian Sport",
-     "published": "2026-10-09T16:00:55+00:00"
     },
     {
      "title": "Verstappen on sprint pole after another settings issue",
@@ -389,14 +397,6 @@
      "url": "https://www.cbssports.com/nba/news/lebron-james-76ers-depth-problem-at-center/",
      "source": "CBS Sports NBA",
      "published": "2026-10-08T19:21:47+00:00"
-    },
-    {
-     "title": "Ranking every NBA team's offense entering the 2026-27 season: Knicks at No. 1, Lakers and Celtics in top five",
-     "summary": "Who will have the best -- and the worst -- offenses in the NBA this season? We're projecting each team",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/08/b6151f00-ab38-4f44-bcd2-a1429353e59a/doncic-getty-1.png",
-     "url": "https://www.cbssports.com/nba/news/ranking-every-nba-offense-2026-27-season-knicks-lakers-celtics/",
-     "source": "CBS Sports NBA",
-     "published": "2026-10-08T15:34:56+00:00"
     }
    ]
   }
