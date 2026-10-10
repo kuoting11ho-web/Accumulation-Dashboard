@@ -1,9 +1,97 @@
 {
- "generated": "2026-10-10T17:54:24.893157+00:00",
+ "generated": "2026-10-10T20:10:08.002463+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
+    {
+     "title": "Why is the Trump administration trying to dismantle the ICC?",
+     "summary": "The US has imposed sweeping new sanctions on the International Criminal Court.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/10/10/why-is-the-trump-administration-trying-to-dismantle-the-icc?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-10T19:59:18+00:00"
+    },
+    {
+     "title": "Lionel Messi returns from Argentina farewell as Inter Miami face DC United",
+     "summary": "Fresh off final game with Argentina, Messi leads Miami against DC United in Major League Soccer in the United States.",
+     "image": "",
+     "url": "https://www.aljazeera.com/sports/2026/10/10/messi-returns-from-argentina-farewell-as-inter-miami-face-dc-united?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-10T19:59:08+00:00"
+    },
+    {
+     "title": "Azerbaijan school pupils protest over reported hijab restrictions",
+     "summary": "Pupils have been protesting after the implementation of a new dress code restricting the hijab in Azerbaijan’s schools.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/azerbaijan-school-pupils-protest-over-reported-hijab-restrictions?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-10T19:49:33+00:00"
+    },
+    {
+     "title": "Manchester United held by ten-man Tottenham as woes for both continue",
+     "summary": "Ten-man Tottenham fight back from a goal behind to draw 1-1 at Manchester United in the Premier League.",
+     "image": "",
+     "url": "https://www.aljazeera.com/sports/2026/10/10/manchester-united-held-by-ten-man-tottenham-as-woes-for-both-continue?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-10T19:47:10+00:00"
+    },
+    {
+     "title": "駐沖繩美軍涉殺人案　盧比歐允全力配合調查",
+     "summary": "沖繩日前傳出美軍陸戰隊員涉嫌殺害日本公民，美國國務卿盧比歐（Marco Rubio）今天向日本外務大臣茂木敏充表達「誠摯哀悼」，並承諾美方將全力協助調查。 一名駐紮在沖繩普天間基地的美國陸...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5602300",
+     "source": "自由時報",
+     "published": "2026-10-10T19:30:06+00:00"
+    },
+    {
+     "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+     "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99c5/live/3203eb90-c4d2-11f1-a64c-550be9e3c66b.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-10T19:28:28+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》Lai calls for ‘guardian mountain chain’",
+     "summary": "INVESTMENT: To sustain Taiwan’s competitiveness, the Cabinet is accelerating the development of stra...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5602246",
+     "source": "自由時報",
+     "published": "2026-10-10T19:00:00+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》President Lai evokes ‘city on a hill’",
+     "summary": "‘SALT AND LIGHT’:Taiwan is built ‘atop a chain of mountains that is the splendid outcome of democrat...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5602229",
+     "source": "自由時報",
+     "published": "2026-10-10T19:00:00+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》Official outlines plans for Stinger missiles from US",
+     "summary": "BATCH 1: The military has plans to assign the weapons to the army to defend Taiwan proper, as well a...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5602231",
+     "source": "自由時報",
+     "published": "2026-10-10T19:00:00+00:00"
+    },
+    {
+     "title": "Several injured in attack on airport in Saudi capital Riyadh",
+     "summary": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/882f/live/23bf5530-c4c1-11f1-9ce9-55293bd7f0d9.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-10T18:37:10+00:00"
+    },
+    {
+     "title": "The Kennedy Center names new artistic director, amid concerns",
+     "summary": "The center's executive director has named an agent who has worked with ZZ Top and Motley Crue drummer Tommy Lee as the head of programming for the arts institution.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8101x5401+0+0/resize/8101x5401!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc2%2F3b%2F9e69e9c54a8abaf6460c597bf61b%2Fgettyimages-2297491934.jpg",
+     "url": "https://www.npr.org/2026/10/10/nx-s1-5996934/kennedy-center-rick-canny-new-artistic-director",
+     "source": "NPR News",
+     "published": "2026-10-10T18:17:12+00:00"
+    },
     {
      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
      "summary": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
@@ -13,92 +101,12 @@
      "published": "2026-10-10T17:44:26+00:00"
     },
     {
-     "title": "Pope says death penalty ‘inadmissible’ as US plans to livestream execution",
-     "summary": "Pope Leo XIV describes capital punishment as an 'attack on the inviolability and dignity of the person' in post on X.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-10T17:38:18+00:00"
-    },
-    {
-     "title": "Video shows rare albino Asian black bear",
-     "summary": "A rare albino Asian black bear was captured on camera in China’s Shennongjia National Park",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/video-shows-rare-albino-asian-black-bear?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-10T17:37:37+00:00"
-    },
-    {
-     "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-     "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99c5/live/3203eb90-c4d2-11f1-a64c-550be9e3c66b.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-10T17:31:24+00:00"
-    },
-    {
      "title": "At least 2 deaths attributed to Isaias after hurricane bashes Florida and Alabama",
-     "summary": "Hurricane Isaias is blamed for at least two deaths, after the storm made landfall on the Florida coast and ran through Alabama. The are numerous reports of downed trees, with hundreds of thousands of…",
+     "summary": "Hurricane Isaias is blamed for at least two deaths, after the storm made landfall on the Florida coast and ran through Alabama. There are numerous reports of downed trees, with hundreds of thousands o…",
      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8124x5416+0+0/resize/8124x5416!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff6%2F42%2F04e44b504ab1a96d22c59d2a7b51%2Fgettyimages-2298960624.jpg",
      "url": "https://www.npr.org/2026/10/10/g-s1-147632/at-least-2-deaths-attributed-to-isaias-after-hurricane-bashes-florida-and-alabama",
      "source": "NPR News",
      "published": "2026-10-10T17:14:03+00:00"
-    },
-    {
-     "title": "Christa Pike discharged from hospital and returned to Tennessee prison",
-     "summary": "Pike survived two doses of lethal-injection drugs on September 30, renewing scrutiny of capital punishment.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/10/christa-pike-discharged-from-hospital-and-returned-to-tennessee-prison?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-10T17:08:37+00:00"
-    },
-    {
-     "title": "Several injured in attack on airport in Saudi capital Riyadh",
-     "summary": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/882f/live/23bf5530-c4c1-11f1-9ce9-55293bd7f0d9.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-10T16:56:32+00:00"
-    },
-    {
-     "title": "Celebrations in Ethiopian city after reported Eritrean ‘incursion’",
-     "summary": "People in northern Ethiopia are celebrating after a reported withdrawal of Eritrean forces accused of an incursion.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/celebrations-in-ethiopian-city-after-reported-eritrean?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-10T16:54:56+00:00"
-    },
-    {
-     "title": "12生肖「帶財王」開獎！ 雨揚點名4生肖愈動愈旺、連賺7天",
-     "summary": "〔娛樂頻道／綜合報導〕農曆9月想翻身就看這週！你的荷包準備迎來暴風式進帳，還是慘淪破財爐？雨揚老師公布最新生肖週運，點名4大生肖不僅人脈變現金，只要「動起來」就能連旺7天、正偏財數到手軟。 不過，...…",
-     "image": "",
-     "url": "https://ent.ltn.com.tw/news/breakingnews/5602230",
-     "source": "自由時報",
-     "published": "2026-10-10T16:33:00+00:00"
-    },
-    {
-     "title": "借客廳給詐團蓋「貓池」 男子淪犯罪跳板判4月",
-     "summary": "把自家客廳借給詐團架「貓池」（數位節費設備），一毛沒賺反倒面臨12萬元易科罰金代價，吳姓男子白忙一場淪為犯罪跳板，台南地方法院審理後，依幫助詐欺取財罪判處他4個月徒刑，得易科罰金...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/society/breakingnews/5602255",
-     "source": "自由時報",
-     "published": "2026-10-10T16:31:16+00:00"
-    },
-    {
-     "title": "撞死人扯對方吃素、AI合成監視器 76歲女駕駛求免關吞敗",
-     "summary": "車禍撞死人竟扯監視器是AI合成！76歲陳姓老婦駕車擦撞並輾斃施姓女騎士，被判刑7個月定讞後聲請再審，堅稱法院採信的錄影畫面疑遭AI變造、死者吃素骨質差才重傷，高等法院台南分院審理...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/society/breakingnews/5602093",
-     "source": "自由時報",
-     "published": "2026-10-10T16:19:49+00:00"
-    },
-    {
-     "title": "尷尬！看國慶焰火杯具了 吉普車想衝過卑南溪慘刁車",
-     "summary": "2026國慶焰火昨晚在台東卑南溪出海口施放，長達30分鐘，人潮湧入拍好拍滿。不過，散場時，岸邊有輛吉普車「刁車」進退不得，幸好其他熱心車主伸援拖救。 當時國慶焰火結束，眾...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/society/breakingnews/5602279",
-     "source": "自由時報",
-     "published": "2026-10-10T16:18:49+00:00"
     },
     {
      "title": "Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows",
@@ -123,14 +131,6 @@
      "url": "https://www.bbc.com/zhongwen/articles/crkg7xppy4zwo/trad?at_medium=RSS&at_campaign=rss",
      "source": "BBC 中文",
      "published": "2026-10-10T13:49:24+00:00"
-    },
-    {
-     "title": "Putin relayed Iran war proposal to Trump, Kremlin says",
-     "summary": "Putin's reported call with Trump regarding the Iran war comes on the heels of a deal for the U.S. to buy Russian diesel amid a surge in fuel prices.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-10T13:42:36+00:00"
     }
    ]
   },
@@ -155,11 +155,19 @@
     },
     {
      "title": "Bitwarden Dual License Model",
-     "summary": "Article URL: https://community.bitwarden.com/t/published-version-update-in-app-stores/102750 Comments URL: https://news.ycombinator.com/item?id=50033407 Points: 202 # Comments: 157",
+     "summary": "Article URL: https://community.bitwarden.com/t/published-version-update-in-app-stores/102750 Comments URL: https://news.ycombinator.com/item?id=50033407 Points: 277 # Comments: 207",
      "image": "",
      "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
      "source": "Hacker News Front Page",
      "published": "2026-10-10T14:32:50+00:00"
+    },
+    {
+     "title": "I would like the value of my home to rise, while my property taxes fall",
+     "summary": "Article URL: https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/ Comments URL: https://news.ycombinator.com/item?id=50032758 Points: 154…",
+     "image": "",
+     "url": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-10T13:29:03+00:00"
     },
     {
      "title": "One with the world? A new look at brains transformed by psychedelics.",
@@ -170,8 +178,8 @@
      "published": "2026-10-10T11:15:35+00:00"
     },
     {
-     "title": "Apple/macOS silently removed from official Unix registry",
-     "summary": "Article URL: https://www.opengroup.org//openbrand/register/ Comments URL: https://news.ycombinator.com/item?id=50031653 Points: 158 # Comments: 159",
+     "title": "Apple/macOS removed from official Unix registry",
+     "summary": "Article URL: https://www.opengroup.org//openbrand/register/ Comments URL: https://news.ycombinator.com/item?id=50031653 Points: 187 # Comments: 173",
      "image": "",
      "url": "https://www.opengroup.org//openbrand/register/",
      "source": "Hacker News Front Page",
@@ -179,19 +187,11 @@
     },
     {
      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-     "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 159 # Comments: 83",
+     "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 199 # Comments: 101",
      "image": "",
      "url": "https://github.com/rociiu/talorys",
      "source": "Hacker News Front Page",
      "published": "2026-10-10T10:52:09+00:00"
-    },
-    {
-     "title": "`123456' password used in Danish CPR data breach",
-     "summary": "Article URL: https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/ Comments URL: https://news.ycombinator.com/item?id=50031269 Points: 321 # Comments: 176",
-     "image": "",
-     "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-10T09:51:49+00:00"
     },
     {
      "title": "拒當預售屋韭菜！全台單坪價差飆破 18 萬、買五年新古屋直接打 7 折",
@@ -271,23 +271,55 @@
    "label": "運動",
    "items": [
     {
-     "title": "Verstappen building major momentum as 'no-one very happy' at McLaren",
-     "summary": "Max Verstappen's revival might not be a serious issue for Kimi Antonelli but it is for McLaren, who had a bad Saturday in Singapore, writes Andrew Benson.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f27d/live/f357fbe0-c4cf-11f1-a64c-550be9e3c66b.jpg",
-     "url": "https://www.bbc.co.uk/sport/formula1/articles/cmn4ezn5ep3jo?at_medium=RSS&at_campaign=rss",
+     "title": "Solanke scores in added time as 10-man Spurs draw with Man Utd",
+     "summary": "Dominic Solanke scores in stoppage time to salvage a point for 10-man Tottenham as they snatched a draw against Manchester United in a feisty encounter at Old Trafford.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b519/live/e8fd9930-c4d8-11f1-bc2e-018d645d8d21.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/videos/crz9zdl0g04zo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
-     "published": "2026-10-10T17:46:36+00:00"
+     "published": "2026-10-10T19:24:23+00:00"
     },
     {
-     "title": "Manchester United v Tottenham: Premier League – live",
-     "summary": "⚽ Updates from the 5.30pm BST kick-off at Old Trafford ⚽ Scores | Table | Mail Scott Spurs get the ball rolling. They’re kicking towards the Stretford End in this first half. The teams are out. Manche…",
-     "image": "https://i.guim.co.uk/img/media/dffde005ce0fe409309d0bc63f24e8b0a79abdd1/458_521_6080_4864/master/6080.jpg?width=140&quality=85&auto=format&fit=max&s=d4b667bc6b957292565c86b34cd586cf",
-     "url": "https://www.theguardian.com/football/live/2026/oct/10/manchester-united-v-tottenham-premier-league-live",
+     "title": "Struijk sees red but Brighton march on with win against Sunderland",
+     "summary": "Brighton maintained their excellent start to the new Premier League season, as they beat Sunderland 2-0 at the Stadium of Light, despite having to play much of the second half with ten men, after Pasc…",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7188/live/7394f370-c4cc-11f1-9a39-31b474234113.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/videos/c6n8m3k7egd9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-10T19:00:17+00:00"
+    },
+    {
+     "title": "Henderson scores twice as five-star Chelsea thrash Bournemouth",
+     "summary": "Jordan Henderson has a home debut to remember as he scores twice for Chelsea as his side thrash Bournemouth 5-1 at Stamford Bridge, leaving the away side still searching for their first Premier League…",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e83/live/d582d610-c4cc-11f1-a64c-550be9e3c66b.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/videos/cjy5zxv9qq1po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-10T19:00:12+00:00"
+    },
+    {
+     "title": "Brilliant Guimaraes goal helps Arsenal fight back to beat Leeds",
+     "summary": "A brilliant goal from Bruno Guimaraes helps Arsenal come from behind to beat Leeds United 2-1 at the Emirates, as the champions get back to winning ways in the Premier League.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1979/live/91d156a0-c4bb-11f1-9a39-31b474234113.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/videos/c6y4z9lnkz30o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-10T19:00:08+00:00"
+    },
+    {
+     "title": "Solanke strikes late as 10-man Spurs salvage point at Manchester United",
+     "summary": "After 72 laboured minutes, this match was lit up by a moment of quality. Matheus Cunha was fed by Luke Shaw down the left and the Brazilian crossed to Bryan Mbeumo, who spun and finished for Mancheste…",
+     "image": "https://i.guim.co.uk/img/media/86d45b8982210e3f5e46975c9ca4b23c25d80bee/286_0_3043_2434/master/3043.jpg?width=140&quality=85&auto=format&fit=max&s=fa15c35d5928c0d64ca8a5a5c681c285",
+     "url": "https://www.theguardian.com/football/2026/oct/10/manchester-united-tottenham-premier-league-match-report",
      "source": "Guardian Sport",
-     "published": "2026-10-10T17:37:36+00:00"
+     "published": "2026-10-10T18:50:45+00:00"
     },
     {
-     "title": "Warriors sign Brandin Podziemski to extension worth reported $110M",
+     "title": "With Brandin Podziemski's extension, Warriors maintain flexibility for one last title pursuit with Steph Curry",
+     "summary": "Podziemski's new $110 million deal only eats into $2 million of the cap space the Warriors created for next summer",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/10/0b9191a8-06da-463a-9174-60dba3b0225b/podz.jpg",
+     "url": "https://www.cbssports.com/nba/news/brandin-podziemski-contract-extension-warriors-steph-curry/",
+     "source": "CBS Sports NBA",
+     "published": "2026-10-10T17:44:05+00:00"
+    },
+    {
+     "title": "Warriors sign Brandin Podziemski to extension worth $110M over five years",
      "summary": "The Golden State Warriors are giving Stephen Curry more stability by signing Brandin Podziemski to a contract extension worth a reported $110 million.",
      "image": "",
      "url": "https://sports.yahoo.com/articles/warriors-sign-brandin-podziemski-extension-172853964.html",
@@ -295,20 +327,20 @@
      "published": "2026-10-10T17:28:53+00:00"
     },
     {
-     "title": "Timely recognition or long overdue? How Gross is proving all-time bargain",
-     "summary": "Named the Premier League's player of the month for September, BBC Sport looks at Brighton star Pascal Gross' impact both this season and over the past nine years during his two spells at the club.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97e7/live/897a3830-bb67-11f1-9ecf-8dd029790cef.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cq1j427zze5xo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-10T17:07:02+00:00"
+     "title": "Pistons vs Wizards preview: Get better during preseason",
+     "summary": "The NBA preseason is a great time to work out some kinks, give reserves more opportunities to thrive, and for players to get their legs back under them. The Detroit Pistons did most of that in their f…",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/f6abe632e593bd1ccdba7ee5337b3032.jpg",
+     "url": "https://sports.yahoo.com/articles/pistons-vs-wizards-preview-better-170000999.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-10T17:00:00+00:00"
     },
     {
-     "title": "Northampton outgun Bath in 119-point thriller",
-     "summary": "Northampton win a high-octane 18-try thriller at home to Bath, the second highest-scoring game in English top-flight history.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5104/live/3ba271f0-c4c1-11f1-9ce9-55293bd7f0d9.jpg",
-     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm237zey5rgo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-10T16:07:54+00:00"
+     "title": "Warriors sign Brandin Podziemski to 5-year, $110 million extension",
+     "summary": "A good deal for both sides.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/5fdc3266f5add18ad963d98418a97e1d.jpg",
+     "url": "https://sports.yahoo.com/articles/warriors-sign-brandin-podziemski-5-163403417.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-10T16:34:03+00:00"
     },
     {
      "title": "Warriors, Brandin Podziemski reportedly agree to five-year, $110 million contract extension",
@@ -319,36 +351,12 @@
      "published": "2026-10-10T15:51:02+00:00"
     },
     {
-     "title": "Hincapie injury adds to Arsenal issues after Guimaraes rescue act",
-     "summary": "Heroics and battling performances have already become a theme of Arsenal's season with Bruno Guimaraes coming to the rescue again.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a7b/live/dfa63d80-c4b3-11f1-892b-f7bfd6496ad0.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c63r5w20ez3do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-10T15:44:14+00:00"
-    },
-    {
-     "title": "The good, the bad and the murky of the Lakers preseason so far",
-     "summary": "Although the sample size is small, there are still emerging trends and choices worth taking note of.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/7b56f225cc8467dcdd2b6e1d2373b536.jpg",
-     "url": "https://sports.yahoo.com/articles/good-bad-murky-lakers-preseason-152400948.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-10T15:24:00+00:00"
-    },
-    {
      "title": "Max Verstappen takes F1 Singapore GP pole from Leclerc after sprint win",
      "summary": "Hamilton qualifies third with Antonelli fourth Russell crashed out of sprint when leading on lap one While Red Bull and Max Verstappen were very much on a roll at the Singapore Grand Prix with victory…",
      "image": "https://i.guim.co.uk/img/media/1e83b9330e3a8eedec39e442756639b4946d3031/423_0_4232_3385/master/4232.jpg?width=140&quality=85&auto=format&fit=max&s=993a734c2a01b75af8abed39e4a950fb",
      "url": "https://www.theguardian.com/sport/2026/oct/10/max-verstappen-takes-f1-singapore-gp-pole-from-leclerc-after-sprint-win",
      "source": "Guardian Sport",
      "published": "2026-10-10T15:17:40+00:00"
-    },
-    {
-     "title": "Warriors' Brandin Podziemski reportedly agrees to 5-year, $110 million rookie-scale extension",
-     "summary": "Podziemski, 23, averaged 13.8 points and 5.1 rebounds for Golden State last season.",
-     "image": "",
-     "url": "https://sports.yahoo.com/nba/breaking-news/article/warriors-brandin-podziemski-reportedly-agrees-to-5-year-110-million-rookie-scale-extension-151052507.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-10T15:10:52+00:00"
     },
     {
      "title": "LeBron James is everything Philadelphia wants. And everything it can’t stand | Bryan Armen Graham",
