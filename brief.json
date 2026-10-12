@@ -1,72 +1,112 @@
 {
- "generated": "2026-10-12T19:52:28.367297+00:00",
+ "generated": "2026-10-12T21:46:22.096392+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "US Rep. Ilhan Omar’s home searched by immigration agents",
-     "summary": "Minnesota Representative Ilhan Omar’s home has been searched as part of an undisclosed ‘criminal investigation’.",
+     "title": "Trump 'not happy' with Kimberly Guilfoyle, weighs firing her as ambassador to Greece",
+     "summary": "The former Fox News personality Guilfoyle was previously engaged to the president's son, Donald Trump Jr.",
      "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/us-rep-ilhan-omars-home-searched-by-immigration-agents?traffic_source=rss",
+     "url": "https://www.cnbc.com/2026/10/12/trump-kimberly-guilfoyle-ambassador.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-12T21:43:39+00:00"
+    },
+    {
+     "title": "Canada’s Carney calls for unity as Alberta prepares for secession vote",
+     "summary": "Prime Minister Mark Carney's Thanksgiving message comes a week ahead of Alberta's referendum to secede.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-10-12T19:37:11+00:00"
+     "published": "2026-10-12T21:33:13+00:00"
     },
     {
-     "title": "馬斯克砸3.66億美元挺共和黨　料成期中選舉最大金主",
-     "summary": "馬斯克（Elon Musk）迄今已在2026年期中選舉投入約3.66億美元（約新台幣116億元），其中僅7月以來就達2.76億美元（約新台幣88億元），試圖協助共和黨維持國會控制權。 路透...…",
+     "title": "石崇良：提振生育率新對策 成效待觀察",
+     "summary": "〔記者林志怡／台北報導〕我國面臨嚴重少子化威脅，雖政府持續祭出育兒津貼等補助，但立法院預算中心報告指出，持續普惠式加碼對提振生育率效果有限，建議精進調整政策。衛福部長石崇良說，低生育率因素眾多，行政院今年五月已重新盤點並提出人口對策新戰略，規劃全面性政策介入，成效還需要時間觀察。 立法院預算中心報…",
      "image": "",
-     "url": "https://ec.ltn.com.tw/article/breakingnews/5604201",
+     "url": "https://news.ltn.com.tw/news/life/paper/1774276",
      "source": "自由時報",
-     "published": "2026-10-12T19:30:08+00:00"
+     "published": "2026-10-12T21:30:00+00:00"
     },
     {
-     "title": "NATO says will do ‘anything and everything’ if alliance is attacked",
-     "summary": "NATO commander issues warning as European officials have called for vigilance over potential Russian attacks.",
+     "title": "拒評議逾300天 卻冠職銜發表不同意見／3大法官還收權利金 司法人檢舉",
+     "summary": "〔記者劉詠韻、楊心慧／台北報導〕大法官蔡宗珍、楊惠欽及朱富美拒絕參與評議逾三百天，卻屢在判決公布後另發「不同意法律意見書」批判，以多出的「法律」二字，巧妙避開未參與評議即無從提出正式「不同意見書」的限制，三人冠以大法官職銜、使用「本席」，將文章刊於《台灣法律人》雜誌，並授權「法源法律網」使用及取得權…",
      "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/12/nato-says-will-do-anything-and-everything-if-alliance-is-attacked?traffic_source=rss",
+     "url": "https://news.ltn.com.tw/news/society/paper/1774322",
+     "source": "自由時報",
+     "published": "2026-10-12T21:30:00+00:00"
+    },
+    {
+     "title": "自由日日shoot》「發毒品說」惹議不道歉 服務處還架拒馬╱ 抗議李彥秀 社工擬串聯更大行動",
+     "summary": "〔記者蔡愷恆、林欣漢、陳昀／台北報導〕國民黨立委暨台北市長蔣萬安競選發言人的李彥秀日前稱，「以後社工人員會在社區提供吸毒的人毒品、毒藥來治癮」，台北市社會工作人員職業工會怒批李造謠，昨早與其它抗議團體至李位於南港的服務處門口，要求李道歉，拒絕讓弱勢權益與社會安全網成為政治口水戰的犧牲品。 …",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/politics/paper/1774281",
+     "source": "自由時報",
+     "published": "2026-10-12T21:30:00+00:00"
+    },
+    {
+     "title": "本報等6媒體合辦辯論 沈伯洋立即同意",
+     "summary": "蔣萬安第一時間未同意 雙方協商後 蔣辦表示將參加 〔記者侯家瑜、蔡愷恆、董冠怡／台北報導〕台北市長選戰辯論安排持續受到關注，除了TVBS與三立合辦的電視辯論會，民進黨台北市長參選人沈伯洋、台北市長蔣萬安均同意納入交叉詰問環節，但對於辯論會舉辦時間仍無共識。對於自由時報等六家媒體昨發表聲明，…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/politics/paper/1774328",
+     "source": "自由時報",
+     "published": "2026-10-12T21:30:00+00:00"
+    },
+    {
+     "title": "Conflict, drought increasing risk of famine in Sudan: Monitor",
+     "summary": "El Nino-induced drought is affecting roughly half of the country as three-year long war continues.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/12/conflict-drought-increasing-risk-of-famine-in-sudan-monitor?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-10-12T19:27:41+00:00"
+     "published": "2026-10-12T21:27:42+00:00"
     },
     {
-     "title": "Pope Leo to undergo surgery to remove lung nodule in Rome",
-     "summary": "Vatican expects a one-week hospital recovery for the 71-year-old Catholic leader ahead of scheduled Latin America tour.",
+     "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+     "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbda/live/375348b0-c659-11f1-8600-efb62b613ab5.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-12T21:20:51+00:00"
+    },
+    {
+     "title": "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 midterm donor",
+     "summary": "Musk’s record midterm election spending comes as the Tesla and SpaceX CEO rebuilds his relationship with Trump and has business ties to the federal government.",
      "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/12/pope-leo-to-undergo-surgery-to-remove-lung-nodule-in-rome?traffic_source=rss",
+     "url": "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-12T21:17:58+00:00"
+    },
+    {
+     "title": "Why do Iran’s oil ‘intermediaries’ owe the government billions?",
+     "summary": "Iran says intermediaries handling its oil sales owe it billions of dollars, but how did the debts accumulate?",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/12/why-do-irans-oil-intermediaries-owe-the-government-billions?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-10-12T19:06:44+00:00"
+     "published": "2026-10-12T21:16:58+00:00"
     },
     {
-     "title": "《TAIPEI TIMES》 US nonprofit designates Lala Mountain a dark sky site",
-     "summary": "By Shelley Shan / Staff reporter, with CNA Lala Mountain （拉拉山） in Taoyuan has been designated an ...…",
+     "title": "Abdi-Wali makes history as first Somali-born refugee in UK Parliament",
+     "summary": "Newly sworn-in Labour MP Sagal Abdi-Wali has become the first Somali-born refugee woman elected to UK Parliament.",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5604148",
-     "source": "自由時報",
-     "published": "2026-10-12T19:00:00+00:00"
-    },
-    {
-     "title": "《TAIPEI TIMES》 Taiwan condemns Beijing’s political coercion on diplomatic partners",
-     "summary": "ALLIES TARGETED:China’s coercive tactics would only expose its unreasonable behavior and boost Taiwa...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5604147",
-     "source": "自由時報",
-     "published": "2026-10-12T19:00:00+00:00"
-    },
-    {
-     "title": "《TAIPEI TIMES》 Six of new F-16s complete factory test",
-     "summary": "DEARTH OF PERSONNEL:The Ministry of National Defense has proposed scrapping the maximum length of se...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5604146",
-     "source": "自由時報",
-     "published": "2026-10-12T19:00:00+00:00"
-    },
-    {
-     "title": "Cuba forges ahead with renewable energy plans amid US oil blockade",
-     "summary": "Cuban energy minister denies link to fuel shipments intercepted by US, says oil imports by private firms insufficient.",
-     "image": "",
-     "url": "https://www.aljazeera.com/economy/2026/10/12/cuba-forges-ahead-with-renewable-energy-plans-amid-us-oil-blockade?traffic_source=rss",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/abdi-wali-makes-history-as-first-somali-born-refugee-in-uk-parliament?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-10-12T18:52:40+00:00"
+     "published": "2026-10-12T21:08:08+00:00"
+    },
+    {
+     "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+     "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b82e/live/50a18f00-c629-11f1-a509-ab6554d795a2.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-12T20:54:09+00:00"
+    },
+    {
+     "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+     "summary": "While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6601/live/5861b070-c670-11f1-8c1b-356b863d8549.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-12T20:17:37+00:00"
     },
     {
      "title": "Trump defends Russia diesel deal after bipartisan pushback: 'I made the right choice'",
@@ -77,28 +117,12 @@
      "published": "2026-10-12T18:32:03+00:00"
     },
     {
-     "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
-     "summary": "The S&P 500 has climbed almost 120% since its closing low on Oct. 12, 2022.",
+     "title": "Rep. Ilhan Omar blasts federal criminal raid on home: 'I will not be silenced'",
+     "summary": "The Minnesota Democrat, a Muslim who was born in Somalia, has been targeted for criticism in the past by President Donald Trump.",
      "image": "",
-     "url": "https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html",
+     "url": "https://www.cnbc.com/2026/10/12/ilhan-omar-home-raided-dhs-immigration-investigation.html",
      "source": "CNBC Top News",
-     "published": "2026-10-12T18:18:39+00:00"
-    },
-    {
-     "title": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay",
-     "summary": "Meta introduced Muse Wonder, its latest AI model, but users have to pay for subscriptions to the Muse app to access it.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-12T17:34:35+00:00"
-    },
-    {
-     "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-     "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbda/live/375348b0-c659-11f1-8600-efb62b613ab5.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-12T17:32:13+00:00"
+     "published": "2026-10-12T18:29:28+00:00"
     },
     {
      "title": "Stellantis and Renault back UK to get EU car industry protection",
@@ -107,30 +131,6 @@
      "url": "https://www.theguardian.com/business/2026/oct/12/stellantis-renault-uk-eu-car-industry-imports-china",
      "source": "Guardian Business",
      "published": "2026-10-12T17:22:05+00:00"
-    },
-    {
-     "title": "Federal agents search Rep. Ilhan Omar's DC home, DOJ says it approved the warrant",
-     "summary": "The Justice Department says the search is part of an \"ongoing federal investigation\", while Omar calls it \"an attempt to target political enemies\"",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F01%2F8f%2Ff186f19e4526a91ff8b050a1a3a5%2Fimg-0021.jpeg",
-     "url": "https://www.npr.org/2026/10/12/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj",
-     "source": "NPR News",
-     "published": "2026-10-12T17:17:17+00:00"
-    },
-    {
-     "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
-     "summary": "The Cleveland Fed president said that tighter monetary policy would be needed to bring down inflation.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-12T17:15:21+00:00"
-    },
-    {
-     "title": "South Africa's deputy police chief resigns after being charged with sexual offences",
-     "summary": "Shadrack Sibiya had denied grooming a 16-year-old and raping an 18-year-old.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42c8/live/68991b20-c64a-11f1-b47f-e3f9cf703bc3.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-12T16:46:49+00:00"
     }
    ]
   },
@@ -138,12 +138,68 @@
    "label": "AI",
    "items": [
     {
+     "title": "擷發科 9 月營收年增 137.1%，實現連六月穩定成長",
+     "summary": "擷發科公告 9 月合併營收達新台幣（下同） 407.1 萬元，較上月成長 1.88％，較去年同期成長 137. […]",
+     "image": "",
+     "url": "https://finance.technews.tw/2026/10/13/microip-2026-09-revenue/",
+     "source": "科技新報 TechNews",
+     "published": "2026-10-12T21:34:22+00:00"
+    },
+    {
+     "title": "弘塑 9 月營收年增 61.8%，單季業績再創新高",
+     "summary": "弘塑公告 9 月合併營業收入淨額為新台幣（下同）7.47 億元，較去年同期 4.61 億元成長 61.89%， […]",
+     "image": "",
+     "url": "https://finance.technews.tw/2026/10/13/gptc-2026-sep-revenue/",
+     "source": "科技新報 TechNews",
+     "published": "2026-10-12T21:02:59+00:00"
+    },
+    {
+     "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+     "summary": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/epicdisney-500x500.png",
+     "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+     "source": "Ars Technica",
+     "published": "2026-10-12T20:59:50+00:00"
+    },
+    {
+     "title": "After a 10-year redemption arc, No Man's Sky is coming to the iPhone and iPad",
+     "summary": "You can get a universe in your pocket if you have an iPhone 11 or later.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/no-mans-sky-iphone-500x500-1791835941.jpg",
+     "url": "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/",
+     "source": "Ars Technica",
+     "published": "2026-10-12T20:26:14+00:00"
+    },
+    {
+     "title": "Introducing OpenFatigue",
+     "summary": "Article URL: https://openfatigue.ai/ Comments URL: https://news.ycombinator.com/item?id=50061278 Points: 156 # Comments: 30",
+     "image": "",
+     "url": "https://openfatigue.ai/",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-12T19:08:21+00:00"
+    },
+    {
+     "title": "WHO report on Russian lab worker death highlights \"key uncertainty\"",
+     "summary": "Without a cause of death, it's unclear if Russia's precautions were the right ones.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1250822831-500x500.jpeg",
+     "url": "https://arstechnica.com/health/2026/10/who-report-on-russian-lab-worker-death-highlights-key-uncertainty/",
+     "source": "Ars Technica",
+     "published": "2026-10-12T18:46:43+00:00"
+    },
+    {
      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
-     "summary": "Article URL: https://github.com/openai/codex/issues/48195 Comments URL: https://news.ycombinator.com/item?id=50060694 Points: 154 # Comments: 95",
+     "summary": "Article URL: https://github.com/openai/codex/issues/48195 Comments URL: https://news.ycombinator.com/item?id=50060694 Points: 347 # Comments: 200",
      "image": "",
      "url": "https://github.com/openai/codex/issues/48195",
      "source": "Hacker News Front Page",
      "published": "2026-10-12T18:29:04+00:00"
+    },
+    {
+     "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+     "summary": "“I may have information regarding this case,\" Claude AI told Philly police.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-500x500-1773164045.jpg",
+     "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+     "source": "Ars Technica",
+     "published": "2026-10-12T18:21:36+00:00"
     },
     {
      "title": "微軟 Maia 300 新晶片明年量產，關鍵運算 Chiplet 採台積電 N2P 製程",
@@ -154,52 +210,20 @@
      "published": "2026-10-12T18:14:57+00:00"
     },
     {
-     "title": "Russia was not ready for the data center war it started with Ukraine",
-     "summary": "Russian bloggers warn Russia’s hyper-centralized digital economy is vulnerable.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Kremlin-with-barbed-wire-500x500.jpg",
-     "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
-     "source": "Ars Technica",
-     "published": "2026-10-12T17:52:36+00:00"
-    },
-    {
-     "title": "Muse Wonder",
-     "summary": "Article URL: https://research.meta.ai/blog/muse-wonder Comments URL: https://news.ycombinator.com/item?id=50059115 Points: 328 # Comments: 149",
+     "title": "AI coding agents generate more code, but not more software",
+     "summary": "Article URL: https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/ Comments URL: https://news.ycombinator.com/item?id=50059523 Points: 244 # Comments: 200",
      "image": "",
-     "url": "https://research.meta.ai/blog/muse-wonder",
+     "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
      "source": "Hacker News Front Page",
-     "published": "2026-10-12T16:48:01+00:00"
+     "published": "2026-10-12T17:14:01+00:00"
     },
     {
-     "title": "A Modern Web App in C",
-     "summary": "Article URL: https://prophitt.me/writing/a-modern-web-app-in-c Comments URL: https://news.ycombinator.com/item?id=50058528 Points: 198 # Comments: 80",
+     "title": "Thinking will become a hobby",
+     "summary": "Article URL: https://www.spinellis.gr/blog/20261008/?li261008 Comments URL: https://news.ycombinator.com/item?id=50059204 Points: 162 # Comments: 213",
      "image": "",
-     "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+     "url": "https://www.spinellis.gr/blog/20261008/?li261008",
      "source": "Hacker News Front Page",
-     "published": "2026-10-12T16:13:10+00:00"
-    },
-    {
-     "title": "GLM-Legal",
-     "summary": "Article URL: https://z.ai/blog/glm-legal Comments URL: https://news.ycombinator.com/item?id=50058507 Points: 274 # Comments: 161",
-     "image": "",
-     "url": "https://z.ai/blog/glm-legal",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-12T16:11:45+00:00"
-    },
-    {
-     "title": "Long-lost horror gaming cult classic P.T. gets a much-needed PC port",
-     "summary": "Kojima's discontinued \"playable trailer\" is no longer stuck on a few aging PS4 hard drives.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ptpc-500x500.png",
-     "url": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/",
-     "source": "Ars Technica",
-     "published": "2026-10-12T16:01:08+00:00"
-    },
-    {
-     "title": "F1 in Singapore: There's a new fastest car now",
-     "summary": "Also, F1’s final sprint saw our first real wet racing of the year.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298551998-500x500.jpg",
-     "url": "https://arstechnica.com/cars/2026/10/f1-in-singapore-theres-a-new-fastest-car-now/",
-     "source": "Ars Technica",
-     "published": "2026-10-12T14:43:14+00:00"
+     "published": "2026-10-12T16:54:08+00:00"
     },
     {
      "title": "太陽死後的太陽系，比想像中的更快崩解",
@@ -208,30 +232,6 @@
      "url": "https://technews.tw/2026/10/12/the-solar-system-may-fall-apart-faster-than-expected-after-the-sun-dies/",
      "source": "科技新報 TechNews",
      "published": "2026-10-12T14:27:30+00:00"
-    },
-    {
-     "title": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
-     "summary": "The Fitbit Edge offers more than the Air, but it's not a real smartwatch.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Edge-Olive-500x500.jpg",
-     "url": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
-     "source": "Ars Technica",
-     "published": "2026-10-12T13:00:52+00:00"
-    },
-    {
-     "title": "遠傳9月營收109.62 億元",
-     "summary": "遠傳（4904）今（12）日公布 9 月營收，達 109.62 億元，較 8 月成長 14.8%，較去年同期成 […]",
-     "image": "",
-     "url": "https://finance.technews.tw/2026/10/12/far-eastone-4904-202609-financial-report/",
-     "source": "科技新報 TechNews",
-     "published": "2026-10-12T10:20:08+00:00"
-    },
-    {
-     "title": "台灣大9月營收174.12 億元",
-     "summary": "台灣大（3045）今（12）日公布 9 月營收，達 174.12 億元，較 8 月成長 3.8%，較去年同期成 […]",
-     "image": "",
-     "url": "https://finance.technews.tw/2026/10/12/twm-3045-202609-financial-report/",
-     "source": "科技新報 TechNews",
-     "published": "2026-10-12T10:20:05+00:00"
     },
     {
      "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
@@ -271,12 +271,28 @@
    "label": "運動",
    "items": [
     {
-     "title": "Coventry City v Newcastle United: Premier League – live",
-     "summary": "Premier League updates from the 8pm BST kick-off 10 talking points | Table | Top scorers | Email Daniel So where is our game? Coventry will want to use their wide attackers to get them up the pitch. D…",
-     "image": "https://i.guim.co.uk/img/media/5ac22032dacddc7217edba1643f745131a3a5b1b/303_56_3302_2643/master/3302.jpg?width=140&quality=85&auto=format&fit=max&s=9ace2d8f362b0b0e1d4815608095d087",
-     "url": "https://www.theguardian.com/football/live/2026/oct/12/coventry-city-newcastle-united-premier-league-live-score-updates",
+     "title": "Jordan 'Last Dance' jersey sells for record £10.6m",
+     "summary": "A Michael Jordan jersey from his 'Last Dance' season sells for $14m (£10.6m), a record for a piece of basketball memorabilia.",
+     "image": "https://media.zenfs.com/en/bbc_us_articles_995/2fc915249b011aecb865310a78464194.jpg",
+     "url": "https://sports.yahoo.com/articles/jordan-last-dance-jersey-sells-211027548.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-12T21:10:27+00:00"
+    },
+    {
+     "title": "Coventry land long-awaited home win as Mfuni seals rout of Newcastle",
+     "summary": "If ever there was validation needed for attack being the best form of defence, Frank Lampard can point to this game. Coventry climbed out of the relegation zone after their second successive win showc…",
+     "image": "https://i.guim.co.uk/img/media/098e031f7eca9ce9c93dc569bdcc6e74dc57ecfb/393_0_4819_3856/master/4819.jpg?width=140&quality=85&auto=format&fit=max&s=e50445391d221b9bcc0bb242a9dc231b",
+     "url": "https://www.theguardian.com/football/2026/oct/12/coventry-newcastle-premier-league-match-report",
      "source": "Guardian Sport",
-     "published": "2026-10-12T19:38:03+00:00"
+     "published": "2026-10-12T21:09:57+00:00"
+    },
+    {
+     "title": "Three big questions about Trae Young as a Wizard",
+     "summary": "Trae Young is in D.C. for the long haul. Your mileage may vary on the four-year max extension the Wizards handed him this summer, but it’s clear that the Wizards are committed to Young and his style.…",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/6496fcef45052eff44fbb52490246a14.jpg",
+     "url": "https://sports.yahoo.com/articles/three-big-questions-trae-young-190000498.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-12T19:00:00+00:00"
     },
     {
      "title": "49ers’ Dre Greenlaw suspended after headbutt leaves opponent bleeding",
@@ -295,6 +311,22 @@
      "published": "2026-10-12T18:50:31+00:00"
     },
     {
+     "title": "Kawhi Leonard available for matchup with Knicks, says coach Darko Rajaković",
+     "summary": "The star forward is set to take the court tomorrow at Scotiabank Arena",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/6d8f9ef7d85121e7b8ee8f3ae5bb640d.jpg",
+     "url": "https://sports.yahoo.com/articles/kawhi-leonard-available-matchup-knicks-183400619.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-12T18:34:00+00:00"
+    },
+    {
+     "title": "Spurs release new ABA-inspired Classic Edition uniforms and court",
+     "summary": "It’s like we’re back at Hemisphere Park! (For those who were around.)",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/aca1edcdeaea5f6cfcedb5060a1723f8.jpg",
+     "url": "https://sports.yahoo.com/articles/spurs-release-aba-inspired-classic-180726505.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-12T18:07:26+00:00"
+    },
+    {
      "title": "Christian Horner: ‘Not all teams act that way. You don’t see the same brutality as when I left’",
      "summary": "The 52-year-old reflects on the pain of being sacked after two decades turning Red Bull into an F1 powerhouse, questioning his purpose in life and dealing with panic attacks Christian Horner should be…",
      "image": "https://i.guim.co.uk/img/media/dfe042e90dc3ab6ab05b154bd2f44371cfb4d894/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=10dbdcc4374dda2f06d3ea8d27f5297f",
@@ -303,44 +335,12 @@
      "published": "2026-10-12T18:00:01+00:00"
     },
     {
-     "title": "Micah Parsons expected to remain sidelined",
-     "summary": "Packers DE Micah Parsons not ready to return to practice at this time",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/micah-parsons-expected-remain-sidelined-175708321.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-12T17:57:08+00:00"
-    },
-    {
      "title": "GB's Richardson withdrawn from World Championships",
      "summary": "Matt Richardson is withdrawn from the Great Britain squad for next week's World Track Cycling Championships amid reports he is under investigation for misconduct.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bf4/live/603c30f0-c665-11f1-8b8f-ddd45afdc2fc.jpg",
      "url": "https://www.bbc.co.uk/sport/cycling/articles/cmpwgdw0p1d5o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-10-12T17:39:27+00:00"
-    },
-    {
-     "title": "Chris Vernon joins! Semi-bold predictions for the 2026-27 NBA season",
-     "summary": "Kevin O'Connor and Chris Vernon make \"semi-bold\" predictions for the upcoming NBA season.",
-     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/koc-steph-thumb_0499.png",
-     "url": "https://sports.yahoo.com/nba/article/chris-vernon-joins-semi-bold-predictions-for-the-2026-27-nba-season-173141226.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-12T17:31:41+00:00"
-    },
-    {
-     "title": "Joe Lacob has 32x’d his investment; how much higher can it go?",
-     "summary": "At what price would the Warriors’ owner sell?",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/43722ac7e72edc1fb97cadbf26f3ffe3.jpg",
-     "url": "https://sports.yahoo.com/articles/joe-lacob-32x-d-investment-172429726.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-12T17:24:29+00:00"
-    },
-    {
-     "title": "Michael Jordan &quot;Last Dance,&quot; 1998 Finals Game 2 jersey sells for record $14 million",
-     "summary": "Anything Jordan, especially from the \"Last Dance\" season, is in great demand among collectors.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/michael-jordan-last-dance-1998-172008746.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-12T17:20:08+00:00"
     },
     {
      "title": "NBA pressure rankings: 10 teams and players who will be feeling the most heat this season",
