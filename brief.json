@@ -1,9 +1,105 @@
 {
- "generated": "2026-10-13T19:53:52.902851+00:00",
+ "generated": "2026-10-13T21:20:25.561207+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
+    {
+     "title": "銀行財報亮眼難抵AI投資熱潮疑慮　美股收低",
+     "summary": "市場正在消化美國銀行業者亮眼的財報，同時受到亞股因人工智慧（AI）投資熱潮引發疑慮而回落的影響，華爾街股市今天在歷經震盪走勢後多數收低。 道瓊工業指數下挫180.45點或0.35%，收報5...…",
+     "image": "",
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5605354",
+     "source": "自由時報",
+     "published": "2026-10-13T21:12:04+00:00"
+    },
+    {
+     "title": "Saudi national OpenAI employee arrested after 'sophisticated recording device' planted in office",
+     "summary": "The Tuesday incident comes as the ChatGPT-maker, along with competitors, faces heightened scrutiny over its safety practices.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-13T21:08:45+00:00"
+    },
+    {
+     "title": "輝達宣布投資法國醫療網站Doctolib　擬用AI改善服務",
+     "summary": "人工智慧（AI）晶片巨擘輝達（NVIDIA）執行長黃仁勳今天表示，將收購法國醫療網站Doctolib的少數股權。該網站擬利用AI技術改善醫療保健服務。 綜合法新社與路透社報導，Doctol...…",
+     "image": "",
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5605352",
+     "source": "自由時報",
+     "published": "2026-10-13T21:00:05+00:00"
+    },
+    {
+     "title": "梵蒂岡：教宗良十四世切除右肺下葉　診斷為肺腺癌",
+     "summary": "教宗良十四世今天入院完成肺部手術，梵蒂岡新聞網晚間公布，教宗切除右肺下葉，組織檢查結果為肺腺癌，歷時90分鐘的手術過程順利，沒有引起併發症，教宗已返回病房休息。 教宗醫療報告在今晚近10時...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5605351",
+     "source": "自由時報",
+     "published": "2026-10-13T21:00:04+00:00"
+    },
+    {
+     "title": "美伊戰爭不確定性籠罩　國際油價漲跌不一",
+     "summary": "由於各界對美伊戰爭何時結束、全球能源產業何時能恢復正常仍充滿不確定性，國際油價呈現劇烈波動。 紐約商品交易所西德州中級原油11月交割價上漲40美分或0.43%，收報每桶94.14美元。 ...…",
+     "image": "",
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5605350",
+     "source": "自由時報",
+     "published": "2026-10-13T20:54:03+00:00"
+    },
+    {
+     "title": "Tupac Shakur killer sentenced to 40 years in prison",
+     "summary": "Duane ‘Keffe D’ Davis was sentenced to 40 years to life in prison over the 1996 murder of rap icon Tupac Shakur.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/tupac-shakur-killer-sentenced-to-40-years-in-prison?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-13T20:46:22+00:00"
+    },
+    {
+     "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+     "summary": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccec/live/9e543840-c71b-11f1-bc2e-018d645d8d21.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-13T20:46:06+00:00"
+    },
+    {
+     "title": "Bank of America fined $1.2 billion over money-laundering violations",
+     "summary": "The action by the Treasury Department was announced less than a day before Bank of America reports quarterly earnings.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/13/bank-of-america-treasury-money-laundering.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-13T20:45:01+00:00"
+    },
+    {
+     "title": "Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
+     "summary": "",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-13T20:33:10+00:00"
+    },
+    {
+     "title": "S&P 500 closes near flat after big banks post earnings and memory chip stocks decline",
+     "summary": "Traders digested a slew of corporate earnings reports from major banks along with a steep overnight decline in South Korea that put pressure on memory names.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/12/stock-market-today-live-updates.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-13T20:31:00+00:00"
+    },
+    {
+     "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+     "summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eff9/live/16b445b0-c720-11f1-a64c-550be9e3c66b.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-13T20:02:15+00:00"
+    },
+    {
+     "title": "Scientists urge tighter AI controls to prevent global cyber risks",
+     "summary": "Call comes amid polls casting doubts on political leaders' ability to manage AI risks as US midterm elections near.",
+     "image": "",
+     "url": "https://www.aljazeera.com/economy/2026/10/13/scientists-urge-tighter-ai-controls-to-prevent-global-cyber-risks?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-13T20:00:32+00:00"
+    },
     {
      "title": "Bipartisan group of senators call on Trump to rescind Russian diesel deal",
      "summary": "Six Democratic and six Republican senators wrote a letter calling on President Trump to withdraw from his recent deal with Russian President Vladimir Putin.",
@@ -21,28 +117,12 @@
      "published": "2026-10-13T19:51:14+00:00"
     },
     {
-     "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-     "summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eff9/live/16b445b0-c720-11f1-a64c-550be9e3c66b.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-13T19:48:36+00:00"
-    },
-    {
-     "title": "DR Congo Ebola cases pass 9,000 as efforts to curb transmission falter",
-     "summary": "The Bundibugyo strain fuels deadliest Ebola outbreak in DRC’s history as health workers face mistrust from communities.",
+     "title": "Iconic Iguazu Falls walkway dismantled amid record water levels",
+     "summary": "The Devil’s Throat walkway at Iguazu Falls is dismantled as water surged to nearly eight times its average.",
      "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/13/dr-congo-ebola-cases-pass-9000-as-efforts-to-curb-transmission-falter?traffic_source=rss",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/iconic-iguazu-falls-walkway-dismantled-amid-record-water-levels?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-10-13T19:39:01+00:00"
-    },
-    {
-     "title": "S&P 500 is little changed as traders mull over bank earnings; chip stocks slide: Live updates",
-     "summary": "Traders digested a slew of corporate earnings reports from major banks along with a steep overnight decline in South Korea that put pressure on memory names.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/12/stock-market-today-live-updates.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-13T19:38:35+00:00"
+     "published": "2026-10-13T19:40:51+00:00"
     },
     {
      "title": "A judge blocks the government's tree-clearing spree at a municipal D.C. golf course",
@@ -51,86 +131,6 @@
      "url": "https://www.npr.org/2026/10/13/nx-s1-6000055/east-potomac-golf-course-tree-clearing-judge",
      "source": "NPR News",
      "published": "2026-10-13T19:38:18+00:00"
-    },
-    {
-     "title": "聲援抗議學生集會遍地開花　法國逾16萬人上街示威",
-     "summary": "數以萬計的民眾今天參加在法國各地舉行的集會，聲援正在抗議的高中生，使得這場運動的聲勢更加壯大。隨著總統馬克宏任期即將結束，這波抗議也對他構成重大挑戰。 法新社報導，根據法國內政部數據，約有...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5605347",
-     "source": "自由時報",
-     "published": "2026-10-13T19:36:03+00:00"
-    },
-    {
-     "title": "Trump says Houthis trying to increase oil prices before US elections",
-     "summary": "US president suggests that Yemen-based group are 'purposefully trying to drive up oil prices' before November vote.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/13/trump-says-houthis-trying-to-increase-oil-prices-before-us-elections?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-13T19:33:11+00:00"
-    },
-    {
-     "title": "Will NATO’s ‘theory of victory’ work?",
-     "summary": "The alliance presents a common vision to deter adversaries.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/inside-story/2026/10/13/will-natos-theory-of-victory-work?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-13T19:32:16+00:00"
-    },
-    {
-     "title": "Eight orangutans find new forest home in Indonesia after wildfire rescue",
-     "summary": "Eight endangered orangutans were released into a protected forest in Indonesia after wildfires destroyed their habitat.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/10-13-orangutans-new-home-clip-mp4?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-13T19:24:50+00:00"
-    },
-    {
-     "title": "Cornell University bans frat parties, vows to address 'disturbing' campus culture",
-     "summary": "In a letter, Cornell's president apologized for what happened to the student who alleges she was raped by several men at a fraternity house in 2024 and promised 'meaningful action.'",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5712x4284+0+0/resize/5712x4284!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F87%2F07%2F9512d958454eb0e49b33a5d2576c%2Fimg-6476.jpg",
-     "url": "https://www.npr.org/2026/10/13/nx-s1-6000347/cornell-rape-ban-fraternity-parties",
-     "source": "NPR News",
-     "published": "2026-10-13T19:23:57+00:00"
-    },
-    {
-     "title": "《TAIPEI TIMES》 Paraguay and Belize condemn China sanctions",
-     "summary": "RIGHT TO DIPLOMACY: Under the UN Charter, every state has the right to conduct foreign policy free f...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5605284",
-     "source": "自由時報",
-     "published": "2026-10-13T19:00:00+00:00"
-    },
-    {
-     "title": "《TAIPEI TIMES》 Investment deal with Poland on agenda: minister",
-     "summary": "‘TAIWAN MODEL’: Foreign minister Lin Chia-lung said Taiwan aims to build a high-tech industry cluste...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5605288",
-     "source": "自由時報",
-     "published": "2026-10-13T19:00:00+00:00"
-    },
-    {
-     "title": "《TAIPEI TIMES》 Taiwan’s GDP to reach 10.7％, IMF says",
-     "summary": "BIG SURGE: Taiwan, the only economy projected to post double-digit percentage growth this year, and ...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5605283",
-     "source": "自由時報",
-     "published": "2026-10-13T19:00:00+00:00"
-    },
-    {
-     "title": "Zelenskyy tells NPR Ukraine wants peace but will hit Russia until it follows ceasefire",
-     "summary": "In an interview with NPR, Ukrainian President Volodymyr Zelenskyy said he was informed the U.S. warned it could cut off access to U.S. weapons and intelligence, but that it hasn't happened yet.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F30%2Fc4%2Fb1926b4d4f0bb735e1524b8da321%2Fnew-1340433-copy.jpg",
-     "url": "https://www.npr.org/2026/10/13/nx-s1-6000051/ukraine-zelenskyy-npr-interview-russia-war",
-     "source": "NPR News",
-     "published": "2026-10-13T18:51:55+00:00"
-    },
-    {
-     "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
-     "summary": "JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-13T18:46:27+00:00"
     }
    ]
   },
@@ -163,7 +163,7 @@
     },
     {
      "title": "Gemini 4 Argon",
-     "summary": "See also: Gemini 4 Argon for Robotics - https://news.ycombinator.com/item?id=50074869 Comments URL: https://news.ycombinator.com/item?id=50073879 Points: 607 # Comments: 498",
+     "summary": "See also: Gemini 4 Argon for Robotics - https://news.ycombinator.com/item?id=50074869 Comments URL: https://news.ycombinator.com/item?id=50073879 Points: 765 # Comments: 604",
      "image": "",
      "url": "https://deepmind.google/models/gemini/",
      "source": "Hacker News Front Page",
@@ -179,7 +179,7 @@
     },
     {
      "title": "Redesigning source control at Anthropic",
-     "summary": "Article URL: https://www.anthropic.com/engineering/redesigning-source-control Comments URL: https://news.ycombinator.com/item?id=50073633 Points: 229 # Comments: 185",
+     "summary": "Article URL: https://www.anthropic.com/engineering/redesigning-source-control Comments URL: https://news.ycombinator.com/item?id=50073633 Points: 362 # Comments: 350",
      "image": "",
      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
      "source": "Hacker News Front Page",
@@ -195,7 +195,7 @@
     },
     {
      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-     "summary": "Article URL: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic Comments URL: https://news.ycombinator.com/item?id=50073221 Points: 152 # Comments: 88",
+     "summary": "Article URL: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic Comments URL: https://news.ycombinator.com/item?id=50073221 Points: 193 # Comments: 117",
      "image": "",
      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
      "source": "Hacker News Front Page",
@@ -203,7 +203,7 @@
     },
     {
      "title": "Thunderbird for iOS",
-     "summary": "Article URL: https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/ Comments URL: https://news.ycombinator.com/item?id=50072913 Points: 22…",
+     "summary": "Article URL: https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/ Comments URL: https://news.ycombinator.com/item?id=50072913 Points: 25…",
      "image": "",
      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
      "source": "Hacker News Front Page",
@@ -255,12 +255,60 @@
    "label": "運動",
    "items": [
     {
-     "title": "Atlético Madrid v Manchester United: Champions League – live",
-     "summary": "Champions League updates from the 8pm BST kick-off Live scoreboard | Follow Arsenal v Lille | Email John Diego Simeone made mention of Julian Alvarez in his pre-match duties: “Well, he’s happy because…",
-     "image": "https://i.guim.co.uk/img/media/fa358333ad908631556ad02e62af935337fc2b59/24_0_4081_3266/master/4081.jpg?width=140&quality=85&auto=format&fit=max&s=f9884bc06777ecf66994d5a28d24f25d",
+     "title": "Why the Celtics are getting a bargain on Payton Pritchard's two-year, $44.2 million contract extension",
+     "summary": "With an NBA championship and Sixth Man of the Year Award already under his belt, Pritchard is set for an even bigger role in Boston this season",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/13/a0e9633d-84f0-4369-a9de-81d2ebe7c52d/pritchard-getty.png",
+     "url": "https://www.cbssports.com/nba/news/payton-pritchard-contract-extension-boston-celtics-bargain/",
+     "source": "CBS Sports NBA",
+     "published": "2026-10-13T21:07:27+00:00"
+    },
+    {
+     "title": "Atlético Madrid 2-0 Manchester United: Champions League – live reaction",
+     "summary": "A first-minute goal made United’s task difficult and it got harder when Leny Yoro was red-carded in the second half Diego Simeone made mention of Julian Alvarez in his pre-match duties: “Well, he’s ha…",
+     "image": "https://i.guim.co.uk/img/media/6c23d494a1d94fd1e6e88ea987ec5cb5dc15c1a8/277_0_3143_2514/master/3143.jpg?width=140&quality=85&auto=format&fit=max&s=e2f37460db831cc7ab21e139e0b8866e",
      "url": "https://www.theguardian.com/football/live/2026/oct/13/atletico-madrid-v-manchester-united-champions-league-live",
      "source": "Guardian Sport",
-     "published": "2026-10-13T19:50:46+00:00"
+     "published": "2026-10-13T21:06:27+00:00"
+    },
+    {
+     "title": "Payton Pritchard contract extension: What it means for Celtics, former Sixth Man of the Year",
+     "summary": "Payton Pritchard, a key scoring spark for the Boston Celtics, was just rewarded after he averaged career highs in points, assists and rebounds.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/payton-pritchard-contract-extension-means-203832577.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-13T20:38:32+00:00"
+    },
+    {
+     "title": "Celtics reportedly reach contract extension with Payton Pritchard for two years, $44.2 million",
+     "summary": "The former Sixth Man of the Year stays with the only franchise he's ever played for.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/celtics-reportedly-reach-contract-extension-203640829.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-13T20:36:40+00:00"
+    },
+    {
+     "title": "Former NFL star Mark Sanchez reaches settlement over stabbing altercation",
+     "summary": "Former QB fought with 69-year-old last October Fox Sports parted ways with Sanchez over incident Sanchez was charged over Indianapolis confrontation Former NFL quarterback and Fox Sports analyst Mark…",
+     "image": "https://i.guim.co.uk/img/media/d249bf28cbd54e3bdf9eb2c24d4505eef89e4207/620_0_6198_4960/master/6198.jpg?width=140&quality=85&auto=format&fit=max&s=6e2461bdd7fe86991d9fd08251ba135a",
+     "url": "https://www.theguardian.com/sport/2026/oct/13/mark-sanchez-indianapolis-civil-case-stabbing",
+     "source": "Guardian Sport",
+     "published": "2026-10-13T20:27:26+00:00"
+    },
+    {
+     "title": "Porro eyes La Liga return - Wednesday's gossip",
+     "summary": "Tottenham's Pedro Porro wants Barcelona move, multiple Premier League clubs chase Croatia striker Dion Beljo, Chelsea eye January swoop for Frenkie de Jong.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/079b/live/2ab93150-c735-11f1-9a39-31b474234113.png",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cm62yxegwy41o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-13T20:06:30+00:00"
+    },
+    {
+     "title": "Celtics reportedly sign G Payton Pritchard to 2-year, $44.2 million extension, with a mutual option",
+     "summary": "Pritchard was in the second year of his 4-year rookie extension signed ahead of the 2024-2025 season.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/article/celtics-reportedly-sign-g-payton-pritchard-to-2-year-442-million-extension-with-a-mutual-option-195753973.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-13T19:57:53+00:00"
     },
     {
      "title": "NBA betting, odds: Tips for betting the NBA and 2 futures wagers I like",
@@ -271,28 +319,12 @@
      "published": "2026-10-13T19:12:07+00:00"
     },
     {
-     "title": "Southeast Division Preview, WNBA Semifinals Recap + Liberty/Aces offseason look-ahead",
-     "summary": "Nekias Duncan and Steve Jones preview the Southeast division and recap the WNBA semifinals.",
-     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/tds-heatgiannis-thumb_7008.png",
-     "url": "https://sports.yahoo.com/nba/article/southeast-division-preview-wnba-semifinals-recap--libertyaces-offseason-look-ahead-190902705.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-13T19:09:02+00:00"
-    },
-    {
      "title": "Why Victor Wembanyama is poised to level up in Year 4 takeover -- and possibly join historic MVP/DPOY company",
      "summary": "Wemby, ranked CBS Sports' No. 1 NBA player, is still growing, even after asserting himself as the best in the game",
      "image": "https://sportshub.cbsistatic.com/i/2026/10/13/cdbf4a88-f11c-4bcc-9128-ff22dca43179/wemby-getty.png",
      "url": "https://www.cbssports.com/nba/news/victor-wembanyama-spurs-year-4-level-up-mvp-dpoy/",
      "source": "CBS Sports NBA",
      "published": "2026-10-13T18:18:47+00:00"
-    },
-    {
-     "title": "2026-27 Fantasy Basketball All-Sleeper Team: Don't hit the snooze button on these 6 players",
-     "summary": "Fantasy basketball analyst Dan Titus reveals his top sleepers for the 2026-27 NBA season.",
-     "image": "",
-     "url": "https://sports.yahoo.com/fantasy/article/2026-27-fantasy-basketball-all-sleeper-team-dont-hit-the-snooze-button-on-these-6-players-180322817.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-13T18:03:22+00:00"
     },
     {
      "title": "WNBA moves finals schedule to allow Atlanta Dream to play at larger arena",
@@ -303,12 +335,12 @@
      "published": "2026-10-13T17:50:47+00:00"
     },
     {
-     "title": "Jake LaRavia’s improved mindset, reworked jumper is paying big dividends early this preseason",
-     "summary": "LaRavia spent the summer reflecting on last season’s struggles and is off to a strong start this preseason",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/a134817a78b7d4d6a3a561ea55dd66b9.jpg",
-     "url": "https://sports.yahoo.com/articles/jake-laravia-improved-mindset-reworked-173319567.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-13T17:33:19+00:00"
+     "title": "PSG's Luis Enrique hopes Man City avoid sanctions",
+     "summary": "PSG boss Luis Enrique says he was surprised to learn Manchester City had been found guilty of breaching Premier League financial rules and hopes the club avoid sanctions.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34c8/live/dfa1bec0-c726-11f1-b881-4391ac746e04.png",
+     "url": "https://www.bbc.co.uk/sport/football/articles/ck1wvd91v4pwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-13T17:33:33+00:00"
     },
     {
      "title": "Kentavious Caldwell-Pope says 76ers' success will come down to 'us liking each other'",
@@ -317,22 +349,6 @@
      "url": "https://www.cbssports.com/nba/news/76ers-success-kentavious-caldwell-pope-liking-each-other/",
      "source": "CBS Sports NBA",
      "published": "2026-10-13T16:55:16+00:00"
-    },
-    {
-     "title": "Football regulator says he would quit over Man City political interference",
-     "summary": "The head of English football's independent regulator says he will resign if he encounters any political interference over Manchester City's future.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8ca/live/752f1a40-c723-11f1-b881-4391ac746e04.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-13T16:00:18+00:00"
-    },
-    {
-     "title": "Majority of clubs on edge of 'financial disaster' - regulator",
-     "summary": "English football's finances are \"dangerously exposed, with the majority of clubs living on the edge of financial disaster\", a new report says.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37b4/live/971360b0-c71b-11f1-bc2e-018d645d8d21.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c6vgx70pzq1jo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-13T16:00:11+00:00"
     },
     {
      "title": "Ranking the NBA's top 100 players: Victor Wembanyama enters 2026-27 season at No. 1",
@@ -365,22 +381,6 @@
      "url": "https://www.theguardian.com/sport/2026/oct/13/athletics-scrub-womens-marathon-world-record-ruth-chepngetich",
      "source": "Guardian Sport",
      "published": "2026-10-13T07:00:17+00:00"
-    },
-    {
-     "title": "Josh Allen finally gets first OT victory of his career as Bills beat Rams in thriller",
-     "summary": "Buffalo Bills 37–34 Los Angeles Rams (OT) Allen was 0-7 in overtime coming into game Quarterback rushes for 121 yards on wild night Rams have field goal blocked in overtime Josh Allen accounted for 33…",
-     "image": "https://i.guim.co.uk/img/media/c3b554162c0218a6b532484ae2e7775d5c0a406b/591_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3c98129b7e15dbd4d0677f32803287f7",
-     "url": "https://www.theguardian.com/sport/2026/oct/13/rams-bills-monday-night-football-nfl",
-     "source": "Guardian Sport",
-     "published": "2026-10-13T04:05:33+00:00"
-    },
-    {
-     "title": "Warriors' Kristaps Porziņģis remains away from team as he deals with mystery illness",
-     "summary": "The Warriors re-signed Porziņģis to a two-year, $40 million deal this summer, but he has not been available in the preseason",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/12/fad1ac6a-1f5a-468f-aa94-fca247a6b107/porzingis-getty-11.png",
-     "url": "https://www.cbssports.com/nba/news/warriors-kristaps-porzingis-away-from-team-mystery-illness/",
-     "source": "CBS Sports NBA",
-     "published": "2026-10-12T16:52:40+00:00"
     }
    ]
   }
