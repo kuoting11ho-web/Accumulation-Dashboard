@@ -1,16 +1,112 @@
 {
- "generated": "2026-10-14T18:03:22.822498+00:00",
+ "generated": "2026-10-14T20:14:53.967601+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "Ex-UK army chef jailed for ‘terror’-related offence",
-     "summary": "The former British Army member harboured 'extreme right-wing' views and was ordering explosives components, say police.",
+     "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
+     "summary": "Shares of CoreWeave sank 15%, while yields in its bonds blew out further.",
      "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/14/ex-uk-army-chef-jailed-for-terror-related-offence?traffic_source=rss",
+     "url": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-14T20:12:14+00:00"
+    },
+    {
+     "title": "Dell stock plunges 11%, leading data center sell-off on concerns about 'enterprise AI timing'",
+     "summary": "Barclays downgraded Dell, HPE, and NetApp on concerns that enterprise AI adoption is lagging.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-14T20:06:38+00:00"
+    },
+    {
+     "title": "美國8州聯手控告OpenAI　指ChatGPT危害兒童",
+     "summary": "美國愛荷華州及堪薩斯州等8州今天表示，它們已在全美多地法院控告OpenAI，指控ChatGPT對兒童造成危害，曾教導兒童傷害自己或他人。 路透社報導，美國8州在州法院提出訴訟，要求法院命令...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5606626",
+     "source": "自由時報",
+     "published": "2026-10-14T20:00:06+00:00"
+    },
+    {
+     "title": "How will a new alliance affect the conflict in eastern DRC?",
+     "summary": "Former President Joseph Kabila has joined forces with M23 fighters.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/10/14/how-will-a-new-alliance-affect-the-conflict-in-eastern-drc?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-10-14T17:32:09+00:00"
+     "published": "2026-10-14T19:54:16+00:00"
+    },
+    {
+     "title": "US lifts sanctions on Venezuela’s top legislator",
+     "summary": "Jorge Rodriguez has been removed from OFAC's sanctions list in latest US push for oil control and bilateral diplomacy.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/14/us-lifts-sanctions-on-venezuelas-top-legislator?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-14T19:53:03+00:00"
+    },
+    {
+     "title": "Aboard an icebreaker, a writer got a closer look at the Arctic's 'Sea Change'",
+     "summary": "As polar ice melts in the Arctic, shipping lanes are opening up, making the region a new zone of superpower competition. Writer Rana Foroohar explains the stakes in Sea Change.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1536x864+0+592/resize/1536x864!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F91%2F64%2F667fda7e425eba94a43332b55381%2Fimg-2932.JPEG",
+     "url": "https://www.npr.org/2026/10/14/nx-s1-6001592/arctic-sea-change-rana-foroohar",
+     "source": "NPR News",
+     "published": "2026-10-14T19:42:03+00:00"
+    },
+    {
+     "title": "Sally Rooney’s books pulled from UK over Palestine Action support",
+     "summary": "Award-winning author Sally Rooney’s books are being withdrawn from the UK over her support for Palestine Action",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/sally-rooneys-books-pulled-from-uk-over-palestine-action-support?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-14T19:23:27+00:00"
+    },
+    {
+     "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
+     "summary": "Iran has escalated its strikes on commercial ships transiting Hormuz in recent weeks, as it tries to choke off a rebound in crude oil exports.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-14T19:22:00+00:00"
+    },
+    {
+     "title": "歐盟憂心中國供應風險　擬與越南擴大關鍵礦產合作",
+     "summary": "根據路透社取得的歐盟內部文件，歐盟因擔憂關鍵礦物的供應風險，正尋求與越南加強合作，擴大鎢、稀土與銻等國防及工業原料的來源，降低對中國的依賴。 越南擁有豐富的關鍵礦產，包括鎢、稀土、銻、鉍和...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5606623",
+     "source": "自由時報",
+     "published": "2026-10-14T19:21:03+00:00"
+    },
+    {
+     "title": "World’s oldest known shipwreck found in Turkiye",
+     "summary": "The world’s oldest known shipwreck has been discovered off Turkiye’s coast, dating back nearly 5,000 years.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/worlds-oldest-known-shipwreck-found-in-turkiye?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-14T19:17:48+00:00"
+    },
+    {
+     "title": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
+     "summary": "Article in Atlantic claims The Blue Fighter was artificially generated, days after it won Caine prize for African writers The Zimbabwean writer Simbarashe Kundizeza has denied using AI to write a priz…",
+     "image": "https://i.guim.co.uk/img/media/6487803463c6c4e3138642f657eeb1cd90cd5acc/0_113_1078_862/master/1078.jpg?width=140&quality=85&auto=format&fit=max&s=6e0f4e5dcae2b2a9e886d0f5ebb34561",
+     "url": "https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story",
+     "source": "Guardian World",
+     "published": "2026-10-14T19:01:29+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》MAC criticizes China’s sanctions aiming at election interference",
+     "summary": "By Chen Fu-yu and Sam Garcia / Staff reporter and staff writer, with CNA Sanctions imposed by Chi...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5606574",
+     "source": "自由時報",
+     "published": "2026-10-14T19:00:00+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》Pineapples likely to be exported to US next year: ministry",
+     "summary": "By Yang Yuan-ting and Hollie Younger / Staff reporter, with staff writer Taiwanese pineapples are...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5606581",
+     "source": "自由時報",
+     "published": "2026-10-14T19:00:00+00:00"
     },
     {
      "title": "How high inflation became a 'fact of life' in the U.S.",
@@ -19,86 +115,6 @@
      "url": "https://www.cnbc.com/2026/10/14/high-inflation-fed-expectations.html",
      "source": "CNBC Top News",
      "published": "2026-10-14T17:20:23+00:00"
-    },
-    {
-     "title": "Saudi tennis ‘slam’ with Alcaraz, Djokovic postponed amid Houthi attacks",
-     "summary": "The Six Kings Slam exhibition tournament has been pushed from October to December by Saudi organisers.",
-     "image": "",
-     "url": "https://www.aljazeera.com/sports/2026/10/14/saudi-tennis-slam-with-alcaraz-djokovic-postponed-amid-houthi-attacks?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-14T17:11:57+00:00"
-    },
-    {
-     "title": "Palestinian collective uses art to connect Gaza and the West Bank",
-     "summary": "A Palestinian exhibition opening simultaneously in Bethlehem and Gaza is challenging Israeli restrictions.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinian-collective-uses-art-to-connect-gaza-and-the-west-bank?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-14T17:11:20+00:00"
-    },
-    {
-     "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
-     "summary": "Shares of CoreWeave sank 15%, while yields in its bonds blew out further.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-14T17:06:17+00:00"
-    },
-    {
-     "title": "串流龍頭不敵成長減緩　Netflix傳將裁員千人",
-     "summary": "美國媒體報導，影音串流龍頭Netflix（網飛）因成長減緩，傳將裁減約1000個職位。公司高層認為，為達成娛樂全世界的使命，必須在人力與資源配置上保持紀律。 法新社報導，美國數家媒體今天報...…",
-     "image": "",
-     "url": "https://ec.ltn.com.tw/article/breakingnews/5606610",
-     "source": "自由時報",
-     "published": "2026-10-14T17:06:04+00:00"
-    },
-    {
-     "title": "Settlers attack Palestinian mosque near occupied East Jerusalem",
-     "summary": "",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/settlers-attack-palestinian-mosque-near-occupied-east-jerusalem?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-14T17:05:01+00:00"
-    },
-    {
-     "title": "Treasury says largest U.S. banks let politics influence who received banking services",
-     "summary": "New Treasury Department findings may lend weight to President Donald Trump’s long-running grievance that major banks have discriminated against conservatives.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/14/treasury-banks-debanking-trump-reputation-risk.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-14T16:49:44+00:00"
-    },
-    {
-     "title": "沈伯洋昔與蘇巧慧暢聊爸爸經也翻出 網朝聖：想要有這種老公",
-     "summary": "民進黨台北市長參選人沈伯洋近期聲勢大漲，過往貼文頻被翻出，想挖出能打的點來攻擊，「粉撲」們也都很積極回頭找他昔日發文或露面過的影片。沈伯洋2年多前和綠營新北市長參選人蘇巧慧同框暢...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5606590",
-     "source": "自由時報",
-     "published": "2026-10-14T16:48:06+00:00"
-    },
-    {
-     "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
-     "summary": "Iran has escalated its strikes on commercial ships transiting Hormuz in recent weeks, as it tries to choke off a rebound in crude oil exports.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-14T16:46:08+00:00"
-    },
-    {
-     "title": "美通膨推高升息預期　歐股逆勢收高",
-     "summary": "美國通膨數據高於預期，投資人提高對美國聯邦準備理事會（Fed）本月稍晚升息的預期，美元與公債殖利率隨之攀升，但歐洲主要股市今天收高。 倫敦FTSE 100指數上揚74.53點或0.70%，...…",
-     "image": "",
-     "url": "https://ec.ltn.com.tw/article/breakingnews/5606606",
-     "source": "自由時報",
-     "published": "2026-10-14T16:39:03+00:00"
-    },
-    {
-     "title": "拒接魏平政主委！啟動「阿美軍團」助藍營？王惠美回應了",
-     "summary": "國民黨籍彰化縣長王惠美在拒接縣長參選人魏平政競選總部主委後，今年首度幫國民黨提名秀水鄉長參選人鄭倫杰站台，坊間傳聞王惠美將籌組「阿美軍團」，將陸續啟動站台模式。...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5606602",
-     "source": "自由時報",
-     "published": "2026-10-14T16:37:10+00:00"
     },
     {
      "title": "US inflation rises more than expected - here's what is happening with prices",
@@ -115,28 +131,36 @@
      "url": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
      "published": "2026-10-14T15:12:46+00:00"
-    },
-    {
-     "title": "Netflix to lay off about 1,000 employees in biggest cuts since 2022",
-     "summary": "Streaming company faces ⁠tough competition for viewers and engagement ⁠from legacy rivals ​and YouTube Netflix is laying off 6% of its workforce, ⁠or roughly 1,000 employees, in its biggest cuts since…",
-     "image": "https://i.guim.co.uk/img/media/c71140341ec0c98d2a11d40c18063e1604ce4531/0_0_4067_3253/master/4067.jpg?width=140&quality=85&auto=format&fit=max&s=7e4d986b5ba870d60b577ef2c01d88ce",
-     "url": "https://www.theguardian.com/media/2026/oct/14/netflix-job-layoffs-streaming",
-     "source": "Guardian Business",
-     "published": "2026-10-14T15:10:45+00:00"
-    },
-    {
-     "title": "US inflation rose to 3.7% in September in blow to Republicans before midterms",
-     "summary": "Final inflation report before voters go to polls comes amid widespread anger over cost of living under Trump Send us your questions on how the US economy is shaping the midterm elections Republicans a…",
-     "image": "https://i.guim.co.uk/img/media/84db52e3bd4c7e10da78a8eeaa51b4462b587fda/333_0_3334_2667/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=7ff8effcb194c105f932eff5874c25bf",
-     "url": "https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september",
-     "source": "Guardian Business",
-     "published": "2026-10-14T14:29:42+00:00"
     }
    ]
   },
   "ai": {
    "label": "AI",
    "items": [
+    {
+     "title": "Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer",
+     "summary": "\"Have you ever seen a world born?\"",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/narniaTOP-500x500-1791998070.jpg",
+     "url": "https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/",
+     "source": "Ars Technica",
+     "published": "2026-10-14T19:10:58+00:00"
+    },
+    {
+     "title": "先進封裝推升設備需求！ACM Research 擴大全球布局，清洗、沉積產品線持續延伸",
+     "summary": "美商 ACM Research 首席技術專家 Sally-Ann Henry 於 SEMICON West 受 […]",
+     "image": "",
+     "url": "https://technews.tw/2026/10/15/acm-research-semicon-west-sally-ann-henry/",
+     "source": "科技新報 TechNews",
+     "published": "2026-10-14T19:05:41+00:00"
+    },
+    {
+     "title": "Wooptix 加速全球布局！明年 2 套量測設備出貨亞洲、美國市場",
+     "summary": "半導體波前相位成像量測技術業者 Wooptix 先前宣布已於法國技術研究機構 CEA-Leti 完成首套量產規 […]",
+     "image": "",
+     "url": "https://technews.tw/2026/10/15/wooptix-semicon-west-javier-elizalde/",
+     "source": "科技新報 TechNews",
+     "published": "2026-10-14T18:39:39+00:00"
+    },
     {
      "title": "Lightmatter 攜合作夥伴，推開放式機架 CPO 交換器、XPU Scale-Up 伺服器",
      "summary": "Lightmatter 今（14 日）於 2026 年開放運算計畫全球高峰會（OCP Global Summi […]",
@@ -146,36 +170,60 @@
      "published": "2026-10-14T17:45:58+00:00"
     },
     {
-     "title": "Ukraine blindsided by Starlink throttling restrictions and intelligence gaps",
-     "summary": "Kyiv’s forces experience connectivity problems on Elon Musk’s satellite network.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1259126916-500x500.jpg",
-     "url": "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/",
-     "source": "Ars Technica",
-     "published": "2026-10-14T13:56:11+00:00"
+     "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+     "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 6…",
+     "image": "",
+     "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-14T17:45:23+00:00"
     },
     {
-     "title": "Anthropic warns small AI models could self-replicate through IoT devices",
-     "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-caution-threat-500x500.jpg",
-     "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+     "title": "Researchers use AI to design proteins that cut up other proteins",
+     "summary": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298087641-500x500-1791994331.jpg",
+     "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
      "source": "Ars Technica",
-     "published": "2026-10-14T12:55:06+00:00"
+     "published": "2026-10-14T17:10:15+00:00"
     },
     {
-     "title": "The Internet’s undersea backbone is slipping into the danger zone",
-     "summary": "Elisabeth Braw’s book Undersea War on rising risks for undersea infrastructure.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Undersea-cable-ship-500x500.jpg",
-     "url": "https://arstechnica.com/gadgets/2026/10/the-internets-undersea-backbone-is-slipping-into-to-the-danger-zone/",
+     "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+     "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/open-ai-bugged-500x500-1791993503.jpg",
+     "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
      "source": "Ars Technica",
-     "published": "2026-10-14T11:15:24+00:00"
+     "published": "2026-10-14T16:41:49+00:00"
     },
     {
-     "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
-     "summary": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/white-circle-red-team-500x500.jpg",
-     "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+     "title": "Google is silently linking your phone number across all signed-in accounts",
+     "summary": "Article URL: https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/ Comments URL: https://news.ycombinator.com/item?id=50090349 Points: 211 # Comments: 49",
+     "image": "",
+     "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-14T16:28:51+00:00"
+    },
+    {
+     "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
+     "summary": "Article URL: https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/ Comments URL: https://news.ycombinator.com/item?id=50090246 Points: 402 # Comments: 189",
+     "image": "",
+     "url": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-14T16:24:11+00:00"
+    },
+    {
+     "title": "Legendary FPS level designer Richard \"Levelord\" Gray dies at 68",
+     "summary": "Tributes pour in for the man behind iconic Duke Nukem 3D levels and much more.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/levelord-500x500.png",
+     "url": "https://arstechnica.com/gaming/2026/10/legendary-fps-level-designer-richard-levelord-gray-passes-away-at-68/",
      "source": "Ars Technica",
-     "published": "2026-10-14T11:00:30+00:00"
+     "published": "2026-10-14T16:02:08+00:00"
+    },
+    {
+     "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+     "summary": "Article URL: https://github.com/timescale/pg_vectorsearch Comments URL: https://news.ycombinator.com/item?id=50086165 Points: 168 # Comments: 46",
+     "image": "",
+     "url": "https://github.com/timescale/pg_vectorsearch",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-14T11:47:53+00:00"
     },
     {
      "title": "先進封裝材料挑戰怎解？三菱化學靠計算化學、量子技術加速材料開發",
@@ -184,38 +232,6 @@
      "url": "https://technews.tw/2026/10/14/mitsubishi-chemical-group-sanjiv-bhatt-semicon-west/",
      "source": "科技新報 TechNews",
      "published": "2026-10-14T10:26:10+00:00"
-    },
-    {
-     "title": "中國退稅砍 4 個百分點、歐盟設油電車配額，中國電動車出海遭雙重夾擊",
-     "summary": "中國電動車產業近期接連遭遇兩項不利出口的政策。中國財政部與國家稅務總局 12 日宣布，2027 年 4 月 1 […]",
-     "image": "",
-     "url": "https://technews.tw/2026/10/14/chinas-ev-industry-faces-double-blow-from-eu-export-quota-vat-rebate-cut/",
-     "source": "科技新報 TechNews",
-     "published": "2026-10-14T10:00:01+00:00"
-    },
-    {
-     "title": "帕克探測器首揭太陽風磁場方向反轉現象，亂流具結構性特徵",
-     "summary": "流體運動無處不在，從牛奶混入咖啡、海洋洋流到大氣風暴運動比比皆是，但在外太空，由於介質處於電離態（電漿），粒子 […]",
-     "image": "",
-     "url": "https://technews.tw/2026/10/14/parker-solar-probe-space-plasma-turbulence/",
-     "source": "科技新報 TechNews",
-     "published": "2026-10-14T09:56:23+00:00"
-    },
-    {
-     "title": "Amazon pushes up prices across the Internet",
-     "summary": "Article URL: https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/ Comments URL: https://news.ycombinator.com/item?id=50084757 Points: 528 # Comments: 487",
-     "image": "",
-     "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-14T09:28:17+00:00"
-    },
-    {
-     "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
-     "summary": "Article URL: https://typeof.net/Iosevka/ Comments URL: https://news.ycombinator.com/item?id=50084240 Points: 565 # Comments: 235",
-     "image": "",
-     "url": "https://typeof.net/Iosevka/",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-14T08:27:59+00:00"
     },
     {
      "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
@@ -248,22 +264,6 @@
      "url": "https://arxiv.org/abs/2610.14136",
      "source": "arXiv cs.AI",
      "published": "2026-10-14T04:00:00+00:00"
-    },
-    {
-     "title": "Gemini 4 Argon",
-     "summary": "See also: Gemini 4 Argon for Robotics - https://news.ycombinator.com/item?id=50074869 Comments URL: https://news.ycombinator.com/item?id=50073879 Points: 1416 # Comments: 1014",
-     "image": "",
-     "url": "https://deepmind.google/models/gemini/",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-13T16:03:16+00:00"
-    },
-    {
-     "title": "Open models have real benefits. Do they outweigh the risks?",
-     "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last…",
-     "image": "",
-     "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-     "source": "MIT Tech Review AI",
-     "published": "2026-10-13T10:00:00+00:00"
     }
    ]
   },
@@ -271,12 +271,60 @@
    "label": "運動",
    "items": [
     {
-     "title": "Lask v Liverpool: Champions League – live",
-     "summary": "Champions League news from the 5.45pm BST kick-off Live scoreboard | Today’s Football Daily | Email Michael 2 min: Two minutes played and Lask have not yet had a literal kick. Liverpool seem content t…",
-     "image": "https://i.guim.co.uk/img/media/bd433c3643515f30e230f1bf532355c1dea12fdc/326_0_3213_2571/master/3213.jpg?width=140&quality=85&auto=format&fit=max&s=7bbe86eeb6e327f48ca0eae12e144303",
-     "url": "https://www.theguardian.com/football/live/2026/oct/14/lask-v-liverpool-champions-league-live-score-updates",
+     "title": "Manchester City v Paris Saint-Germain: Champions League – live",
+     "summary": "Champions League news from the 8pm BST kick-off Live scoreboard | Today’s Football Daily | Email Scott 2 min: Cherki is caught dozing by Dembélé, who sends Doué scampering down a cul-de-sac on the lef…",
+     "image": "https://i.guim.co.uk/img/media/62f0fab9627ea42aed464ba43e269d3b43482236/275_0_2750_2200/master/2750.jpg?width=140&quality=85&auto=format&fit=max&s=acd8f8ddae25a06e43da90e57b756f3a",
+     "url": "https://www.theguardian.com/football/live/2026/oct/14/manchester-city-v-paris-saint-germain-champions-league-live-score-updates",
      "source": "Guardian Sport",
-     "published": "2026-10-14T17:57:57+00:00"
+     "published": "2026-10-14T19:59:51+00:00"
+    },
+    {
+     "title": "NBA's most underrated players: An improving LaMelo Ball, a picked-on James Harden ... and a rookie?",
+     "summary": "In wake of our NBA Top 100 list going live, CBS Sports writers are picking who they think are the most underrated players in the league",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/14/a9688e0a-a72e-4096-8f6c-482d9b6f1724/lamelo-ball-getty-8.png",
+     "url": "https://www.cbssports.com/nba/news/nba-most-underrated-players-lamelo-ball-james-harden-rookie/",
+     "source": "CBS Sports NBA",
+     "published": "2026-10-14T19:00:27+00:00"
+    },
+    {
+     "title": "‘I expect more’: the key questions from Martínez’s Manchester United broadside | Jamie Jackson",
+     "summary": "From Jason Wilcox’s role to the views of the rest of the squad, we tackle the major talking points at Old Trafford after the defender’s outburst After Manchester United’s 2-0 loss at Atlético Madrid,…",
+     "image": "https://i.guim.co.uk/img/media/e5c6c7515a13f1a8082e66fb55bd146d7de29f87/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=f7bba961f2becf94c8cc3265e486613a",
+     "url": "https://www.theguardian.com/football/2026/oct/14/key-questions-lisandro-martinez-manchester-united-michael-carrick",
+     "source": "Guardian Sport",
+     "published": "2026-10-14T19:00:09+00:00"
+    },
+    {
+     "title": "Top 50 NBA trade candidates for 2026-27 season: Anthony Davis, Zion Williamson and more names to watch",
+     "summary": "NBA trade season really never ends these days, and here are 50 players who could be moving during the new season",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/14/6580b128-1cd6-47de-b0d8-bd8c15246607/nba-trade-candidates.png",
+     "url": "https://www.cbssports.com/nba/news/top-50-nba-trade-candidates-2026-27-season/",
+     "source": "CBS Sports NBA",
+     "published": "2026-10-14T18:30:13+00:00"
+    },
+    {
+     "title": "Kentavious Caldwell-Pope on 76ers key: 'Our chemistry... Us liking each other'",
+     "summary": "The question in Philadelphia isn't talent, it's fit and chemistry. And health.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/kentavious-caldwell-pope-76ers-key-175848501.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-14T17:58:48+00:00"
+    },
+    {
+     "title": "JJ Redick admitted that Bronny James has struggled in preseason, but still not concerned",
+     "summary": "The third-year guard has struggled mightily in preseason but his head coach doesn’t believe that tells the full story",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/7ccc45f79e5585eb1ecd7c51bc230be8.jpg",
+     "url": "https://sports.yahoo.com/articles/jj-redick-admitted-bronny-james-174600304.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-14T17:46:00+00:00"
+    },
+    {
+     "title": "Lakers coach JJ Redick on Bronny James: 'I don't think he's played well' in preseason games",
+     "summary": "Bronny has struggled this preseason, combining for 11 points and 12 turnovers in four games",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/14/3d0b3ef6-f4e3-49af-aedb-586cf33508f7/bronny-redick-getty.png",
+     "url": "https://www.cbssports.com/nba/news/bronny-james-lakers-roster-jj-redick-lebron-james/",
+     "source": "CBS Sports NBA",
+     "published": "2026-10-14T17:33:11+00:00"
     },
     {
      "title": "Cokayne back as England face Canada threat in Toronto",
@@ -285,6 +333,14 @@
      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6j472xqk5kro?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-10-14T17:31:11+00:00"
+    },
+    {
+     "title": "VOTE: Will the Rockets trade Kevin Durant at the deadline this year?",
+     "summary": "Will the Rockets move on?",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/96fd842bd3b0f55ba2248b6f3568ec78.jpg",
+     "url": "https://sports.yahoo.com/articles/vote-rockets-trade-kevin-durant-172712935.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-14T17:27:12+00:00"
     },
     {
      "title": "NBA Preview 2026-27: Reintroduction to the top 9 title contenders",
@@ -303,20 +359,12 @@
      "published": "2026-10-14T17:09:18+00:00"
     },
     {
-     "title": "MLS’s political speech policy is untenable – just ask Austin FC fans",
+     "title": "Removing political speech from MLS fans is untenable – just ask Austin FC",
      "summary": "The protests around an anti-ICE T-shirt show that politics can never be separated from sports, especially now On 26 September, Daniela Silva was expelled from Austin FC’s match with San Diego FC for w…",
      "image": "https://i.guim.co.uk/img/media/1ae81a648e43f9cd0ce396ec0a323bf73d1b22e5/1046_0_6221_4977/master/6221.jpg?width=140&quality=85&auto=format&fit=max&s=93412b51bbc999d6b05119ffa261667e",
      "url": "https://www.theguardian.com/football/2026/oct/14/austin-fc-ice-banner-mls-political-speech-policy",
      "source": "Guardian Sport",
      "published": "2026-10-14T16:58:53+00:00"
-    },
-    {
-     "title": "Fantasy Basketball Expert Mock Draft live: Watch as the industry's best navigate a 12-team, 9-category league",
-     "summary": "Twelve industry experts will go head-to-head in a live fantasy hoops mock draft Thursday. Tune in for a valuable look at how the board could fall before you're on the clock.",
-     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ed-092926-fantasyhoops-draftkit_8911.jpg",
-     "url": "https://sports.yahoo.com/fantasy/article/fantasy-basketball-expert-mock-draft-live-watch-as-the-industrys-best-navigate-a-12-team-9-category-league-161400080.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-14T16:14:00+00:00"
     },
     {
      "title": "Fifa to offer extra £2.6bn for football development",
@@ -327,28 +375,12 @@
      "published": "2026-10-14T15:59:59+00:00"
     },
     {
-     "title": "ESPN’s Brian Windhorst won’t stop banging the Cooper Flagg drum",
-     "summary": "Make sure you are on the ride and buckled in before the Cooper Flagg Express leaves the station.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/2b17fdb61fddfa5e6159eb35f5a59c17.jpg",
-     "url": "https://sports.yahoo.com/articles/espn-brian-windhorst-won-t-153245395.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-14T15:32:45+00:00"
-    },
-    {
      "title": "Wilcox the target again in another damaging Man Utd fallout",
      "summary": "Lisandro Martinez's explosive comments after Manchester United's Champions League defeat by Atletico Madrid turn the spotlight back on director of football Jason Wilcox.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ac2/live/f663aa70-c7de-11f1-9a39-31b474234113.png",
      "url": "https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-10-14T15:30:03+00:00"
-    },
-    {
-     "title": "NBA Cup 2026: League releases all 30 new team court designs for midseason tournament",
-     "summary": "The annual in-season tournament will begin on Friday, Oct. 30.",
-     "image": "",
-     "url": "https://sports.yahoo.com/nba/breaking-news/article/nba-cup-2026-league-releases-all-30-new-team-court-designs-for-midseason-tournament-151701735.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-14T15:17:01+00:00"
     },
     {
      "title": "NBA rookie impact rankings: 10 first-year players who will make presence felt immediately",
@@ -359,44 +391,12 @@
      "published": "2026-10-14T14:14:07+00:00"
     },
     {
-     "title": "Top 50 NBA trade candidates for 2026-27 season: Anthony Davis, Zion Williamson and more names to watch",
-     "summary": "NBA trade season really never ends these days, and here are 50 players who could be moving during the new season",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/14/6580b128-1cd6-47de-b0d8-bd8c15246607/nba-trade-candidates.png",
-     "url": "https://www.cbssports.com/nba/news/top-50-nba-trade-candidates-2026-27-season/",
-     "source": "CBS Sports NBA",
-     "published": "2026-10-14T13:04:45+00:00"
-    },
-    {
-     "title": "Rays win Game 2 to knot up ALCS; Pete Prisco's latest NFL Power Rankings; top 100 NBA players",
-     "summary": "Plus why the Bills vs. Rams thriller came with long-term consequences",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/14/d666f39f-e147-482d-8688-4426f8d758d1/gettyimages-2300088305-1.jpg",
-     "url": "https://www.cbssports.com/mlb/news/rays-guardians-alcs-prisco-nfl-power-rankings-top-100-nba-players/",
-     "source": "CBS Sports NBA",
-     "published": "2026-10-14T12:40:53+00:00"
-    },
-    {
      "title": "Finding Renée Richards: the complicated past and present of a trans sports pioneer",
      "summary": "In 1977, Richards sued to play in the US Open after transitioning. Now she supports bans on trans athletes in women’s sports. A new biography explores a complex legacy It was a story that dominated te…",
      "image": "https://i.guim.co.uk/img/media/7f308217d16d473229551f837ea362fd43e535a4/281_0_3038_2430/master/3038.jpg?width=140&quality=85&auto=format&fit=max&s=04f922b2cd1c63cd1d75b6fcf2f6d2ed",
      "url": "https://www.theguardian.com/sport/2026/oct/14/finding-renee-richards-julie-kliegman",
      "source": "Guardian Sport",
      "published": "2026-10-14T10:00:02+00:00"
-    },
-    {
-     "title": "Peralta shines as Rays seize on Ramírez error to level ALCS against Guardians",
-     "summary": "Freddy Peralta pitches six scoreless innings in 3-1 win José Ramírez error opens door to three-run fourth ALCS heads to Cleveland at 1-1 for Thursday’s Game 3 Freddy Peralta pitched six innings of fou…",
-     "image": "https://i.guim.co.uk/img/media/a25f7cbd7897053e228a29ec46230aaea8bd6b8e/245_0_3635_2908/master/3635.jpg?width=140&quality=85&auto=format&fit=max&s=1c1e718890642e4eee6ec0a982614a1e",
-     "url": "https://www.theguardian.com/sport/2026/oct/13/rays-guardians-alcs-game-two-freddy-peralta-jose-ramirez",
-     "source": "Guardian Sport",
-     "published": "2026-10-14T03:18:43+00:00"
-    },
-    {
-     "title": "Why the Celtics are getting a bargain on Payton Pritchard's two-year, $44.2 million contract extension",
-     "summary": "With an NBA championship and Sixth Man of the Year Award already under his belt, Pritchard is set for an even bigger role in Boston this season",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/13/a0e9633d-84f0-4369-a9de-81d2ebe7c52d/pritchard-getty.png",
-     "url": "https://www.cbssports.com/nba/news/payton-pritchard-contract-extension-boston-celtics-bargain/",
-     "source": "CBS Sports NBA",
-     "published": "2026-10-13T21:07:27+00:00"
     }
    ]
   }
