@@ -1,64 +1,120 @@
 {
- "generated": "2026-10-15T15:07:01.200657+00:00",
+ "generated": "2026-10-15T17:48:20.494230+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "S&P 500 is little changed as tech shares drop for a second day, wholesale inflation reading jumps: Live updates",
-     "summary": "Concerns around tech companies overspending on artificial intelligence grew, and traders digested U.S. data that pointed to persistent inflation.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/14/stock-market-today-live-updates.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-15T15:02:02+00:00"
-    },
-    {
-     "title": "Wall Street drops after jump in US producer inflation; John Healey says UK banks are part of ‘jewel in the crown’ – as it happened",
-     "summary": "John Healey has spoken to UK journalists at the IMF annual meeting in Bangkok, and said banks are a part of the “jewel” in the UK’s economic crown John Healey vows to give ‘breathing space’ to consume…",
-     "image": "https://i.guim.co.uk/img/media/77952ad957f95599af7bf2a959fd4ea7af205ab6/527_0_4583_3668/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=b594c77e6e075b23536caddceabc86c5",
-     "url": "https://www.theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates",
-     "source": "Guardian Business",
-     "published": "2026-10-15T14:59:52+00:00"
-    },
-    {
-     "title": "金寧鄉這路口4個月3起車禍「都一樣」 金縣府：與警研議再調燈號",
-     "summary": "金門縣金寧鄉桃園路與盤果路口今天又發生車禍，造成2名駕駛及1名乘客擦挫傷，由於衝擊力道不小，貨車後載的白漆大量甩出，把黑色轎車車頭染白；這是該路口4個月來第3起車禍，且3起車禍...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/society/breakingnews/5607807",
-     "source": "自由時報",
-     "published": "2026-10-15T14:57:01+00:00"
-    },
-    {
-     "title": "飛機安全帶燈沒熄！尿急能去廁所嗎？航空專家揭答案",
-     "summary": "〔財經頻道／綜合報導〕搭飛機時，安全帶指示燈亮起時，機組人員會要求乘客繫好安全帶。但如果安全帶燈遲遲不熄滅，偏偏這時突然尿急，究竟該忍耐還是可以起身上廁所？航空專家指出，在沒有明顯亂流的情況下，...…",
-     "image": "",
-     "url": "https://ec.ltn.com.tw/article/breakingnews/5607817",
-     "source": "自由時報",
-     "published": "2026-10-15T14:56:56+00:00"
-    },
-    {
-     "title": "台中600億「超巨蛋」明簽約   邀MLB「台灣怪力男」李灝宇見證",
-     "summary": "台中市孵「超巨蛋」，600億台中市運動產業園區新建營運移轉（BOT）案訂明（16日）簽約，台中市力邀今年首度登上美國職棒大聯盟（MLB）、單季繳出10支全壘打、締造多項台灣球員...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5607813",
-     "source": "自由時報",
-     "published": "2026-10-15T14:55:21+00:00"
-    },
-    {
-     "title": "Trump calls off livestream for Fort Hood shooter's execution by firing squad",
-     "summary": "Trump said some would \"rather not watch\" the execution of Nidal Hasan, the first military execution in over 60 years.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f672/live/b16bd830-c8a5-11f1-a573-f1e461934384.jpg",
+     "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+     "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81e4/live/8ba6bbd0-c8b2-11f1-ba4a-9b4af5820384.jpg",
      "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-10-15T14:52:18+00:00"
+     "published": "2026-10-15T17:47:22+00:00"
     },
     {
-     "title": "圖輯》沈伯洋「市長，你給我聽好了」最終場 小水滴掀起大洋流",
-     "summary": "民進黨台北市長參選人沈伯洋「市長，你給我聽好了！」肥皂箱活動最終回，今晚中山區林森公園舉辦，沈伯洋抱病沙啞開講，與市長面對面，直球對決談市政，傾聽人民心聲。「小水滴」蜂擁到場，...…",
+     "title": "Pope Leo resumes work in hospital while recovering from surgery",
+     "summary": "Catholic leader met top Vatican aide, as doctors say recovery proceeding after lung surgery to remove cancerous growth.",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5607698",
+     "url": "https://www.aljazeera.com/news/2026/10/15/pope-leo-resumes-work-in-hospital-while-recovering-from-surgery?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-15T17:25:09+00:00"
+    },
+    {
+     "title": "Thames Water asks for £2.4bn more to avoid going bust this year or early 2027",
+     "summary": "Water company tells creditors it will not survive long enough to agree refinancing deal without more money Thames Water has asked its creditors for another £2.4bn as the embattled water company comes…",
+     "image": "https://i.guim.co.uk/img/media/f073f2ba0494f03227796bf111bbfdd58191857e/611_0_4815_3852/master/4815.jpg?width=140&quality=85&auto=format&fit=max&s=708effe50d0b327c19b109b8b9212527",
+     "url": "https://www.theguardian.com/business/2026/oct/15/thames-water-24bn-going-bust-this-year-early-2027",
+     "source": "Guardian Business",
+     "published": "2026-10-15T17:14:48+00:00"
+    },
+    {
+     "title": "DR Congo protests Formula 1’s ‘indefensible’ decision to race in Rwanda",
+     "summary": "Formula One returns to Africa for the first time since 1993, but DRC slams decision to stage race in Rwanda.",
+     "image": "",
+     "url": "https://www.aljazeera.com/sports/2026/10/15/congo-protests-formula-1s-indefensible-decision-to-race-in-rwanda?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-15T17:13:17+00:00"
+    },
+    {
+     "title": "Dying in Detention",
+     "summary": "Fault Lines investigates the soaring death rates in immigration detention centres following President Trump’s crackdown.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/fault-lines/2026/10/15/dying-in-detention?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-15T17:00:00+00:00"
+    },
+    {
+     "title": "Houthis target Yemen’s presidential palace in Aden with missiles",
+     "summary": "Saudi-led coalition accuses Houthis of obtaining missile parts from regional states.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-15T16:50:42+00:00"
+    },
+    {
+     "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+     "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b54/live/4c6fe8b0-c899-11f1-a64c-550be9e3c66b.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-15T16:50:18+00:00"
+    },
+    {
+     "title": "歐股收漲　未受科技股賣壓衝擊",
+     "summary": "亞股今天大跌，且華爾街科技股拋售潮持續不斷，但歐洲股市受益於對科技業曝險程度較低，表現相對穩健，3大股市都收漲。 倫敦FTSE 100指數勁揚115.49點或1.08%，收在10840.3...…",
+     "image": "",
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5607837",
      "source": "自由時報",
-     "published": "2026-10-15T14:51:23+00:00"
+     "published": "2026-10-15T16:48:03+00:00"
+    },
+    {
+     "title": "Inside the race between Elon Musk and Jeff Bezos for control of outer space",
+     "summary": "The Atlantic writer Josh Tyrangiel says Musk and Bezos each want to colonize the moon, mine its resources and launch thousands more satellites. He says their only real competition is each other.",
+     "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6002922",
+     "url": "https://www.npr.org/2026/10/15/nx-s1-6002922/inside-the-race-between-elon-musk-and-jeff-bezos-for-control-of-outer-space",
+     "source": "NPR News",
+     "published": "2026-10-15T16:45:02+00:00"
+    },
+    {
+     "title": "Nicolás Maduro tells New York court new torture allegations are ‘false’",
+     "summary": "Rewritten indictment accuses ex-Venezuela president and wife Cilia Flores of leading campaign of torture Nicolás Maduro insisted on Thursday during an appearance in a New York court that torture alleg…",
+     "image": "https://i.guim.co.uk/img/media/c84cbecb1aa6b6fc1724842c0b45b41fd1f86315/194_0_2281_1825/master/2281.jpg?width=140&quality=85&auto=format&fit=max&s=102fd4502e5a852a91c7c726a8a4a3e4",
+     "url": "https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores",
+     "source": "Guardian World",
+     "published": "2026-10-15T16:38:32+00:00"
+    },
+    {
+     "title": "立冬前補財庫！專家急勸「這事是大忌」5生肖逆風賺翻",
+     "summary": "〔娛樂頻道／綜合報導〕先別急著衝刺開源！立冬前夕財氣面臨大洗牌，命理專家菲菲老師除了揭示「財運榜最強5生肖」，更鄭重提醒大家，農曆9月處於戌月，戌是火庫，也是財庫，代表著「收藏」與「轉化」，守成...…",
+     "image": "",
+     "url": "https://ent.ltn.com.tw/news/breakingnews/5607834",
+     "source": "自由時報",
+     "published": "2026-10-15T16:33:00+00:00"
+    },
+    {
+     "title": "Nvidia, AMD, Dell sell-off in global tech rout on AI funding worries",
+     "summary": "A sell-off in global technology hardware stocks deepened Thursday.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-15T16:19:09+00:00"
+    },
+    {
+     "title": "僑委會出國考察報表連13個月交白卷 陳以信轟李姸慧代理失職",
+     "summary": "針對僑委會連續13個月公布空白的出國考察經費報表，國民黨文傳會主委陳以信痛批，自己曾任立法院外交及國防委員會召委，審查過許多政府預算與業務報告，從未看過如此離譜的僑委會報告。代...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5607835",
+     "source": "自由時報",
+     "published": "2026-10-15T16:17:43+00:00"
+    },
+    {
+     "title": "John Healey poised to raise taxes on banks in budget",
+     "summary": "Exclusive: Chancellor to target sector in his first budget to help offset damage caused by Iran war on public finances John Healey is poised to tax Britain’s banks in his 28 October budget to help off…",
+     "image": "https://i.guim.co.uk/img/media/54fc98831d1ceaaea214f3b1d5a43d25ecfc5d03/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=48599d4e7645f68790fe7021178a1b56",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget",
+     "source": "Guardian Business",
+     "published": "2026-10-15T16:17:05+00:00"
     },
     {
      "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
@@ -66,77 +122,93 @@
      "image": "",
      "url": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
      "source": "CNBC Top News",
-     "published": "2026-10-15T14:43:21+00:00"
+     "published": "2026-10-15T16:15:44+00:00"
     },
     {
-     "title": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
-     "summary": "A sell-off in global technology hardware stocks deepened Thursday.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-15T14:40:22+00:00"
-    },
-    {
-     "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
-     "summary": "Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook markets Business news – live updates Larry Elliott: the global economy is muddling through. Bu…",
-     "image": "https://i.guim.co.uk/img/media/db77d2497ad333f58b03bc024b156cdce2973b96/1166_0_4632_3706/master/4632.jpg?width=140&quality=85&auto=format&fit=max&s=0c106f80a98eb99a06130d501a36d1b9",
-     "url": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
-     "source": "Guardian Business",
-     "published": "2026-10-15T14:33:12+00:00"
-    },
-    {
-     "title": "Trump says Fort Hood shooter execution will not be livestreamed",
-     "summary": "US president reverses Pentagon's plan to publicly stream execution of Nidal Malik Hasan after outcry.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/15/trump-says-fort-hood-shooter-execution-will-not-be-livestreamed?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-15T14:27:35+00:00"
-    },
-    {
-     "title": "Southwest is overhauling its frequent flyer program. Here's what's changing",
-     "summary": "Southwest Airlines is overhauling its loyalty program and replacing A-List and A-List Preferred with three new tiers.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/15/southwest-rapid-rewards-tiers-a-list.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-15T14:25:01+00:00"
-    },
-    {
-     "title": "‘Boiling point’: Why students are protesting against Albania’s Edi Rama",
-     "summary": "Experts say Albania’s protests reflect ignored student grievances and growing frustration.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/15/boiling-point-why-students-are-protesting-against-albanias-edi-rama?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-15T14:22:13+00:00"
-    },
-    {
-     "title": "The Rebel Tours: Money or morals?",
-     "summary": "Some West Indies cricketers toured apartheid South Africa in the 1980's, breaking one of the biggest sporting boycotts.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/game-theory/2026/10/15/aje-onl-gm_rebel_v8-151026?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-15T13:48:17+00:00"
-    },
-    {
-     "title": "Al Jazeera probe exposes fake viewing numbers for Israeli counter-film",
-     "summary": "Data investigation casts doubt on claims that Israeli counter-documentary to 'NAZA' received 40 million views.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/15/al-jazeera-probe-exposes-fake-viewing-numbers-for-israeli-counter-film?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-15T13:35:46+00:00"
-    },
-    {
-     "title": "US lawmakers unveil bill to hold Wall Street’s ‘Epstein-connected’ bosses to account",
-     "summary": "Move comes as Senator Elizabeth Warren condemns Barclays response to questions over ex-boss’s ties to sex offender US lawmakers have unveiled a new bill to hold Wall Street’s “Epstein-connected” bosse…",
-     "image": "https://i.guim.co.uk/img/media/277b93f5f035970797f0f81b7f05054489b5e550/489_0_2920_2336/master/2920.jpg?width=140&quality=85&auto=format&fit=max&s=d1a4ffce065bc726e5ecd0bc4da68838",
-     "url": "https://www.theguardian.com/business/2026/oct/15/new-bill-wall-street-bosses-epstein-connections",
-     "source": "Guardian Business",
-     "published": "2026-10-15T13:30:11+00:00"
+     "title": "特朗普叫停網上直播處決胡德堡槍擊案槍手",
+     "summary": "特朗普表示，有些人「寧願不觀看」對尼達爾·哈桑的處決。這將是60多年來首次執行軍事死刑槍決。",
+     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f672/live/b16bd830-c8a5-11f1-a573-f1e461934384.jpg",
+     "url": "https://www.bbc.com/zhongwen/articles/cmde8dpz7ykjo/trad?at_medium=RSS&at_campaign=rss",
+     "source": "BBC 中文",
+     "published": "2026-10-15T16:15:18+00:00"
     }
    ]
   },
   "ai": {
    "label": "AI",
    "items": [
+    {
+     "title": "防範 AI 代理風險！字節跳動成立 AI 安全團隊，擬啟動全球招聘計畫",
+     "summary": "中國科技巨頭字節跳動旗下 AI 研究部門 Seed 已成立「對齊與預備」（Alignment & Pr […]",
+     "image": "",
+     "url": "https://technews.tw/2026/10/16/bytedance-sets-up-ai-safety-team/",
+     "source": "科技新報 TechNews",
+     "published": "2026-10-15T17:36:32+00:00"
+    },
+    {
+     "title": "AI 要改名了？川普力推「超級智慧」（SI）取代人工智慧，盼國際跟進",
+     "summary": "美國財政部高階官員週四（15 日）接受路透社專訪時表示，美國希望全球夥伴將人工智慧（AI）更名為「超級智慧」（ […]",
+     "image": "",
+     "url": "https://technews.tw/2026/10/16/us-want-super-intelligence-not-ai/",
+     "source": "科技新報 TechNews",
+     "published": "2026-10-15T17:17:20+00:00"
+    },
+    {
+     "title": "輝達、蘋果各捐 2,500 萬美元，支持川普白宮國宴廳計畫",
+     "summary": "根據路透社引述《華盛頓郵報》週四（15 日）報導，各承諾捐款 2,500 萬美元，支持美國總統川普規畫興建的白 […]",
+     "image": "",
+     "url": "https://technews.tw/2026/10/16/nvidia-apple-each-gave-25-million-white-house-ballroom/",
+     "source": "科技新報 TechNews",
+     "published": "2026-10-15T16:57:57+00:00"
+    },
+    {
+     "title": "Rocket Lab announces another delay for its medium-lift Neutron rocket",
+     "summary": "Rocket Lab announced the Neutron rocket in 2021, aiming for a first flight in 2024.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/53194639182_2982a6d6de_h-500x500.jpg",
+     "url": "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/",
+     "source": "Ars Technica",
+     "published": "2026-10-15T16:57:24+00:00"
+    },
+    {
+     "title": "I designed a nose guard for my dog and gave it away. Now 500 dogs wear one",
+     "summary": "Article URL: https://snoutcover.com/one-year Comments URL: https://news.ycombinator.com/item?id=50105344 Points: 195 # Comments: 102",
+     "image": "",
+     "url": "https://snoutcover.com/one-year",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-15T15:44:36+00:00"
+    },
+    {
+     "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+     "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2277824748-500x500.jpg",
+     "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+     "source": "Ars Technica",
+     "published": "2026-10-15T15:43:24+00:00"
+    },
+    {
+     "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
+     "summary": "The AI music labels are rolling out now in YouTube Music and will come to YouTube soon.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/youtube-music-gen-ai-labels-fill2-500x500.png",
+     "url": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
+     "source": "Ars Technica",
+     "published": "2026-10-15T15:12:58+00:00"
+    },
+    {
+     "title": "Rewilding could help vulnerable islands keep pace with rising seas",
+     "summary": "Seabirds, native plants, and healthy reefs can help atolls build as seas rise.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/researchersatoll-500x500.jpg",
+     "url": "https://arstechnica.com/science/2026/10/seabirds-forests-and-coral-could-help-save-sinking-islands/",
+     "source": "Ars Technica",
+     "published": "2026-10-15T15:05:40+00:00"
+    },
+    {
+     "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+     "summary": "Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50104654 Points: 152…",
+     "image": "",
+     "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-15T14:58:48+00:00"
+    },
     {
      "title": "ALMA 首度在太空偵測到全氘化甲醇，年輕恆星周圍有機化學比想像更複雜",
      "summary": "位於智利的阿塔卡瑪大型毫米及次毫米波陣列（ALMA）結合全球天文及化學專家的專業知識，為理解有機分子如何在太空 […]",
@@ -146,36 +218,20 @@
      "published": "2026-10-15T13:54:24+00:00"
     },
     {
-     "title": "元太新一代 E Ink Kaleido 4 電子紙問世，色彩表現與動態顯示雙升級",
-     "summary": "電子紙大廠 E Ink 元太科技 15 日正式推出新一代彩色電子紙技術 E Ink Kaleido 4，延續電 […]",
+     "title": "I Know Why the Mathematicians Weep",
+     "summary": "Article URL: https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep Comments URL: https://news.ycombinator.com/item?id=50103630 Points: 214 # Comments: 310",
      "image": "",
-     "url": "https://technews.tw/2026/10/15/e-ink-announces-next-generation-color-epaper-technology-e-ink-kaleido-4/",
-     "source": "科技新報 TechNews",
-     "published": "2026-10-15T13:39:17+00:00"
-    },
-    {
-     "title": "Israeli firm's digital ads enabling installation of 'zero-click' spyware",
-     "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say Comments URL: https://news.ycombinator.com/item?id=…",
-     "image": "",
-     "url": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
+     "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
      "source": "Hacker News Front Page",
-     "published": "2026-10-15T12:58:32+00:00"
+     "published": "2026-10-15T13:44:32+00:00"
     },
     {
-     "title": "台灣美光先進封裝與測試二廠啟用，深化 AI 時代高頻寬記憶體布局",
-     "summary": "記憶體大廠美光科技15日於台中舉行台灣美光先進封裝與測試二廠（Micron Advanced Assembly […]",
+     "title": "Wayland desktop for Linux with skeuomorphic design",
+     "summary": "Article URL: https://github.com/fyzugx/DEsk Comments URL: https://news.ycombinator.com/item?id=50103338 Points: 280 # Comments: 114",
      "image": "",
-     "url": "https://finance.technews.tw/2026/10/15/micron-taiwans-advanced-packaging-and-testing-plant-2-commences-operation/",
-     "source": "科技新報 TechNews",
-     "published": "2026-10-15T12:50:29+00:00"
-    },
-    {
-     "title": "訂單能見度至 2028 年！弘塑美國布局瞄準亞利桑那州，董座：最大瓶頸是缺料、缺人",
-     "summary": "近年先進封裝成為業界焦點，隨著台積電擴大在美支出，同步帶動本土設備商加速海外布局。弘塑科技董事長張鴻泰在 SE […]",
-     "image": "",
-     "url": "https://technews.tw/2026/10/15/gptc-semicon-west-2026/",
-     "source": "科技新報 TechNews",
-     "published": "2026-10-15T11:15:27+00:00"
+     "url": "https://github.com/fyzugx/DEsk",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-15T13:23:44+00:00"
     },
     {
      "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
@@ -208,62 +264,6 @@
      "url": "https://arxiv.org/abs/2610.14136",
      "source": "arXiv cs.AI",
      "published": "2026-10-15T04:00:00+00:00"
-    },
-    {
-     "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-     "summary": "Article URL: https://www.liquid.ai/blog/lfm2-5-24b-a2b Comments URL: https://news.ycombinator.com/item?id=50097369 Points: 261 # Comments: 67",
-     "image": "",
-     "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-14T23:59:37+00:00"
-    },
-    {
-     "title": "Tiny Little Office",
-     "summary": "Article URL: https://tinylittleoffice.com/ Comments URL: https://news.ycombinator.com/item?id=50096142 Points: 570 # Comments: 138",
-     "image": "",
-     "url": "https://tinylittleoffice.com/",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-14T22:10:08+00:00"
-    },
-    {
-     "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
-     "summary": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/mass-fridge-hack-500x500-1792011300.jpg",
-     "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
-     "source": "Ars Technica",
-     "published": "2026-10-14T21:35:09+00:00"
-    },
-    {
-     "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
-     "summary": "But the new \"Preview\" app \"will have some bugs,\" Epic warns.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/egslauncher-500x500.png",
-     "url": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
-     "source": "Ars Technica",
-     "published": "2026-10-14T21:15:56+00:00"
-    },
-    {
-     "title": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
-     "summary": "Suspected Russian drones have sunk or damaged 5 ships near Bulgaria and Romania.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Black-Sea-sailors-rescued-by-Bulgaria-500x500.jpg",
-     "url": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/",
-     "source": "Ars Technica",
-     "published": "2026-10-14T21:03:11+00:00"
-    },
-    {
-     "title": "OpenCode 2.0",
-     "summary": "Article URL: https://anoma.ly/notes/opencode-2-0/ Comments URL: https://news.ycombinator.com/item?id=50094994 Points: 765 # Comments: 322",
-     "image": "",
-     "url": "https://anoma.ly/notes/opencode-2-0/",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-14T20:48:24+00:00"
-    },
-    {
-     "title": "Things are finally looking up for NASA's first missions to Venus in a generation",
-     "summary": "\"This is great news for us. We're staffing up. We're accelerating.\"",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/davinci-heat-test-3-500x500.jpg",
-     "url": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
-     "source": "Ars Technica",
-     "published": "2026-10-14T20:48:07+00:00"
     }
    ]
   },
@@ -271,36 +271,76 @@
    "label": "運動",
    "items": [
     {
-     "title": "Los Angeles Lakers season preview: Opening schedule, win projection and everything to know for 2026-27",
-     "summary": "The Lakers are finally all Luka's. Did they get him enough support?",
-     "image": "",
-     "url": "https://sports.yahoo.com/nba/article/los-angeles-lakers-season-preview-opening-schedule-win-projection-and-everything-to-know-for-2026-27-145506825.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-15T14:55:06+00:00"
+     "title": "Lyon v Crystal Palace, Torreense v Sunderland, and more: Europa League – live",
+     "summary": "⚽ Europa League updates from the 5.45pm BST kick-offs ⚽ Live scoreboard | Read Football Daily | Email Michael 3 min: Torreense 0-0 Sunderland O’Nien, who knows a little bit about lower-league football…",
+     "image": "https://i.guim.co.uk/img/media/eda932ee69eb836d4ff572f941084e40a415fed3/192_0_3290_2633/master/3290.jpg?width=140&quality=85&auto=format&fit=max&s=024f8a5c5cd81fa4846fb398326abf3d",
+     "url": "https://www.theguardian.com/football/live/2026/oct/15/lyon-v-crystal-palace-torreense-v-sunderland-and-more-europa-league-live",
+     "source": "Guardian Sport",
+     "published": "2026-10-15T17:30:23+00:00"
     },
     {
-     "title": "Golden State Warriors preview: Opening schedule, win projection and everything to know for 2026-27",
-     "summary": "How much longer can the Warriors keep asking Steph Curry to be Steph Curry?",
-     "image": "",
-     "url": "https://sports.yahoo.com/nba/article/golden-state-warriors-preview-opening-schedule-win-projection-and-everything-to-know-for-2026-27-145412202.html",
+     "title": "5 preseason trends + Lethal Shooter joins and I understand it now!",
+     "summary": "KOC shares five NBA preseason trends and talks hoops with Lethal Shooter.",
+     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/koc-duren-thumb_2421.png",
+     "url": "https://sports.yahoo.com/nba/article/5-preseason-trends--lethal-shooter-joins-and-i-understand-it-now-172951188.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-10-15T14:54:12+00:00"
+     "published": "2026-10-15T17:29:51+00:00"
     },
     {
-     "title": "Phoenix Suns season preview: Opening schedule, win projection and everything to know for 2026-27",
-     "summary": "Do we still believe in Devin Booker?",
-     "image": "",
-     "url": "https://sports.yahoo.com/nba/article/phoenix-suns-season-preview-opening-schedule-win-projection-and-everything-to-know-for-2026-27-145326129.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-15T14:53:26+00:00"
+     "title": "Australia clinch thrilling World Cup opener against New Zealand",
+     "summary": "Australia beat New Zealand 24-22 in a dramatic Rugby League World Cup opener in Sydney, with debutant Jack Bostock scoring a hat-trick to see the hosts snatch victory late on.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e8a/live/bac7ea70-c8ac-11f1-9a39-31b474234113.jpg",
+     "url": "https://www.bbc.co.uk/sport/rugby-league/videos/cmn4eqpvw1ppo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-15T17:00:06+00:00"
     },
     {
-     "title": "Los Angeles Clippers preview: Opening schedule, win projection and everything to know for 2026-27",
-     "summary": "It's a lot of change for the Clippers ... and not the good kind.",
-     "image": "",
-     "url": "https://sports.yahoo.com/nba/article/los-angeles-clippers-preview-opening-schedule-win-projection-and-everything-to-know-for-2026-27-145133309.html",
+     "title": "NBA over/under predictions for every Eastern Conference team: Knicks, 76ers overvalued? Raptors ready to rise?",
+     "summary": "After a wild offseason filled with impactful changes, the East is absolutely loaded",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/13/1505f35e-140f-44ec-b364-cf5cb4f84a0d/brunson-brown-getty.png",
+     "url": "https://www.cbssports.com/nba/news/nba-eastern-conference-over-under-win-total-predictions/",
+     "source": "CBS Sports NBA",
+     "published": "2026-10-15T16:44:37+00:00"
+    },
+    {
+     "title": "Spurs favorites to win NBA title, Victor Wembanyama dominates player categories in 2026-27 GM survey",
+     "summary": "NBA GMs answered 48 questions about the best teams, players and moves around the league.",
+     "image": "https://d29szjachogqwa.cloudfront.net/images/2026-10/e6a66ab9-2aa8-4db9-b650-349458530187",
+     "url": "https://sports.yahoo.com/nba/article/spurs-favorites-to-win-nba-title-victor-wembanyama-dominates-player-categories-in-2026-27-gm-survey-161614622.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-10-15T14:51:33+00:00"
+     "published": "2026-10-15T16:16:14+00:00"
+    },
+    {
+     "title": "Facing roster crunch, Lakers, Bucks, Grizzlies reportedly exploring trades",
+     "summary": "By the end of Monday, teams have to be down to 15 contracts on the roster, these teams still have more.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/facing-roster-crunch-lakers-bucks-160222418.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-15T16:02:22+00:00"
+    },
+    {
+     "title": "2026-27 NBA Season Preview: Team outlooks, power rankings, players to watch, fantasy spin",
+     "summary": "Here's everything you need to know to get ready for Opening Night on Oct. 20.",
+     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ed-101726-reintroduction-to-nba-contenders-01_3262.jpg",
+     "url": "https://sports.yahoo.com/nba/article/2026-27-nba-season-preview-team-outlooks-power-rankings-players-to-watch-fantasy-spin-155946450.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-15T15:59:46+00:00"
+    },
+    {
+     "title": "NBA Eastern Conference tiers: Knicks on top, but new-look contenders emerge after eventful offseason",
+     "summary": "The Knicks just won the title, but the loaded East will provide plenty of competition as they look to repeat",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/14/fa8cb972-71dc-42b2-aa8d-fce79f72e475/j-brunson-imagn.png",
+     "url": "https://www.cbssports.com/nba/news/nba-eastern-conference-knicks-on-top-contenders-emerge/",
+     "source": "CBS Sports NBA",
+     "published": "2026-10-15T15:09:21+00:00"
+    },
+    {
+     "title": "Walsh vomit & Ponga pain - the physical toll of World Cup opener",
+     "summary": "Australia's Reece Walsh exerted himself to the point of throwing up, while New Zealand's Kalyn Ponga tried to play on with a suspected broken arm in a dramatic Men's Rugby League World Cup opener.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c73/live/7bfc5710-c8a5-11f1-a573-f1e461934384.png",
+     "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c574pn7j0yp3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-15T15:07:28+00:00"
     },
     {
      "title": "Infantino apologises to Fifa Council - but told he is still not fit to lead",
@@ -319,28 +359,12 @@
      "published": "2026-10-15T13:34:34+00:00"
     },
     {
-     "title": "NBA Eastern Conference tiers: Knicks on top, but new-look contenders emerge after eventful offseason",
-     "summary": "The Knicks just won the title, but the loaded East will provide plenty of competition as they look to repeat",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/14/fa8cb972-71dc-42b2-aa8d-fce79f72e475/j-brunson-imagn.png",
-     "url": "https://www.cbssports.com/nba/news/nba-eastern-conference-knicks-on-top-contenders-emerge/",
-     "source": "CBS Sports NBA",
-     "published": "2026-10-15T13:34:09+00:00"
-    },
-    {
      "title": "Brewers bash champion Dodgers to brink of NLCS sweep; CBS Sports Preseason All-America team revealed",
      "summary": "Plus, A.J. Brown is one of several injured NFL stars would could return soon",
      "image": "https://sportshub.cbsistatic.com/i/2026/10/15/717ea555-2c26-42b9-a097-db2d329b2514/gettyimages-2299701095-2.jpg",
      "url": "https://www.cbssports.com/mlb/news/brewers-bash-champion-dodgers-to-brink-of-nlcs-sweep-cbs-sports-preseason-all-america-team-revealed/",
      "source": "CBS Sports NBA",
      "published": "2026-10-15T12:54:44+00:00"
-    },
-    {
-     "title": "Australia edge New Zealand in epic World Cup opener",
-     "summary": "Jack Bostock scores a hat-trick of tries as Australia fight back to win the opening game of the Rugby League World Cup against New Zealand.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f95/live/593307a0-c888-11f1-a2e8-f71844f8002e.jpg",
-     "url": "https://www.bbc.co.uk/sport/rugby-league/articles/crn8w411gj1yo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-15T11:32:50+00:00"
     },
     {
      "title": "Man Utd a circus after Martinez comments - Keane",
@@ -359,22 +383,6 @@
      "published": "2026-10-15T09:00:08+00:00"
     },
     {
-     "title": "Could Wenger really take on Infantino and run for Fifa presidency?",
-     "summary": "Senior figures in European football tell BBC Sport they want former Arsenal manager Arsene Wenger to run as a surprise candidate against Gianni Infantino.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db17/live/f473e230-c7fb-11f1-970c-196b57378f40.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cx30e8dqmnzgo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-15T06:35:39+00:00"
-    },
-    {
-     "title": "Martínez has drawn back the curtain on Manchester United’s ruinous ownership | Jonathan Liew",
-     "summary": "Defender may not be blameless in team’s struggles but his criticism goes to the heart of what has gone wrong at the club Heartbreaking: the worst defender you know just made a great point. And no, nob…",
-     "image": "https://i.guim.co.uk/img/media/dc8504df01a49ba93110a824bc04545c0341b98c/276_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=c6672946b7f2cfb197d4c8b92cf0965b",
-     "url": "https://www.theguardian.com/football/2026/oct/15/lisandro-martinez-criticism-jason-wilcox-jim-ratcliffe-glazers",
-     "source": "Guardian Sport",
-     "published": "2026-10-15T05:00:23+00:00"
-    },
-    {
      "title": "Brewers go one win from World Series as back-to-back homers sink Dodgers",
      "summary": "Milwaukee rally past Los Angeles for 3-0 NLCS lead Bauers and Mitchell homer back-to-back off Blake Snell Defending champions face elimination on Thursday Jake Bauers and Garrett Mitchell hit back-to-…",
      "image": "https://i.guim.co.uk/img/media/ed71bd557105713ef172527c24110943a7253bb2/313_0_3125_2501/master/3125.jpg?width=140&quality=85&auto=format&fit=max&s=377115f895d0e0ad009622f6223eeb15",
@@ -389,14 +397,6 @@
      "url": "https://www.cbssports.com/nba/news/warriors-kristaps-porzingis-mysterious-health-issues-timeline/",
      "source": "CBS Sports NBA",
      "published": "2026-10-14T22:01:36+00:00"
-    },
-    {
-     "title": "NBA's most underrated players: An improving LaMelo Ball, a picked-on James Harden ... and a rookie?",
-     "summary": "In wake of our NBA Top 100 list going live, CBS Sports writers are picking who they think are the most underrated players in the league",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/14/a9688e0a-a72e-4096-8f6c-482d9b6f1724/lamelo-ball-getty-8.png",
-     "url": "https://www.cbssports.com/nba/news/nba-most-underrated-players-lamelo-ball-james-harden-rookie/",
-     "source": "CBS Sports NBA",
-     "published": "2026-10-14T19:00:27+00:00"
     }
    ]
   }
