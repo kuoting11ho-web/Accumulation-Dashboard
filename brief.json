@@ -1,80 +1,128 @@
 {
- "generated": "2026-10-16T17:31:04.331273+00:00",
+ "generated": "2026-10-16T19:35:56.565754+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "Trump says new White House press secretary Katie Zacharia should 'reconsider' job",
-     "summary": "Trump made the remarks about Zacharia before heading to Georgia for a rally aimed at boosting Republicans in the final days before the midterm elections.",
+     "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
+     "summary": "U.S. crude oil prices rose sharply Friday as Iran escalated attacks in the Strait of Hormuz this week.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-16T19:33:21+00:00"
+    },
+    {
+     "title": "Wall Street's fear gauge is ripping. Traders see it going even higher",
+     "summary": "The sell-off in AI-related stocks pushed the VIX above 22 for the first time in four months. A cluster of trades suggests it could go even higher.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/16/wall-streets-fear-gauge-is-ripping-traders-see-it-going-even-higher.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-16T19:28:10+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》Legislature passes NHI senior subsidies",
+     "summary": "EXEMPTIONS: The revision waives NHI premiums for senior citizens whose consolidated net income in th...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5609003",
+     "source": "自由時報",
+     "published": "2026-10-16T19:00:00+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》Taiwan to donate rice to 17 nations:agriculture ministry",
+     "summary": "By Esme Yeh / Staff reporter Taiwan is to donate more than 20,000 tonnes of locally grown rice to...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5608995",
+     "source": "自由時報",
+     "published": "2026-10-16T19:00:00+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》US defense firm planning local drone production",
+     "summary": "By Wu Che-yu and Jonathan Chin / Staff reporter, with staff writer Kratos Defense is seeking US g...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5609002",
+     "source": "自由時報",
+     "published": "2026-10-16T19:00:00+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》Economic growth to be highest in 39 years: CIER",
+     "summary": "Staff writer, with CNA Taiwan’s economy is projected to grow at its fastest pace in 39 years this...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5609005",
+     "source": "自由時報",
+     "published": "2026-10-16T19:00:00+00:00"
+    },
+    {
+     "title": "White House press secretary Katie Zacharia fired after five days on the job",
+     "summary": "Trump advised Katie Zacharia to reconsider her press secretary role due to media backlash over her credentials.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/16/white-house-press-secretary-katie-zacharia-fired-after-five-days-on-the-job?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-16T18:58:06+00:00"
+    },
+    {
+     "title": "Kenya records third Ebola case, linked to first patient who died",
+     "summary": "Nairobi says 65-year-old female patient in quarantine with Bundibugyo strain; no signs of community transmission.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/16/kenya-reports-third-bundibugyo-strain-ebola-case?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-16T18:57:40+00:00"
+    },
+    {
+     "title": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
+     "summary": "Forest clearance lowest since records began in 1988 in success for Lula ahead of presidential run-off Deforestation in the Brazilian Amazon has fallen its lowest level since records began, new governm…",
+     "image": "https://i.guim.co.uk/img/media/1ab732d5e231b07fef02c8b733fbf39933a3f591/420_0_4200_3360/master/4200.jpg?width=140&quality=85&auto=format&fit=max&s=fbafa9b10ba28b2d75e5b663dd38e53c",
+     "url": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
+     "source": "Guardian World",
+     "published": "2026-10-16T18:56:50+00:00"
+    },
+    {
+     "title": "Katie Zacharia out as Trump's White House press secretary",
+     "summary": "Zacharia was on shaky ground from her first White House press conference, and over questions about her claims of being a lawyer despite not passing a bar exam.",
      "image": "",
      "url": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
      "source": "CNBC Top News",
-     "published": "2026-10-16T17:30:44+00:00"
+     "published": "2026-10-16T18:55:24+00:00"
     },
     {
-     "title": "S&P 500 dragged down by AI stocks as chip shares head for worst week since July: Live updates",
-     "summary": "The three major averages are coming off of a winning session on Thursday.",
+     "title": "Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test",
+     "summary": "Apple’s $1,999 iPhone Duo is drawing early demand as analysts assess whether the foldable can lift iPhone pricing and revenue.",
      "image": "",
-     "url": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html",
+     "url": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html",
      "source": "CNBC Top News",
-     "published": "2026-10-16T17:29:59+00:00"
+     "published": "2026-10-16T18:55:17+00:00"
     },
     {
-     "title": "協尋蹺家15歲少女竟帶去開房間 永和已婚警收押禁見",
-     "summary": "新北市警局永和分局中正橋派出所陳姓已婚男警承辦失蹤青少年協尋，涉嫌竟對蹺家列入關懷對象的15歲少女伸狼爪，帶到賓館性侵。受害少女父母發現異狀，到警局討公道，再帶女兒體檢採樣，證...…",
+     "title": "UK PM adviser’s wife expresses ‘support’ for Palestine Action",
+     "summary": "Police reviewing social media post by writer Sarah Helm, wife of Burnham's National Security Adviser Jonathan Powell.",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/society/breakingnews/5609041",
-     "source": "自由時報",
-     "published": "2026-10-16T17:22:13+00:00"
-    },
-    {
-     "title": "台南地面鐵道走入歷史 陳世凱：這不是終點",
-     "summary": "再見了，台南地面鐵道！歷經17年推動，台南鐵路地下化第一階段今天（17日）正式通車，昨晚舊站月台湧入大批人潮，送別陪伴城市百年的地面鐵道。隨著末班南下第145次自強號深夜10點...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5609039",
-     "source": "自由時報",
-     "published": "2026-10-16T17:11:15+00:00"
-    },
-    {
-     "title": "Real Madrid demand resignation of La Liga chief after Goebbels comparison",
-     "summary": "La Liga President Javier Tebas under fire for comparing Real Madrid TV channel to Nazi Germany's Minister of Propaganda.",
-     "image": "",
-     "url": "https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss",
+     "url": "https://www.aljazeera.com/news/2026/10/16/uk-pm-advisers-wife-expresses-support-for-palestine-action?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-10-16T17:05:31+00:00"
+     "published": "2026-10-16T18:26:08+00:00"
     },
     {
-     "title": "Pope Leo to make public appearance Sunday, first since cancer surgery",
-     "summary": "After undergoing surgery this week, pope can now 'carry out normal activities ​with full independence', say doctors.",
+     "title": "How Iran messaging highlights cost of war ahead of US midterm elections",
+     "summary": "Through statements in English, Iranian officials are emphasising gas prices and issues with the US economy.",
      "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/16/pope-leo-to-make-public-appearance-sunday-first-since-cancer-surgery?traffic_source=rss",
+     "url": "https://www.aljazeera.com/news/2026/10/16/how-iran-messaging-highlights-cost-of-war-ahead-of-us-midterm-elections?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-10-16T17:03:52+00:00"
+     "published": "2026-10-16T18:21:43+00:00"
     },
     {
-     "title": "Sally Rooney can’t sell her books in UK over support for Palestine Action",
-     "summary": "We asked students what they think.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/sally-rooney-cant-sell-her-books-in-uk-over-support-for-palestine-action?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-16T16:54:49+00:00"
+     "title": "Katie Zacharia is 'transitioning out' as press secretary, White House says",
+     "summary": "Katie Zacharia's first official day was on Monday.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4531x3021+0+0/resize/4531x3021!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F56%2Fad%2Fd9e0aa32477197e43fcb5ad9365a%2Fgettyimages-2300010311.jpg",
+     "url": "https://www.npr.org/2026/10/16/nx-s1-6005317/trump-casts-doubt-on-press-secretarys-future",
+     "source": "NPR News",
+     "published": "2026-10-16T18:08:33+00:00"
     },
     {
-     "title": "3000守軍對抗10萬大軍！鴻明歌劇團《戰神花雲》 重現明初守城悲劇",
-     "summary": "台北市藝文推廣處主辦的大稻埕戲苑傳統戲曲系列，邀請創團逾60年的鴻明歌劇團，於今、明（17、18日）下午2時30分，在大稻埕戲苑9樓劇場演出歌仔戲《戰神花雲》。作品取材自...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/art/breakingnews/5609038",
-     "source": "自由時報",
-     "published": "2026-10-16T16:54:43+00:00"
-    },
-    {
-     "title": "Why Trump and the GOP's billion-dollar midterm blitz isn’t working",
-     "summary": "Trump-aligned groups and Elon Musk have poured hundreds of millions into the midterm election, but the GOP spending surge has barely moved polls or the map.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/16/republicans-midterms-spending-trump-musk-2026.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-16T16:53:12+00:00"
+     "title": "Hot flashes, night sweats, insomnia – OB-GYNS set new rules for menopause treatment",
+     "summary": "For the first time since 2014, the American College of Obstetricians and Gynecologists has updated its guidelines for the treatment of symptoms commonly associated with menopause.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3630x2420+0+0/resize/3630x2420!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb6%2F34%2Fd9c3bde94f53b06e88c7599041d1%2Fgettyimages-151055685.jpg",
+     "url": "https://www.npr.org/2026/10/16/nx-s1-6005201/health-treatment-menopause-hot-flash-night-sweats-insomnia",
+     "source": "NPR News",
+     "published": "2026-10-16T17:45:16+00:00"
     },
     {
      "title": "Brazil’s Lula says he now backs lowering age of criminal responsibility to 16",
@@ -83,60 +131,36 @@
      "url": "https://www.theguardian.com/world/2026/oct/16/brazil-lula-age-criminal-responsibility",
      "source": "Guardian World",
      "published": "2026-10-16T16:47:35+00:00"
-    },
-    {
-     "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-     "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-16T16:46:18+00:00"
-    },
-    {
-     "title": "Iran’s president condemns environmental impact of war in Middle East",
-     "summary": "Iranian President Masoud Pezeshkian has decried the ecological damage caused by conflict in the Middle East",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/irans-president-condemns-environmental-impact-of-war-in-middle-eas?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-16T16:45:03+00:00"
-    },
-    {
-     "title": "重陽後5星座翻身賺爆！ 命理師示警「這1位」心血管亮紅燈",
-     "summary": "〔娛樂頻道／綜合報導〕明（18日）就是重陽節，也是歲末前陽氣與轉折交替的重要樞紐，命理專家艾菲爾分析「重陽節之後」的星相指出，隨著天蠍座聚集水星與逆行的金星，獅子座則有火星與木星坐入。配合土星、...…",
-     "image": "",
-     "url": "https://ent.ltn.com.tw/news/breakingnews/5608996",
-     "source": "自由時報",
-     "published": "2026-10-16T16:33:00+00:00"
-    },
-    {
-     "title": "Amid talk of public execution, public opinion on death penalty is split",
-     "summary": "A majority of Americans support the death penalty for people convicted of murder, but support becomes more divided when questions vary.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4200x2472+0+0/resize/4200x2472!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff1%2F8e%2Ff69a25a94e7297a73a52cd730396%2Fgettyimages-2298257785.jpg",
-     "url": "https://www.npr.org/2026/10/16/g-s1-148404/public-opinion-execution-death-penalty",
-     "source": "NPR News",
-     "published": "2026-10-16T16:28:00+00:00"
-    },
-    {
-     "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-     "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e40/live/404f3fb0-c978-11f1-80fc-ab418b149008.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-16T16:00:30+00:00"
-    },
-    {
-     "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
-     "summary": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\".",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fdf/live/b08eef30-c975-11f1-bc2e-018d645d8d21.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-16T15:59:30+00:00"
     }
    ]
   },
   "ai": {
    "label": "AI",
    "items": [
+    {
+     "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+     "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose…",
+     "image": "",
+     "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+     "source": "MIT Tech Review AI",
+     "published": "2026-10-16T18:00:00+00:00"
+    },
+    {
+     "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+     "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 216 # Comments: 188",
+     "image": "",
+     "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-16T17:08:38+00:00"
+    },
+    {
+     "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
+     "summary": "FDA scientists said none of the popular drugs have been proven safe or effective.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2268348621-500x500.jpg",
+     "url": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
+     "source": "Ars Technica",
+     "published": "2026-10-16T17:05:59+00:00"
+    },
     {
      "title": "任天堂重申保留 Switch 2 實體卡，堅守玩家收藏與分享需求",
      "summary": "Sony 已宣布 2028 年起停止為 PlayStation 新遊戲製作實體光碟，但任天堂表明目前沒有取消實 […]",
@@ -194,28 +218,20 @@
      "published": "2026-10-16T14:03:25+00:00"
     },
     {
-     "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
-     "summary": "Watch an exclusive clip from Super Scam Me where a victim tracks down her scammer.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/SuperScamMe_UHD_42-500x500-1792098327.jpg",
-     "url": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
-     "source": "Ars Technica",
-     "published": "2026-10-16T14:00:59+00:00"
+     "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+     "summary": "Article URL: https://machinelearning.apple.com/research/mlx-distributed-inference Comments URL: https://news.ycombinator.com/item?id=50118320 Points: 202 # Comments: 96",
+     "image": "",
+     "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-16T13:43:48+00:00"
     },
     {
      "title": "I Love Software Rendering",
-     "summary": "Article URL: https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/ Comments URL: https://news.ycombinator.com/item?id=50117746 Points: 200 # Comments: 144",
+     "summary": "Article URL: https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/ Comments URL: https://news.ycombinator.com/item?id=50117746 Points: 244 # Comments: 166",
      "image": "",
      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
      "source": "Hacker News Front Page",
      "published": "2026-10-16T12:52:08+00:00"
-    },
-    {
-     "title": "The Folders Programming Language",
-     "summary": "Article URL: https://danieltemkin.com/esolangs/folders Comments URL: https://news.ycombinator.com/item?id=50114342 Points: 182 # Comments: 31",
-     "image": "",
-     "url": "https://danieltemkin.com/esolangs/folders",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-16T05:11:28+00:00"
     },
     {
      "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
@@ -255,6 +271,54 @@
    "label": "運動",
    "items": [
     {
+     "title": "Fantasy Basketball: 6 last-minute tips to help you nail your drafts",
+     "summary": "Dan Titus offers some tips for your fantasy basketball draft heading into the final weekend before the regular season.",
+     "image": "",
+     "url": "https://sports.yahoo.com/fantasy/article/fantasy-basketball-6-last-minute-tips-to-help-you-nail-your-drafts-185627355.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-16T18:56:27+00:00"
+    },
+    {
+     "title": "Bucks make way for Brewers’ World Series return with schedule change",
+     "summary": "The Bucks moved its home opener against the Bulls to avoid a conflict with the Brewers’ long-awaited World Series return.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/bucks-way-brewers-world-series-185114510.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-16T18:51:14+00:00"
+    },
+    {
+     "title": "NBA instructs sportsbook partners to ban certain bets ripe for manipulation, per report",
+     "summary": "Notably, 'under' parlays on the same player's statistics are off the board",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/16/5d970d3c-f080-4ddc-8f38-aca3bc7a0530/nba-ball-getty-1.png",
+     "url": "https://www.cbssports.com/nba/news/nba-sportsbook-partners-ban-certain-bets/",
+     "source": "CBS Sports NBA",
+     "published": "2026-10-16T18:16:15+00:00"
+    },
+    {
+     "title": "Atlantic Division + 2026 WNBA Finals preview",
+     "summary": "Nekias Duncan and Steve Jones wrap up their preview series with the NBA's Atlantic division and preview the WNBA Finals.",
+     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/tds-brunson-thumb_6786.png",
+     "url": "https://sports.yahoo.com/nba/article/atlantic-division--2026-wnba-finals-preview-181610697.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-16T18:16:10+00:00"
+    },
+    {
+     "title": "Rahm sacrifices £75m to secure exit from LIV Golf",
+     "summary": "Jon Rahm sacrifices a reported $100m (£75m) still owed to him by LIV Golf to secure his exit from the league.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b204/live/49952db0-c986-11f1-b646-2b044167639a.jpg",
+     "url": "https://www.bbc.co.uk/sport/golf/articles/cq80zpk1xgxpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-16T17:52:10+00:00"
+    },
+    {
+     "title": "Game, set and tache: Carlos Alcaraz joins growing trend for a stylish top lip",
+     "summary": "Tennis superstar is latest celebrity to sport a ‘refined’ moustache which owes little to bushy Tom Selleck look The tennis superstar Carlos Alcaraz might have been knocked out of the Shanghai Masters…",
+     "image": "https://i.guim.co.uk/img/media/ca887771548944d4c8c10f5223b5a77c6fda6c0d/268_0_3324_2659/master/3324.jpg?width=140&quality=85&auto=format&fit=max&s=658236a5e793e2510676f4ba14863369",
+     "url": "https://www.theguardian.com/fashion/2026/oct/16/game-set-tache-carlos-alcarez-growing-trend-stylish-top-lip",
+     "source": "Guardian Sport",
+     "published": "2026-10-16T17:26:13+00:00"
+    },
+    {
      "title": "Spanish club Basket Zaragoza attempting to block Thunder rookie Aday Mara from making NBA debut",
      "summary": "Mara played for the club in his native Spain before playing three seasons of college basketball",
      "image": "https://sportshub.cbsistatic.com/i/2026/10/16/2708fa57-b987-4551-99e1-1ffe69f73c24/untitled-design-21.png",
@@ -269,30 +333,6 @@
      "url": "https://www.cbssports.com/nba/news/milwaukee-bucks-change-time-home-opener-brewers-world-series/",
      "source": "CBS Sports NBA",
      "published": "2026-10-16T16:47:48+00:00"
-    },
-    {
-     "title": "NBA Preview 2026-27: Seven players most likely to be traded this season",
-     "summary": "Despite the best efforts of Masai Ujiri, Kyrie Irving tops the list. Anthony Davis is there, too.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/nba-preview-2026-27-seven-164358628.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-16T16:43:58+00:00"
-    },
-    {
-     "title": "Buss family asks judge to dismiss Jeanie Buss' petition to block Lakers share sale",
-     "summary": "Janie and Joey Buss asked a judge on Friday to dismiss Jeanie Buss' claim the family trust cannot the sell Lakers shares without her consent.",
-     "image": "https://media.zenfs.com/en/la_times_articles_853/b2a5823e0c92562b2a2f17dbb34b35bf.jpg",
-     "url": "https://sports.yahoo.com/articles/buss-family-asks-judge-dismiss-163146186.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-16T16:31:46+00:00"
-    },
-    {
-     "title": "Celtics coach Joe Mazzulla: Getting BJJ blue belt felt the same as winning NBA title",
-     "summary": "The Boston Celtics head coach says receiving his jiu-jitsu blue belt felt the same as winning the NBA title.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/d5fb9667ad4a8a3ab886c45a332c96dd.jpg",
-     "url": "https://sports.yahoo.com/articles/celtics-coach-joe-mazzulla-getting-163000405.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-16T16:30:00+00:00"
     },
     {
      "title": "Do Manchester City have any grounds to win their appeal?",
@@ -319,28 +359,12 @@
      "published": "2026-10-16T15:49:55+00:00"
     },
     {
-     "title": "NBA, sportsbooks reportedly agree to ban certain bets, including parlays involving the under on same player's stats",
-     "summary": "The news arrives after multiple betting scandals have threatened the league's integrity in recent years.",
-     "image": "",
-     "url": "https://sports.yahoo.com/nba/breaking-news/article/nba-sportsbooks-reportedly-agree-to-ban-certain-bets-including-parlays-involving-the-under-on-same-players-stats-151415255.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-16T15:14:15+00:00"
-    },
-    {
      "title": "Former Sale Sharks lock Andrews dies at team hotel in La Rochelle",
      "summary": "Hyron Andrews dies at his Johannesburg Lions' team hotel before their Champions Cup match at La Rochelle on Saturday.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/002b/live/fb4e94e0-c96f-11f1-80fc-ab418b149008.jpg",
      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqdjvxynj2kyo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-10-16T14:33:04+00:00"
-    },
-    {
-     "title": "'I am telling you the truth' - Carrick on Martinez fallout",
-     "summary": "Manchester United boss Michael Carrick says he is telling the truth about the club moving on from Lisandro Martinez's explosive post-match interview.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1307/live/63565910-c961-11f1-a64c-550be9e3c66b.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cm4g189leelno?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-16T13:59:12+00:00"
     },
     {
      "title": "NBA's five biggest starting lineup questions: Three guards for Spurs? Morant-Lillard backcourt in Portland?",
@@ -359,28 +383,12 @@
      "published": "2026-10-16T13:15:11+00:00"
     },
     {
-     "title": "NBA Western Conference tiers: Spurs, Thunder in a group of their own ... what about new-look Lakers?",
-     "summary": "Entering the 2026-27 season in the West, it's the Spurs and Thunder, a big gap, and then everyone else",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/15/d1ef7d74-2caf-4016-8215-cf174dfe038a/wemby-sga-getty-1.png",
-     "url": "https://www.cbssports.com/nba/news/nba-western-conference-tiers-spurs-thunder-lakers/",
-     "source": "CBS Sports NBA",
-     "published": "2026-10-16T13:14:11+00:00"
-    },
-    {
      "title": "WNBA finals 2026 predictions: Is Angel Reese about to win a Dream title?",
      "summary": "The Valkyries and Dream tip off the WNBA finals on Saturday at Ballhalla. Our writers give their verdicts with a first-time champion set to be crowned … of big dreams, excellent defense and smart rost…",
      "image": "https://i.guim.co.uk/img/media/28d095254f3b2ca7d62c725ebc7da1e26bdc157c/321_0_3038_2430/master/3038.jpg?width=140&quality=85&auto=format&fit=max&s=5041409a77f36c4c7de0c513c5a5d86b",
      "url": "https://www.theguardian.com/sport/2026/oct/16/wnba-finals-2026-predictions-atlanta-dream-golden-state-valkyries",
      "source": "Guardian Sport",
      "published": "2026-10-16T12:09:03+00:00"
-    },
-    {
-     "title": "Super Bowl champions slump again as Darnold’s picks cost Seahawks against Broncos",
-     "summary": "Seattle Seahawks 14-17 Denver Broncos (OT) Darnold intercepted twice late in game Denver move to 4-2 despite offensive struggles Wil Lutz kicked a 53-yard field goal in overtime as the host Denver Bro…",
-     "image": "https://i.guim.co.uk/img/media/992f98e13adceda05ef2a3192e0b9f9c3b7f0e97/488_0_4933_3949/master/4933.jpg?width=140&quality=85&auto=format&fit=max&s=e4dbf9d0cb85da5822c4d4b484c2d602",
-     "url": "https://www.theguardian.com/sport/2026/oct/16/seahawks-broncos-nfl-thursday-night-football",
-     "source": "Guardian Sport",
-     "published": "2026-10-16T04:00:03+00:00"
     }
    ]
   }
