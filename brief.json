@@ -1,16 +1,104 @@
 {
- "generated": "2026-10-19T19:22:23.889513+00:00",
+ "generated": "2026-10-19T21:09:05.208761+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "OpenAI bugging case: Saudi consulate offers to pay bail for suspect",
+     "title": "Trump says he'd meet with Putin and Xi, criticizes Zelenskyy",
+     "summary": "Tensions between Trump and Zelenskyy have steadily risen in recent weeks, while Russia, which invaded Ukraine, has received multiple breaks from the U.S.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/19/trump-putin-xi-zelenskyy.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-19T21:00:02+00:00"
+    },
+    {
+     "title": "Tech stocks had a nice oversold bounce on Monday. Earnings this week will determine if it's for real",
+     "summary": "Investors are hopeful that last week's pullback was a clearing event for equities, but lingering concerns remain.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/19/tech-stocks-rebound-meta-tesla-earnings.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-19T20:57:14+00:00"
+    },
+    {
+     "title": "OpenAI bugging suspect Alfozan held without bail after Saudi government offers to pay",
      "summary": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco.",
      "image": "",
      "url": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
      "source": "CNBC Top News",
-     "published": "2026-10-19T19:16:34+00:00"
+     "published": "2026-10-19T20:54:40+00:00"
+    },
+    {
+     "title": "Injured Ukrainian soldier rescued in first-ever drone evacuation mission",
+     "summary": "The Ukrainian army says it has carried out the world’s first drone evacuation of a wounded soldier from the front line.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_ukrainian-soldier-rescued-in-drone-evacuation-191026?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-19T20:49:39+00:00"
+    },
+    {
+     "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+     "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a726/live/cb93b2c0-cbf0-11f1-9a39-31b474234113.png",
+     "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-19T20:49:00+00:00"
+    },
+    {
+     "title": "Kenya convicts cult leader over the murder of 190 children",
+     "summary": "The leader of a Kenyan cult who instructed followers to starve themselves to death to reach heaven has been found guilty",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/kenya-convicts-cult-leader-over-the-murder-of-190-children?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-19T20:31:21+00:00"
+    },
+    {
+     "title": "川普稱願與習近平普丁3方峰會　可能聚焦非核化",
+     "summary": "美國總統川普今天表示，他願意參加與中國國家主席習近平及俄羅斯總統普丁（Vladimir Putin）的3方會談，可能聚焦非核化議題。 路透社報導，川普在白宮外告訴媒體：「我們可以在會中討論...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5611767",
+     "source": "自由時報",
+     "published": "2026-10-19T20:30:04+00:00"
+    },
+    {
+     "title": "俄軍空襲烏克蘭哈爾科夫州一座公園　釀6死含3孩童",
+     "summary": "俄烏戰火持續延燒之際，烏克蘭東北部哈爾科夫州（Kharkiv）州長席尼胡波夫表示，俄羅斯今天出動無人機，襲擊哈爾科夫州一座村莊的公園造成6人喪命，其中包括3名孩童。 路透社報導，席尼胡波夫...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5611766",
+     "source": "自由時報",
+     "published": "2026-10-19T20:30:04+00:00"
+    },
+    {
+     "title": "Trump signs order launching women’s health division at NIH, White House",
+     "summary": "First Lady Melania Trump has championed the executive action as a 'transformative moment' for US women's health.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/19/trump-signs-order-launching-womens-health-division-at-nih-white-house?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-19T20:29:46+00:00"
+    },
+    {
+     "title": "Finland seeking one million land mines as it eyes Russian threat",
+     "summary": "Helsinki recently joined regional peers in withdrawing from UN Charter banning munitions as it eyes its eastern border.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/19/finland-seeking-one-million-land-mines-as-it-eyes-russian-threat?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-19T19:57:10+00:00"
+    },
+    {
+     "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
+     "summary": "Iran-backed Houthi militants have launched repeated volleys of missiles and drones at Saudi Arabia since a deadly airport attack earlier this month.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-19T19:37:51+00:00"
+    },
+    {
+     "title": "德國宣布攜手輝達　加速AI工業應用發展",
+     "summary": "德國政府今天宣布與美國人工智慧（AI）晶片巨擘輝達（NVIDIA）的合作夥伴關係，目的在加速AI在工業應用領域的發展。 法新社報導，雙方在柏林一場投資峰會期間簽署合作協議。根據德國政府聲明...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/life/breakingnews/5611763",
+     "source": "自由時報",
+     "published": "2026-10-19T19:21:03+00:00"
     },
     {
      "title": "中國留俄學生課堂披日本軍旗惹眾怒 解放軍抨擊美化軍國主義",
@@ -21,76 +109,12 @@
      "published": "2026-10-19T19:14:58+00:00"
     },
     {
-     "title": "鬼鯊長獠牙！澳洲公開無人潛艦酬載：可攜帶12枚水雷與無人機蜂群",
-     "summary": "澳洲國防部19日表示，將為其「鬼鯊」（Ghost Shark）自主潛艦（autonomous submarine）配備空中無人機「蜂群」與水雷，全面提升水下作戰能力。 ...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5611758",
-     "source": "自由時報",
-     "published": "2026-10-19T19:12:16+00:00"
-    },
-    {
-     "title": "通膨、高房租與校園破敗交織 歐洲多國掀「抗議之秋」引爆警民衝突",
-     "summary": "燃油成本攀升、對校園環境的不滿、公共服務衰退以及住房危機，交織成一場完美風暴，在歐洲各地掀起「抗議之秋」。 美聯社報導，數週以來，歐洲各大城市湧現街頭抗議人潮。在法國、...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5611762",
-     "source": "自由時報",
-     "published": "2026-10-19T19:10:20+00:00"
-    },
-    {
-     "title": "《TAIPEI TIMES》 Japan licenses allow ‘Taiwan’ listing",
-     "summary": "ORIGINS: A Taiwanese doctor practicing in Japan said he no longer needed to cover the nationality la...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5611705",
-     "source": "自由時報",
-     "published": "2026-10-19T19:00:00+00:00"
-    },
-    {
-     "title": "Nasdaq gains as investors buy the dip in the AI trade: Live updates",
-     "summary": "The S&P 500 lost nearly 2% last week, its biggest weekly decline since late June. The Nasdaq fell 4.5%, snapping a four-week winning streak.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-19T18:55:05+00:00"
-    },
-    {
-     "title": "Protesters block Louvre in support of French student movement",
-     "summary": "French students are now blockading the world’s busiest museum.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/protesters-block-louvre-in-support-of-french-student-movement?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-19T18:39:27+00:00"
-    },
-    {
-     "title": "Ex-OpenAI employee accused of planting device has Saudi backing: Prosecutor",
-     "summary": "US federal prosecutors allege the defendant was in frequent contact with unnamed member of royal family.",
-     "image": "",
-     "url": "https://www.aljazeera.com/economy/2026/10/19/ex-openai-employee-accused-of-planting-device-has-saudi-backing-prosecutor?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-19T18:23:55+00:00"
-    },
-    {
-     "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-     "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68c7/live/28c5fe60-cbcb-11f1-aba9-2bb2608f11d9.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-19T18:23:50+00:00"
-    },
-    {
-     "title": "Netanyahu’s new security doctrine: Regional strategy or election ploy?",
-     "summary": "Experts say Netanyahu's security doctrine and map of regional alliances serve his political ambitions ahead of elections",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/19/netanyahus-new-security-doctrine-regional-strategy-or-election-ploy?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-19T18:21:06+00:00"
-    },
-    {
-     "title": "Benny Gantz drops out of Israel’s election race",
-     "summary": "Decision comes after polls showed his Blue and White party below the 3.25 percent threshold needed to enter the Knesset.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/19/benny-gantz-drops-out-of-israels-election-race?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-19T18:11:01+00:00"
+     "title": "Burnham urges officials to come up with more radical options for Thames Water",
+     "summary": "Exclusive: Utility seen as ‘litmus test’ of PM’s promise to bring ‘essentials of life’ under public control Andy Burnham has told officials to rip up their plans for how to fix Thames Water and presen…",
+     "image": "https://i.guim.co.uk/img/media/9910423652da5401c9097985111b82459db949cd/641_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=0228071c7edd2bcb94bf8e02be728881",
+     "url": "https://www.theguardian.com/politics/2026/oct/19/burnham-urges-officials-radical-options-thames-water-public-control",
+     "source": "Guardian Business",
+     "published": "2026-10-19T18:37:14+00:00"
     },
     {
      "title": "North Sea strikes could severely disrupt UK fuel supplies, union warns",
@@ -101,42 +125,34 @@
      "published": "2026-10-19T17:39:13+00:00"
     },
     {
-     "title": "Apple announces product launch event for Oct. 28. Analysts expect touchscreen laptop",
-     "summary": "Apple sent invitations for an event next week, calling it \"Pro and tell.\"",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/19/apple-product-launch-event-oct-28-analysts-expect-touchscreen-laptop.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-19T17:25:57+00:00"
-    },
-    {
      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
      "summary": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d07e/live/02bf88b0-cbd7-11f1-bc2e-018d645d8d21.jpg",
      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
      "published": "2026-10-19T17:18:04+00:00"
-    },
-    {
-     "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
-     "summary": "Iran-backed Houthi militants have launched repeated volleys of missiles and drones at Saudi Arabia since a deadly airport attack earlier this month.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-19T17:01:26+00:00"
-    },
-    {
-     "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
-     "summary": "The Saudi government did not immediately respond to BBC requests for comment.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad18/live/95af9980-cbd2-11f1-aba9-2bb2608f11d9.png",
-     "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-19T16:22:12+00:00"
     }
    ]
   },
   "ai": {
    "label": "AI",
    "items": [
+    {
+     "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+     "summary": "Can undersea geothermal power help Pacific Rim nations cut down on oil imports?",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Endurance-Energy-rockhopper-drill-500x500.jpeg",
+     "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+     "source": "Ars Technica",
+     "published": "2026-10-19T19:27:24+00:00"
+    },
+    {
+     "title": "ReactOS reaches major milestone with NTFS install support",
+     "summary": "ReactOS gains NTFS install support with new driver.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ReactOS_NTFS_Drive_Properties-500x500.jpg",
+     "url": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
+     "source": "Ars Technica",
+     "published": "2026-10-19T18:30:56+00:00"
+    },
     {
      "title": "Making the internet better for AI agents might make it worse for everyone else",
      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two…",
@@ -154,15 +170,39 @@
      "published": "2026-10-19T17:45:55+00:00"
     },
     {
+     "title": "Mercury 3: Diffusion at scale",
+     "summary": "Article URL: https://www.inceptionlabs.ai/blog/introducing-mercury-3 Comments URL: https://news.ycombinator.com/item?id=50155245 Points: 174 # Comments: 71",
+     "image": "",
+     "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-19T17:27:11+00:00"
+    },
+    {
+     "title": "AI game clones are making indie developers afraid to show their work",
+     "summary": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ss_c6067e139d8dd2cbf79c41a9c4e41e3bb088c95a.1920x1080-500x500.jpg",
+     "url": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+     "source": "Ars Technica",
+     "published": "2026-10-19T16:59:22+00:00"
+    },
+    {
+     "title": "Android apps running native on macOS",
+     "summary": "Article URL: https://github.com/kksimp/Mac.apk Comments URL: https://news.ycombinator.com/item?id=50154624 Points: 181 # Comments: 61",
+     "image": "",
+     "url": "https://github.com/kksimp/Mac.apk",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-19T16:45:30+00:00"
+    },
+    {
      "title": "MiniMax M3.1 Flash",
-     "summary": "Article URL: https://www.minimax.io/blog/minimax-m31f Comments URL: https://news.ycombinator.com/item?id=50154540 Points: 187 # Comments: 58",
+     "summary": "Article URL: https://www.minimax.io/blog/minimax-m31f Comments URL: https://news.ycombinator.com/item?id=50154540 Points: 274 # Comments: 105",
      "image": "",
      "url": "https://www.minimax.io/blog/minimax-m31f",
      "source": "Hacker News Front Page",
      "published": "2026-10-19T16:39:09+00:00"
     },
     {
-     "title": "Huge DMV data breach impacted current and former Florida residents",
+     "title": "Florida DMV hacked after police dept insecurely stored login info",
      "summary": "Florida issues alerts after statewide DMV data breach linked to ShinyHunters.",
      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1384284626-500x500-1792425823.jpg",
      "url": "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/",
@@ -171,51 +211,11 @@
     },
     {
      "title": "I no longer care to work on any Ruby gems so I've archived all my repositories",
-     "summary": "Article URL: https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository Comments URL: https://news.ycombinator.com/item?id=50154518 Points: 239 # Comments: 204",
+     "summary": "Article URL: https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository Comments URL: https://news.ycombinator.com/item?id=50154518 Points: 329 # Comments: 302",
      "image": "",
      "url": "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository",
      "source": "Hacker News Front Page",
      "published": "2026-10-19T16:37:10+00:00"
-    },
-    {
-     "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
-     "summary": "Article URL: https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/ Comments URL: https://news.ycombinator.com/item?id=50153630 Points: 231 # Comments: 44",
-     "image": "",
-     "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-19T15:28:24+00:00"
-    },
-    {
-     "title": "Disney found a way to buy Character.AI without buying its lawsuits",
-     "summary": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/06/getty-disney-500x500.jpg",
-     "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
-     "source": "Ars Technica",
-     "published": "2026-10-19T14:45:43+00:00"
-    },
-    {
-     "title": "A Chinese rocket deorbited over Minnesota and left this in a farmer's cornfield",
-     "summary": "All the evidence points to the debris being part of a Chinese Zhuque-2E rocket.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/848413061_1584132123754825_2260017497965151960_n-480x500.jpg",
-     "url": "https://arstechnica.com/space/2026/10/a-chinese-rocket-deorbited-over-minnesota-and-left-this-in-a-farmers-cornfield/",
-     "source": "Ars Technica",
-     "published": "2026-10-19T14:35:01+00:00"
-    },
-    {
-     "title": "Wine ported to OpenBSD",
-     "summary": "Article URL: https://marc.info/?l=openbsd-ports&m=179236125692175 Comments URL: https://news.ycombinator.com/item?id=50152307 Points: 383 # Comments: 111",
-     "image": "",
-     "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-19T13:35:34+00:00"
-    },
-    {
-     "title": "Review: Lanterns is a truly unique twist on the superhero genre",
-     "summary": "Gritty HBO series is a beacon for what's possible when one is allowed to get creative with the tropes.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/lanterns1-500x500-1790363336.jpg",
-     "url": "https://arstechnica.com/culture/2026/10/review-lanterns-is-a-truly-unique-twist-on-the-superhero-genre/",
-     "source": "Ars Technica",
-     "published": "2026-10-19T13:31:08+00:00"
     },
     {
      "title": "三大電信攜手高檢署打詐，導入 AI、大數據提前辨識詐騙風險",
@@ -263,28 +263,68 @@
    "label": "運動",
    "items": [
     {
+     "title": "Maddison shines on return - Tottenham v Coventry ratings",
+     "summary": "How Spurs and Coventry City's players rated following their Premier League match.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aad0/live/d480dcf0-cbff-11f1-9a39-31b474234113.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/crx23ndd337wo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-19T21:05:28+00:00"
+    },
+    {
+     "title": "Lakers waive Dalton Knecht ahead of season opener, roster deadline",
+     "summary": "The Lakers selected Dalton Knecht with a first-round draft pick in 2024.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/breaking-news/article/lakers-waive-dalton-knecht-ahead-of-season-opener-roster-deadline-210036059.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-19T21:00:36+00:00"
+    },
+    {
      "title": "Tottenham v Coventry: Premier League – live",
      "summary": "⚽ Live updates from the 8pm BST kick-off ⚽ Get in touch! Share your thoughts with Daniel Where is the game? Spurs will look to dominate possession, with Gray and Tonali dictating play, so Maddison, Ku…",
-     "image": "https://i.guim.co.uk/img/media/3a2e223c62b12198081a3c8f66383b334d07350a/235_0_4144_3314/master/4144.jpg?width=140&quality=85&auto=format&fit=max&s=4d58a908c99a4b83dc82e757440844a2",
+     "image": "https://i.guim.co.uk/img/media/621b365df366f250869ee9d9bc7b8f00711e002b/326_68_1981_1585/master/1981.jpg?width=140&quality=85&auto=format&fit=max&s=c82731aa67ca8a5eacf41d2ac60655ff",
      "url": "https://www.theguardian.com/football/live/2026/oct/19/tottenham-v-coventry-premier-league-live",
      "source": "Guardian Sport",
-     "published": "2026-10-19T19:15:09+00:00"
+     "published": "2026-10-19T20:55:33+00:00"
     },
     {
-     "title": "Goldin Is Bringing Lakers History Closer to the Game",
-     "summary": "With direct access to Lakers memorabilia, the franchise's global fan base and eBay's live-commerce infrastructure, Goldin is drawing on decades of auction expertise to bring sports history to mainstre…",
-     "image": "https://media.zenfs.com/en/mantel_articles_788/ffd3581c801c22bd45a799371f8b5e1a.jpg",
-     "url": "https://sports.yahoo.com/articles/goldin-bringing-lakers-history-closer-190553239.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-19T19:05:53+00:00"
-    },
-    {
-     "title": "Ronaldo handed 30-day suspension by Portuguese FA",
+     "title": "Ronaldo given 30-day suspension and £215 fine by Portuguese FA",
      "summary": "Cristiano Ronaldo is given a 30-day suspension by the Portuguese Football Federation after leaving his country's international camp last month.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4183/live/fc5daf60-cbea-11f1-ad7b-fd8c269705fe.jpg",
      "url": "https://www.bbc.co.uk/sport/football/articles/ck9qznlywy8no?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
-     "published": "2026-10-19T18:54:26+00:00"
+     "published": "2026-10-19T20:35:44+00:00"
+    },
+    {
+     "title": "Sixers' VJ Edgecombe on playing with LeBron James: 'He's exactly old enough to be my dad, which is crazy'",
+     "summary": "James finished his second NBA season before Edgecombe was born in 2005.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/article/vj-edgecombe-on-playing-with-lebron-james-hes-exactly-old-enough-to-be-my-dad-which-is-crazy-203357542.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-19T20:33:57+00:00"
+    },
+    {
+     "title": "Building Lionesses 2.0 - Wiegman's new challenge awaits",
+     "summary": "England head coach Sarina Wiegman has changed women's football in the country, so what does she face after signing a contract extension?",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07a9/live/73eec850-cbd4-11f1-bc2e-018d645d8d21.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cvze4w57746yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-19T20:15:48+00:00"
+    },
+    {
+     "title": "Knicks Notes: Mike Brown and Jalen Brunson on turning the page, returning New York's core players",
+     "summary": "After practice Monday, Knicks coach Mike Brown, as well as guards Jalen Brunson and Landry Shamet, spoke about what it means to turn the page on their championship berth and enter a new campaign with…",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/knicks-notes-mike-brown-jalen-200536014.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-19T20:05:36+00:00"
+    },
+    {
+     "title": "NBA Predictions 2026-27: Who wins MVP? Rookie of the Year? Our experts make their awards picks",
+     "summary": "With the 2026-27 NBA season here, it's time to make our awards predictions. Who will take home hardware this season?",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/article/nba-predictions-2026-27-who-wins-mvp-rookie-of-the-year-our-experts-make-their-awards-picks-194701051.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-19T19:47:01+00:00"
     },
     {
      "title": "Eagles QB Hurts reportedly played after not sleeping for 36 hours amid blood clot diagnosis",
@@ -295,36 +335,12 @@
      "published": "2026-10-19T18:40:04+00:00"
     },
     {
-     "title": "The 12 biggest questions entering the NBA season with Grant Liffmann",
-     "summary": "Kevin O'Connor and Grant Liffmann answer the biggest NBA questions before the 2026-27 season officially tips off.",
-     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/koc-kathart-thumb_0752.png",
-     "url": "https://sports.yahoo.com/nba/article/the-12-biggest-questions-entering-the-nba-season-with-grant-liffmann-183750398.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-19T18:37:50+00:00"
-    },
-    {
-     "title": "The Playlist: Fantasy basketball waiver-wire adds and schedule breakdown for Opening Week of 2026-27",
-     "summary": "Fantasy hoops is back! Dan Titus takes you through his Playlist for the opening week of the 2026-27 NBA season.",
-     "image": "",
-     "url": "https://sports.yahoo.com/fantasy/article/the-playlist-fantasy-basketball-waiver-wire-adds-and-schedule-breakdown-for-opening-week-of-2026-27-182902048.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-19T18:29:02+00:00"
-    },
-    {
      "title": "Uefa gives Infantino two-week deadline to release key documents",
      "summary": "Uefa's letter contained 42 questions, covering Fifa's failed private investment proposals, its Peace Prize and the fallout from Folarin Balogun's World Cup red card.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eac7/live/11823210-cbcf-11f1-aba9-2bb2608f11d9.jpg",
      "url": "https://www.bbc.co.uk/sport/football/articles/cq398rkpjljlo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-10-19T18:20:39+00:00"
-    },
-    {
-     "title": "Leicester to visit Oxford City in FA Cup first round - see full draw",
-     "summary": "Leicester City will travel to National League North side Oxford City in the 2026-27 FA Cup first round - five years after winning the competition.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e6/live/81429510-cbf0-11f1-bd6b-397ab98949f6.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/ckwyqdvedj32o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-19T18:13:52+00:00"
     },
     {
      "title": "NBA 2026-27 season predictions: Expert picks for full standings and Finals",
@@ -335,14 +351,6 @@
      "published": "2026-10-19T18:00:10+00:00"
     },
     {
-     "title": "Nets first-round pick Joshua Jefferson available for season opener vs. Hornets",
-     "summary": "Nets first-round pick Joshua Jefferson practiced full contact on Monday and will be available for the team's season opener against the Charlotte Hornets on Wednesday.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/nets-first-round-pick-joshua-175541300.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-19T17:55:41+00:00"
-    },
-    {
      "title": "Bold predictions for 2026-27 NBA season: Victor Wembanyama double dips, a Knicks letdown, huge trades, more",
      "summary": "With the regular season getting underway on Tuesday, Brad Botkin is throwing caution to the wind",
      "image": "https://sportshub.cbsistatic.com/i/2026/10/19/72a3f726-79ba-4a62-ada6-6996b61f8324/kyrie-getty.png",
@@ -351,20 +359,20 @@
      "published": "2026-10-19T17:37:47+00:00"
     },
     {
+     "title": "Will that do? Lamine Yamal conjures another magical spell as Barça pass first test | Sid Lowe",
+     "summary": "The 19-year-old scored a cracker in Seville, days after his ‘almost rabona’ at Galatasaray, as La Liga leaders beat Real Betis When at last it was time for Lamine Yamal to leave, the 19-year-old’s num…",
+     "image": "https://i.guim.co.uk/img/media/ccad274f0bc6eefe697fbcd27928f45bd1ff4045/97_0_2797_2238/master/2797.jpg?width=140&quality=85&auto=format&fit=max&s=f8bf878e9038e0183dfbb7743aa585b3",
+     "url": "https://www.theguardian.com/football/2026/oct/19/lamine-yamal-wonder-goal-barcelona-real-betis-la-liga",
+     "source": "Guardian Sport",
+     "published": "2026-10-19T17:29:16+00:00"
+    },
+    {
      "title": "NBA 2026-27 championship futures odds: Thunder, Spurs favored, but Knicks, LeBron James' 76ers not far behind",
      "summary": "The 2026-27 NBA season starts Tuesday, and there are a ton of new faces in new places as the New York Knicks look to repeat as champions",
      "image": "https://sportshub.cbsistatic.com/i/2026/10/19/b4dccffc-10ae-4866-98f6-686aa91e1e8f/brunson.jpg",
      "url": "https://www.cbssports.com/betting/news/nba-2026-27-championship-futures-odds-thunder-spurs-favored-but-knicks-lebron-james-76ers-not-far-behind/",
      "source": "CBS Sports NBA",
      "published": "2026-10-19T16:32:18+00:00"
-    },
-    {
-     "title": "Are free-scoring Brighton genuine title contenders?",
-     "summary": "Brighton's start to the season has surprised many outsiders. But how high could they finish?",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/218e/live/65a2bf40-cbc0-11f1-81ef-39e22b578b80.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cwn8d48je057o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-19T14:52:01+00:00"
     },
     {
      "title": "The 76ers seem to finally have everything they need, and it makes their season both thrilling and terrifying",
@@ -381,14 +389,6 @@
      "url": "https://www.theguardian.com/sport/2026/oct/19/los-angeles-rams-superteam-struggles-nfl-football",
      "source": "Guardian Sport",
      "published": "2026-10-19T11:11:00+00:00"
-    },
-    {
-     "title": "Premier League: 10 talking points from the weekend’s action",
-     "summary": "Florian Wirtz takes on more responsibility in Liverpool’s attack while Pierre Sage is under pressure at Crystal Palace Dominic Calvert-Lewin’s physicality overpowering Bryan Mbeumo in Manchester Unite…",
-     "image": "https://i.guim.co.uk/img/media/aeb20bb8a32614c9a4faab5b22b813f36ae0f92e/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=c7803a63874ff2433483b050bd58a5c7",
-     "url": "https://www.theguardian.com/football/2026/oct/19/premier-league-10-talking-points-from-the-weekends-action",
-     "source": "Guardian Sport",
-     "published": "2026-10-19T07:00:22+00:00"
     }
    ]
   }
