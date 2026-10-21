@@ -1,32 +1,128 @@
 {
- "generated": "2026-10-21T18:07:21.888208+00:00",
+ "generated": "2026-10-21T20:14:00.379548+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "PHP釋出緊急安全更新　資安署籲機關及企業儘速完成修補",
-     "summary": "數位發展部資安署表示，開源伺服器端腳本語言PHP安全團隊釋出緊急安全更新，修補兩項嚴重漏洞，嚴重度評分均為9.2分，攻擊者可能在未經身分驗證的情況下，從外部執行任意程式碼。 資安署呼籲使用...…",
+     "title": "Tesla beats on earnings and sales even as auto revenue declines",
+     "summary": "Tesla reported better-than-expected third-quarter results.",
      "image": "",
-     "url": "https://ec.ltn.com.tw/article/breakingnews/5614365",
-     "source": "自由時報",
-     "published": "2026-10-21T18:00:04+00:00"
-    },
-    {
-     "title": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
-     "summary": "Meta to pay $25 billion in penalties related to Cambridge Analytica scandal in New Mexico.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+     "url": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
      "source": "CNBC Top News",
-     "published": "2026-10-21T17:45:23+00:00"
+     "published": "2026-10-21T20:13:00+00:00"
     },
     {
-     "title": "川普限制跨性別受刑人醫療　美最高法院駁回",
-     "summary": "美國最高法院今天表示，川普政府暫不得執行一項限制聯邦監獄跨性別受刑人接受治療的新政策。在保守派大法官占多數的最高法院，跨性別者權利取得罕見的勝利。 路透社報導，川普政府今年2月發布這項政策...…",
+     "title": "Meta posts Q3 revenue beat and strong guidance: Live updates",
+     "summary": "Follow Meta's Q3 2026 earnings live, including revenue, EPS, AI spending, advertising growth, guidance and META stock reaction.",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5614364",
+     "url": "https://www.cnbc.com/2026/10/21/meta-earnings-q3-2026-live-updates.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-21T20:10:16+00:00"
+    },
+    {
+     "title": "川普：俄烏戰爭距終戰可能已到最近時刻",
+     "summary": "美國總統川普今天表示，他認為俄烏戰爭距離結束可能已來到迄今最接近的一刻；他還感謝俄羅斯總統普丁（Vladimir Putin）釋放一名遭拘留的美國公民。 法新社報導，川普在白宮告訴記者：「...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5614376",
      "source": "自由時報",
-     "published": "2026-10-21T17:45:03+00:00"
+     "published": "2026-10-21T20:00:06+00:00"
+    },
+    {
+     "title": "Meet the people moving north to escape increasingly hot summers",
+     "summary": "As climate change fuels hotter summers, some Britons are moving north in search of cooler weather. Could a similar shift be on the horizon in the United States?",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7976x5978+0+0/resize/7976x5978!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fef%2Fe5%2Fe37893a9427995fa602ca1d21457%2Fgettyimages-2289997590.jpg",
+     "url": "https://www.npr.org/2026/10/21/nx-s1-5977837/climate-uk-usa-housing",
+     "source": "NPR News",
+     "published": "2026-10-21T20:00:00+00:00"
+    },
+    {
+     "title": "BlackRock's Rick Rieder sees 'historic' opportunity in high-quality bonds",
+     "summary": "Rick Rieder, BlackRock's CIO of global fixed income, lays out his expectations for the fourth quarter and where he sees the best opportunities.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/21/rick-rieder-investment-grade-bonds.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-21T19:54:16+00:00"
+    },
+    {
+     "title": "Top 2 Democrats on Intel say they're preparing for Trump to claim foreign meddling",
+     "summary": "The top Democrats on the House and Senate intelligence committees said they are working under the presumption that the president will seek to justify election interference by alleging fraud.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4050x2700+0+0/resize/4050x2700!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2Fc3%2F3121b42a43e38191535a1defcc71%2Fgettyimages-2301237711.jpg",
+     "url": "https://www.npr.org/2026/10/21/nx-s1-6011170/democrats-election-interference-preparations-president-trump",
+     "source": "NPR News",
+     "published": "2026-10-21T19:47:18+00:00"
+    },
+    {
+     "title": "What happened to Australian politician Helen Haines?",
+     "summary": "Australian Lawmaker Helen Haines has lost both legs after a car rammed into her.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/what-happened-to-australian-politician-helen-haines?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-21T19:38:02+00:00"
+    },
+    {
+     "title": "Conservative Party suspends ex-candidate filmed in Al Jazeera investigation",
+     "summary": "An undercover investigation by Al Jazeera, launched in 2021, infiltrated Turning Point UK.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/21/conservative-party-suspends-ex-candidate-filmed-in-al-jazeera-investigation?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-21T19:36:54+00:00"
+    },
+    {
+     "title": "川普特使：與普丁會談具建設性　但重要工作仍待完成",
+     "summary": "美國特使魏科夫今天表示，他與俄羅斯總統普丁的會談「具建設性」，但「重要工作」仍待完成。 法新社報導，魏科夫（Steve Witkoff）在社群媒體上寫道：「會談具建設性，接下來美國、俄羅斯...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5614375",
+     "source": "自由時報",
+     "published": "2026-10-21T19:30:03+00:00"
+    },
+    {
+     "title": "India’s ‘Cockroach’ leaders free after a week in jail",
+     "summary": "Two top leaders of India’s Cockroach Party, Ashutosh Ranka and Saurav Das, have been released after a week in jail.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/indias-cockroach-leaders-free-after-a-week-in-jail?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-21T19:17:51+00:00"
+    },
+    {
+     "title": "Tunisia jails opposition politician for four years over social media posts",
+     "summary": "Olfa ⁠Hamdi, a US-Tunisian national, was convicted of 'plotting' and 'inciting' military to disobey orders.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/21/tunisia-jails-opposition-politician-for-four-years-over-social-media-posts?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-21T19:14:49+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》 Regulator blocks Grab’s merger with Foodpanda",
+     "summary": "CLOSE TIES: Uber Eats and Grab’s years of collaboration in other markets and Uber’s stake in Grab wo...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5614294",
+     "source": "自由時報",
+     "published": "2026-10-21T19:00:00+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》 Five indicted over China-linked attack on comedian",
+     "summary": "CALL TO ACTION: Huang Yi-hao thanked investigators, while urging Fu Kun-chi to support legislation p...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5614292",
+     "source": "自由時報",
+     "published": "2026-10-21T19:00:00+00:00"
+    },
+    {
+     "title": "Flaw in PHP computer language leads to shutdown of websites around world",
+     "summary": "Precautionary takedowns come as experts say bad actors could exploit vulnerability in language used by 70% of sites Websites around the globe have gone dark after a serious vulnerability was found in…",
+     "image": "https://i.guim.co.uk/img/media/7b2ac9acb1cb8d1678d58a8d278df37914456a10/461_0_5417_4335/master/5417.jpg?width=140&quality=85&auto=format&fit=max&s=f3262289ef4e806a3e94a72dcc5581d6",
+     "url": "https://www.theguardian.com/technology/2026/oct/21/flaw-in-php-computer-language-leads-to-shutdown-of-websites-around-world",
+     "source": "Guardian Business",
+     "published": "2026-10-21T18:20:30+00:00"
+    },
+    {
+     "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
+     "summary": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce68/live/40f9c020-cd60-11f1-bc2e-018d645d8d21.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-21T18:10:42+00:00"
     },
     {
      "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
@@ -35,108 +131,20 @@
      "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
      "published": "2026-10-21T17:42:34+00:00"
-    },
-    {
-     "title": "How Ukraine’s drone strikes on Russia crippled the world’s second-largest diesel supplier",
-     "summary": "President Donald Trump has blamed Ukraine for surging diesel prices that are hurting Republicans' election chances with the midterms just two weeks away.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/21/ukraine-russia-drone-diesel-refinery-trump-putin-zelenskyy.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-21T17:27:34+00:00"
-    },
-    {
-     "title": "Controversial US-backed vaccine trial in African newborns halted",
-     "summary": "Hepatitis B study in Guinea-Bissau that was to be funded by CDC and that drew global backlash ‘will not move forward’ The US-backed hepatitis B vaccine trial in African newborns that drew global backl…",
-     "image": "https://i.guim.co.uk/img/media/344d52d116791a7470b0fa4bee4effb65774989e/298_0_3376_2700/master/3376.jpg?width=140&quality=85&auto=format&fit=max&s=605258982228562e94285640cb2ada9c",
-     "url": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
-     "source": "Guardian World",
-     "published": "2026-10-21T17:18:56+00:00"
-    },
-    {
-     "title": "Energy secretary leaning towards rejecting Rosebank oilfield",
-     "summary": "Exclusive: Officials say Miatta Fahnbulleh minded not to give approval in victory for climate campaigners Miatta Fahnbulleh is minded to reject the giant Rosebank oilfield, sources have told the Guard…",
-     "image": "https://i.guim.co.uk/img/media/3451af0946c873b466357da85a4a7ce137a18c51/0_761_2849_2278/master/2849.jpg?width=140&quality=85&auto=format&fit=max&s=f8b0f03aca998f966f3577de905c244f",
-     "url": "https://www.theguardian.com/environment/2026/oct/21/energy-secretary-leaning-towards-rejecting-rosebank-oilfield",
-     "source": "Guardian Business",
-     "published": "2026-10-21T17:15:23+00:00"
-    },
-    {
-     "title": "Macron makes surprise Saudi visit as France secures extra diesel supplies",
-     "summary": "French president meets Mohammed bin Salman in Riyadh to discuss energy, security, and infrastructure.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/21/macron-makes-surprise-saudi-visit-as-france-secures-extra-diesel-supplies?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-21T16:58:39+00:00"
-    },
-    {
-     "title": "Paris shopkeepers fear more destruction after riots destroy livelihoods",
-     "summary": "‘I have nothing left.’ Small business owners in Paris say they are traumatised after rioters looted their shops.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/10-21-reported-paris-shopkeepers-truamatised?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-21T16:57:15+00:00"
-    },
-    {
-     "title": "黃逸豪罵習遭中國買凶斷手腳 矢板明夫疾呼藍白立委修法補漏洞",
-     "summary": "相聲喜劇演員黃逸豪時常在表演中嘲諷中國共產黨和習近平，先前遭中國人士指使跨境潑漆糞恐嚇，21日還爆出中方買凶製造假車禍要讓黃逸豪「斷手斷腳」，引發輿論熱議。同樣曾遭受跨境鎮壓的印...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5614343",
-     "source": "自由時報",
-     "published": "2026-10-21T16:52:37+00:00"
-    },
-    {
-     "title": "Stocks making the biggest moves midday: SpaceX, Meta Platforms, Super Micro Computer, Roivant Sciences & more",
-     "summary": "Here are some of the companies making headlines in midday trading.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-midday-spcx-meta-smci-roiv.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-21T16:48:42+00:00"
-    },
-    {
-     "title": "林杏兒抹黑下跪阿嬤領錢演戲還反怪沈伯洋 社子島自救會要告了",
-     "summary": "民進黨台北市長候選人沈伯洋日前到社子島參香祈福，遇到在地阿嬤激動下跪陳情，盼他若當選市長能協助解決社子島開發案困境；國民黨當地議員林杏兒竟帶頭抹黑指稱這名阿嬤「領錢演戲」社子島自...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5614296",
-     "source": "自由時報",
-     "published": "2026-10-21T16:45:51+00:00"
-    },
-    {
-     "title": "Macron’s surprise ‘solidarity’ visit to Saudi Arabia",
-     "summary": "French President Emmanuel Macron made a surprise stop in Riyadh to meet Saudi Crown Prince during his ongoing Gulf tour.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/macrons-surprise-solidarity-visit-to-saudi-arabia?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-21T16:34:27+00:00"
-    },
-    {
-     "title": "SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up",
-     "summary": "SpaceX shares jumped after the company reported surging revenue growth in its third quarter, and owner Elon Musk floated a potential SpaceX-Tesla merger.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-21T16:08:50+00:00"
-    },
-    {
-     "title": "Real Madrid vs RB Leipzig LIVE: Champions League",
-     "summary": "Follow updates, with team news, from our live text commentary stream coverage as Mbappe and Bellingham headline.",
-     "image": "",
-     "url": "https://www.aljazeera.com/sports/liveblog/2026/10/21/real-madrid-vs-rb-leipzig-live-champions-league?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-21T16:01:56+00:00"
-    },
-    {
-     "title": "How Trump's attacks on voting system integrity might affect upcoming elections",
-     "summary": "Election law expert Rick Hasen explains Trump's interference in the midterms, including threatening local officials with criminal prosecution unless they strike alleged noncitizens from voter rolls.",
-     "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6010463",
-     "url": "https://www.npr.org/2026/10/21/nx-s1-6010463/how-trumps-attacks-on-voting-system-integrity-might-affect-upcoming-elections",
-     "source": "NPR News",
-     "published": "2026-10-21T16:01:44+00:00"
     }
    ]
   },
   "ai": {
    "label": "AI",
    "items": [
+    {
+     "title": "EA is shutting down BioWare",
+     "summary": "Article URL: https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware Comments URL: https://news.ycombinator.com/item?id=50184586 Points: 290 # Comments: 173",
+     "image": "",
+     "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-21T17:29:33+00:00"
+    },
     {
      "title": "SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase",
      "summary": "\"We have had significant constructive engagement with the FAA.\"",
@@ -147,7 +155,7 @@
     },
     {
      "title": "Today's PHP security release, and how we're strengthening security",
-     "summary": "Article URL: https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/ Comments URL: https://news.ycombinator.com/item?id=50182987 Points: 225 # Co…",
+     "summary": "Related ongoing thread: PHP 8.2.35 - https://news.ycombinator.com/item?id=50180873 (links to more at https://news.ycombinator.com/item?id=50184935 ) Comments URL: https://news.ycombinator.com/item?id=…",
      "image": "",
      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
      "source": "Hacker News Front Page",
@@ -163,7 +171,7 @@
     },
     {
      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
-     "summary": "https://patchtheplanet.org/ Comments URL: https://news.ycombinator.com/item?id=50181175 Points: 158 # Comments: 95",
+     "summary": "https://patchtheplanet.org/ Comments URL: https://news.ycombinator.com/item?id=50181175 Points: 187 # Comments: 117",
      "image": "",
      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
      "source": "Hacker News Front Page",
@@ -171,19 +179,11 @@
     },
     {
      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
-     "summary": "Article URL: https://duckdb.org/2026/10/21/announcing-duckdb-200 Comments URL: https://news.ycombinator.com/item?id=50181136 Points: 237 # Comments: 27",
+     "summary": "Article URL: https://duckdb.org/2026/10/21/announcing-duckdb-200 Comments URL: https://news.ycombinator.com/item?id=50181136 Points: 306 # Comments: 32",
      "image": "",
      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
      "source": "Hacker News Front Page",
      "published": "2026-10-21T14:01:22+00:00"
-    },
-    {
-     "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-     "summary": "Article URL: https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/ Comments URL: https://news.ycombinator.com/item?id=50181114 Points: 182 # Comments: 78",
-     "image": "",
-     "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-21T14:00:26+00:00"
     },
     {
      "title": "輝達砸大錢布局供應鏈戰略，點名台灣、日本、南韓多家供應鏈廠商受惠",
@@ -271,28 +271,44 @@
    "label": "運動",
    "items": [
     {
-     "title": "Como v Manchester United: Champions League – live",
-     "summary": "⚽️ Champions League updates from 5.45pm BST ⚽️ Live scoreboard | Champions League table | Mail Simon The players are on the pitch and very nearly ready to go. Poor mascot coming out to pick up the mat…",
-     "image": "https://i.guim.co.uk/img/media/c65da51d34c493821af0e059bb6faf0e56fdd281/333_0_3979_3183/master/3979.jpg?width=140&quality=85&auto=format&fit=max&s=c30c37a358f3715d3910e20797a90ab4",
-     "url": "https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live",
+     "title": "Bayern Munich v Arsenal: Champions League – live",
+     "summary": "⚽️ Champions League updates | Como 4-1 Man Utd ⚽️ Clockwatch | Live scores | Table | Email Scott The teams are out! Bayern are in one of their all-red phases, while Arsenal are harking back to the ear…",
+     "image": "https://i.guim.co.uk/img/media/7d18ff6a5fc7b32cf6e03caf88ae6439a00e7641/544_20_2917_2333/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=ca32c439dbccd5936f41d1664c0cfff3",
+     "url": "https://www.theguardian.com/football/live/2026/oct/21/bayern-munich-v-arsenal-champions-league-live",
      "source": "Guardian Sport",
-     "published": "2026-10-21T17:55:20+00:00"
+     "published": "2026-10-21T20:04:24+00:00"
     },
     {
-     "title": "Fantasy Basketball: Paul George delivers vintage performance, plus more takeaways from 2026-27 NBA Opening Night",
-     "summary": "Fantasy basketball analyst Dan Titus breaks down Opening Night's triple-header.",
+     "title": "Underdog Promo Code YAHOOBONUS: Play $10 on Wednesday’s  NBA and NHL action, Get $50 in Bonus Funds",
+     "summary": "Sign up with Underdog promo code YAHOOBONUS to get a 5X return from an initial $10 play on Wednesday’s basketball and hockey action.",
+     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/underdog-banner-cta_6067.jpg",
+     "url": "https://sports.yahoo.com/betting/promos/article/underdog-promo-code-yahoobonus-play-10-on-wednesdays-nba-and-nhl-action-get-50-in-bonus-funds-200000514.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-21T20:00:00+00:00"
+    },
+    {
+     "title": "Fernandes rounds on Carrick after Man Utd humiliation",
+     "summary": "Manchester United skipper Bruno Fernandes has blamed head coach Michael Carrick for the tactics that led to an embarrassing 4-1 defeat by Como in the Champions League.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc79/live/b30fa050-cd8b-11f1-bc2e-018d645d8d21.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cq74pjn80x4wo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-21T19:59:30+00:00"
+    },
+    {
+     "title": "The Warriors’ terrible Kristaps Porzingis news is a problem without a viable solution",
+     "summary": "Kristaps Porzingis’ diagnosis is terrible news for the Warriors.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/fe5acdaed489f2564f2ecd83808ecabc.jpg",
+     "url": "https://sports.yahoo.com/articles/warriors-terrible-kristaps-porzingis-news-195413568.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-21T19:54:13+00:00"
+    },
+    {
+     "title": "Golden State Warriors reportedly consider Kristaps Porzingis trade",
+     "summary": "Golden State Warriors are reportedly looking to trade center Kristaps Porzingis as health concerns grow. Here are the latest updates.",
      "image": "",
-     "url": "https://sports.yahoo.com/fantasy/article/fantasy-basketball-paul-george-delivers-vintage-performance-plus-more-takeaways-from-2026-27-nba-opening-night-171432875.html",
+     "url": "https://sports.yahoo.com/articles/golden-state-warriors-reportedly-consider-194700411.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-10-21T17:14:32+00:00"
-    },
-    {
-     "title": "Cavs rank last in local broadcast accessibility report",
-     "summary": "The Cavs move to streaming makes their local broadcasts more exclusive than ever before.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/b52898a48305db0075006e7d5adb4679.jpg",
-     "url": "https://sports.yahoo.com/articles/cavs-rank-last-local-broadcast-170050672.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-21T17:00:50+00:00"
+     "published": "2026-10-21T19:47:00+00:00"
     },
     {
      "title": "'Playing for their careers' - Australia reeling after extraordinary day",
@@ -300,23 +316,47 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d585/live/d17d8380-cd69-11f1-bc2e-018d645d8d21.jpg",
      "url": "https://www.bbc.co.uk/sport/cricket/articles/ckzd6r577qvdo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
-     "published": "2026-10-21T16:52:25+00:00"
+     "published": "2026-10-21T19:46:45+00:00"
     },
     {
-     "title": "Adam Silver says LeBron's helicopter deal 'perfectly appropriate' if 76ers not involved",
-     "summary": "The helicopter LeBron James is using to commute from New York to Philadelphia is tied to Fanatics.",
+     "title": "Warriors reportedly exploring trading Kristaps Porzingis as he remains away from team",
+     "summary": "Porzingis is \"seriously contemplating his future in basketball\" due to his medical condition.",
      "image": "",
-     "url": "https://sports.yahoo.com/articles/adam-silver-says-lebrons-helicopter-164111448.html",
+     "url": "https://sports.yahoo.com/articles/warriors-reportedly-exploring-trading-kristaps-194539998.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-10-21T16:41:11+00:00"
+     "published": "2026-10-21T19:45:39+00:00"
     },
     {
-     "title": "NBA opener reactions with Andrew Sharp + KOC interviews Warriors rookie Yaxel Lendeborg",
-     "summary": "Kevin O'Connor recaps NBA opening day with Andrew Sharp and talks with Golden State Warriors rookie Yaxel Lendeborg.",
-     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/koc-lebronstart-thumb_1520.png",
-     "url": "https://sports.yahoo.com/nba/article/nba-opener-reactions-with-andrew-sharp--koc-interviews-warriors-rookie-yaxel-lendeborg-163231512.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-21T16:32:31+00:00"
+     "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Heat-Timberwolves, Warriors-Lakers, NBA Wednesday",
+     "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NBA, NFL betting on Wednesday",
+     "image": "https://sportshub.cbsistatic.com/i/2026/09/08/8c9b2f2a-2dd9-45bb-932a-45e8faf837ef/betmgm-promo-code-september-2026.jpg",
+     "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-heat-timberwolves-warriors-lakers-nba-wednesday/",
+     "source": "CBS Sports NBA",
+     "published": "2026-10-21T19:14:30+00:00"
+    },
+    {
+     "title": "Titans coach says Jordan Elliott pulling gun in team parking lot was not ‘criminal act’",
+     "summary": "Player fetched firearm after altercation with JC Latham Tennessee released defensive tackle on Tuesday Robert Saleh calls situation ‘lapse in judgement’ Tennessee Titans coach Robert Saleh confirmed o…",
+     "image": "https://i.guim.co.uk/img/media/5169bfda9ffaa609b8c6733fadcaaa252e7313be/652_191_3886_3110/master/3886.jpg?width=140&quality=85&auto=format&fit=max&s=da3ca90b2e2710c7ccd94dcb5572b46c",
+     "url": "https://www.theguardian.com/sport/2026/oct/21/titans-reportedly-released-jordan-elliott-after-he-fetched-gun-following-scuffle-in-practice",
+     "source": "Guardian Sport",
+     "published": "2026-10-21T19:01:14+00:00"
+    },
+    {
+     "title": "Como demolish dismal Manchester United to pile more pressure on Carrick",
+     "summary": "In sight of the Alps, a boat ride from George Clooney’s villa, Manchester United will hope, in what has been a terrible start to the season, that things do not get any worse. They can’t – for the team…",
+     "image": "https://i.guim.co.uk/img/media/668a9925739db795b3c7732cd8af97130d9774ad/68_0_3164_2532/master/3164.jpg?width=140&quality=85&auto=format&fit=max&s=695365821901650bfdc6f17caa234d00",
+     "url": "https://www.theguardian.com/football/2026/oct/21/como-manchester-united-champions-league-match-report",
+     "source": "Guardian Sport",
+     "published": "2026-10-21T18:55:28+00:00"
+    },
+    {
+     "title": "Warriors exploring trades for Kristaps Porziņģis, who is contemplating future amid health issues, per report",
+     "summary": "Porziņģis missed the entire preseason and his future as a Warrior and as a pro basketball player are now in doubt",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/21/9c4c37cb-7800-447b-8713-a7bdbb726646/porzingis.jpg",
+     "url": "https://www.cbssports.com/nba/news/warriors-trades-kristaps-porzingis-contemplating-future-health-issues/",
+     "source": "CBS Sports NBA",
+     "published": "2026-10-21T18:53:28+00:00"
     },
     {
      "title": "NBA player props, odds, picks, lines: Stephen Curry part of best bets for Wednesday",
@@ -343,52 +383,12 @@
      "published": "2026-10-21T15:35:42+00:00"
     },
     {
-     "title": "Titans reportedly released Jordan Elliott after he fetched gun following scuffle in practice",
-     "summary": "Defensive lineman had altercation with JC Latham Titans do not confirm or deny reports around firearm Jordan Elliott, the defensive lineman released Tuesday by the Tennessee Titans, reportedly ⁠went t…",
-     "image": "https://i.guim.co.uk/img/media/5169bfda9ffaa609b8c6733fadcaaa252e7313be/652_191_3886_3110/master/3886.jpg?width=140&quality=85&auto=format&fit=max&s=da3ca90b2e2710c7ccd94dcb5572b46c",
-     "url": "https://www.theguardian.com/sport/2026/oct/21/titans-reportedly-released-jordan-elliott-after-he-fetched-gun-following-scuffle-in-practice",
-     "source": "Guardian Sport",
-     "published": "2026-10-21T14:59:45+00:00"
-    },
-    {
      "title": "Andrews died of tear in artery around heart - autopsy",
      "summary": "Former Sale player Hyron Andrews - who was found dead at his new team's hotel base before a Champions Cup match - died of natural causes, an autopsy finds.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e48/live/37108910-cd59-11f1-b962-b7ff822cde72.jpg",
      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx234p2xwpzo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-10-21T14:39:26+00:00"
-    },
-    {
-     "title": "What will new-look Wolves look like? By trading for LaMelo Ball, Minnesota swapped 'moodiness for giddiness'",
-     "summary": "LaMelo is set for his Timberwolves debut on Wednesday night alongside superstar Anthony Edwards",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/21/408125f3-0026-4582-9d89-c67047b71d8e/lamelo-ant-getty.png",
-     "url": "https://www.cbssports.com/nba/news/new-look-wolves-lamelo-ball-trade/",
-     "source": "CBS Sports NBA",
-     "published": "2026-10-21T14:09:56+00:00"
-    },
-    {
-     "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Timberwolves-Heat, Warriors-Lakers, NBA Wednesday",
-     "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NBA, NFL betting on Wednesday",
-     "image": "https://sportshub.cbsistatic.com/i/2026/09/08/8c9b2f2a-2dd9-45bb-932a-45e8faf837ef/betmgm-promo-code-september-2026.jpg",
-     "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-timberwolves-heat-warriors-lakers-nba-wednesday/",
-     "source": "CBS Sports NBA",
-     "published": "2026-10-21T13:09:21+00:00"
-    },
-    {
-     "title": "F1 races to return to standard distance in 2028",
-     "summary": "Formula 1 grands prix will return to their standard distance in 2028 after the maximum length was shortened for next season.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91ea/live/bf1f64b0-cd41-11f1-ad2d-43fff3ff842f.jpg",
-     "url": "https://www.bbc.co.uk/sport/formula1/articles/c69wzvr14xlxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-21T11:41:56+00:00"
-    },
-    {
-     "title": "Gabby Thomas, Melissa Jefferson-Wooden and the doping tensions dividing sprinting",
-     "summary": "As women’s sprinting enters a golden era in the run-up to LA 2028, controversy surrounding a top coach threatens to overshadow the sport’s biggest stars When Olympic 200m champion Gabby Thomas came se…",
-     "image": "https://i.guim.co.uk/img/media/d61cecfd077307191f9a762ed58031078ee679d1/459_0_4007_3207/master/4007.jpg?width=140&quality=85&auto=format&fit=max&s=c4d2d49ffeaff404d75cb22809b1fc7c",
-     "url": "https://www.theguardian.com/sport/2026/oct/21/gabby-thomas-melissa-jefferson-wooden-dennis-mitchell-doping-sprinting",
-     "source": "Guardian Sport",
-     "published": "2026-10-21T09:00:04+00:00"
     },
     {
      "title": "Troy Aikman and Joe Buck: what next for the NFL’s $165m TV power couple as they head for a split?",
