@@ -1,24 +1,112 @@
 {
- "generated": "2026-10-22T18:02:26.198427+00:00",
+ "generated": "2026-10-22T20:12:20.334161+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
+    {
+     "title": "UK to relax post-2008 rules that hold City bosses accountable for wrongdoing",
+     "summary": "Regulators say removing ‘unnecessary burdens’ will save businesses about £2bn over 10 years The UK is watering down rules introduced in the aftermath of the financial crisis that were designed to hold…",
+     "image": "https://i.guim.co.uk/img/media/41e48586563d0b032c69c6d544b0a454a0bef097/335_0_3585_2869/master/3585.jpg?width=140&quality=85&auto=format&fit=max&s=7563e4975e8d7ed45465ea2a2cb341f0",
+     "url": "https://www.theguardian.com/business/2026/oct/22/uk-relax-post-2008-rules-hold-city-bosses-accountable-wrongdoing",
+     "source": "Guardian Business",
+     "published": "2026-10-22T20:00:49+00:00"
+    },
+    {
+     "title": "PHP爆漏洞多國網站急搶修　駭客嘗試攻擊數百萬次",
+     "summary": "支撐網際網路運作的程式語言PHP爆嚴重漏洞，全球企業與政府今天加緊腳步搶修，多國銀行、航空、鐵路與政府網站緊急暫停服務，駭客已嘗試攻擊達數百萬次。 路透社報導，PHP與HTML、Pytho...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/life/breakingnews/5615820",
+     "source": "自由時報",
+     "published": "2026-10-22T20:00:06+00:00"
+    },
+    {
+     "title": "川普告BBC誹謗求償百億美元　法官限期12/11前宣誓作證",
+     "summary": "美國一名法官今天下令，總統川普必須在12月11日前，就他控告英國廣播公司（BBC）誹謗、求償100億美元（約新台幣3260.6億元）的訴訟案宣誓作證。 法新社報導，邁阿密法官黎特（Enjo...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5615819",
+     "source": "自由時報",
+     "published": "2026-10-22T20:00:06+00:00"
+    },
+    {
+     "title": "葉門叛軍襲沙烏地加劇中東供應疑慮　油價大漲",
+     "summary": "油價今天大漲，布倫特原油來到5個月來的高點，主因沙烏地阿拉伯遭到葉門叛軍「青年運動」（Houthi）攻擊，讓市場擔心來自這個能源出口要地的供應可能進一步中斷。 路透社報導，布倫特原油期貨上...…",
+     "image": "",
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5615818",
+     "source": "自由時報",
+     "published": "2026-10-22T19:45:04+00:00"
+    },
+    {
+     "title": "How the Turkiye-Libya deal is reshaping the Mediterranean",
+     "summary": "",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/how-the-turkiye-libya-deal-is-reshaping-the-mediterranean?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-22T19:35:18+00:00"
+    },
     {
      "title": "Elon Musk invests about $1 billion in Skydance",
      "summary": "David Ellison's father, billionaire and Oracle co-founder Larry Ellison, has a history with Musk.",
      "image": "",
      "url": "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
      "source": "CNBC Top News",
-     "published": "2026-10-22T18:02:05+00:00"
+     "published": "2026-10-22T19:34:46+00:00"
     },
     {
-     "title": "西藏那曲規模7強震至少2傷　中國逾2年來最強地震",
-     "summary": "中國地震台網中心表示，西藏北部那曲昨天晚間10時33分發生芮氏規模7.0地震，震源深度10公里，已知至少2人受傷，這是中國自2024年1月以來最強烈的地震。 路透社報導，中國官媒指出，地方...…",
+     "title": "Trump defends Ramaswamy ad with Acton's estranged mom after bipartisan criticism",
+     "summary": "Ohio Gov. Mike DeWine said GOP gubernatorial nominee Vivek Ramaswamy should remove the ad featuring the mother of Democratic nominee Amy Acton.",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5615808",
+     "url": "https://www.cnbc.com/2026/10/22/trump-ramaswamy-ad-acton-mother-ad.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-22T19:34:18+00:00"
+    },
+    {
+     "title": "防範美以聯手攻擊 伊朗揚言採「零紅線」戰略 攻擊中東7國油網設施",
+     "summary": "伊朗最高國家安全委員會秘書雷札伊（Mohsen Rezaei）警告，如果美國與以色列發動新一波攻擊，伊朗將打擊波斯灣地區多達7個國家的石油設施、海底電纜、資料中心與人工智慧（...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5615816",
      "source": "自由時報",
-     "published": "2026-10-22T17:54:03+00:00"
+     "published": "2026-10-22T19:32:21+00:00"
+    },
+    {
+     "title": "White evangelical support for Trump slips but still strong as midterms near",
+     "summary": "Poll finds white evangelicals still outpace other demographic groups in supporting Trump, as he rallies right-wing base.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/22/white-evangelical-support-for-trump-slips-but-still-strong-as-midterms-near?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-22T19:31:47+00:00"
+    },
+    {
+     "title": "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries",
+     "summary": "Health officials are investigating where Nigeria's first patient, confirmed this week, was infected.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/22/who-warns-more-complex-ebola-outbreak-now-present-in-3-african-countries?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-22T19:31:27+00:00"
+    },
+    {
+     "title": "Moderna shares plunge after leak of cancer vaccine data despite positive results",
+     "summary": "Moderna's stock fell even though the full data, released later Thursday, appeared positive based on Wall Street expectations ahead of the release.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-22T19:26:33+00:00"
+    },
+    {
+     "title": "Federal judge restricts DHS field operations looking for noncitizen voters",
+     "summary": "The judge found the department's field operations to identify noncitizens who voted likely violated the Voting Rights Act, which bars voter intimidation.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x2986+0+0/resize/4800x2986!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F95%2F62%2F92593bf2437cb45b7aa4fd9393d3%2Fgettyimages-2278767542.jpg",
+     "url": "https://www.npr.org/2026/10/22/nx-s1-6012682/judge-dhs-noncitizen-voting-operations",
+     "source": "NPR News",
+     "published": "2026-10-22T19:16:20+00:00"
+    },
+    {
+     "title": "Time just changed forever",
+     "summary": "For more than 50 years, a group of timekeepers has been quietly sneaking extra seconds onto the world's clocks.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/time-just-changed-forever?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-22T19:00:07+00:00"
     },
     {
      "title": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
@@ -27,54 +115,6 @@
      "url": "https://www.cnbc.com/2026/10/22/bill-ackman-talks-meta-and-markets-with-cnbc.html",
      "source": "CNBC Top News",
      "published": "2026-10-22T17:53:08+00:00"
-    },
-    {
-     "title": "Meta stock sinks 6% as AI spend pushes free cash flow negative",
-     "summary": "Prices for the social media giant's five-year credit default swaps are reaching all-time highs as investors signal growing credit concerns.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-22T17:48:43+00:00"
-    },
-    {
-     "title": "Foreign national beaten to death by a mob in South Africa",
-     "summary": "Police say a 50-person mob in Durban killed a man amid a wave of anti-migrant marches.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/22/foreign-national-beaten-to-death-by-a-mob-in-south-africa?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-22T17:35:44+00:00"
-    },
-    {
-     "title": "澤倫斯基：與川普無私怨　警告放寬制裁恐壯大普丁",
-     "summary": "美烏關係近來急轉直下，烏克蘭總統澤倫斯基今天接受CNN專訪時態度軟化，強調他與美國總統川普之間「沒有私人恩怨」，但警告解除對俄制裁，只會讓俄國總統普丁「更強大」。 美國有線電視新聞網（CN...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5615802",
-     "source": "自由時報",
-     "published": "2026-10-22T17:30:06+00:00"
-    },
-    {
-     "title": "Sri Lanka beat England to overcome Harry Brook hitting fastest 200 in ODIs",
-     "summary": "England captain Brook hits 202 in record ODI time, but Sri Lanka hit a six to win by two wickets with one ball to spare.",
-     "image": "",
-     "url": "https://www.aljazeera.com/sports/2026/10/22/sri-lanka-beat-england-to-overcome-harry-brook-hitting-fastest-200-in-odis?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-22T17:28:55+00:00"
-    },
-    {
-     "title": "Jerusalem Daily: Israeli soldier abusing cat goes viral",
-     "summary": "A video of an Israeli soldier throwing a cat over a fence has gone viral online.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/jerusalem-daily-israeli-soldier-abusing-cat-goes-viral?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-22T17:25:29+00:00"
-    },
-    {
-     "title": "賭放颱風假再度敗給台東！「烤雞特攻隊」又要送百隻烤雞了",
-     "summary": "去年「鳳凰颱風」來襲，烤雞業者「烤雞特攻隊」豪賭「明天放假」，結果南投、台東照常上班上課，業者願賭服輸，乖乖到台東送100隻烤雞，業者今年再賭一次，結果又敗給台東。業者在po文...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5615799",
-     "source": "自由時報",
-     "published": "2026-10-22T17:16:24+00:00"
     },
     {
      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
@@ -87,50 +127,10 @@
     {
      "title": "Race to update services' computer systems after cyber-security flaw found",
      "summary": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4a1/live/7169fdc0-ce3b-11f1-9a39-31b474234113.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20cc/live/75f1ced0-ce46-11f1-9b4c-4dd353c15d43.jpg",
      "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
      "published": "2026-10-22T17:12:51+00:00"
-    },
-    {
-     "title": "郭雪芙驚傳日本遇害！死訊瘋傳衝熱搜 本人急現身3字報平安",
-     "summary": "日本富士河口湖日前發生驚悚命案，38歲台籍井姓女子遭割頸陳屍飯店，涉案的27歲同行楊姓女團員已被日警逮捕，全案朝殺人罪擴大偵辦。然而這起悲劇傳到中國社群，卻因「AI機翻大翻車」...…",
-     "image": "",
-     "url": "https://ent.ltn.com.tw/news/breakingnews/5615801",
-     "source": "自由時報",
-     "published": "2026-10-22T17:06:30+00:00"
-    },
-    {
-     "title": "Race to rearm: Telford gun hall brings tank barrel production back to the UK",
-     "summary": "Defence secretary says Britain must manufacture at scale as Germany’s Rheinmetall opens Midlands factory For the last 20 years, Britain was unable to put a barrel on its tanks without buying from abro…",
-     "image": "https://i.guim.co.uk/img/media/ccadcadb795d2525bb230602bdb274ef632f5f9a/648_0_6990_5592/master/6990.jpg?width=140&quality=85&auto=format&fit=max&s=621c64037a0df79fb7569b006f38c068",
-     "url": "https://www.theguardian.com/business/2026/oct/22/telford-gun-hall-tank-barrel-production-back-uk-rheinmetall",
-     "source": "Guardian Business",
-     "published": "2026-10-22T16:59:54+00:00"
-    },
-    {
-     "title": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
-     "summary": "Governments or companies looking for an alternative to SpaceX's Starlink are faced with few options, as Amazon, Eutelsat and others are far behind.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-22T16:54:26+00:00"
-    },
-    {
-     "title": "Websites across world hit by millions of attempts to exploit PHP code flaw",
-     "summary": "Problem in language that underpins 70% of sites has led governments and companies to pull sites offline to patch fault Tell us: have you been affected by the PHP code flaw? What is PHP, and how bad is…",
-     "image": "https://i.guim.co.uk/img/media/e240560dbdb0dfbd8f0e19f35e6bf6650b057f87/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=e02249e5bef8e34df304c9e91d27d0ec",
-     "url": "https://www.theguardian.com/technology/2026/oct/22/websites-across-world-hit-by-millions-of-attempts-to-exploit-php-code-flaw",
-     "source": "Guardian Business",
-     "published": "2026-10-22T16:42:54+00:00"
-    },
-    {
-     "title": "Albanian lawmakers scuffle in parliament as street protests continue",
-     "summary": "Albanian lawmakers have scuffled in parliament, throwing objects at one another and ripping microphones from desks.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/aje-onl-nf_albanian-lawmakers-scuffle-in-parliament-221026?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-22T16:35:12+00:00"
     }
    ]
   },
@@ -138,68 +138,76 @@
    "label": "AI",
    "items": [
     {
-     "title": "Meta shocked by $25B fine after N.M. refused to join multistate settlement",
-     "summary": "Meta will appeal a ruling imposing the largest fine Mark Zuckerberg has ever seen.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1968308632-500x500.jpg",
-     "url": "https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine/",
+     "title": "Meet the 2026 winner of Nikon's Small World photomicrography contest",
+     "summary": "Ole Bielfeldt of Germany captured a microscopic view of an inkjet printer depositing ink onto paper.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/nikonTOP-500x500.jpg",
+     "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
      "source": "Ars Technica",
-     "published": "2026-10-22T17:04:31+00:00"
+     "published": "2026-10-22T19:34:40+00:00"
     },
     {
-     "title": "US-backed vaccine trial on babies canceled after international outcry",
-     "summary": "The decried trial was canceled last week before police seized vaccine doses.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-629400903-500x500.jpg",
-     "url": "https://arstechnica.com/health/2026/10/unethical-vaccine-trial-on-babies-backed-by-rfk-jr-is-formally-canceled/",
+     "title": "\"Disillusioned\" MAHA leader quits as Trump admin's food agenda spoils: Report",
+     "summary": "The departure comes amid turmoil in Kennedy's Make America Healthy Again movement.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2210915866-500x500.jpg",
+     "url": "https://arstechnica.com/health/2026/10/disillusioned-maha-leader-quits-as-trump-admins-food-agenda-spoils-report/",
      "source": "Ars Technica",
-     "published": "2026-10-22T16:37:00+00:00"
+     "published": "2026-10-22T19:04:06+00:00"
     },
     {
-     "title": "This emulator reimagines Nintendo’s Virtual Boy with a full color display",
-     "summary": "Tile-based color palettes go way beyond the four shades of red on original hardware.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/mtcolor-500x378.png",
-     "url": "https://arstechnica.com/gaming/2026/10/this-emulator-reimagines-nintendos-virtual-boy-with-a-full-color-display/",
+     "title": "Electric or gas? BMW goes both ways with new 2027 X5 and iX5.",
+     "summary": "460 kW charging and 450 miles of range are among the reasons the EV is the one to get.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/BMW-iX5-60-xDrive-Tanzanite-Blue_43-500x500.jpg",
+     "url": "https://arstechnica.com/cars/2026/10/electric-or-gas-bmw-goes-both-ways-with-new-2027-x5-and-ix5/",
      "source": "Ars Technica",
-     "published": "2026-10-22T15:59:40+00:00"
+     "published": "2026-10-22T19:01:23+00:00"
+    },
+    {
+     "title": "Samsung all but confirms iPhone Duo is goosing Galaxy Z8 sales",
+     "summary": "Searches for Samsung foldables just happened to skyrocket following iPhone Duo unveiling.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Galaxy-Z8-1-500x500-1792692078.jpg",
+     "url": "https://arstechnica.com/gadgets/2026/10/samsung-all-but-confirms-iphone-duo-is-goosing-galaxy-z8-sales/",
+     "source": "Ars Technica",
+     "published": "2026-10-22T18:49:14+00:00"
+    },
+    {
+     "title": "The Foundations of Scalable AI",
+     "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future…",
+     "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Wang_forweb.png",
+     "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+     "source": "MIT Tech Review AI",
+     "published": "2026-10-22T18:48:04+00:00"
+    },
+    {
+     "title": "Arc browser is sunsetting on December 22, 2026",
+     "summary": "Article URL: https://arc.net/ Comments URL: https://news.ycombinator.com/item?id=50197601 Points: 159 # Comments: 121",
+     "image": "",
+     "url": "https://arc.net/",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-22T16:27:47+00:00"
     },
     {
      "title": "Google cleared 300 hectares of Finnish forest",
-     "summary": "Article URL: https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html Comments URL: https://news.ycombinator.com/item?id=50196837 Points: 169 # Comments: 104",
+     "summary": "Article URL: https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html Comments URL: https://news.ycombinator.com/item?id=50196837 Points: 288 # Comments: 194",
      "image": "",
      "url": "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html",
      "source": "Hacker News Front Page",
      "published": "2026-10-22T15:32:46+00:00"
     },
     {
-     "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
-     "summary": "Hackers were already probing the bug before defenders were told it existed.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/internet-routing-500x500.jpeg",
-     "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
-     "source": "Ars Technica",
-     "published": "2026-10-22T15:25:02+00:00"
+     "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+     "summary": "Article URL: https://github.com/oosexgang/hackios-xnu-kernel Comments URL: https://news.ycombinator.com/item?id=50196718 Points: 211 # Comments: 70",
+     "image": "",
+     "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-22T15:26:22+00:00"
     },
     {
      "title": "Quad9 (DNS Resolver) to Exit France",
-     "summary": "Article URL: https://quad9.net/news/blog/au-revoir-france/ Comments URL: https://news.ycombinator.com/item?id=50195959 Points: 388 # Comments: 131",
+     "summary": "Article URL: https://quad9.net/news/blog/au-revoir-france/ Comments URL: https://news.ycombinator.com/item?id=50195959 Points: 632 # Comments: 231",
      "image": "",
      "url": "https://quad9.net/news/blog/au-revoir-france/",
      "source": "Hacker News Front Page",
      "published": "2026-10-22T14:32:38+00:00"
-    },
-    {
-     "title": "What's Getting Pwned",
-     "summary": "Article URL: https://pwn.watch/ Comments URL: https://news.ycombinator.com/item?id=50195543 Points: 192 # Comments: 111",
-     "image": "",
-     "url": "https://pwn.watch/",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-22T14:08:12+00:00"
-    },
-    {
-     "title": "eMudhra to exit global SSL/TLS certificate business",
-     "summary": "Article URL: https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business Comments URL: https://news.ycombinator.com/item?id=50195110 Points: 601 # Comments: 449",
-     "image": "",
-     "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-22T13:33:39+00:00"
     },
     {
      "title": "黃仁勳籲歐洲加快腳步、別過度依賴監管，盼德國以物理 AI 突圍",
@@ -256,14 +264,6 @@
      "url": "https://arxiv.org/abs/2610.28686",
      "source": "arXiv cs.AI",
      "published": "2026-10-22T04:00:00+00:00"
-    },
-    {
-     "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
-     "summary": "arXiv:2610.28698v1 Announce Type: new Abstract: Scaling data, diversity and model capacity has improved embodied learning in physical environments, where diverse experiences remain grounded in shared…",
-     "image": "",
-     "url": "https://arxiv.org/abs/2610.28698",
-     "source": "arXiv cs.AI",
-     "published": "2026-10-22T04:00:00+00:00"
     }
    ]
   },
@@ -271,12 +271,52 @@
    "label": "運動",
    "items": [
     {
-     "title": "Sri Lanka make 430 to beat England after Brook's 202",
-     "summary": "Harry Brook’s first double century by an England batter in a one-day international is not enough to prevent his team being stunned by Sri Lanka, who pull off a remarkable chase of 430 in Rawalpindi.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbc9/live/f1e197e0-ce38-11f1-a64c-550be9e3c66b.jpg",
-     "url": "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo?at_medium=RSS&at_campaign=rss",
+     "title": "Bournemouth v Milan, Celtic v Celta Vigo, and more: Europa League – live",
+     "summary": "⚽ Updates from 5.45pm BST kick-offs, then the 8pm games ⚽ Live scores | Table | Read Football Daily | And mail Daniel That took 78 seconds – and remember, Sunderland scored at 90+3 of 90+5 in their la…",
+     "image": "https://i.guim.co.uk/img/media/5cdbfff9f84ac853d8bb2d179632db60ed86d7d8/408_115_1397_1117/master/1397.jpg?width=140&quality=85&auto=format&fit=max&s=f3d030c582981f37c3be6b3418f6cc21",
+     "url": "https://www.theguardian.com/football/live/2026/oct/22/lech-poznan-sunderland-juventus-rennes-bournemouth-milan-crystal-palace-celtic-europa-league-live",
+     "source": "Guardian Sport",
+     "published": "2026-10-22T20:08:46+00:00"
+    },
+    {
+     "title": "Paul George draws NBA season's first fine for flopping after league reviews Celtics-Pistons game",
+     "summary": "During the offseason, the NBA said it would emphasize 'secondary, theatrical and exaggerated movement' with flopping fines for the 2026-27 season.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/article/paul-george-draws-nba-seasons-first-fine-for-flopping-after-league-reviews-celtics-pistons-game-200222934.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-22T20:02:22+00:00"
+    },
+    {
+     "title": "Knicks fans name first-born son Knickson Fyve in honor of team's NBA title run",
+     "summary": "The couple had names picked out before the Knicks beat the Spurs in the NBA Finals.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/article/knicks-fans-name-first-born-son-knickson-fyve-in-honor-of-teams-nba-title-run-191415663.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-22T19:14:15+00:00"
+    },
+    {
+     "title": "Next in line? Main contenders for the Manchester United hot seat",
+     "summary": "With Michael Carrick’s future at Old Trafford a matter of some debate, we examine the credentials of those who could succeed him The German was of interest to Manchester City while Omar Berrada was pa…",
+     "image": "https://i.guim.co.uk/img/media/9308511d12b1914f056c87aaf376a0aadd1c7bbb/773_231_4351_3481/master/4351.jpg?width=140&quality=85&auto=format&fit=max&s=829cd5841173e2c95455575192c86b41",
+     "url": "https://www.theguardian.com/football/2026/oct/22/contenders-manchester-united-next-manager-michael-carrick",
+     "source": "Guardian Sport",
+     "published": "2026-10-22T18:32:32+00:00"
+    },
+    {
+     "title": "Brook underlines status as world's best all-format batter in remarkable defeat",
+     "summary": "Once the disappointment of defeat dissipates, Harry Brook can reflect on another starring role with the bat which underlines his status as the world's best all-format batter, says Stephan Shemilt.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f1b/live/aad157e0-ce39-11f1-a86f-f78305ec9987.jpg",
+     "url": "https://www.bbc.co.uk/sport/cricket/articles/cmd93kw9q5v3o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
-     "published": "2026-10-22T17:31:42+00:00"
+     "published": "2026-10-22T17:52:45+00:00"
+    },
+    {
+     "title": "With The Truth in the building, Celtics give honest perspective on loss to Pistons",
+     "summary": "There's nothing like having a champ in the building to give you a little perspective.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/d9104f81b185b2369c434762e6dd8330.jpg",
+     "url": "https://sports.yahoo.com/articles/truth-building-celtics-honest-perspective-173808242.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-22T17:38:08+00:00"
     },
     {
      "title": "Ant erupts, Lakers roll, Ty Jerome shines + more NBA season opener thoughts with Amin Elhassan",
@@ -287,28 +327,12 @@
      "published": "2026-10-22T17:26:03+00:00"
     },
     {
-     "title": "Haiti move Nations League home clash with USA to Miami amid gang violence crisis",
-     "summary": "Concacaf approves exceptional hosting arrangement Haiti to face US in South Florida on 14 November Miami’s Haitian community offers home advantage On Thursday, Concacaf announced that it had approved…",
-     "image": "https://i.guim.co.uk/img/media/9ed6574d197d5ddb0c56d75225db022788ac92b3/225_0_3121_2497/master/3121.jpg?width=140&quality=85&auto=format&fit=max&s=3bd38f4b20c68307f11465e6eb60250d",
-     "url": "https://www.theguardian.com/football/2026/oct/22/haiti-usa-concacaf-nations-league-miami-home-game-gang-violence",
-     "source": "Guardian Sport",
-     "published": "2026-10-22T17:04:21+00:00"
-    },
-    {
-     "title": "Sherrock one of 24 'amateurs' taking on Littler",
-     "summary": "Women's world number three Fallon Sherrock is named among the 24 contestants bidding to beat Luke Littler in a new Netflix special.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92d9/live/7cdefb60-ce36-11f1-a86f-f78305ec9987.jpg",
-     "url": "https://www.bbc.co.uk/sport/darts/articles/c95ynp3dp8pvo?at_medium=RSS&at_campaign=rss",
+     "title": "What next for Australia after chastening defeat by South Africa?",
+     "summary": "Problems mounting up for Australia after their humbling against South Africa in second Test.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/055c/live/5a880f40-ce39-11f1-a64c-550be9e3c66b.jpg",
+     "url": "https://www.bbc.co.uk/sport/cricket/articles/cmg473p9vz6xo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
-     "published": "2026-10-22T16:45:14+00:00"
-    },
-    {
-     "title": "LaMelo Ball got away with the most blatant travel you will ever see",
-     "summary": "Right in front of the official. The NBA really is back.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/lamelo-ball-got-away-most-164317235.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-22T16:43:17+00:00"
+     "published": "2026-10-22T17:25:22+00:00"
     },
     {
      "title": "Rookie Lendeborg jaws at ‘weak ass’ Dončić and admits he didn’t watch much NBA",
@@ -317,22 +341,6 @@
      "url": "https://www.theguardian.com/sport/2026/oct/22/rookie-lendeborg-jaws-at-weak-ass-doncic-and-admits-he-didnt-watch-much-nba",
      "source": "Guardian Sport",
      "published": "2026-10-22T16:28:59+00:00"
-    },
-    {
-     "title": "Donovan Mitchell wants to be in Cleveland ‘forever’",
-     "summary": "Mitchell doesn’t plan on going anywhere.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/51e34971f05622eb7640294e8b7e903b.jpg",
-     "url": "https://sports.yahoo.com/articles/donovan-mitchell-wants-cleveland-forever-162637829.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-22T16:26:37+00:00"
-    },
-    {
-     "title": "Yaxel Lendeborg continues beef with Luka Doncic postgame: 'I lost all respect' for him",
-     "summary": "\"I had so much respect for him. Gone, man. Gone.\"",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/yaxel-lendeborg-continues-beef-luka-162449261.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-22T16:24:49+00:00"
     },
     {
      "title": "The rising French star whose dad won Rugby World Cup with England",
@@ -381,14 +389,6 @@
      "url": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-get-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-oct-22/",
      "source": "CBS Sports NBA",
      "published": "2026-10-22T14:26:29+00:00"
-    },
-    {
-     "title": "Welcome to the trap: swaggering Atlanta Dream turn WNBA finals into a hometown spectacle | Andrew Lawrence",
-     "summary": "Atlanta’s wounded sports fans know better than to get carried away. But the Dream’s first WNBA finals game in 13 years showed this might finally be a team worth falling for The Atlanta Dream were exac…",
-     "image": "https://i.guim.co.uk/img/media/51ad0cfc94b7a0dde37e1b86f8233d954508d31f/486_0_4843_3877/master/4843.jpg?width=140&quality=85&auto=format&fit=max&s=1c5e94b6de6b7910187aae3ab7a3e41a",
-     "url": "https://www.theguardian.com/sport/2026/oct/22/atlanta-dream-golden-state-valkyries-wnba-finals-game-three-home-court-advantage",
-     "source": "Guardian Sport",
-     "published": "2026-10-22T09:00:59+00:00"
     },
     {
      "title": "Super Bowl contenders: are the NFL’s unbeaten teams as perfect as they seem?",
