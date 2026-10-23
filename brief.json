@@ -1,136 +1,136 @@
 {
- "generated": "2026-10-23T15:11:41.443491+00:00",
+ "generated": "2026-10-23T17:53:46.110456+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "Dow tumbles more than 500 points as Middle East tensions rise, selling broadens beyond tech: Live updates",
-     "summary": "Stocks fell on Friday as Middle East tensions rose.",
+     "title": "Dow tumbles 500 points as Middle East tensions rise, selling broadens beyond tech: Live updates",
+     "summary": "The Dow Industrials fell on Friday as Middle East tensions rose.",
      "image": "",
      "url": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html",
      "source": "CNBC Top News",
-     "published": "2026-10-23T15:09:03+00:00"
+     "published": "2026-10-23T17:48:30+00:00"
     },
     {
-     "title": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says",
-     "summary": "Ukraine and Russia have not confirmed the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+     "title": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses",
+     "summary": "There are two Dan Sullivans on the ballot in the Senate race in Alaska. The DOJ says that fact could help Democratic nominee Mary Peltola defeat both of them.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-23T17:42:30+00:00"
+    },
+    {
+     "title": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
+     "summary": "Since last week, Ukraine has reported restrictions on a version of Starshield, a version of SpaceX's Starlink, hampering its military operations against Russia.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-23T17:41:25+00:00"
+    },
+    {
+     "title": "A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that",
+     "summary": "Trump's most recent rendering of East Potomac Park overtakes the D.C. peninsula with a sprawling golf course, without the grassy areas and road beloved by locals. That's prompted grassroots pushback.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7981x5321+0+0/resize/7981x5321!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa8%2F9e%2Fa7feccc04514986c699822c53319%2Fgettyimages-2297967883-1.jpg",
+     "url": "https://www.npr.org/2026/10/23/nx-s1-6010488/east-potomac-trump-golf-hains-point",
+     "source": "NPR News",
+     "published": "2026-10-23T17:35:14+00:00"
+    },
+    {
+     "title": "US consumer sentiment hits a near-record low before midterm elections",
+     "summary": "Independent voters’ economic anxieties highlight political implications of plummeting US consumer sentiment.",
+     "image": "",
+     "url": "https://www.aljazeera.com/economy/2026/10/23/us-consumer-sentiment-hits-a-near-record-low-before-midterm-elections?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-23T17:26:21+00:00"
+    },
+    {
+     "title": "Romania blames Russia after drone sinks ship in the Black Sea",
+     "summary": "One sailor killed and three others missing after Comoros-flagged Khoryv hit near Romanian waters.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/23/romania-blames-russia-after-drone-sinks-ship-in-the-black-sea?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-23T17:26:13+00:00"
+    },
+    {
+     "title": "油價勁揚和企業財報欠佳　歐股收黑",
+     "summary": "受油價勁揚，以及古馳（Gucci）母公司開雲集團（Kering）與瑞典富豪汽車（Volvo Cars）財報表現欠佳等影響，歐洲股市今天收黑。 倫敦FTSE 100指數下跌34.67點或0....…",
+     "image": "",
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5616919",
+     "source": "自由時報",
+     "published": "2026-10-23T17:21:04+00:00"
+    },
+    {
+     "title": "Why Chinese families are rushing to buy gold",
+     "summary": "China is experiencing a gold rush as families buy more of it, but not necessarily to wear as jewellery.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-chinese-families-are-rushing-to-buy-gold?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-23T17:20:22+00:00"
+    },
+    {
+     "title": "氣象署發布豪雨特報　宜蘭縣山區防局部大豪雨或超大豪雨",
+     "summary": "中央氣象署發布豪雨特報，第29號颱風及其外圍環流影響，今(24)日宜蘭縣山區有局部大豪雨或超大豪雨，臺北市山區、新北市山區、桃園市山區、新竹縣山區、苗栗縣山區有局部豪雨或大豪雨，基隆市地區、...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/life/breakingnews/5616918",
+     "source": "自由時報",
+     "published": "2026-10-23T17:06:03+00:00"
+    },
+    {
+     "title": "Many feared trapped after Kenya building collapse",
+     "summary": "Many people are feared trapped after a multi-storey building collapsed in the Kenyan capital of Nairobi.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/many-feared-trapped-after-kenya-building-collapse?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-23T17:01:05+00:00"
+    },
+    {
+     "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+     "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7099/live/5602f2d0-b770-11f1-a7b2-f3bdba1cd194.jpg",
      "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-10-23T15:06:27+00:00"
+     "published": "2026-10-23T16:59:51+00:00"
     },
     {
-     "title": "跑第一！台中明停班停課  新光三越中港店宣布正常營業",
-     "summary": "颱風薔琵來襲，台中市政府宣布明（24日）持續停班停課，新光三越中港店表示明天正常營業，10點30分開館，而其他百貨公司都表示，明天上午8點左右會公布。 薔琵颱風來襲，帶來...…",
+     "title": "AI's 'Black October': Critical PHP flaws set off global security scramble",
+     "summary": "Governments and businesses around the globe are scrambling to contain the fallout after the PHP vulnerabilities leaked online.",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5616895",
-     "source": "自由時報",
-     "published": "2026-10-23T15:06:23+00:00"
-    },
-    {
-     "title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
-     "summary": "Amex, which reported third-quarter results earlier Friday, is taking a $336 million restructuring charge in the quarter, CEO Stephen Squeri said Friday.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
+     "url": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html",
      "source": "CNBC Top News",
-     "published": "2026-10-23T15:04:33+00:00"
+     "published": "2026-10-23T16:55:37+00:00"
     },
     {
-     "title": "薔琵今晚最接近！北部、東北部狂風暴雨 明天下半天才趨緩",
-     "summary": "中颱薔琵今天深夜10點中心位置在在宜蘭的東方約70公里處，今晚到週六上午從東北近海通過，風雨最劇，北部東北部防豪雨以上、中部花蓮局部大雨至豪雨，北台灣天氣涼、東部防焚風3...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5616473",
-     "source": "自由時報",
-     "published": "2026-10-23T15:01:39+00:00"
-    },
-    {
-     "title": "Telegraph cuts up to 100 jobs as new owner promises to turn paper into ‘AI-powered’ global business",
-     "summary": "Redundancies come after paper was bought in June by European media group Axel Springer The new owners of the Daily Telegraph have made large numbers of staff redundant, telling them the title will be…",
-     "image": "https://i.guim.co.uk/img/media/623466f9bca5a6a17a3d2b0623131f14a946c127/307_0_3083_2467/master/3083.jpg?width=140&quality=85&auto=format&fit=max&s=4f52d89ccc231ff0f93ef7e18456444c",
-     "url": "https://www.theguardian.com/media/2026/oct/23/telegraph-job-cuts-axel-springer-owner-promises-turn-paper-ai-powered-global-business",
+     "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
+     "summary": "Brent crude increase follows Tehran threatening retaliatory attacks on Gulf refineries and datacentres Oil has hit its highest level in more than six months as fears of fresh escalation in the Middle…",
+     "image": "https://i.guim.co.uk/img/media/c0f302e34e0b51e7da8489af30c4f6d217592b8a/424_0_4520_3616/master/4520.jpg?width=140&quality=85&auto=format&fit=max&s=c61c7f835c77b6046500b5ffba86d418",
+     "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
      "source": "Guardian Business",
-     "published": "2026-10-23T15:01:27+00:00"
+     "published": "2026-10-23T16:48:28+00:00"
     },
     {
-     "title": "Six shot dead by gunmen at church funeral in Jordan, officials say",
-     "summary": "Another 28 people are injured in the southern Karak governorate, and a manhunt is now under way.",
+     "title": "11月大贏家出爐！小孟老師點名「4生肖」連呼吸都在進帳",
+     "summary": "〔娛樂新聞／綜合報導〕颱風假再爽，也比不上戶頭直接多一個零，來得開心！薔琵颱風逼近，當多數人還在為放假小確幸慶幸時，「這群人」就算在家耍廢追劇、躺平補眠，鈔票都像颱風天颳大風一樣硬往口袋裡灌。 ...…",
+     "image": "",
+     "url": "https://ent.ltn.com.tw/news/breakingnews/5616916",
+     "source": "自由時報",
+     "published": "2026-10-23T16:38:07+00:00"
+    },
+    {
+     "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+     "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd9e/live/bb37b200-cee8-11f1-b441-2b33b063138f.jpg",
      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-10-23T15:00:27+00:00"
+     "published": "2026-10-23T16:33:11+00:00"
     },
     {
-     "title": "金門縣長競選服務處成立 陳玉珍喊「改變金門『5』夠力」",
-     "summary": "國民黨金門縣長候選人陳玉珍競選服務處今天成立，她說，金門的未來需要改變，從事24年選民服務的她「已經準備好」，並以剛抽中的「5號」籤強調「改變金門『5』夠力（有夠力）」，希望鄉...…",
+     "title": "美推新法強化審查對中投資 涵蓋生技、AI、超級運算等領域",
+     "summary": "《美國廣播公司》（ABC）報導，美國財政部22日公布名為「全面對外投資國家安全法」（COINS Act）的新草案，旨在限制美國在超級運算、人工智慧（AI）等高科技領域對中...…",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5616885",
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5616915",
      "source": "自由時報",
-     "published": "2026-10-23T15:00:08+00:00"
-    },
-    {
-     "title": "颱風天可以逛百貨了！新光三越、京站、SOGO明天延後營業",
-     "summary": "受薔琵颱風影響，今日全台多數百貨公司暫停營業一天，明日百貨公司恢復營業，開門時間往後延，新光三越宣布明日桃園以北共9家分店（含台北南西店、台北信義新天地A4／A8／A9／...…",
-     "image": "",
-     "url": "https://ec.ltn.com.tw/article/breakingnews/5616892",
-     "source": "自由時報",
-     "published": "2026-10-23T14:56:17+00:00"
-    },
-    {
-     "title": "What to know as Brazil prepares for tense presidential run-off",
-     "summary": "Polls show leftist incumbent Lula closing gap on right-wing rival Flavio Bolsonaro ahead of second round of voting.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/23/what-to-know-as-brazil-prepares-for-tense-presidential-run-off?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-23T14:56:05+00:00"
-    },
-    {
-     "title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
-     "summary": "Airlines are reporting fewer people flew in the third quarter as airfare surged on fuel costs, but executives say travelers are mostly swallowing higher fares.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-23T14:55:36+00:00"
-    },
-    {
-     "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
-     "summary": "The two attackers were shot dead after a gun battle outside Hebron, four days before Israel's general election.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a095/live/c39c9a30-cec7-11f1-b9e0-e5f0da03dc7f.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-23T14:45:43+00:00"
-    },
-    {
-     "title": "Texas Senate race: New Talarico ad rips Elon Musk 'dark money' push",
-     "summary": "James Talarico hit back at Elon Musk's attacks and spending in a new ad by the Democratic nominee for U.S. Senate in Texas.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/23/james-talarico-campaign-ad-elon-musk-texas-senate-election.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-23T14:34:37+00:00"
-    },
-    {
-     "title": "Conte dismisses reports of Man United takeover with Carrick’s job uncertain",
-     "summary": "Ex-Chelsea boss Antonio Conte denies Manchester United link, says reports he demanded full control of club 'unfounded'.",
-     "image": "",
-     "url": "https://www.aljazeera.com/sports/2026/10/23/conte-dismisses-reports-of-man-united-takeover-with-carricks-job-uncertain?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-23T14:16:14+00:00"
-    },
-    {
-     "title": "Will a macaque eat a grape sitting on a pile of poo? A study on germaphobia",
-     "summary": "When an outbreak strikes, humans try to avoid germs. (Remember wiping off groceries at the start of the pandemic?) What about ... monkeys?",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4262x2842+0+0/resize/4262x2842!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd2%2Fdc%2F65aa0401457d8d413311a90b4d77%2Fmacaque-5355.jpg",
-     "url": "https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak",
-     "source": "NPR News",
-     "published": "2026-10-23T14:16:10+00:00"
-    },
-    {
-     "title": "Mississippi releases video of 1-year-old’s fatal police shooting",
-     "summary": "Mississippi released bodycam footage of the fatal shooting of 1-year-old Kohen Wiley.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/mississippi-releases-video-of-1-year-olds-fatal-police-shooting?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-23T14:15:52+00:00"
+     "published": "2026-10-23T16:25:19+00:00"
     }
    ]
   },
@@ -138,68 +138,76 @@
    "label": "AI",
    "items": [
     {
-     "title": "The reactor meant to showcase nuclear’s comeback keeps hitting problems",
-     "summary": "A contractor fell into a reactor cavity and a bundle of fuel rods almost fell over.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/palisades-nuke-500x500.jpg",
-     "url": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/",
+     "title": "Crows can evaluate visual info twice as fast as mammals",
+     "summary": "Birds' compact nervous system seems to help them handle tasks very quickly.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1472974929-500x500.jpg",
+     "url": "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/",
      "source": "Ars Technica",
-     "published": "2026-10-23T13:43:21+00:00"
+     "published": "2026-10-23T17:32:58+00:00"
     },
     {
-     "title": "Investor-owned utilities charge 23% more for electricity than public providers",
-     "summary": "Article URL: https://www.kadoa.com/energy-prices/insights/investor-owned-utilities Comments URL: https://news.ycombinator.com/item?id=50208837 Points: 300 # Comments: 207",
-     "image": "",
-     "url": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-23T13:41:10+00:00"
-    },
-    {
-     "title": "Phone Is About to Stop Being Yours: 70 Days Until Lockdown",
-     "summary": "Article URL: https://keepandroidopen.org/? Comments URL: https://news.ycombinator.com/item?id=50208558 Points: 392 # Comments: 228",
-     "image": "",
-     "url": "https://keepandroidopen.org/",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-23T13:19:42+00:00"
-    },
-    {
-     "title": "Swedish government offices to ban ChatGPT and Claude",
-     "summary": "Article URL: https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet Comments URL: https://news.ycombinator.com/item?id=50207405 Points: 229 # Comments: 86",
-     "image": "",
-     "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-23T11:39:54+00:00"
-    },
-    {
-     "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
-     "summary": "Ukraine has changed drone and war-fighting tech to reduce reliance on Starlink.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Starlink-terminal-in-Ukraine-500x500.jpg",
-     "url": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
+     "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+     "summary": "Company says foreign-made robotic vehicles are crucial to US chip production.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Intel-fab-interior-500x500.jpg",
+     "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
      "source": "Ars Technica",
-     "published": "2026-10-23T11:30:22+00:00"
+     "published": "2026-10-23T17:18:31+00:00"
     },
     {
-     "title": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees",
-     "summary": "Friday the 13th prequel series based on Jason’s mom drags at first, then hits a vein.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Crystal-Lake-via-Peacock-Matt-Infante-500x500.webp",
-     "url": "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/",
+     "title": "RFK Jr.’s vaccine injury clinic could damage NIH hospital, board warns",
+     "summary": "\"Trust is slow to build and quick to lose,\" board chair Jack Leslie said.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298718210-500x500.jpg",
+     "url": "https://arstechnica.com/health/2026/10/rfk-jr-s-vaccine-injury-clinic-could-damage-nih-hospital-board-warns/",
      "source": "Ars Technica",
-     "published": "2026-10-23T11:15:03+00:00"
+     "published": "2026-10-23T16:58:39+00:00"
     },
     {
-     "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
-     "summary": "\"We believe Canada should be able to reach orbit on its own terms.\"",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/reaction-dynamics-500x500.jpg",
-     "url": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/",
+     "title": "Knicks sent employees fake offer of championship rings in phishing test: Report",
+     "summary": "Corporate phishing tests are common, but this one was especially cruel.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/james-dolan-knicks-championship-500x500-1792772620.jpg",
+     "url": "https://arstechnica.com/tech-policy/2026/10/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test-report/",
      "source": "Ars Technica",
-     "published": "2026-10-23T11:00:57+00:00"
+     "published": "2026-10-23T16:51:59+00:00"
     },
     {
-     "title": "Dutch government had hacked into Jared Kushner's phone",
-     "summary": "Article URL: https://twitter.com/jaredkushner/status/2113376217415958767 Comments URL: https://news.ycombinator.com/item?id=50206914 Points: 243 # Comments: 156",
+     "title": "Today, we hacked what we'd set out to hack: the iPhone",
+     "summary": "Article URL: https://blog.calif.io/p/iphone Comments URL: https://news.ycombinator.com/item?id=50211474 Points: 294 # Comments: 153",
      "image": "",
-     "url": "https://twitter.com/jaredkushner/status/2113376217415958767",
+     "url": "https://blog.calif.io/p/iphone",
      "source": "Hacker News Front Page",
-     "published": "2026-10-23T10:41:32+00:00"
+     "published": "2026-10-23T16:21:50+00:00"
+    },
+    {
+     "title": "NASA 最新示警：北極海冰「冬夏雙減」結構脆化，2050 年前恐面臨夏季無冰危機",
+     "summary": "根據 NASA 與美國國家冰雪資料中心（NSIDC）的最新分析，北極海冰正遭遇嚴峻的氣候考驗，無論是冬季還是夏 […]",
+     "image": "",
+     "url": "https://technews.tw/2026/10/24/arctic-sea-ice-shrinking-crisis/",
+     "source": "科技新報 TechNews",
+     "published": "2026-10-23T16:00:58+00:00"
+    },
+    {
+     "title": "科幻場景成真，研究證實「雙太陽系統」有孕育穩定類地行星潛力",
+     "summary": "宇宙中，雙太陽系統長期以來僅存在於科幻小說與電影的想像之中。然而，這類在天空中擁有兩個恆星的奇特世界，是否真的 […]",
+     "image": "",
+     "url": "https://technews.tw/2026/10/24/could-a-two-sun-world-become-reality/",
+     "source": "科技新報 TechNews",
+     "published": "2026-10-23T16:00:47+00:00"
+    },
+    {
+     "title": "免吃藥開刀，研究證實客製化「微調走路角度」有效緩解膝關節痛",
+     "summary": "美國最新研究指出，膝退化性關節炎患者若能根據自身狀況，微調走路時的足部角度，即使不依賴藥物或手術，也能有效減輕 […]",
+     "image": "",
+     "url": "https://technews.tw/2026/10/24/changing-walking-angle-can-relieve-arthritis/",
+     "source": "科技新報 TechNews",
+     "published": "2026-10-23T16:00:04+00:00"
+    },
+    {
+     "title": "OpenSSL 4.1.0",
+     "summary": "Article URL: https://github.com/openssl/openssl/releases/tag/openssl-4.1.0 Comments URL: https://news.ycombinator.com/item?id=50208099 Points: 164 # Comments: 46",
+     "image": "",
+     "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-23T12:42:44+00:00"
     },
     {
      "title": "Space Bunny 身分揭曉！MiniMax 公開 M3.1 Flash 428B 模型權重",
@@ -208,30 +216,6 @@
      "url": "https://technews.tw/2026/10/23/minimax-m3-1-flash/",
      "source": "科技新報 TechNews",
      "published": "2026-10-23T09:40:47+00:00"
-    },
-    {
-     "title": "年初還被要求別碰，美國太空軍將向業界徵求地月空間現成技術",
-     "summary": "隨著中國加快月地空間布局，美國太空軍準備發布兩項資訊請求書（RFI），尋求可迅速投入任務的商用設備與 AI 軟 […]",
-     "image": "",
-     "url": "https://technews.tw/2026/10/23/us-space-force-is-requesting-techs-for-cislunar-space-operations/",
-     "source": "科技新報 TechNews",
-     "published": "2026-10-23T09:40:26+00:00"
-    },
-    {
-     "title": "日本免稅改「退款制」，11 月起先付含稅價出境再退稅",
-     "summary": "外國旅客在日本購物可享的消費稅免稅制度，將自 11 月 1 日起改變辦理方式，以防止免稅商品在日本國內遭轉售等 […]",
-     "image": "",
-     "url": "https://finance.technews.tw/2026/10/23/japan-tax-free-system-changes-refund-model-november-pay-tax-inclusive-departure-refund/",
-     "source": "科技新報 TechNews",
-     "published": "2026-10-23T09:30:44+00:00"
-    },
-    {
-     "title": "泓德能源財務長無保請回，啟動職務代理機制",
-     "summary": "泓德能源捲入花蓮光電開發案調查，司法程序出現最新進展。泓德能源今（23）日發布聲明指出，董事長謝源一、總經理周 […]",
-     "image": "",
-     "url": "https://technews.tw/2026/10/23/hongde-energy-cfo-released-without-bail-interim-management-mechanism-activated/",
-     "source": "科技新報 TechNews",
-     "published": "2026-10-23T08:52:11+00:00"
     },
     {
      "title": "The Cost of Saying Hello: An Empirical Study of Handshake Overhead in AI Agent Communication Protocols",
@@ -264,6 +248,22 @@
      "url": "https://arxiv.org/abs/2610.30173",
      "source": "arXiv cs.AI",
      "published": "2026-10-23T04:00:00+00:00"
+    },
+    {
+     "title": "The foolishness of \"natural language programming\" (1978)",
+     "summary": "Article URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html Comments URL: https://news.ycombinator.com/item?id=50203161 Points: 322 # Comments: 215",
+     "image": "",
+     "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-23T00:52:01+00:00"
+    },
+    {
+     "title": "Docker is weird",
+     "summary": "Article URL: https://codeandcake.dev/posts/2026-10-22-docker-is-weird Comments URL: https://news.ycombinator.com/item?id=50202681 Points: 763 # Comments: 307",
+     "image": "",
+     "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-22T23:45:56+00:00"
     }
    ]
   },
@@ -271,12 +271,100 @@
    "label": "運動",
    "items": [
     {
-     "title": "2026 NBA betting promos: Get over $3,000 in bonuses from top online betting apps, sportsbooks for Oct. 23",
-     "summary": "Top Opening Night NBA betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/23/10c6a346-2fdb-4070-9fcc-d01bea8a1e37/giannis-heat.jpg",
-     "url": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-get-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-oct-23/",
+     "title": "Dalton Knecht reportedly to sign two-way contract with Knicks",
+     "summary": "The Lakers waived the former No. 17 pick to create roster space, New York jumped in.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/dalton-knecht-reportedly-sign-two-170915936.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-23T17:09:15+00:00"
+    },
+    {
+     "title": "Dalton Knecht signs with Knicks, per report: Could ex-Lakers first-round pick find role in New York?",
+     "summary": "Knecht showed promise as a rookie with the Lakers but was waived last week",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/23/bf7b58a4-d779-4c63-9319-d7252ac6cb9c/untitled-design-31.png",
+     "url": "https://www.cbssports.com/nba/news/dalton-knecht-contract-new-york-knicks-los-angeles-lakers/",
      "source": "CBS Sports NBA",
-     "published": "2026-10-23T14:30:34+00:00"
+     "published": "2026-10-23T17:00:01+00:00"
+    },
+    {
+     "title": "Mountain West in the NBA: Only 5 alums suiting up ahead of 2026-27 season",
+     "summary": "While we are 10 days away from the start of the 2026-27 college basketball season, the new NBA season also tipped off this week. In past iterations of Mountain West in the NBA, we have detailed severa…",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/e35e8fc7602a7e07861ad99cff7b9288.jpg",
+     "url": "https://sports.yahoo.com/articles/mountain-west-nba-only-5-170000603.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-23T17:00:00+00:00"
+    },
+    {
+     "title": "Fantasy Basketball Weekend Streamers: Yves Missi, Bilal Coulibaly playing well as starters",
+     "summary": "Yves Missi and Bilal Coulibaly lead a group of 10 players to stream in fantasy basketball this weekend.",
+     "image": "https://media.zenfs.com/en/nbcsports.com/e585d8bc1e7f826cc120d3da653ab4d5.jpg",
+     "url": "https://sports.yahoo.com/articles/fantasy-basketball-weekend-streamers-yves-165900686.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-23T16:59:00+00:00"
+    },
+    {
+     "title": "Vincent Kompany taken to hospital after collapsing at Bayern training",
+     "summary": "Bayern Munich coach had been nursing a virus Coach ‘undergoing thorough examinations’, club say Vincent Kompany has been ⁠taken ⁠to ​hospital after the Bayern Munich coach felt unwell during training…",
+     "image": "https://i.guim.co.uk/img/media/b89cc314f06a405679c345d1a0b4720523d30c34/217_129_1724_1378/master/1724.jpg?width=140&quality=85&auto=format&fit=max&s=465938eac111ca3a61e6a019ce88c274",
+     "url": "https://www.theguardian.com/football/2026/oct/23/vincent-kompany-hospital-collapsing-bayern-munich-training",
+     "source": "Guardian Sport",
+     "published": "2026-10-23T16:50:53+00:00"
+    },
+    {
+     "title": "Connor Hellebuyck traded to New Jersey as Winnipeg Jets end bitter standoff with US Olympic hero",
+     "summary": "Three-time Vezina winner leaves Winnipeg after 11 years Devils send four players and two draft picks to Jets Olympic gold medalist joins US teammate Jack Hughes Connor Hellebuyck finally has a new hom…",
+     "image": "https://i.guim.co.uk/img/media/246b3f525d5386d009e83a2288184aefc84cb405/455_0_4550_3640/master/4550.jpg?width=140&quality=85&auto=format&fit=max&s=6a25dd2f1698a31df84e19a1b211b613",
+     "url": "https://www.theguardian.com/sport/2026/oct/23/connor-hellebuyck-new-jersey-devils-winnipeg-jets-trade-nhl",
+     "source": "Guardian Sport",
+     "published": "2026-10-23T16:47:15+00:00"
+    },
+    {
+     "title": "Kompany taken to hospital after collapsing at training",
+     "summary": "Bayern Munich manager Vincent Kompany is taken to hospital after collapsing as he watched the club's second team train on Friday.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f178/live/0950f610-cefb-11f1-accf-3309656ad0bb.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/ck3r5792en7go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-23T16:39:03+00:00"
+    },
+    {
+     "title": "Jaylen Brown calls 'cap' on Jayson Tatum's recollection of stunning Celtics-76ers trade",
+     "summary": "Brown popped up in the Instagram comments of a clip from Tatum's documentary",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/23/1ca5c553-69e5-41b1-a14f-5b0fd117c1e5/brown-tatum-getty.png",
+     "url": "https://www.cbssports.com/nba/news/jaylen-brown-jayson-tatum-celtics-76ers-trade/",
+     "source": "CBS Sports NBA",
+     "published": "2026-10-23T16:27:01+00:00"
+    },
+    {
+     "title": "NBA player props, odds, picks, lines: Victor Wembanyama, Stephen Curry part of best bets for Friday",
+     "summary": "We'll highlight some of our favorite player props for Friday's NBA games with help from the SportsLine Projection Model",
+     "image": "https://sportshub.cbsistatic.com/i/2026/06/06/43c05234-f848-4604-a2df-6aa1a3ca2cf1/wemby-game-2-imagn-1.png",
+     "url": "https://www.cbssports.com/betting/news/nba-player-props-odds-picks-lines-victor-wembanyama-stephen-curry-part-of-best-bets-for-friday/",
+     "source": "CBS Sports NBA",
+     "published": "2026-10-23T16:20:19+00:00"
+    },
+    {
+     "title": "Knicks assistant coaches reportedly not given rings on ring night, staff hit with Ring phishing scam",
+     "summary": "Only James Dolan could find a way to put a dark cloud over one of the great nights in franchise history.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/knicks-assistant-coaches-reportedly-not-161945126.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-23T16:19:45+00:00"
+    },
+    {
+     "title": "NBA Sure Things: Three days into the new season, these nine things feel like guarantees",
+     "summary": "From Tyrese Maxey pacing the 76ers to Luka Dončić resting in LA, here is what you can safely bank on this season",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/23/1951157b-1f2e-44ca-affe-ced124a43cdd/maxey-lebron-getty.png",
+     "url": "https://www.cbssports.com/nba/news/nba-sure-things-2026-27-season-tyrese-maxey-ja-morant-chet-holmgren-luka-doncic-lamelo-ball/",
+     "source": "CBS Sports NBA",
+     "published": "2026-10-23T14:42:50+00:00"
+    },
+    {
+     "title": "Poulter leaves LIV as exodus of big names continues",
+     "summary": "Ian Poulter wants to help his sons become professional golfers and develop his YouTube channel as he announces his exit from LIV Golf.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5220/live/1dc8cbc0-cee4-11f1-bdca-23c64447299f.jpg",
+     "url": "https://www.bbc.co.uk/sport/golf/articles/cjp3g4nyv44lo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-23T14:41:19+00:00"
     },
     {
      "title": "Mamdani loves Arsenal. He should challenge them to cut ties with the UAE over Sudan | Sasha Lezhnev and John Prendergast",
@@ -295,22 +383,6 @@
      "published": "2026-10-23T14:09:36+00:00"
     },
     {
-     "title": "2026 NBA odds, picks, predictions, best bets, player props: Experts, model backing Spurs, more on Friday",
-     "summary": "SportsLine's experts and the SportsLine Projection Model have revealed NBA picks and best bets for Friday, October 23",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/18/e096555d-f835-4231-9730-a7d766c666e1/victor-wembanyama-san-antonio-spurs-imagn-images.jpg",
-     "url": "https://www.cbssports.com/betting/news/2026-nba-odds-picks-predictions-best-bets-player-props-experts-model-backing-spurs-more-friday/",
-     "source": "CBS Sports NBA",
-     "published": "2026-10-23T14:05:03+00:00"
-    },
-    {
-     "title": "Knicks vs. Celtics prediction, odds, betting preview, start time: NBA picks, best bets on Friday, Oct. 23",
-     "summary": "Best bets and betting preview for Celtics vs. Knicks on Friday",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/22/04ac790b-4e9b-460f-8f9a-019ab5fa7f36/paul-george-boston-celtics-imagn-images.jpg",
-     "url": "https://www.cbssports.com/betting/news/knicks-vs-celtics-prediction-odds-betting-preview-start-time-nba-picks-best-bets-friday-oct-23/",
-     "source": "CBS Sports NBA",
-     "published": "2026-10-23T14:00:21+00:00"
-    },
-    {
      "title": "Carrick refuses to rule out dropping Fernandes in emotional address",
      "summary": "Michael Carrick speaks for five uninterrupted minutes at media briefing to outline what Manchester United means to him, then refuses to rule out dropping Bruno Fernandes.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73a2/live/6c9e6ab0-cee5-11f1-b441-2b33b063138f.jpg",
@@ -319,84 +391,12 @@
      "published": "2026-10-23T13:55:37+00:00"
     },
     {
-     "title": "Yahoo Perfect 5: Dan Titus' $15 lineup for Friday's Knicks-Celtics and Spurs-Rockets slate",
-     "summary": "Dan Titus reveals his Friday lineup for Perfect 5, Yahoo’s new fantasy basketball game tied to NBA on Prime broadcasts.",
-     "image": "",
-     "url": "https://sports.yahoo.com/fantasy/article/yahoo-perfect-5-dan-titus-15-lineup-for-fridays-knicks-celtics-and-spurs-rockets-slate-132943213.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-23T13:29:43+00:00"
-    },
-    {
-     "title": "The Mavs forgot they were a passing team",
-     "summary": "Maybe the solution is benching a couple guys who haven’t bought in on the passing first, team first culture.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/90e4520f9c163ae84052f46bbdd41158.jpg",
-     "url": "https://sports.yahoo.com/articles/mavs-forgot-were-passing-team-124815877.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-23T12:48:15+00:00"
-    },
-    {
-     "title": "Shai Gilgeous-Alexander's 20-point streak is over, and it's a record that may never be broken",
-     "summary": "SGA was held to 17 points on Thursday against Denver, ending his streak of consecutive 20-point games at 141",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/23/55f64b23-15a9-460b-87d6-80ac66701694/sga-getty-22.png",
-     "url": "https://www.cbssports.com/nba/news/shai-gilgeous-alexander-20-point-streak-record-may-never-be-broken/",
-     "source": "CBS Sports NBA",
-     "published": "2026-10-23T12:43:26+00:00"
-    },
-    {
-     "title": "World and Olympic marathon champion Jepchirchir suspended after positive doping test",
-     "summary": "AIU investigates after sample tested positive for EPO 33-year-old won Olympic marathon in 2021 In a fresh hammer blow for Kenyan athletics, world marathon champion Peres Jepchirchir has been provision…",
-     "image": "https://i.guim.co.uk/img/media/1211be5e371491b1b2e0d6cee919eb321f60f49d/756_0_4224_3381/master/4224.jpg?width=140&quality=85&auto=format&fit=max&s=21d3a877bc0819bc497fb3e1e3d494b5",
-     "url": "https://www.theguardian.com/sport/2026/oct/23/world-olympic-marathon-champion-peres-jepchirchir-suspended-positive-doping-test-athletics",
+     "title": "World Series 2026 predictions: will the Rays or Brewers claim their first title?",
+     "summary": "It’s Milwaukee and Tampa Bay in the 122nd Fall Classic. Our writers predict how it will be decided, who will shine brightest and who will break their World Series maiden Yes - and in fact, evidence th…",
+     "image": "https://i.guim.co.uk/img/media/351557c8255f7f4e756682f85bdd428c6bfb8653/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b880b466bad3d2df7c279b9bc092955c",
+     "url": "https://www.theguardian.com/sport/2026/oct/23/world-series-2026-predictions-will-the-rays-or-brewers-claim-their-first-title",
      "source": "Guardian Sport",
-     "published": "2026-10-23T12:31:29+00:00"
-    },
-    {
-     "title": "Conte plays down 'unfounded' Man Utd speculation",
-     "summary": "Antonio Conte says he is not in advanced talks with any club, in response to speculation he has held talks with Manchester United.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cfa/live/0badff10-cede-11f1-b90b-55df5472350e.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cmvg6j8jezn7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-23T12:15:53+00:00"
-    },
-    {
-     "title": "James Dolan scammed Knicks employees with phony championship ring offer",
-     "summary": "This is beyond disgusting.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/987f6bae64d0f65b9c9f65b8b391533f.jpg",
-     "url": "https://sports.yahoo.com/articles/james-dolan-scammed-knicks-employees-121136841.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-23T12:11:36+00:00"
-    },
-    {
-     "title": "Milwaukee Bucks vs. Chicago Bulls Preview & Game Thread: Fans, meet the young Bucks",
-     "summary": "Following a fourth-quarter collapse on Wednesday, the Bucks have an opportunity to redeem themselves in their home opener.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/760e496ccac8e172e0a2c6ac94ea586f.jpg",
-     "url": "https://sports.yahoo.com/articles/milwaukee-bucks-vs-chicago-bulls-121000705.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-23T12:10:00+00:00"
-    },
-    {
-     "title": "World champion Jepchirchir fails drugs test",
-     "summary": "Reigning world women's marathon champion Peres Jepchirchir is provisionally suspended by the Athletics Integrity Unit after a sample tests positive for EPO.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c292/live/4a3d4a90-ced6-11f1-b2b0-07f43a3ad2d3.jpg",
-     "url": "https://www.bbc.co.uk/sport/olympics/articles/cwz0vn1yk235o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-23T12:01:20+00:00"
-    },
-    {
-     "title": "‘Slow news day at the office’: LeBron James shrugs off Trump’s national anthem attack",
-     "summary": "Trump calls James a ‘TOTAL DISGRACE’ over anthem US president demands apology for pregame warm-up James helps Sixers erase 29-point deficit against Cavs Donald Trump lashed out at NBA superstar LeBron…",
-     "image": "https://i.guim.co.uk/img/media/2583318dbb36e1109128a08029fb36ff9ccfc12b/362_0_2600_2080/master/2600.jpg?width=140&quality=85&auto=format&fit=max&s=24267ccea9a3ae45ec2862ec4ad875db",
-     "url": "https://www.theguardian.com/sport/2026/oct/23/lebron-james-donald-trump-national-anthem-76ers",
-     "source": "Guardian Sport",
-     "published": "2026-10-23T04:29:50+00:00"
-    },
-    {
-     "title": "Caleb Williams outduels friend and rival Drake Maye as Bears beat Patriots",
-     "summary": "New England Patriots 24–30 Chicago Bears Bears QB throws for 308 yards and two TDs Caleb Williams threw for 308 yards and two touchdowns, and the Chicago Bears cooled off Drake Maye and the New Englan…",
-     "image": "https://i.guim.co.uk/img/media/5af7b746c2dd7396ef0d9dd19061c90a07e4365c/324_0_2764_2212/master/2764.jpg?width=140&quality=85&auto=format&fit=max&s=d2463378a8f415c08d1c0adecceeba2c",
-     "url": "https://www.theguardian.com/sport/2026/oct/22/caleb-williams-outduels-friend-and-rival-drake-maye-as-bears-beat-patriots",
-     "source": "Guardian Sport",
-     "published": "2026-10-23T03:53:26+00:00"
+     "published": "2026-10-23T08:00:04+00:00"
     }
    ]
   }
