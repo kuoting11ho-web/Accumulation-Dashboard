@@ -1,120 +1,32 @@
 {
- "generated": "2026-10-23T17:53:46.110456+00:00",
+ "generated": "2026-10-23T19:58:58.374430+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "Dow tumbles 500 points as Middle East tensions rise, selling broadens beyond tech: Live updates",
-     "summary": "The Dow Industrials fell on Friday as Middle East tensions rose.",
+     "title": "氣象署發布豪雨特報　慎防宜蘭雙北桃竹苗發生豪大雨",
+     "summary": "中央氣象署發布豪雨特報，第29號颱風及其外圍環流影響，今(24)日宜蘭縣山區有局部大豪雨或超大豪雨，臺北市山區、新北市山區、桃園市山區、新竹縣山區、苗栗縣山區有局部豪雨或大豪雨，基隆市地區、...…",
      "image": "",
-     "url": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-23T17:48:30+00:00"
+     "url": "https://news.ltn.com.tw/news/life/breakingnews/5616937",
+     "source": "自由時報",
+     "published": "2026-10-23T19:54:03+00:00"
     },
     {
-     "title": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses",
-     "summary": "There are two Dan Sullivans on the ballot in the Senate race in Alaska. The DOJ says that fact could help Democratic nominee Mary Peltola defeat both of them.",
+     "title": "巴基斯坦西南部發生嚴重車禍　造成13死21傷",
+     "summary": "巴基斯坦西南部今天發生嚴重車禍，一輛開往喀拉蚩（Karachi）的客運巴士與另一輛車相撞，造成至少13人死亡、21人受傷，部分傷者情況危急。 法新社報導，巴基斯坦俾路支省（Balochis...…",
      "image": "",
-     "url": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-23T17:42:30+00:00"
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5616936",
+     "source": "自由時報",
+     "published": "2026-10-23T19:54:03+00:00"
     },
     {
      "title": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
-     "summary": "Since last week, Ukraine has reported restrictions on a version of Starshield, a version of SpaceX's Starlink, hampering its military operations against Russia.",
+     "summary": "Since last week, Ukraine has reported restrictions on Starshield, a version of SpaceX's Starlink, hampering its military operations against Russia.",
      "image": "",
      "url": "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
      "source": "CNBC Top News",
-     "published": "2026-10-23T17:41:25+00:00"
-    },
-    {
-     "title": "A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that",
-     "summary": "Trump's most recent rendering of East Potomac Park overtakes the D.C. peninsula with a sprawling golf course, without the grassy areas and road beloved by locals. That's prompted grassroots pushback.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7981x5321+0+0/resize/7981x5321!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa8%2F9e%2Fa7feccc04514986c699822c53319%2Fgettyimages-2297967883-1.jpg",
-     "url": "https://www.npr.org/2026/10/23/nx-s1-6010488/east-potomac-trump-golf-hains-point",
-     "source": "NPR News",
-     "published": "2026-10-23T17:35:14+00:00"
-    },
-    {
-     "title": "US consumer sentiment hits a near-record low before midterm elections",
-     "summary": "Independent voters’ economic anxieties highlight political implications of plummeting US consumer sentiment.",
-     "image": "",
-     "url": "https://www.aljazeera.com/economy/2026/10/23/us-consumer-sentiment-hits-a-near-record-low-before-midterm-elections?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-23T17:26:21+00:00"
-    },
-    {
-     "title": "Romania blames Russia after drone sinks ship in the Black Sea",
-     "summary": "One sailor killed and three others missing after Comoros-flagged Khoryv hit near Romanian waters.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/23/romania-blames-russia-after-drone-sinks-ship-in-the-black-sea?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-23T17:26:13+00:00"
-    },
-    {
-     "title": "油價勁揚和企業財報欠佳　歐股收黑",
-     "summary": "受油價勁揚，以及古馳（Gucci）母公司開雲集團（Kering）與瑞典富豪汽車（Volvo Cars）財報表現欠佳等影響，歐洲股市今天收黑。 倫敦FTSE 100指數下跌34.67點或0....…",
-     "image": "",
-     "url": "https://ec.ltn.com.tw/article/breakingnews/5616919",
-     "source": "自由時報",
-     "published": "2026-10-23T17:21:04+00:00"
-    },
-    {
-     "title": "Why Chinese families are rushing to buy gold",
-     "summary": "China is experiencing a gold rush as families buy more of it, but not necessarily to wear as jewellery.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-chinese-families-are-rushing-to-buy-gold?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-23T17:20:22+00:00"
-    },
-    {
-     "title": "氣象署發布豪雨特報　宜蘭縣山區防局部大豪雨或超大豪雨",
-     "summary": "中央氣象署發布豪雨特報，第29號颱風及其外圍環流影響，今(24)日宜蘭縣山區有局部大豪雨或超大豪雨，臺北市山區、新北市山區、桃園市山區、新竹縣山區、苗栗縣山區有局部豪雨或大豪雨，基隆市地區、...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5616918",
-     "source": "自由時報",
-     "published": "2026-10-23T17:06:03+00:00"
-    },
-    {
-     "title": "Many feared trapped after Kenya building collapse",
-     "summary": "Many people are feared trapped after a multi-storey building collapsed in the Kenyan capital of Nairobi.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/many-feared-trapped-after-kenya-building-collapse?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-23T17:01:05+00:00"
-    },
-    {
-     "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
-     "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7099/live/5602f2d0-b770-11f1-a7b2-f3bdba1cd194.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-23T16:59:51+00:00"
-    },
-    {
-     "title": "AI's 'Black October': Critical PHP flaws set off global security scramble",
-     "summary": "Governments and businesses around the globe are scrambling to contain the fallout after the PHP vulnerabilities leaked online.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-23T16:55:37+00:00"
-    },
-    {
-     "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
-     "summary": "Brent crude increase follows Tehran threatening retaliatory attacks on Gulf refineries and datacentres Oil has hit its highest level in more than six months as fears of fresh escalation in the Middle…",
-     "image": "https://i.guim.co.uk/img/media/c0f302e34e0b51e7da8489af30c4f6d217592b8a/424_0_4520_3616/master/4520.jpg?width=140&quality=85&auto=format&fit=max&s=c61c7f835c77b6046500b5ffba86d418",
-     "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
-     "source": "Guardian Business",
-     "published": "2026-10-23T16:48:28+00:00"
-    },
-    {
-     "title": "11月大贏家出爐！小孟老師點名「4生肖」連呼吸都在進帳",
-     "summary": "〔娛樂新聞／綜合報導〕颱風假再爽，也比不上戶頭直接多一個零，來得開心！薔琵颱風逼近，當多數人還在為放假小確幸慶幸時，「這群人」就算在家耍廢追劇、躺平補眠，鈔票都像颱風天颳大風一樣硬往口袋裡灌。 ...…",
-     "image": "",
-     "url": "https://ent.ltn.com.tw/news/breakingnews/5616916",
-     "source": "自由時報",
-     "published": "2026-10-23T16:38:07+00:00"
+     "published": "2026-10-23T19:50:26+00:00"
     },
     {
      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
@@ -122,15 +34,103 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd9e/live/bb37b200-cee8-11f1-b441-2b33b063138f.jpg",
      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-10-23T16:33:11+00:00"
+     "published": "2026-10-23T19:46:30+00:00"
     },
     {
-     "title": "美推新法強化審查對中投資 涵蓋生技、AI、超級運算等領域",
-     "summary": "《美國廣播公司》（ABC）報導，美國財政部22日公布名為「全面對外投資國家安全法」（COINS Act）的新草案，旨在限制美國在超級運算、人工智慧（AI）等高科技領域對中...…",
+     "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+     "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c59/live/b8966750-cef5-11f1-a701-fddedf244c16.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-23T19:42:08+00:00"
+    },
+    {
+     "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
+     "summary": "The Pentagon is building weapons and projects with AI capabilities that officials say don't always closely adhere to the agency's own guidelines for AI, according to a congressional watchdog report pu…",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1127x1192+0+0/resize/1127x1192!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fce%2F35%2F5c968cba4fdfa34765d346214ab1%2Fgao-ai.jpg",
+     "url": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war",
+     "source": "NPR News",
+     "published": "2026-10-23T19:31:15+00:00"
+    },
+    {
+     "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+     "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7099/live/5602f2d0-b770-11f1-a7b2-f3bdba1cd194.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-23T19:30:19+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》September industrial production rises 19 percent",
+     "summary": "STREAK OF 31 MONTHS:Consumer electronics launched by global brands boosted the information and elect...…",
      "image": "",
-     "url": "https://ec.ltn.com.tw/article/breakingnews/5616915",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5616865",
      "source": "自由時報",
-     "published": "2026-10-23T16:25:19+00:00"
+     "published": "2026-10-23T19:00:00+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》CGA urges Beijing not to use typhoons to assert jurisdiction",
+     "summary": "By Chiu Chun-fu and Jonathan Chin / Staff reporter, with staff writer The Coast Guard Administrat...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5616864",
+     "source": "自由時報",
+     "published": "2026-10-23T19:00:00+00:00"
+    },
+    {
+     "title": "Aston Villa vs Manchester City: Premier League – teams, prediction, lineups",
+     "summary": "Man City are the only team with a perfect Premier League record, but face a Villa side determined to climb the table.",
+     "image": "",
+     "url": "https://www.aljazeera.com/sports/2026/10/23/aston-villa-vs-manchester-city-premier-league-teams-prediction-lineups?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-23T18:55:18+00:00"
+    },
+    {
+     "title": "Dow tumbles 600 points as Middle East tensions rise, selling broadens beyond tech: Live updates",
+     "summary": "The Dow Industrials fell on Friday as Middle East tensions rose.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-23T18:55:15+00:00"
+    },
+    {
+     "title": "U.S. dropping some Canada tariffs, Susan Collins says as trade war looms over Maine Senate race",
+     "summary": "The U.S. will issue tariff exemptions on several categories of Canadian imports, Sen. Susan Collins announced Friday.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-23T18:54:16+00:00"
+    },
+    {
+     "title": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
+     "summary": "With SpaceX imposing speed limits on Starlink in Ukraine and hampering military operations, Kyiv is looking for alternatives.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/23/ukraine-partners-with-nokia-and-iceye-for-starlink-alternative.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-23T18:52:37+00:00"
+    },
+    {
+     "title": "Israel locks down occupied West Bank after Hebron shooting",
+     "summary": "Israel has imposed a lockdown across the occupied West Bank after a shooting near Hebron killed two Israeli soldiers.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-23T18:38:26+00:00"
+    },
+    {
+     "title": "Ohio could decide control of the Senate. Its rural voters might decide the winner",
+     "summary": "Ohio has been a reliably red state for several elections but it's competitive this year. If Democrats want to prevail, they'll have to win people who have backed Republicans, like rural voters.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5a%2Ffa%2F435be5024106ae3ca19a04e44f45%2Fchrisgibbs-selects-kc-3-edit.jpg",
+     "url": "https://www.npr.org/2026/10/23/nx-s1-6012809/ohio-senate-governor-election-rural-voters",
+     "source": "NPR News",
+     "published": "2026-10-23T18:30:00+00:00"
+    },
+    {
+     "title": "Former FBI officials charged in connection with Hunter Biden laptop probe",
+     "summary": "Lawyers for two accused officials say Department of Justice seeking to revive scandal in the run-up to midterm vote.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/23/former-fbi-officials-charged-in-connection-with-hunter-biden-laptop-probe?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-23T18:22:51+00:00"
     }
    ]
   },
@@ -154,6 +154,14 @@
      "published": "2026-10-23T17:18:31+00:00"
     },
     {
+     "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+     "summary": "https://www.kimi.com/code/docs/en/kimi-code/models.html Comments URL: https://news.ycombinator.com/item?id=50212065 Points: 420 # Comments: 232",
+     "image": "",
+     "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-23T16:59:08+00:00"
+    },
+    {
      "title": "RFK Jr.’s vaccine injury clinic could damage NIH hospital, board warns",
      "summary": "\"Trust is slow to build and quick to lose,\" board chair Jack Leslie said.",
      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298718210-500x500.jpg",
@@ -171,7 +179,7 @@
     },
     {
      "title": "Today, we hacked what we'd set out to hack: the iPhone",
-     "summary": "Article URL: https://blog.calif.io/p/iphone Comments URL: https://news.ycombinator.com/item?id=50211474 Points: 294 # Comments: 153",
+     "summary": "Article URL: https://blog.calif.io/p/iphone Comments URL: https://news.ycombinator.com/item?id=50211474 Points: 512 # Comments: 334",
      "image": "",
      "url": "https://blog.calif.io/p/iphone",
      "source": "Hacker News Front Page",
@@ -202,12 +210,12 @@
      "published": "2026-10-23T16:00:04+00:00"
     },
     {
-     "title": "OpenSSL 4.1.0",
-     "summary": "Article URL: https://github.com/openssl/openssl/releases/tag/openssl-4.1.0 Comments URL: https://news.ycombinator.com/item?id=50208099 Points: 164 # Comments: 46",
+     "title": "Apple Music 404 Not Found",
+     "summary": "https://www.macrumors.com/2026/10/23/apple-music-has-a-hidde... Comments URL: https://news.ycombinator.com/item?id=50207910 Points: 189 # Comments: 60",
      "image": "",
-     "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
+     "url": "https://music.apple.com/this-url-doesnt-exist",
      "source": "Hacker News Front Page",
-     "published": "2026-10-23T12:42:44+00:00"
+     "published": "2026-10-23T12:28:47+00:00"
     },
     {
      "title": "Space Bunny 身分揭曉！MiniMax 公開 M3.1 Flash 428B 模型權重",
@@ -251,25 +259,49 @@
     },
     {
      "title": "The foolishness of \"natural language programming\" (1978)",
-     "summary": "Article URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html Comments URL: https://news.ycombinator.com/item?id=50203161 Points: 322 # Comments: 215",
+     "summary": "Article URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html Comments URL: https://news.ycombinator.com/item?id=50203161 Points: 339 # Comments: 230",
      "image": "",
      "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
      "source": "Hacker News Front Page",
      "published": "2026-10-23T00:52:01+00:00"
-    },
-    {
-     "title": "Docker is weird",
-     "summary": "Article URL: https://codeandcake.dev/posts/2026-10-22-docker-is-weird Comments URL: https://news.ycombinator.com/item?id=50202681 Points: 763 # Comments: 307",
-     "image": "",
-     "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-22T23:45:56+00:00"
     }
    ]
   },
   "sport": {
    "label": "運動",
    "items": [
+    {
+     "title": "Ipswich v Nottingham Forest: Premier League – live",
+     "summary": "⚽ Updates from the 8pm BST kick-off at Portman Road ⚽ Ten things to look out for | How they stand | Mail Scott 2 min: It’s windy in Suffolk. Walton batters a clearance upfield as best he can. Forest v…",
+     "image": "https://i.guim.co.uk/img/media/e6a2ce9c48e7d812cc47df004002b55597b57e51/174_106_3241_2594/master/3241.jpg?width=140&quality=85&auto=format&fit=max&s=d3115d017267619d2ec0a1e6d98dcd21",
+     "url": "https://www.theguardian.com/football/live/2026/oct/23/ipswich-v-nottingham-forest-premier-league-live",
+     "source": "Guardian Sport",
+     "published": "2026-10-23T19:43:28+00:00"
+    },
+    {
+     "title": "These 7 looming contract decisions could define the NBA season",
+     "summary": "Giannis, Karl-Anthony Towns, Kevin Durant and Anthony Davis are among the NBA stars with contract situations that could change the league's landscape.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/7-looming-contract-decisions-could-193624439.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-23T19:36:24+00:00"
+    },
+    {
+     "title": "Knicks reportedly duped employees with championship ring email that was actually a phishing test",
+     "summary": "Knicks coaches, meanwhile, received empty ring boxes during the opening-night ceremony this week",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/23/29a43071-3bea-42b1-b7f0-083788f376c5/knicks-rings-getty.png",
+     "url": "https://www.cbssports.com/nba/news/knicks-duped-employees-championship-ring-email-phishing-test/",
+     "source": "CBS Sports NBA",
+     "published": "2026-10-23T18:57:12+00:00"
+    },
+    {
+     "title": "Leclerc sets Austin practice pace from Verstappen",
+     "summary": "Ferrari's Charles Leclerc is fastest from Red Bull's Max Verstappen in first practice at the United States Grand Prix.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c89/live/b1f0ca10-cf10-11f1-8de3-9dfec70eb8fa.jpg",
+     "url": "https://www.bbc.co.uk/sport/formula1/articles/cm5ynle2n082o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-23T18:41:21+00:00"
+    },
     {
      "title": "Dalton Knecht reportedly to sign two-way contract with Knicks",
      "summary": "The Lakers waived the former No. 17 pick to create roster space, New York jumped in.",
@@ -287,6 +319,14 @@
      "published": "2026-10-23T17:00:01+00:00"
     },
     {
+     "title": "MMBets: Dallas finds themselves in a tough spot against Indiana",
+     "summary": "Haliburton’s long awaited home return figures to make a tough spot for the Mavs",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/26d6d32e8c8eaff4b5665f112e1e4a5b.jpg",
+     "url": "https://sports.yahoo.com/articles/mmbets-dallas-finds-themselves-tough-170000292.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-23T17:00:00+00:00"
+    },
+    {
      "title": "Mountain West in the NBA: Only 5 alums suiting up ahead of 2026-27 season",
      "summary": "While we are 10 days away from the start of the 2026-27 college basketball season, the new NBA season also tipped off this week. In past iterations of Mountain West in the NBA, we have detailed severa…",
      "image": "https://media.zenfs.com/en/sb_nation_articles_115/e35e8fc7602a7e07861ad99cff7b9288.jpg",
@@ -295,16 +335,8 @@
      "published": "2026-10-23T17:00:00+00:00"
     },
     {
-     "title": "Fantasy Basketball Weekend Streamers: Yves Missi, Bilal Coulibaly playing well as starters",
-     "summary": "Yves Missi and Bilal Coulibaly lead a group of 10 players to stream in fantasy basketball this weekend.",
-     "image": "https://media.zenfs.com/en/nbcsports.com/e585d8bc1e7f826cc120d3da653ab4d5.jpg",
-     "url": "https://sports.yahoo.com/articles/fantasy-basketball-weekend-streamers-yves-165900686.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-23T16:59:00+00:00"
-    },
-    {
      "title": "Vincent Kompany taken to hospital after collapsing at Bayern training",
-     "summary": "Bayern Munich coach had been nursing a virus Coach ‘undergoing thorough examinations’, club say Vincent Kompany has been ⁠taken ⁠to ​hospital after the Bayern Munich coach felt unwell during training…",
+     "summary": "Bayern Munich head coach had been nursing a virus Coach ‘undergoing thorough examinations’, club say Vincent Kompany has been ⁠taken ⁠to ​hospital after the Bayern Munich coach felt unwell during trai…",
      "image": "https://i.guim.co.uk/img/media/b89cc314f06a405679c345d1a0b4720523d30c34/217_129_1724_1378/master/1724.jpg?width=140&quality=85&auto=format&fit=max&s=465938eac111ca3a61e6a019ce88c274",
      "url": "https://www.theguardian.com/football/2026/oct/23/vincent-kompany-hospital-collapsing-bayern-munich-training",
      "source": "Guardian Sport",
@@ -341,38 +373,6 @@
      "url": "https://www.cbssports.com/betting/news/nba-player-props-odds-picks-lines-victor-wembanyama-stephen-curry-part-of-best-bets-for-friday/",
      "source": "CBS Sports NBA",
      "published": "2026-10-23T16:20:19+00:00"
-    },
-    {
-     "title": "Knicks assistant coaches reportedly not given rings on ring night, staff hit with Ring phishing scam",
-     "summary": "Only James Dolan could find a way to put a dark cloud over one of the great nights in franchise history.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/knicks-assistant-coaches-reportedly-not-161945126.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-23T16:19:45+00:00"
-    },
-    {
-     "title": "NBA Sure Things: Three days into the new season, these nine things feel like guarantees",
-     "summary": "From Tyrese Maxey pacing the 76ers to Luka Dončić resting in LA, here is what you can safely bank on this season",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/23/1951157b-1f2e-44ca-affe-ced124a43cdd/maxey-lebron-getty.png",
-     "url": "https://www.cbssports.com/nba/news/nba-sure-things-2026-27-season-tyrese-maxey-ja-morant-chet-holmgren-luka-doncic-lamelo-ball/",
-     "source": "CBS Sports NBA",
-     "published": "2026-10-23T14:42:50+00:00"
-    },
-    {
-     "title": "Poulter leaves LIV as exodus of big names continues",
-     "summary": "Ian Poulter wants to help his sons become professional golfers and develop his YouTube channel as he announces his exit from LIV Golf.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5220/live/1dc8cbc0-cee4-11f1-bdca-23c64447299f.jpg",
-     "url": "https://www.bbc.co.uk/sport/golf/articles/cjp3g4nyv44lo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-23T14:41:19+00:00"
-    },
-    {
-     "title": "Mamdani loves Arsenal. He should challenge them to cut ties with the UAE over Sudan | Sasha Lezhnev and John Prendergast",
-     "summary": "The New York mayor’s passion for the Gunners and human rights presents an opportunity to push back on the club’s lucrative UAE sponsorship Like him or not, there is no doubt that New York mayor Zohran…",
-     "image": "https://i.guim.co.uk/img/media/544c2db2962f3959c4d74037aec592fe4c7939f5/384_74_1778_1422/master/1778.jpg?width=140&quality=85&auto=format&fit=max&s=f16e7a629109b94cec35dbad7ace47c1",
-     "url": "https://www.theguardian.com/football/2026/oct/23/zohran-mamdani-arsenal-emirates-uae-sudan-sponsorship",
-     "source": "Guardian Sport",
-     "published": "2026-10-23T14:30:09+00:00"
     },
     {
      "title": "Arsenal fear Saka could be out for two months",
