@@ -1,9 +1,73 @@
 {
- "generated": "2026-10-24T16:41:57.165510+00:00",
+ "generated": "2026-10-24T18:50:58.617588+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
+    {
+     "title": "Thousands gather at new Albanian antigovernment rally",
+     "summary": "More than 300 protesters and police were injured in the Albanian capital Tirana's fiercest clashes in days.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-24T18:30:56+00:00"
+    },
+    {
+     "title": "Tens of thousands of Lula supporters rally on eve of Brazilian election runoff",
+     "summary": "Nearly 159 million people to head to polls on Sunday in battle between leftwing incumbent and Flávio Bolsonaro Tens of thousands of supporters of Brazil’s leftwing president, Luiz Inácio Lula da Silva…",
+     "image": "https://i.guim.co.uk/img/media/0ba994ba5bb361aee178bf93d77a0ef20ea9f1ee/407_0_4928_3943/master/4928.jpg?width=140&quality=85&auto=format&fit=max&s=b65f8c76279731e0b2936b45aab0d208",
+     "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+     "source": "Guardian World",
+     "published": "2026-10-24T18:11:44+00:00"
+    },
+    {
+     "title": "Kim Jong Un crosses new bridge linking North Korea and China",
+     "summary": "",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-24T18:00:20+00:00"
+    },
+    {
+     "title": "Ukraine says Starlink is back to normal after disruptions",
+     "summary": "Ukrainian President Volodymyr Zelenskyy said that normal Starlink operating speeds were restored after more than a week of disruptions.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7961x5307+0+0/resize/7961x5307!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F09%2F79%2F14a4a3fb4f37b1a0b1432ccf6fa9%2Fap26295629655124.jpg",
+     "url": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
+     "source": "NPR News",
+     "published": "2026-10-24T17:54:25+00:00"
+    },
+    {
+     "title": "金正恩結束訪中行程　分析：盼北京加速兌現承諾",
+     "summary": "北韓領導人金正恩結束中國遼寧省丹東一天的訪問行程後，今天返國。中國官方媒體報導，這次突訪目的尚未明朗。學者分析，金正恩此次或許是為了「敦促中方加速履行」今年中國國家主席習近平訪問北韓期間達成...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5617783",
+     "source": "自由時報",
+     "published": "2026-10-24T17:45:04+00:00"
+    },
+    {
+     "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+     "summary": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b86/live/6920a5d0-cfba-11f1-9012-0172b9f73a72.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-24T17:21:42+00:00"
+    },
+    {
+     "title": "Trump says he may move White House press corps to new location",
+     "summary": "Trump’s remarks come amid a fractious moment between the US president and the journalists who cover him.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-24T17:01:34+00:00"
+    },
+    {
+     "title": "About 25,000 rally in Madrid in support of Spain’s state pension scheme",
+     "summary": "Demonstrators want pensions to remain indexed to inflation and the gender pension gap to be eliminated.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-24T16:48:36+00:00"
+    },
     {
      "title": "颱風攪局不減熱情  高雄小林夜祭照常登場",
      "summary": "高雄三大平埔祭典之一「小林大武壠族夜祭」，昨（24日）晚在甲仙小林公廨（Kuba）熱鬧登場，今年夜祭除舉辦太祖祭祀、牽戲等傳統祭儀，亦推出小林部落美食市集、大武壠族文化特展、工...…",
@@ -29,38 +93,6 @@
      "published": "2026-10-24T16:33:00+00:00"
     },
     {
-     "title": "蔣辦酸「市民大道切開南北縫合」出洋相 沈辦引學術研究祭回馬槍",
-     "summary": "民進黨籍台北市長候選人沈伯洋22日出席「看見縫隙：讓台北變好的無限可能 公共空間的再定義─從基礎設施、綠意到常民地景」論壇，提到「市民大道是真正意義上把南北切開的高架道路」，如...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5617778",
-     "source": "自由時報",
-     "published": "2026-10-24T16:24:32+00:00"
-    },
-    {
-     "title": "Barcelona vs Real Madrid: La Liga – El Clasico preview, predictions, teams",
-     "summary": "Bragging rights are up for grabs in Sunday's El Clasico between La Liga leaders Barcelona and third-placed Real Madrid.",
-     "image": "",
-     "url": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-la-liga-el-clasico-preview-predictions-teams?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-24T16:18:17+00:00"
-    },
-    {
-     "title": "More than 2,000 forced from homes in Hebron amid Israel’s West Bank raids",
-     "summary": "Palestinians in Hebron are 'living in fear' with the city closed, while Israeli forces arrest dozens across the West Bank.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-24T15:50:49+00:00"
-    },
-    {
-     "title": "Brazil’s Lula and Bolsonaro about even ahead of election run-off: Poll",
-     "summary": "The race between Brazil's president and the right-wing senator has tightened in recent days.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-about-even-ahead-of-election-run-off-poll?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-24T15:36:38+00:00"
-    },
-    {
      "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
      "summary": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/723c/live/ca5c07b0-cfc2-11f1-b441-2b33b063138f.jpg",
@@ -77,28 +109,12 @@
      "published": "2026-10-24T15:18:30+00:00"
     },
     {
-     "title": "Security forces deploy as Milan braces for another day of protests",
-     "summary": "The Italian government has sent hundreds of soldiers to the country's financial hub ahead of anticipated unrest.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-24T15:05:58+00:00"
-    },
-    {
      "title": "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung cancer",
      "summary": "A drug from Amgen could give patients with an aggressive form of lung cancer significantly more time to live when added to an immunotherapy from AstraZeneca.",
      "image": "",
      "url": "https://www.cnbc.com/2026/10/24/amgen-imdelltra-lung-cancer-data.html",
      "source": "CNBC Top News",
      "published": "2026-10-24T14:30:01+00:00"
-    },
-    {
-     "title": "Kim Jong-un crosses newly opened bridge into China",
-     "summary": "North Korean leader travels over New Yalu River Bridge to meet senior Communist party member Kim Jong-un has visited China, inaugurating a bridge that connects the two countries and saying he hopes to…",
-     "image": "https://i.guim.co.uk/img/media/70aba9653c376fb7740a63f99ee1a6474668c259/44_0_3934_3148/master/3934.jpg?width=140&quality=85&auto=format&fit=max&s=056c22a8ea5c8ffc7eb9fdd0db37331c",
-     "url": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
-     "source": "Guardian World",
-     "published": "2026-10-24T13:34:56+00:00"
     },
     {
      "title": "Ukraine says Starlink connection 'now stable' after network limits",
@@ -115,22 +131,6 @@
      "url": "https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond",
      "source": "NPR News",
      "published": "2026-10-24T12:00:00+00:00"
-    },
-    {
-     "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
-     "summary": "Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2c%2F54%2F65e65442429790eaf3f08a065edd%2Fap26296557878703.jpg",
-     "url": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
-     "source": "NPR News",
-     "published": "2026-10-24T11:59:08+00:00"
-    },
-    {
-     "title": "薔琵強風襲陽明山 文化大學宿舍玻璃門遭吹破",
-     "summary": "薔琵颱風已經減弱成輕度颱風，加上暴風圈縮小，台灣本島陸地脫離了暴風圈的影響，氣象署在下午2時半解除陸上颱風警報。不過受到薔琵的侵襲，雙北地區滿目瘡痍，位在陽明山上的文化大學，有宿舍玻璃門破裂、天花板掉落，附近商店還有雨遮被吹倒，現場也緊急拉起封鎖線禁止通行。",
-     "image": "",
-     "url": "https://news.pts.org.tw/article/832814",
-     "source": "公視新聞",
-     "published": "2026-10-24T11:53:39+00:00"
     }
    ]
   },
@@ -162,6 +162,14 @@
      "published": "2026-10-24T16:00:23+00:00"
     },
     {
+     "title": "FreeDNS",
+     "summary": "Article URL: https://freedns.afraid.org/ Comments URL: https://news.ycombinator.com/item?id=50222133 Points: 167 # Comments: 41",
+     "image": "",
+     "url": "https://freedns.afraid.org/",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-24T15:20:01+00:00"
+    },
+    {
      "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
      "summary": "A new model suggests Mars may host ice-forming physics never directly observed before.",
      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/marscloud-500x500.jpg",
@@ -179,7 +187,7 @@
     },
     {
      "title": "I Don't Understand Quantum Physics (2018)",
-     "summary": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 193 # Comments: 135",
+     "summary": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 226 # Comments: 154",
      "image": "",
      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
      "source": "Hacker News Front Page",
@@ -195,7 +203,7 @@
     },
     {
      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-     "summary": "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 154 # Comments: 72",
+     "summary": "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 213 # Comments: 100",
      "image": "",
      "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
      "source": "Hacker News Front Page",
@@ -203,19 +211,11 @@
     },
     {
      "title": "Root shell on Samsung TV",
-     "summary": "Article URL: https://twitter.com/log4j/status/2113014142600953868?s=46 Comments URL: https://news.ycombinator.com/item?id=50218633 Points: 405 # Comments: 145",
+     "summary": "Article URL: https://twitter.com/log4j/status/2113014142600953868?s=46 Comments URL: https://news.ycombinator.com/item?id=50218633 Points: 451 # Comments: 176",
      "image": "",
      "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
      "source": "Hacker News Front Page",
      "published": "2026-10-24T05:49:57+00:00"
-    },
-    {
-     "title": "OBS Studio 33",
-     "summary": "Article URL: https://github.com/obsproject/obs-studio/releases/tag/33.0.0 Comments URL: https://news.ycombinator.com/item?id=50218430 Points: 344 # Comments: 114",
-     "image": "",
-     "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-24T04:49:58+00:00"
     },
     {
      "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
@@ -239,12 +239,84 @@
    "label": "運動",
    "items": [
     {
-     "title": "Arsenal relieve pressure with Spurs win - can they kick on now?",
-     "summary": "Arsenal end their five-match winless run in the Women's Super League with victory at Tottenham - but can they kick on now?",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd69/live/e4151260-cfc1-11f1-9ecd-8be45051afbd.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cm93zw44d33do?at_medium=RSS&at_campaign=rss",
+     "title": "Tottenham stun Chelsea for second league win in a week as Cole Palmer is sent off",
+     "summary": "There were times when Roberto De Zerbi’s frustration threatened to boil over. The Tottenham manager cut a tense figure in his technical area. He bounced around for 90 minutes and let out blasts of fur…",
+     "image": "https://i.guim.co.uk/img/media/af032b4eec6b3cbff136ed02f07b78b7ff4227b2/326_0_3263_2611/master/3263.jpg?width=140&quality=85&auto=format&fit=max&s=a29a531e4213891a5297cbdef52bdd4e",
+     "url": "https://www.theguardian.com/football/2026/oct/24/chelsea-tottenham-premier-league-match-report",
+     "source": "Guardian Sport",
+     "published": "2026-10-24T18:32:03+00:00"
+    },
+    {
+     "title": "Penders error & Palmer sees red - player ratings for Chelsea v Spurs",
+     "summary": "Goalkeeper Mike Penders endures a difficult first Premier League start, scoring an own goal in Spurs' 2-0 win at Chelsea. Here's how we - and you - rated the players.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74e0/live/793455e0-cfd6-11f1-b951-f904363c9c32.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cqwy7x6e672eo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
-     "published": "2026-10-24T15:40:01+00:00"
+     "published": "2026-10-24T18:26:29+00:00"
+    },
+    {
+     "title": "Leaving the technical area? Arteta has the receipts",
+     "summary": "Wandering Premier League managers beware, Arsenal's Mikel Arteta has compiled a dossier of bosses leaving their technical area.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ed/live/74b64170-cfce-11f1-93e1-3b657b665bcf.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cwgkv8yx4dg8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-24T17:59:48+00:00"
+    },
+    {
+     "title": "Hayen sacked by Burnley after just 14 games",
+     "summary": "Nicky Hayen is sacked after just 14 games in charge at Burnley following a poor start to the season.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dbc/live/07a857a0-cfd6-11f1-b951-f904363c9c32.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cm4gv830j73do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-24T17:52:22+00:00"
+    },
+    {
+     "title": "NBA closing time: Amen Thompson erases Victor Wembanyama, Jayson Tatum daggers Knicks",
+     "summary": "We're breaking down the best clutch performances from Friday, as three players stood out early season wins",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/24/1ed14d9d-7b53-4827-8a58-1af0f442492f/amen-getty.png",
+     "url": "https://www.cbssports.com/nba/news/nba-closing-time-amen-thompson-victor-wembanyama-jayson-tatum-knicks/",
+     "source": "CBS Sports NBA",
+     "published": "2026-10-24T17:20:06+00:00"
+    },
+    {
+     "title": "Jayson Tatum shuts down Jaylen Brown drama: 'This ain't f---in' Shaq and Kobe, there's no beef'",
+     "summary": "Tatum wishes people focused on what he and Brown accomplished together and thinks communication could solve a lot of issues",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/24/85ce15df-e04a-4f41-90b6-75c3ad23a603/tatum-brown.jpg",
+     "url": "https://www.cbssports.com/nba/news/jayson-tatum-shuts-down-jaylen-brown-drama-shaq-and-kobe-no-beef/",
+     "source": "CBS Sports NBA",
+     "published": "2026-10-24T17:08:15+00:00"
+    },
+    {
+     "title": "Magic's Paolo Banchero suffers high ankle sprain in loss to Timberwolves, reportedly could be out 4-6 weeks",
+     "summary": "Banchero left Friday night's loss to the Minnesota Timberwolves early.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/breaking-news/article/magics-paolo-banchero-suffers-high-ankle-sprain-in-loss-to-timberwolves-reportedly-could-be-out-4-6-weeks-173753794.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-24T16:52:47+00:00"
+    },
+    {
+     "title": "Fulham climb out of drop zone after Oscar Bobb’s late show sinks Coventry",
+     "summary": "Oscar Bobb’s first Premier League goal for Fulham earned a win against Coventry that lifted Álvaro Arbeloa’s side clear of the relegation zone. Bobb produced a fine bit of individual skill to score in…",
+     "image": "https://i.guim.co.uk/img/media/086fd84d7177ae80eb3e38b6d3f8a943f7465846/377_89_3049_2440/master/3049.jpg?width=140&quality=85&auto=format&fit=max&s=86d6461fef11918833d50fbf4f55fa48",
+     "url": "https://www.theguardian.com/football/2026/oct/24/coventry-fulham-premier-league-match-report",
+     "source": "Guardian Sport",
+     "published": "2026-10-24T16:11:49+00:00"
+    },
+    {
+     "title": "Clinical Arsenal earn precious win against Everton thanks to Konsa and Gabriel",
+     "summary": "The wait goes on for David Moyes. The 63-year-old Scot must have been hoping that on his 14th visit to this stadium as Everton’s manager, his luck would change. Yet from the moment Ezri Konsa slammed…",
+     "image": "https://i.guim.co.uk/img/media/42459912380f56033f30c1b12a6094bb0c640894/116_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=28e9f9588cc28a8d953aed1dcfa9aef9",
+     "url": "https://www.theguardian.com/football/2026/oct/24/arsenal-everton-premier-league-match-report",
+     "source": "Guardian Sport",
+     "published": "2026-10-24T16:03:49+00:00"
+    },
+    {
+     "title": "Inside the Suns: Game 1, the next 11 games, Drew Timme, Oso’s contract extension",
+     "summary": "Your weekly Inside the Suns analysis straight from the BSotS community who live and breathe the team.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/abfb4438f3bc776d14e314ce5217c57e.jpg",
+     "url": "https://sports.yahoo.com/articles/inside-suns-game-1-next-160000678.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-24T16:00:00+00:00"
     },
     {
      "title": "Ex-NBA player Malik Beasley negotiating plea deal with Department of Justice in illegal sports betting case",
@@ -255,28 +327,12 @@
      "published": "2026-10-24T15:19:47+00:00"
     },
     {
-     "title": "NBA closing time: Amen Thompson erases Victor Wembanyama, Jayson Tatum daggers Knicks",
-     "summary": "We're breaking down the best clutch performances from Friday, as three players stood out early season wins",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/24/1ed14d9d-7b53-4827-8a58-1af0f442492f/amen-getty.png",
-     "url": "https://www.cbssports.com/nba/news/nba-closing-time-amen-thompson-victor-wembanyama-jayson-tatum-knicks/",
-     "source": "CBS Sports NBA",
-     "published": "2026-10-24T15:16:13+00:00"
-    },
-    {
      "title": "Man City's leaky defence highlights Donnarumma & Guehi struggles",
      "summary": "Manchester City's 100% winning start to the Premier League season comes to an abrupt end against Aston Villa - leaving Enzo Maresca with glaring defensive issues to resolve.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8225/live/74131b10-cfb7-11f1-9012-0172b9f73a72.jpg",
      "url": "https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-10-24T15:05:45+00:00"
-    },
-    {
-     "title": "The World Series of the have-nots is here. But baseball’s money problem isn’t going away | Tom Dart",
-     "summary": "Baseball’s two best regular-season teams are also among its lowest spenders. But their unlikely World Series comes with a warning about the sport’s future The best pitcher in baseball led the best tea…",
-     "image": "https://i.guim.co.uk/img/media/280cadb5b58ce8ebbb2e3ef2b14a60decdaae439/173_0_3818_3055/master/3818.jpg?width=140&quality=85&auto=format&fit=max&s=725b3ce4533808026c7a78563954b1ea",
-     "url": "https://www.theguardian.com/sport/2026/oct/24/brewers-rays-world-series-game-one-baseball-payroll-salary-cap",
-     "source": "Guardian Sport",
-     "published": "2026-10-24T15:01:30+00:00"
     },
     {
      "title": "Key Lakers vs Clippers takeaways: Kessler's hot start has LA cruising",
@@ -287,14 +343,6 @@
      "published": "2026-10-24T14:57:25+00:00"
     },
     {
-     "title": "Rising US star Fred Richard wins first world gymnastics title as Skye Blakely adds two more medals",
-     "summary": "American, 22, edges Britain’s Jake Jarman by 0.033 Blakely takes vault and bars bronze after all-around gold Simone Biles watches as Americans shine in Rotterdam American Frederick Richard won the flo…",
-     "image": "https://i.guim.co.uk/img/media/73be4983e57a42b6b0b7dcf14e6f79899741b434/126_0_1923_1539/master/1923.jpg?width=140&quality=85&auto=format&fit=max&s=e3c7df333de752b7cfdf15eacfaf1ea7",
-     "url": "https://www.theguardian.com/sport/2026/oct/24/frederick-richard-floor-gold-world-gymnastics-championships-rotterdam",
-     "source": "Guardian Sport",
-     "published": "2026-10-24T14:06:48+00:00"
-    },
-    {
      "title": "Knicks Bulletin: ‘I’m still trying to figure out this team a little bit’",
      "summary": "Is Mike Brown still coaching the Knicks? How’s that possible!? Should Leon Rose trade everybody and quit on the spot? Would it be better for New York to tank the season? Dumb questions without legitim…",
      "image": "https://media.zenfs.com/en/sb_nation_articles_115/8f0a0aceb0f86fc2606e279e33f63700.jpg",
@@ -303,44 +351,12 @@
      "published": "2026-10-24T14:04:28+00:00"
     },
     {
-     "title": "Raptors improve to 2-0 against Wizards",
-     "summary": "Toronto secures its first road win over Washington with Dybansta sidelined",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/163a006490dbfc5d1e3de32c28fc1431.jpg",
-     "url": "https://sports.yahoo.com/articles/raptors-improve-2-0-against-140142696.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-24T14:01:42+00:00"
-    },
-    {
-     "title": "Milwaukee Bucks vs. Philadelphia 76ers Preview & Game Thread: David vs. Goliath?",
-     "summary": "On the second night of a back-to-back, the Bucks have an opportunity to make major noise. Get ya slings out!",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/f1b4dac8d386bd45f7d2a7b1c85566d4.jpg",
-     "url": "https://sports.yahoo.com/articles/milwaukee-bucks-vs-philadelphia-76ers-140000714.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-24T14:00:00+00:00"
-    },
-    {
-     "title": "68-point swing and a Tonga win - how England avoid World Cup exit",
-     "summary": "England need a few things to go their way next weekend to stay in the Men's Rugby League World Cup - but they have at least given themselves a chance.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8050/live/03654f30-cfb4-11f1-b441-2b33b063138f.jpg",
-     "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c6wyvpz0epywo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-24T13:12:45+00:00"
-    },
-    {
-     "title": "‘It feels like a fairy tale’: American Paula Moltzan wins first World Cup race by 0.01sec",
-     "summary": "American, 32, wins season-opening giant slalom Moltzan edges Albania’s Lara Colturi by 0.01sec Mikaela Shiffrin drops from first to seventh place American Paula Moltzan became the oldest woman to clai…",
-     "image": "https://i.guim.co.uk/img/media/16af871ce2e7bde14863539d5eeb89c31a4a1e42/508_0_4456_3565/master/4456.jpg?width=140&quality=85&auto=format&fit=max&s=ce4a216f7fabca72628c171ad1b8df3f",
-     "url": "https://www.theguardian.com/sport/2026/oct/24/paula-moltzan-first-world-cup-win-solden-giant-slalom",
+     "title": "Nicolas Jackson double sees Aston Villa end Manchester City’s perfect start",
+     "summary": "Manchester City added a loss in the Premier League to one to the Premier League, as their perfect record this season vanished without an independent commission in sight. Two of the most in-form strike…",
+     "image": "https://i.guim.co.uk/img/media/08a0f6afd3ebbe76753204d2911375172e92929a/288_0_3641_2913/master/3641.jpg?width=140&quality=85&auto=format&fit=max&s=7df64ec5724957217f7793c4ee814fe7",
+     "url": "https://www.theguardian.com/football/2026/oct/24/aston-villa-manchester-city-premier-league-match-report",
      "source": "Guardian Sport",
-     "published": "2026-10-24T13:07:03+00:00"
-    },
-    {
-     "title": "Infantino says he is backed by 'vast majority'",
-     "summary": "Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the World Cup sell-off debacle.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cac2/live/51c70760-cf99-11f1-b441-2b33b063138f.png",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-24T10:30:08+00:00"
+     "published": "2026-10-24T13:33:01+00:00"
     },
     {
      "title": "Mavericks star Cooper Flagg injured on flagrant foul by Pacers' Aaron Nesmith",
@@ -349,22 +365,6 @@
      "url": "https://www.cbssports.com/nba/news/mavericks-cooper-flagg-injured-flagrant-foul-pacers-aaron-nesmith/",
      "source": "CBS Sports NBA",
      "published": "2026-10-24T03:16:18+00:00"
-    },
-    {
-     "title": "NBA player props, odds, picks, lines: Victor Wembanyama, Stephen Curry part of best bets for Friday",
-     "summary": "We'll highlight some of our favorite player props for Friday's NBA games with help from the SportsLine Projection Model",
-     "image": "https://sportshub.cbsistatic.com/i/2026/06/06/43c05234-f848-4604-a2df-6aa1a3ca2cf1/wemby-game-2-imagn-1.png",
-     "url": "https://www.cbssports.com/betting/news/nba-player-props-odds-picks-lines-victor-wembanyama-stephen-curry-part-of-best-bets-for-friday/",
-     "source": "CBS Sports NBA",
-     "published": "2026-10-23T23:46:57+00:00"
-    },
-    {
-     "title": "‘A different kid’: from karting to F1 champion-elect, Antonelli’s ability has always stood out",
-     "summary": "With first drivers’ title all but secure, a friendlier champion would be hard to find, but Italian’s eight wins this season speak to his focus Even as Kimi Antonelli may be world champion-elect, it is…",
-     "image": "https://i.guim.co.uk/img/media/6f0db2bfb38e108c19c71b67116c874870e6e958/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=bcc793f95ff43d3f2919fdcdad4ec333",
-     "url": "https://www.theguardian.com/sport/2026/oct/23/kimi-antonelli-f1-champion-elect",
-     "source": "Guardian Sport",
-     "published": "2026-10-23T19:00:12+00:00"
     }
    ]
   }
