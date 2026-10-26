@@ -1,64 +1,128 @@
 {
- "generated": "2026-10-26T16:49:40.181079+00:00",
+ "generated": "2026-10-26T19:24:12.772360+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
+    {
+     "title": "教宗良十四世術後復原佳　按照計畫11月出訪南美",
+     "summary": "教廷今天指出，天主教教宗良十四世（Pope Leo XIV）下個月將依照原計畫訪烏拉圭、阿根廷和秘魯，他歷經肺腺癌手術後復原符合預期，身體狀況足以展開11月6日至17日的行程。 現年71歲...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5619642",
+     "source": "自由時報",
+     "published": "2026-10-26T19:06:04+00:00"
+    },
+    {
+     "title": "Anthropic IPO live updates: Here's when the stock lock-ups expire after the first trade",
+     "summary": "All the details from Anthropic's IPO prospectus with the Securities and Exchange Commission.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-26T19:02:22+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》 China trying to isolate Puma Shen: source",
+     "summary": "By Liu Yung-yun and William Hetherington / Staff reporter, with staff writer China is attempting ...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5619581",
+     "source": "自由時報",
+     "published": "2026-10-26T19:00:00+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》 Retiring workers set to outnumber youth 2-to-1: NDC",
+     "summary": "By Kao Chia-ho and Jonathan Chin / Staff reporter, with staff writer An average of 618 Taiwanese ...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5619582",
+     "source": "自由時報",
+     "published": "2026-10-26T19:00:00+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》 OAC and university developing maritime AI drone system",
+     "summary": "COORDINATED MISSIONS: The system would bolster Taiwan’s maritime defense, rescue capabilities and wh...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5619580",
+     "source": "自由時報",
+     "published": "2026-10-26T19:00:00+00:00"
+    },
+    {
+     "title": "Microsoft to reportedly offer buyouts to 60,000 employees in latest cuts",
+     "summary": "Tech company offers buyouts in an effort to reduce costs amid the rising use of AI, according to reports Microsoft announced that it would offer buyouts to 60,000 employees in an effort to reduce cost…",
+     "image": "https://i.guim.co.uk/img/media/f36458784b93fd8a4087d457a37e08ed2b9790d0/665_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=d64e57f63cd601797ea77449f4b12a6d",
+     "url": "https://www.theguardian.com/technology/2026/oct/26/microsoft-buyout-offers-ai-cuts",
+     "source": "Guardian Business",
+     "published": "2026-10-26T18:44:31+00:00"
+    },
+    {
+     "title": "Trump administration pushes for food assistance card upgrade to fight fraud",
+     "summary": "The proposed rule is a major step forward in addressing a form of fraud that has robbed SNAP recipients of millions.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc3%2Fde%2Fd53ece754ceb92fcd7cfb56f2554%2Fap25304786456408.jpg",
+     "url": "https://www.npr.org/2026/10/26/nx-s1-6017810/snap-benefits-ebt-card-chip-usda-rule",
+     "source": "NPR News",
+     "published": "2026-10-26T18:41:43+00:00"
+    },
+    {
+     "title": "Judge says DOJ illegally fired the daughter of former FBI director Comey",
+     "summary": "Maurene Comey served as a federal prosecutor in Manhattan for around a decade. A judicial ruling finding her dismissal unlawful adds to concerns of politically motivated firings at the DOJ.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5164x3443+0+0/resize/5164x3443!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F86%2F9d%2Ff078d878424f89eae569d842a3d0%2Fgettyimages-2239954118.jpg",
+     "url": "https://www.npr.org/2026/10/26/g-s1-149960/judge-maurene-comey-illegal-dismissal",
+     "source": "NPR News",
+     "published": "2026-10-26T18:38:01+00:00"
+    },
+    {
+     "title": "Trump faces private citizens lawsuit over limiting White House media access",
+     "summary": "The plaintiffs argue they are losing access to vital information media outlets covering Trump used to provide.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/26/trump-faces-private-citizens-lawsuit-over-limiting-white-house-media-access?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-26T18:29:26+00:00"
+    },
+    {
+     "title": "Brazil’s real sinks after Lula’s re-election victory",
+     "summary": "Investors react to Lula's victory with a sharp decline in the real and concern over increased spending and fiscal challenges.",
+     "image": "",
+     "url": "https://www.aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-26T18:27:23+00:00"
+    },
     {
      "title": "Lula wins fourth term in dramatic Brazil election comeback",
      "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eab1/live/a6b767f0-d15c-11f1-a701-fddedf244c16.jpg",
      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-10-26T16:49:14+00:00"
+     "published": "2026-10-26T18:26:19+00:00"
     },
     {
-     "title": "長年強人相繼落馬 匈牙利塞爾維亞變天牽動歐洲政局",
-     "summary": "掌權塞爾維亞政壇十餘年的強人武契奇（Aleksandar Vucic），權力基礎歷經近兩年由學生帶領的街頭示威削弱後，於今天舉行的國會大選落敗，震撼巴爾幹半島地緣政治。 紐約時報指出，...…",
+     "title": "Could the midterms change US military support for Israel?",
+     "summary": "From Texas to Michigan, Senate candidates are challenging US weapons transfers to Israel.",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5618906",
-     "source": "自由時報",
-     "published": "2026-10-26T16:41:58+00:00"
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/could-the-midterms-change-americas-military-support-for-israel?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-26T18:05:12+00:00"
     },
     {
-     "title": "Anthropic IPO live updates: Prospectus sheds new light on Alphabet, Amazon stakes",
-     "summary": "All the details from Anthropic's IPO prospectus with the Securities and Exchange Commission.",
+     "title": "US midterm elections 2026 in maps and charts",
+     "summary": "On November 3, Americans decide which party controls the US Congress for the second half of Donald Trump's presidency.",
      "image": "",
-     "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-26T16:38:19+00:00"
+     "url": "https://www.aljazeera.com/news/2026/10/26/us-midterm-elections-2026-in-maps-and-charts?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-26T18:00:07+00:00"
     },
     {
-     "title": "巧合？蔡康永出席蔣萬安競總大會 穿搭竟和大S猝逝後首露面極相似！",
-     "summary": "台北市長蔣萬安26日盛大舉辦競選總部成立大會，知名主持人蔡康永應邀出席，結果被發現一身黑白穿搭竟與去年其藝人好友大S猝逝噩耗傳出後首度公開露面的穿著非常相似，意外引發討論。 ...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5619596",
-     "source": "自由時報",
-     "published": "2026-10-26T16:36:17+00:00"
-    },
-    {
-     "title": "Microsoft offers voluntary buyouts to 60,000 employees",
-     "summary": "Microsoft is trying to balance a rapid infrastructure build-out with capital efficiency.",
+     "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+     "summary": "Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency.",
      "image": "",
      "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
      "source": "CNBC Top News",
-     "published": "2026-10-26T16:30:43+00:00"
+     "published": "2026-10-26T17:40:30+00:00"
     },
     {
-     "title": "Stocks rally to start the week, Nasdaq jumps 1% on Anthropic IPO enthusiasm: Live updates",
-     "summary": "Traders looked ahead to the busiest week of earnings and the Federal Reserve's policy decision due on Wednesday.",
+     "title": "The arc of Trump: How the president lost the coalition that put him in the White House",
+     "summary": "President Trump forged an extraordinary coalition to win office in 2024. A new CNBC survey shows that coalition is now seriously weakened.",
      "image": "",
-     "url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html",
+     "url": "https://www.cnbc.com/2026/10/26/trump-approval-midterms-cnbc-survey.html",
      "source": "CNBC Top News",
-     "published": "2026-10-26T16:30:04+00:00"
-    },
-    {
-     "title": "團隊推「颱風大作戰」遊戲被罵翻  蔣萬安急切割：熱心支持者做的",
-     "summary": "台北市長蔣萬安競選團隊近日推出名為《颱風大作戰—病樹清除隊》的小遊戲，挨轟是企圖將市府無故大量砍樹引發的民怨「合理化」，甚至引發恐嚇市民的質疑；隨著輿論延燒，官網在短短一天內就火...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5619545",
-     "source": "自由時報",
-     "published": "2026-10-26T16:27:52+00:00"
+     "published": "2026-10-26T17:36:55+00:00"
     },
     {
      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
@@ -67,70 +131,6 @@
      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
      "published": "2026-10-26T16:27:17+00:00"
-    },
-    {
-     "title": "‘Everything destroyed’: Hebron businesses count cost of Israeli assault",
-     "summary": "Israeli demolitions and road closures have devastated businesses in Hebron, leaving owners facing millions in losses.",
-     "image": "",
-     "url": "https://www.aljazeera.com/features/2026/10/26/everything-destroyed-hebron-businesses-count-cost-of-israeli-assault?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-26T16:24:24+00:00"
-    },
-    {
-     "title": "Anthropic filing for US stock market listing reveals rapid revenue gains and even larger losses",
-     "summary": "Market debut of AI company behind Claude chatbot will be one of largest in US history, a test of the AI boom’s financial viability Anthropic has publicly filed for a stock market listing in what is sl…",
-     "image": "https://i.guim.co.uk/img/media/445e90b032229c54129ea99217bf19c2cdd0d1a3/315_0_4582_3666/master/4582.jpg?width=140&quality=85&auto=format&fit=max&s=76e41e6d4313a6be1c4ded280c3f071f",
-     "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market",
-     "source": "Guardian Business",
-     "published": "2026-10-26T16:22:28+00:00"
-    },
-    {
-     "title": "政面交鋒》童子瑋：找中華電信、郵局合蓋新市政大樓 一舉數得",
-     "summary": "民進黨基隆市長候選人童子瑋接受本報《政面交鋒》專訪，拋出與國營事業合作，利用中華電信基隆門市、中華郵政公司基隆愛三路郵局與基隆市政府出資，合建30層樓新市政大樓，除了將流落各地...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5619573",
-     "source": "自由時報",
-     "published": "2026-10-26T16:17:10+00:00"
-    },
-    {
-     "title": "Jerusalem Daily: Last minute efforts by Israeli politicians before election",
-     "summary": "Israelis are about to vote in one of the most decisive elections in the country’s history.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jerusalem-daily-last-minute-efforts-by-israeli-politicians-before-election?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-26T16:12:00+00:00"
-    },
-    {
-     "title": "Saddam Haftar is eyeing the throne in Libya",
-     "summary": "As the US looks to broker a unity deal, Saddam is trying to position himself as the main contender for the presidency.",
-     "image": "",
-     "url": "https://www.aljazeera.com/opinions/2026/10/26/saddam-haftar-is-eyeing-the-throne-in-libya?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-26T16:01:19+00:00"
-    },
-    {
-     "title": "Israel committing crimes against humanity in occupied West Bank: UN",
-     "summary": "UN report highlights crimes including extermination, torture, rape and other forms of sexual violence.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/26/israel-committing-crimes-against-humanity-in-occupied-west-bank-un?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-26T15:44:59+00:00"
-    },
-    {
-     "title": "Investors are doing just as well this year by shunning AI. How to invest if the tech trade keeps fizzling",
-     "summary": "An S&P 500 index without AI stocks is beating the traditional index. These sectors and stocks could be winners if the AI trade keeps fraying.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/26/sp-500-ex-ai-index-tech-selloff.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-26T15:39:55+00:00"
-    },
-    {
-     "title": "Visa and Mastercard threatened with potential £5bn UK lawsuit over fees",
-     "summary": "Application made for group claim seeking compensation for companies for alleged overcharging on customer card payments Business live – latest updates Visa and Mastercard are being threatened with a po…",
-     "image": "https://i.guim.co.uk/img/media/97351ac8f230f1c7f40118640ac34050115dec6a/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d714694009da1abc8eedc6ed74f76354",
-     "url": "https://www.theguardian.com/business/2026/oct/26/visa-mastercard-potential-uk-lawsuit-interchange-fees-compensation",
-     "source": "Guardian Business",
-     "published": "2026-10-26T15:30:57+00:00"
     }
    ]
   },
@@ -138,44 +138,76 @@
    "label": "AI",
    "items": [
     {
-     "title": "F1 in Texas: The American race that fans love to attend",
-     "summary": "Ars spends the weekend with the Audi Revolut F1 team at the Circuit of the Americas.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/A2621582-500x500.jpg",
-     "url": "https://arstechnica.com/cars/2026/10/f1-in-texas-one-more-race-and-well-have-a-new-champion/",
+     "title": "Boston Dynamics employees want to block sale of robot dogs to ICE",
+     "summary": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Radeco-Cerberus-robot-500x500.jpg",
+     "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
      "source": "Ars Technica",
-     "published": "2026-10-26T14:48:24+00:00"
+     "published": "2026-10-26T18:50:41+00:00"
     },
     {
-     "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race",
-     "summary": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/roadster-500x500.jpg",
-     "url": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
+     "title": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes",
+     "summary": "Ukraine says Starshield back to normal, denies misuse of Starlink commercial service.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ukraine-starlink-500x500-1793037282.jpg",
+     "url": "https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes/",
      "source": "Ars Technica",
-     "published": "2026-10-26T14:30:27+00:00"
+     "published": "2026-10-26T18:09:08+00:00"
+    },
+    {
+     "title": "GPT-6.1 Terra",
+     "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-terra/ Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 204 # Comments: 100",
+     "image": "",
+     "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-26T18:01:17+00:00"
+    },
+    {
+     "title": "Will the real Anthropic please stand up",
+     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its I…",
+     "image": "",
+     "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+     "source": "MIT Tech Review AI",
+     "published": "2026-10-26T17:45:43+00:00"
+    },
+    {
+     "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
+     "summary": "Investigators explain how highway thieves stole $100M in data center equipment.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/via-Cook-County-Sheriffs-Office-X-500x500.jpeg",
+     "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
+     "source": "Ars Technica",
+     "published": "2026-10-26T17:26:36+00:00"
+    },
+    {
+     "title": "Some iPhone Duo screens are already failing",
+     "summary": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/iphone-duo-oops-500x500.jpg",
+     "url": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
+     "source": "Ars Technica",
+     "published": "2026-10-26T16:51:49+00:00"
+    },
+    {
+     "title": "CSS-Tricks has a new owner",
+     "summary": "Article URL: https://css-tricks.com/css-tricks-has-a-new-owner/ Comments URL: https://news.ycombinator.com/item?id=50245831 Points: 236 # Comments: 57",
+     "image": "",
+     "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-26T15:51:23+00:00"
+    },
+    {
+     "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+     "summary": "Article URL: https://magazine.sebastianraschka.com/p/building-reasoning-models Comments URL: https://news.ycombinator.com/item?id=50245138 Points: 364 # Comments: 52",
+     "image": "",
+     "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-26T15:11:59+00:00"
     },
     {
      "title": "Anthropic S-1",
-     "summary": "Article URL: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm Comments URL: https://news.ycombinator.com/item?id=50242939 Points: 899 # Comments: 804",
+     "summary": "Article URL: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm Comments URL: https://news.ycombinator.com/item?id=50242939 Points: 1214 # Comments: 1167",
      "image": "",
      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
      "source": "Hacker News Front Page",
      "published": "2026-10-26T13:04:50+00:00"
-    },
-    {
-     "title": "From impulse purchase to pocket studio: The M-Vave FM-1",
-     "summary": "M-Vave's cheap FM-1 pocket synth has exploded as a community firmware playground.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/PXL_20261020_212659503.PORTRAIT-500x500.jpg",
-     "url": "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/",
-     "source": "Ars Technica",
-     "published": "2026-10-26T11:00:15+00:00"
-    },
-    {
-     "title": "Websites Should Be Printable",
-     "summary": "Article URL: https://brennenputh.me/blog/printable-websites/ Comments URL: https://news.ycombinator.com/item?id=50241664 Points: 175 # Comments: 133",
-     "image": "",
-     "url": "https://brennenputh.me/blog/printable-websites/",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-26T10:32:14+00:00"
     },
     {
      "title": "外資狂殺台股 3,000 億將補跌千點？法人歷史數據揭「大賣後必有大行情」",
@@ -200,14 +232,6 @@
      "url": "https://technews.tw/2026/10/26/a-dietitians-tips-for-weight-maintenance-after-glp-1-medication/",
      "source": "科技新報 TechNews",
      "published": "2026-10-26T09:00:56+00:00"
-    },
-    {
-     "title": "Switzerland. Block by block. At 1:1 scale",
-     "summary": "Article URL: https://blocks.manifold3d.ch/ Comments URL: https://news.ycombinator.com/item?id=50240922 Points: 381 # Comments: 181",
-     "image": "",
-     "url": "https://blocks.manifold3d.ch/",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-26T08:46:09+00:00"
     },
     {
      "title": "Z 世代成藝術消費霸主，瑞銀數據揭密：買寶可夢卡比傳統名畫更酷",
@@ -240,30 +264,6 @@
      "url": "https://arxiv.org/abs/2610.31789",
      "source": "arXiv cs.AI",
      "published": "2026-10-26T04:00:00+00:00"
-    },
-    {
-     "title": "Patronizing and Condescending Language Detection in English and Mandarin",
-     "summary": "arXiv:2610.31808v1 Announce Type: new Abstract: Patronizing and condescending language (PCL) is a form of harmful language that belittles and assumes pity for vulnerable groups, reinforcing negative s…",
-     "image": "",
-     "url": "https://arxiv.org/abs/2610.31808",
-     "source": "arXiv cs.AI",
-     "published": "2026-10-26T04:00:00+00:00"
-    },
-    {
-     "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
-     "summary": "arXiv:2610.31810v1 Announce Type: new Abstract: Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. We introduce PaperFormalizer, a Lean-based agentic pipeli…",
-     "image": "",
-     "url": "https://arxiv.org/abs/2610.31810",
-     "source": "arXiv cs.AI",
-     "published": "2026-10-26T04:00:00+00:00"
-    },
-    {
-     "title": "Behind the scenes at the NeXT Computer office",
-     "summary": "Article URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry Comments URL: https://news.ycombinator.com/item?id=50238763…",
-     "image": "",
-     "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-26T03:31:11+00:00"
     }
    ]
   },
@@ -271,12 +271,76 @@
    "label": "運動",
    "items": [
     {
-     "title": "Mourinho’s plan comes together as Real Madrid relaunch with clásico statement | Sid Lowe",
-     "summary": "It was just like old times as José Mourinho ended a night at the Camp Nou with a knee slide and three points José Mourinho had already done the por qu é? , the printout and the press conference no-sho…",
-     "image": "https://i.guim.co.uk/img/media/e5dcf6afaf4a38c6fe32b2a1d837afcd500b369b/0_0_4782_3826/master/4782.jpg?width=140&quality=85&auto=format&fit=max&s=e7b962abd67c8a9d84b6e1dd87a8cbab",
-     "url": "https://www.theguardian.com/football/2026/oct/26/mourinhos-plan-comes-together-as-real-madrid-relaunch-with-clasico-statement",
+     "title": "Ballon d’Or 2026: updates from 70th edition in London – live",
+     "summary": "⚽️ Ballon d’Or updates from 8pm GMT ⚽️ Ceremony returns to England in nod to Stanley Matthews ⚽️ Women’s power rankings: will a new winner be crowned? ⚽️ Send your thoughts to Daniel via email Why, th…",
+     "image": "https://i.guim.co.uk/img/media/5e76170f95112cda2f17d0045fd3f93370dbf29a/888_383_3711_2968/master/3711.jpg?width=140&quality=85&auto=format&fit=max&s=eb17fd69f3085536b338085182c9f571",
+     "url": "https://www.theguardian.com/football/live/2026/oct/26/ballon-dor-2026-updates-from-70th-edition-in-london-live",
      "source": "Guardian Sport",
-     "published": "2026-10-26T16:35:26+00:00"
+     "published": "2026-10-26T19:12:55+00:00"
+    },
+    {
+     "title": "Knicks' honeymoon phase over already? Behind the champs' slow start",
+     "summary": "The Knicks are just the third defending champion in NBA history to begin the ensuing season with three consecutive losses. It didn't end well for the previous two teams.",
+     "image": "https://d29szjachogqwa.cloudfront.net/images/2026-10/b5721c33-825a-4434-83ee-0b24b6172efb",
+     "url": "https://sports.yahoo.com/nba/article/knicks-honeymoon-phase-over-already-behind-the-champs-slow-start-190632336.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-26T19:06:32+00:00"
+    },
+    {
+     "title": "Fantasy Basketball Top 200 Rankings: Critical injuries and Ty Jerome's red-hot Week 1",
+     "summary": "The latest top-200 fantasy basketball rankings, with a surprising name leading the way.",
+     "image": "https://media.zenfs.com/en/nbcsports.com/90510eeedbac5846b2ff7ac3740f97e3.jpg",
+     "url": "https://sports.yahoo.com/articles/fantasy-basketball-top-200-rankings-190631266.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-26T19:06:31+00:00"
+    },
+    {
+     "title": "Potential WNBA finals decider to be played at 12.30pm on a Thursday",
+     "summary": "Valkyries-Dream Game 6 to tip at 9.30am on west coast Game moved to larger State Farm Arena in Atlanta Hawks’ NBA game on same day could not be moved Game 6 of the WNBA finals between the Atlanta Drea…",
+     "image": "https://i.guim.co.uk/img/media/a824a71e38ac4a65be7989b11b9db13caf4809e2/498_0_4958_3969/master/4958.jpg?width=140&quality=85&auto=format&fit=max&s=9151732ba22a0a4e0a2b8abed01ceec3",
+     "url": "https://www.theguardian.com/sport/2026/oct/26/wnba-finals-game-6-atlanta-dream-valkyries-state-farm-arena",
+     "source": "Guardian Sport",
+     "published": "2026-10-26T18:47:02+00:00"
+    },
+    {
+     "title": "Magic's Jalen Suggs diagnosed with bone bruise in right knee, will be re-evaluated in 2 weeks",
+     "summary": "Jalen Suggs' knee buckled as he was going up for a layup on Sunday night at Madison Square Garden.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/breaking-news/article/magics-jalen-suggs-diagnosed-with-bone-bruise-in-right-knee-will-be-re-evaluated-in-2-weeks-184734151.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-26T18:44:14+00:00"
+    },
+    {
+     "title": "OKC’s traumatic injury, small sample theater & Texan teams with Slightly Biased",
+     "summary": "Kevin O'Connor & Slightly Biased to unpack the biggest storylines from the NBA’s opening week.",
+     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/koc-jdub-thumb2_3188.png",
+     "url": "https://sports.yahoo.com/nba/article/okcs-traumatic-injury-small-sample-theater--texan-teams-with-slightly-biased-181311065.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-26T18:13:11+00:00"
+    },
+    {
+     "title": "Kane prematurely announced as Ballon d'Or winner - but he wasn't only one",
+     "summary": "Harry Kane's dream of winning the Ballon d'Or seemed as if it had come true on Monday when the organisers released an article claiming he had won the award.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9beb/live/3c6000b0-d166-11f1-87df-afb7a168a1f2.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cmly0g2y7q2zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-26T18:10:26+00:00"
+    },
+    {
+     "title": "McDowell becomes latest major champion to exit LIV",
+     "summary": "Northern Ireland's Graeme McDowell becomes the latest major champion to exit LIV Golf.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3486/live/d7b44550-d15f-11f1-87df-afb7a168a1f2.jpg",
+     "url": "https://www.bbc.co.uk/sport/golf/articles/ck78px63l923o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-26T17:17:31+00:00"
+    },
+    {
+     "title": "2026 NBA betting promos: Get over $3,000 in bonuses from top online betting apps, sportsbooks for Oct. 26",
+     "summary": "Top NBA betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/25/c8ee7b83-1f53-48ad-b4fe-b3e49ff1f0a8/kevin-durant-rockets-vs-hawks-cbs-reuters.jpg",
+     "url": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-get-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-oct-26/",
+     "source": "CBS Sports NBA",
+     "published": "2026-10-26T16:32:14+00:00"
     },
     {
      "title": "'Cutting doubles would destroy careers' - angry players urge ATP rethink",
@@ -287,36 +351,12 @@
      "published": "2026-10-26T16:07:20+00:00"
     },
     {
-     "title": "NBA Stock Up, Stock Down Oct 26: Pistons, Rockets, Timberwolves climb while Heat, Knicks fall",
-     "summary": "Our weekly look at who is up and down in our NBA Power Rankings saw a lot of dramatic movement.",
-     "image": "https://media.zenfs.com/en/nbcsports.com/2df4ead2513a7c1d5d37336c72285b1b.jpg",
-     "url": "https://sports.yahoo.com/articles/nba-stock-stock-down-oct-153855267.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-26T15:38:55+00:00"
-    },
-    {
      "title": "Howe and Nagelsmann high on Man Utd's list if Carrick sacked",
-     "summary": "BBC Sport takes a look at who could replace Michael Carrick at Manchester United if the head coach was sacked.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b578/live/a7efc940-d14e-11f1-9eb5-811878e0f07d.png",
+     "summary": "BBC Sport looks at who could replace Michael Carrick at Manchester United if the head coach is sacked.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e221/live/8c896ba0-d16e-11f1-87df-afb7a168a1f2.jpg",
      "url": "https://www.bbc.co.uk/sport/football/articles/cqdr8zv5dg42o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-10-26T15:34:23+00:00"
-    },
-    {
-     "title": "Why is Wilcox in line of fire from Man Utd fans?",
-     "summary": "With Michael Carrick's position as Man Utd boss under scrutiny, focus has also turned to director of football Jason Wilcox.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cedb/live/3c7b5a40-d14d-11f1-9eb5-811878e0f07d.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/ck5yn5j37en0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-26T15:24:12+00:00"
-    },
-    {
-     "title": "How to watch Golden State Warriors vs Denver Nuggets: TV/live stream info for tonight's game",
-     "summary": "Live coverage begins at 9:30 PM ET on NBCSN and Peacock.",
-     "image": "https://media.zenfs.com/en/nbcsports.com/8ad3462e29199d0f75b75626a74d42a1.jpg",
-     "url": "https://sports.yahoo.com/articles/watch-golden-state-warriors-vs-152340659.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-26T15:23:40+00:00"
     },
     {
      "title": "LeBron James explains why he doesn't want to play a 'sustainable role' at center for the 76ers",
@@ -335,30 +375,6 @@
      "published": "2026-10-26T14:43:51+00:00"
     },
     {
-     "title": "Fantasy Basketball Waiver Wire Week 2: Anthony Black and Alex Caruso headline early injury replacements",
-     "summary": "Anthony Black and Alex Caruso top our list of waiver wire adds after Week 1.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/fantasy-basketball-waiver-wire-week-143431347.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-26T14:34:31+00:00"
-    },
-    {
-     "title": "Can Rockets rely on Steven Adams?",
-     "summary": "Adams is too injury-prone to be a rotational staple.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/e788a1fc7ae3ffd1fc43bd2d90f4142a.jpg",
-     "url": "https://sports.yahoo.com/articles/rockets-rely-steven-adams-142410431.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-26T14:24:10+00:00"
-    },
-    {
-     "title": "Racecourse fined after jockey taken to A&E in horsebox",
-     "summary": "Sedgefield Racecourse is fined £6,500 after failing to comply with five 'general instructions' of safety.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c248/live/c9c064d0-d13f-11f1-8d4e-ef1672a07d66.jpg",
-     "url": "https://www.bbc.co.uk/sport/horse-racing/articles/c6lykg4l72xlo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-26T13:50:26+00:00"
-    },
-    {
      "title": "Thunder star Jalen Williams leaves on stretcher after gruesome leg injury vs. Clippers",
      "summary": "The Oklahoma City star suffered what appeared to be a severe broken leg, an injury that may threaten to derail the Thunder's championship hopes",
      "image": "https://sportshub.cbsistatic.com/i/2026/10/26/f80403e0-3d40-4517-ba91-1146be6e338f/williams-injury-imagn.png",
@@ -375,28 +391,12 @@
      "published": "2026-10-26T08:20:25+00:00"
     },
     {
-     "title": "‘We’re not doing great’: Gilgeous-Alexander in tears after Williams suffers gruesome leg injury",
-     "summary": "Guard stretchered off court after apparent serious injury Team will learn more about status on Monday Shai-Gilgeous Alexander scored 34 points and the Oklahoma City Thunder stayed undefeated but they…",
-     "image": "https://i.guim.co.uk/img/media/89b341d0b2396e97094a59726d0a29af310e50b0/312_0_2413_1932/master/2413.jpg?width=140&quality=85&auto=format&fit=max&s=8963f5d2bc36bda438b06d710bd560ed",
-     "url": "https://www.theguardian.com/sport/2026/oct/25/jalen-williams-injury-thunder-clippers-nba",
-     "source": "Guardian Sport",
-     "published": "2026-10-26T03:06:12+00:00"
-    },
-    {
      "title": "Jalen Suggs goes down with scary-looking injury as Magic continue to feel cursed",
      "summary": "Suggs' knee buckled as he went up for a layup against the Knicks on Sunday",
      "image": "https://sportshub.cbsistatic.com/i/2026/10/26/4e7487db-07d3-4d54-8c2f-e622d4865007/suggs-imagn.png",
      "url": "https://www.cbssports.com/nba/news/jalen-suggs-orlando-magic-injury-update-timeline/",
      "source": "CBS Sports NBA",
      "published": "2026-10-26T03:03:52+00:00"
-    },
-    {
-     "title": "Nikola Jokić says Nuggets fans who booed during comeback win over Pelicans are 'not welcome anymore'",
-     "summary": "Denver's home fans shared their displeasure as the Nuggets fell behind by more than 20 points to the Pelicans",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/25/c872e2bb-e632-4c6c-81a6-965d6eabba0b/joker-getty.png",
-     "url": "https://www.cbssports.com/nba/news/nikola-jokic-nuggets-fans-boos-pelicans/",
-     "source": "CBS Sports NBA",
-     "published": "2026-10-25T16:54:56+00:00"
     }
    ]
   }
