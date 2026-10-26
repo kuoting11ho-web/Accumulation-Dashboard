@@ -1,9 +1,105 @@
 {
- "generated": "2026-10-26T19:24:12.772360+00:00",
+ "generated": "2026-10-26T21:05:06.296595+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
+    {
+     "title": "Lula wins fourth term in dramatic Brazil election comeback",
+     "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eab1/live/a6b767f0-d15c-11f1-a701-fddedf244c16.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-26T21:02:47+00:00"
+    },
+    {
+     "title": "Anthropic's IPO plans: Record losses, AI risks and growth potential outlined in the S-1",
+     "summary": "All the details from Anthropic's IPO prospectus with the Securities and Exchange Commission.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-26T20:47:30+00:00"
+    },
+    {
+     "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+     "summary": "Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-26T20:44:50+00:00"
+    },
+    {
+     "title": "Huge explosion at a weapons depot in Syria",
+     "summary": "",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/huge-explosion-at-a-weapons-depot-in-syria?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-26T20:41:33+00:00"
+    },
+    {
+     "title": "What Vucic’s defeat means for Serbia’s foreign policy",
+     "summary": "Those expecting Belgrade to tilt towards the West may need patience while the new government deals with domestic issues.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/26/what-vucics-defeat-means-for-serbias-foreign-policy?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-26T20:38:40+00:00"
+    },
+    {
+     "title": "How a WhatsApp channel helped Lula win Brazil’s election",
+     "summary": "Over 10 million Lula supporters joined a WhatsApp channel to help boost his campaign.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/brazil-lula-victory-whatsapp-campaign-janones?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-26T20:20:09+00:00"
+    },
+    {
+     "title": "‘Deflections’: Abdul El-Sayed responds to Trump’s anti-Muslim attacks",
+     "summary": "The Democratic candidate for the US Senate has been the subject of Islamophobic attacks from Trump.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/26/deflections-abdul-el-sayed-responds-to-trumps-anti-muslim-attacks?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-26T20:17:09+00:00"
+    },
+    {
+     "title": "伊朗稱與麥加協定締約國達共識　區域安全應由區內國家維護",
+     "summary": "伊朗今天表示，已與麥加協定（Mecca pact）的3個締約國土耳其、沙烏地阿拉伯及巴基斯坦達成共識，認為區域安全應由區域內國家維護，而不是仰賴外國勢力。 法新社報導，伊朗最高國家安全委員...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5619649",
+     "source": "自由時報",
+     "published": "2026-10-26T20:12:04+00:00"
+    },
+    {
+     "title": "Stocks close higher as excitement over Anthropic IPO filing propels tech sector: Live updates",
+     "summary": "Traders looked ahead to the busiest week of earnings and the Federal Reserve's policy decision due on Wednesday.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-26T20:12:02+00:00"
+    },
+    {
+     "title": "傳福斯考慮將中國車用軟體導入歐洲",
+     "summary": "德國「經理人雜誌」今天引述消息人士報導，福斯汽車可能將目前用於中國市場車款的軟體架構導入歐洲大眾化車款，此舉可能影響福斯與美國電動車新創公司Rivian的合作關係。 德國「經理人雜誌」（M...…",
+     "image": "",
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5619645",
+     "source": "自由時報",
+     "published": "2026-10-26T19:30:03+00:00"
+    },
+    {
+     "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+     "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad39/live/ee5424f0-d165-11f1-87df-afb7a168a1f2.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-26T19:27:21+00:00"
+    },
+    {
+     "title": "iPhone Duo owners report cracks in Apple’s first foldable handset",
+     "summary": "Company says small number of devices affected by display glitch after posts appear on Reddit and social media Owners of the new foldable iPhone are reporting cracks in the device’s screen, as Apple co…",
+     "image": "https://i.guim.co.uk/img/media/d5d64580f016d967a9b3ff02a35fdd6728b1d0ec/292_0_3354_2683/master/3354.jpg?width=140&quality=85&auto=format&fit=max&s=9ead8e104efb748f0c390697f07d2511",
+     "url": "https://www.theguardian.com/technology/2026/oct/26/iphone-duo-owners-cracks-apple-first-foldable-handset",
+     "source": "Guardian Business",
+     "published": "2026-10-26T19:15:37+00:00"
+    },
     {
      "title": "教宗良十四世術後復原佳　按照計畫11月出訪南美",
      "summary": "教廷今天指出，天主教教宗良十四世（Pope Leo XIV）下個月將依照原計畫訪烏拉圭、阿根廷和秘魯，他歷經肺腺癌手術後復原符合預期，身體狀況足以展開11月6日至17日的行程。 現年71歲...…",
@@ -13,34 +109,10 @@
      "published": "2026-10-26T19:06:04+00:00"
     },
     {
-     "title": "Anthropic IPO live updates: Here's when the stock lock-ups expire after the first trade",
-     "summary": "All the details from Anthropic's IPO prospectus with the Securities and Exchange Commission.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-26T19:02:22+00:00"
-    },
-    {
      "title": "《TAIPEI TIMES》 China trying to isolate Puma Shen: source",
      "summary": "By Liu Yung-yun and William Hetherington / Staff reporter, with staff writer China is attempting ...…",
      "image": "",
      "url": "https://news.ltn.com.tw/news/focus/breakingnews/5619581",
-     "source": "自由時報",
-     "published": "2026-10-26T19:00:00+00:00"
-    },
-    {
-     "title": "《TAIPEI TIMES》 Retiring workers set to outnumber youth 2-to-1: NDC",
-     "summary": "By Kao Chia-ho and Jonathan Chin / Staff reporter, with staff writer An average of 618 Taiwanese ...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5619582",
-     "source": "自由時報",
-     "published": "2026-10-26T19:00:00+00:00"
-    },
-    {
-     "title": "《TAIPEI TIMES》 OAC and university developing maritime AI drone system",
-     "summary": "COORDINATED MISSIONS: The system would bolster Taiwan’s maritime defense, rescue capabilities and wh...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5619580",
      "source": "自由時報",
      "published": "2026-10-26T19:00:00+00:00"
     },
@@ -59,78 +131,6 @@
      "url": "https://www.npr.org/2026/10/26/nx-s1-6017810/snap-benefits-ebt-card-chip-usda-rule",
      "source": "NPR News",
      "published": "2026-10-26T18:41:43+00:00"
-    },
-    {
-     "title": "Judge says DOJ illegally fired the daughter of former FBI director Comey",
-     "summary": "Maurene Comey served as a federal prosecutor in Manhattan for around a decade. A judicial ruling finding her dismissal unlawful adds to concerns of politically motivated firings at the DOJ.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5164x3443+0+0/resize/5164x3443!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F86%2F9d%2Ff078d878424f89eae569d842a3d0%2Fgettyimages-2239954118.jpg",
-     "url": "https://www.npr.org/2026/10/26/g-s1-149960/judge-maurene-comey-illegal-dismissal",
-     "source": "NPR News",
-     "published": "2026-10-26T18:38:01+00:00"
-    },
-    {
-     "title": "Trump faces private citizens lawsuit over limiting White House media access",
-     "summary": "The plaintiffs argue they are losing access to vital information media outlets covering Trump used to provide.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/26/trump-faces-private-citizens-lawsuit-over-limiting-white-house-media-access?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-26T18:29:26+00:00"
-    },
-    {
-     "title": "Brazil’s real sinks after Lula’s re-election victory",
-     "summary": "Investors react to Lula's victory with a sharp decline in the real and concern over increased spending and fiscal challenges.",
-     "image": "",
-     "url": "https://www.aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-26T18:27:23+00:00"
-    },
-    {
-     "title": "Lula wins fourth term in dramatic Brazil election comeback",
-     "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eab1/live/a6b767f0-d15c-11f1-a701-fddedf244c16.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-26T18:26:19+00:00"
-    },
-    {
-     "title": "Could the midterms change US military support for Israel?",
-     "summary": "From Texas to Michigan, Senate candidates are challenging US weapons transfers to Israel.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/could-the-midterms-change-americas-military-support-for-israel?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-26T18:05:12+00:00"
-    },
-    {
-     "title": "US midterm elections 2026 in maps and charts",
-     "summary": "On November 3, Americans decide which party controls the US Congress for the second half of Donald Trump's presidency.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/26/us-midterm-elections-2026-in-maps-and-charts?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-26T18:00:07+00:00"
-    },
-    {
-     "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
-     "summary": "Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-26T17:40:30+00:00"
-    },
-    {
-     "title": "The arc of Trump: How the president lost the coalition that put him in the White House",
-     "summary": "President Trump forged an extraordinary coalition to win office in 2024. A new CNBC survey shows that coalition is now seriously weakened.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/26/trump-approval-midterms-cnbc-survey.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-26T17:36:55+00:00"
-    },
-    {
-     "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-     "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e394/live/7affbe60-d147-11f1-93e1-3b657b665bcf.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-26T16:27:17+00:00"
     }
    ]
   },
@@ -155,11 +155,19 @@
     },
     {
      "title": "GPT-6.1 Terra",
-     "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-terra/ Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 204 # Comments: 100",
+     "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-terra/ Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 342 # Comments: 203",
      "image": "",
      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
      "source": "Hacker News Front Page",
      "published": "2026-10-26T18:01:17+00:00"
+    },
+    {
+     "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
+     "summary": "Article URL: https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/ Comments URL: https://news.ycombinator.com/item?id=50248005 Points: 150 # Comments: 80",
+     "image": "",
+     "url": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-26T17:54:00+00:00"
     },
     {
      "title": "Will the real Anthropic please stand up",
@@ -168,6 +176,14 @@
      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
      "source": "MIT Tech Review AI",
      "published": "2026-10-26T17:45:43+00:00"
+    },
+    {
+     "title": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
+     "summary": "Article URL: https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/ Comments URL: https://news.ycombinator.com/item?id=50247630 Points: 164 # Comments: 5…",
+     "image": "",
+     "url": "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-26T17:32:16+00:00"
     },
     {
      "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
@@ -186,28 +202,12 @@
      "published": "2026-10-26T16:51:49+00:00"
     },
     {
-     "title": "CSS-Tricks has a new owner",
-     "summary": "Article URL: https://css-tricks.com/css-tricks-has-a-new-owner/ Comments URL: https://news.ycombinator.com/item?id=50245831 Points: 236 # Comments: 57",
+     "title": "Concerning behavior from a popular open-weight AI model",
+     "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 193 # Comments: 74",
      "image": "",
-     "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+     "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
      "source": "Hacker News Front Page",
-     "published": "2026-10-26T15:51:23+00:00"
-    },
-    {
-     "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-     "summary": "Article URL: https://magazine.sebastianraschka.com/p/building-reasoning-models Comments URL: https://news.ycombinator.com/item?id=50245138 Points: 364 # Comments: 52",
-     "image": "",
-     "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-26T15:11:59+00:00"
-    },
-    {
-     "title": "Anthropic S-1",
-     "summary": "Article URL: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm Comments URL: https://news.ycombinator.com/item?id=50242939 Points: 1214 # Comments: 1167",
-     "image": "",
-     "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-26T13:04:50+00:00"
+     "published": "2026-10-26T16:35:44+00:00"
     },
     {
      "title": "外資狂殺台股 3,000 億將補跌千點？法人歷史數據揭「大賣後必有大行情」",
@@ -272,11 +272,35 @@
    "items": [
     {
      "title": "Ballon d’Or 2026: updates from 70th edition in London – live",
-     "summary": "⚽️ Ballon d’Or updates from 8pm GMT ⚽️ Ceremony returns to England in nod to Stanley Matthews ⚽️ Women’s power rankings: will a new winner be crowned? ⚽️ Send your thoughts to Daniel via email Why, th…",
-     "image": "https://i.guim.co.uk/img/media/5e76170f95112cda2f17d0045fd3f93370dbf29a/888_383_3711_2968/master/3711.jpg?width=140&quality=85&auto=format&fit=max&s=eb17fd69f3085536b338085182c9f571",
+     "summary": "⚽️ Ballon d’Or updates from 8.45pm GMT/4.45pm ET ⚽️ Ceremony returns to England in nod to Stanley Matthews ⚽️ Women’s power rankings: will a new winner be crowned? ⚽️ Send your thoughts to Daniel via…",
+     "image": "https://i.guim.co.uk/img/media/850376114936b04ca03e41b44b8364a1357e11e3/158_0_4913_3930/master/4913.jpg?width=140&quality=85&auto=format&fit=max&s=5104066ece61de1bc7cf985ed6ca0d5f",
      "url": "https://www.theguardian.com/football/live/2026/oct/26/ballon-dor-2026-updates-from-70th-edition-in-london-live",
      "source": "Guardian Sport",
-     "published": "2026-10-26T19:12:55+00:00"
+     "published": "2026-10-26T20:57:58+00:00"
+    },
+    {
+     "title": "Cooper Flagg upgraded to probable for Mavericks' game vs. Heat after sitting out Saturday with sprained left shoulder",
+     "summary": "The NBA Rookie of the Year was listed as questionable on the injury report until participating in the Mavericks' shootaround earlier on Monday.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/article/cooper-flagg-upgraded-to-probable-for-mavericks-game-vs-heat-after-sitting-out-saturday-with-sprained-left-shoulder-204317217.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-26T20:43:17+00:00"
+    },
+    {
+     "title": "What Jalen Williams' injury means for the Thunder and why trading for a replacement isn't so simple",
+     "summary": "The Thunder star had to be stretchered off the court on Sunday night, and OKC's season won't be the same moving forward",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/26/edfc1a3f-1b29-4b45-9828-5d863c3503c2/jalen-williams-getty-2.png",
+     "url": "https://www.cbssports.com/nba/news/jalen-williams-injury-means-thunder-trade-options/",
+     "source": "CBS Sports NBA",
+     "published": "2026-10-26T19:42:36+00:00"
+    },
+    {
+     "title": "Today's top games to watch, best bets, odds: Brewers vs. Rays World Series Game 3, Cowboys vs. Eagles MNF",
+     "summary": "Find best bets and props for the biggest games in sports on Monday from the SportsLine Projection Model and top CBS Sports experts",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/20/e0d2033a-c06f-4b36-94a0-5353321e822a/peralta-imagn.png",
+     "url": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-brewers-vs-rays-world-series-game-3-cowboys-vs-eagles-mnf/",
+     "source": "CBS Sports NBA",
+     "published": "2026-10-26T19:30:47+00:00"
     },
     {
      "title": "Knicks' honeymoon phase over already? Behind the champs' slow start",
@@ -311,12 +335,12 @@
      "published": "2026-10-26T18:44:14+00:00"
     },
     {
-     "title": "OKC’s traumatic injury, small sample theater & Texan teams with Slightly Biased",
-     "summary": "Kevin O'Connor & Slightly Biased to unpack the biggest storylines from the NBA’s opening week.",
-     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/koc-jdub-thumb2_3188.png",
-     "url": "https://sports.yahoo.com/nba/article/okcs-traumatic-injury-small-sample-theater--texan-teams-with-slightly-biased-181311065.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-26T18:13:11+00:00"
+     "title": "England-Republic of Ireland U15 World Cup game ends over alleged racism",
+     "summary": "The Under-15 World Cup Group C match between England and Republic of Ireland is abandoned after England allege an opposition player made a racist comment.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70db/live/4cd23300-d157-11f1-9f24-99bf1cc18b1d.png",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cmn8wzldd7q0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-26T18:17:25+00:00"
     },
     {
      "title": "Kane prematurely announced as Ballon d'Or winner - but he wasn't only one",
@@ -343,14 +367,6 @@
      "published": "2026-10-26T16:32:14+00:00"
     },
     {
-     "title": "'Cutting doubles would destroy careers' - angry players urge ATP rethink",
-     "summary": "More than 150 doubles players - including Wimbledon champions and tennis legends - urge the ATP to rethink \"drastic\" cuts which they believe could kill the format.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f313/live/bbf1e2a0-d14b-11f1-9eb5-811878e0f07d.jpg",
-     "url": "https://www.bbc.co.uk/sport/tennis/articles/cr78pxd66d47o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-26T16:07:20+00:00"
-    },
-    {
      "title": "Howe and Nagelsmann high on Man Utd's list if Carrick sacked",
      "summary": "BBC Sport looks at who could replace Michael Carrick at Manchester United if the head coach is sacked.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e221/live/8c896ba0-d16e-11f1-87df-afb7a168a1f2.jpg",
@@ -375,28 +391,12 @@
      "published": "2026-10-26T14:43:51+00:00"
     },
     {
-     "title": "Thunder star Jalen Williams leaves on stretcher after gruesome leg injury vs. Clippers",
-     "summary": "The Oklahoma City star suffered what appeared to be a severe broken leg, an injury that may threaten to derail the Thunder's championship hopes",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/26/f80403e0-3d40-4517-ba91-1146be6e338f/williams-injury-imagn.png",
-     "url": "https://www.cbssports.com/nba/news/jalen-williams-leg-injury-thunder-star/",
-     "source": "CBS Sports NBA",
-     "published": "2026-10-26T12:11:36+00:00"
-    },
-    {
      "title": "Creaking, smug … and a contender? Aaron Rodgers may yet get his Super Bowl farewell",
      "summary": "The 42-year-old remains a polarizing figure. But the Steelers have a formidable defense and a quarterback who has seen it all before Aaron Rodgers is nowhere near this NFL season’s MVP conversation. A…",
      "image": "https://i.guim.co.uk/img/media/05b8342d40c2fc63d3e6f70d4b7f68f978a99a63/1560_862_5455_4367/master/5455.jpg?width=140&quality=85&auto=format&fit=max&s=e91d657ba00e479de6c5a891cbd0af29",
      "url": "https://www.theguardian.com/sport/2026/oct/26/aaron-rodgers-pittsburgh-steelers-nfl",
      "source": "Guardian Sport",
      "published": "2026-10-26T08:20:25+00:00"
-    },
-    {
-     "title": "Jalen Suggs goes down with scary-looking injury as Magic continue to feel cursed",
-     "summary": "Suggs' knee buckled as he went up for a layup against the Knicks on Sunday",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/26/4e7487db-07d3-4d54-8c2f-e622d4865007/suggs-imagn.png",
-     "url": "https://www.cbssports.com/nba/news/jalen-suggs-orlando-magic-injury-update-timeline/",
-     "source": "CBS Sports NBA",
-     "published": "2026-10-26T03:03:52+00:00"
     }
    ]
   }
