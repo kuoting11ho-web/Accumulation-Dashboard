@@ -1,24 +1,128 @@
 {
- "generated": "2026-10-27T18:45:23.635778+00:00",
+ "generated": "2026-10-27T20:47:21.958946+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "S&P 500 rises as chip stocks gain for a second day, oil prices ease: Live updates",
-     "summary": "The major U.S. stock averages ended Monday's session with solid gains.",
+     "title": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
+     "summary": "Companies from Royal Caribbean to Coca-Cola and UPS say they are seeing steady consumer spending despite high inflation.",
      "image": "",
-     "url": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
+     "url": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
      "source": "CNBC Top News",
-     "published": "2026-10-27T18:44:31+00:00"
+     "published": "2026-10-27T20:42:17+00:00"
     },
     {
-     "title": "The WhatsApp ‘general’ behind Lula’s election comeback in Brazil",
-     "summary": "Andre Janones built a WhatsApp army of nearly 11 million subscribers. Did it help Lula win?",
+     "title": "Netanyahu rallies Likud voters with megaphone in shopping mall",
+     "summary": "Israeli Prime Minister Benjamin Netanyahu has urged voters to back his Likud party minutes before polls close.",
      "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/27/the-whatsapp-general-behind-lulas-election-comeback-in-brazil?traffic_source=rss",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/netanyahu-rallies-likud-voters-with-megaphone-in-shopping-mall?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-10-27T18:35:05+00:00"
+     "published": "2026-10-27T20:38:17+00:00"
+    },
+    {
+     "title": "Lebanese and Syrians expect no change in Israeli policy after election",
+     "summary": "Residents in Lebanon and Syria expect little change in Israeli policy after the election.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/aje-onl-nf_lebanese-syrians-expectaions-israeli-elections-271026?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-27T20:34:44+00:00"
+    },
+    {
+     "title": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’",
+     "summary": "Democrats and voting rights groups have raised concerns that President Donald Trump and congressional Republicans could challenge election results if they lose.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-27T20:28:56+00:00"
+    },
+    {
+     "title": "Olivia Chow elected as Toronto mayor for second term in victory for progressives",
+     "summary": "Tightly fought election saw record turnout as incumbent mayor ran against her rival Brad Bradford The mayor of Toronto, Olivia Chow, promised more rental housing, free school lunches and reduce fares…",
+     "image": "https://i.guim.co.uk/img/media/1d1360be16eb7cbb4dfcf8840f03135027f6c509/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=c4fc6f3ea913a72ca079ec0e1e65291c",
+     "url": "https://www.theguardian.com/world/2026/oct/27/olivia-chow-toronto-mayor-election-results",
+     "source": "Guardian World",
+     "published": "2026-10-27T20:23:46+00:00"
+    },
+    {
+     "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+     "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97b7/live/fc424bf0-d23c-11f1-904a-5b90e72e87ff.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-27T20:19:53+00:00"
+    },
+    {
+     "title": "Exit polls following Israeli elections indicate no clear winner",
+     "summary": "The official results are due to be published on November 4, more than a week after the vote.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/27/exit-polls-following-israeli-elections-indicate-no-clear-winner?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-27T20:18:18+00:00"
+    },
+    {
+     "title": "Tanzania’s jailed opposition leader Tundu Lissu ends brief hunger strike",
+     "summary": "Lissu, who faces treason charge carrying a possible death sentence, refused food after being denied access to lawyers.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/27/tanzanias-jailed-opposition-leader-tundu-lissu-ends-brief-hunger-strike?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-27T20:00:46+00:00"
+    },
+    {
+     "title": "路透：小波索納洛拒交護照　巴西大選落敗後赴美",
+     "summary": "兩名消息人士表示，巴西參議員佛拉維歐．波索納洛（Flavio Bolsonaro）在25日總統大選落敗後，拒絕遵守最高法院命令繳交護照，現已離開巴西前往美國。 路透社報導，美國駐巴西大使館...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5620864",
+     "source": "自由時報",
+     "published": "2026-10-27T19:54:04+00:00"
+    },
+    {
+     "title": "美期中選舉在即　川普：若選舉廉潔不論結果如何都尊重",
+     "summary": "美國期中選舉下週將登場，民調顯示民主黨支持度領先共和黨。美國總統川普今天表示，如果選舉廉潔，不論結果如何，他都會尊重；若由民主黨掌控聯邦眾議院，他說，會找到辦法合作，總統握有否決權，最終將透...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5620863",
+     "source": "自由時報",
+     "published": "2026-10-27T19:54:03+00:00"
+    },
+    {
+     "title": "The Ebola outbreak is breaking records -- and just marked a grim milestone",
+     "summary": "The current outbreak, first identified in the Democratic Republic of Congo, has now counted 10,000 patients and has spread with great speed. How can it be stopped?",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7086x4724+0+0/resize/7086x4724!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb6%2F93%2F4ffae611409290d5b15eef9a5f72%2Febola-slideshow-10k-cases-2300979920.jpg",
+     "url": "https://www.npr.org/2026/10/27/g-s1-150136/ebola-outbreak-milestone-democratic-republic-congo-vaccine",
+     "source": "NPR News",
+     "published": "2026-10-27T19:53:12+00:00"
+    },
+    {
+     "title": "Neil Young sues Trump committee for $10M for playing 'Rockin' in the Free World' at rally",
+     "summary": "\"'Rockin' in the Free World' is the opposite of everything that Donald J. Trump stands for,\" the suit by the two-time Rock and Roll Hall of Fame member says.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/27/neil-young-trump-lawsuit-song-copyright-free-world.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-27T19:49:18+00:00"
+    },
+    {
+     "title": "控阿拉伯裔政黨企圖竊取大選　尼坦雅胡挨批為右翼催票",
+     "summary": "以色列大選今天登場，總理尼坦雅胡今天指控阿拉伯裔政治人物試圖竊取大選，以若干人士疑似涉賄被捕當作證明。受指控的一方痛批這個說法是謊言，旨在拉高右翼選民投票率。 法新社報導，尼坦雅胡（Ben...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5620862",
+     "source": "自由時報",
+     "published": "2026-10-27T19:45:03+00:00"
+    },
+    {
+     "title": "繼油電車設限後再出招！歐盟擬擴大防堵中國廉價商品 化學品家具機械將設限",
+     "summary": "知情人士透露，歐盟正計畫動用「防衛措施」（safeguard measures），削減來自中國的化學品、家具與機械等產業的進口商品。 彭博報導，這些措施可能採取進口上限...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5619643",
+     "source": "自由時報",
+     "published": "2026-10-27T19:19:35+00:00"
+    },
+    {
+     "title": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
+     "summary": "Amazon has rapidly integrated AI across the e-commerce giant's sprawling business operations under CEO Andy Jassy.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-27T18:57:45+00:00"
     },
     {
      "title": "Norway and Finland leaders hold rare call with Putin",
@@ -27,110 +131,6 @@
      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
      "published": "2026-10-27T18:28:23+00:00"
-    },
-    {
-     "title": "‘If they’re honest’: Trump casts latest suspicion on US midterm elections",
-     "summary": "Trump's comments come as his administration files legal challenges to Democrat-led US states over election integrity.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/27/if-theyre-honest-trump-casts-latest-suspicion-on-us-midterm-elections?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-27T18:24:13+00:00"
-    },
-    {
-     "title": "以色列大選投票率破紀錄　對尼坦雅胡戰時表現作評斷",
-     "summary": "以色列民眾今天踴躍前往投票所，7個小時內已有44.9%的選民投下選票，速度打破紀錄，藉此對總理尼坦雅胡的戰時表現作評判。選民形容，這是以色列史上最關鍵的一場選舉。 路透社報導，這是自202...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5620856",
-     "source": "自由時報",
-     "published": "2026-10-27T18:21:03+00:00"
-    },
-    {
-     "title": "Budget 2026: six charts that reveal the economic realities facing the chancellor",
-     "summary": "From tackling the youth jobs crisis to repairing Brexit’s economic damage, John Healey has his work cut out for him John Healey will deliver his first budget on Wednesday as UK households and business…",
-     "image": "https://i.guim.co.uk/img/media/407ce8579097546b9602b56f57fa209ba8e7fea9/0_0_1666_1333/master/1666.jpg?width=140&quality=85&auto=format&fit=max&s=0baabba7da5351aee3e2f8a6a8297e5b",
-     "url": "https://www.theguardian.com/uk-news/2026/oct/27/budget-2026-six-charts-underpin-chancellor-decisions-john-healey",
-     "source": "Guardian Business",
-     "published": "2026-10-27T18:15:29+00:00"
-    },
-    {
-     "title": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
-     "summary": "Companies from Royal Caribbean to Coca-Cola and UPS say they are seeing steady consumer spending despite high inflation.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-27T18:12:20+00:00"
-    },
-    {
-     "title": "Jerusalem Daily: Israeli elections underway",
-     "summary": "Voting has begun in Israel, with over seven million eligible voters expected at the polls.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/jerusalem-daily-israeli-elections-underway?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-27T18:12:17+00:00"
-    },
-    {
-     "title": "Arab parties in Israel accuse Netanyahu of inciting hatred to scare voters",
-     "summary": "In one social media post, PM Netanyahu accused Arab voters of 'raiding the polling stations and stealing the elections'.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/27/arab-parties-in-israel-accuse-netanyahu-of-inciting-hatred-to-scare-voters?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-27T18:11:57+00:00"
-    },
-    {
-     "title": "Homes across UK to get low- or no-interest loans to fund solar panels and heat pumps",
-     "summary": "Government-backed Warm Home Loans scheme to help households cut energy bills by hundreds of pounds Households across the UK can now cut their energy bills by hundreds of pounds a year at no upfront co…",
-     "image": "https://i.guim.co.uk/img/media/17b54a4bae860244d70120676fcb8af95df60102/433_0_4624_3701/master/4624.jpg?width=140&quality=85&auto=format&fit=max&s=b79170ac28ac970e7b0f802c440e0459",
-     "url": "https://www.theguardian.com/environment/2026/oct/27/homes-across-uk-to-get-low--or-no-interest-loans-to-fund-solar-panels-and-heat-pumps",
-     "source": "Guardian Business",
-     "published": "2026-10-27T17:28:33+00:00"
-    },
-    {
-     "title": "Anthropic's IPO could be 'speculative fiction' or a 'generational moment' — investors are split",
-     "summary": "Investors are digesting Anthropic's S-1 filing that the Securities and Exchange Commission released on Monday.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/27/-anthropic-ipo-investors-growth-losses-s-1.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-27T17:26:34+00:00"
-    },
-    {
-     "title": "市場權衡歐洲企業財報　歐股收盤走勢不一",
-     "summary": "德國豪華車廠賓士（Mercedes-Benz）今天調降全年獲利預估，歸咎於在中國市場遭遇艱難處境；英國滙豐銀行（HSBC）財報不如預期，拖累倫敦股市下挫，歐股今天收盤漲跌互見。 倫敦FTS...…",
-     "image": "",
-     "url": "https://ec.ltn.com.tw/article/breakingnews/5620845",
-     "source": "自由時報",
-     "published": "2026-10-27T17:21:04+00:00"
-    },
-    {
-     "title": "Flávio Bolsonaro's passports cancelled after he fails to surrender them",
-     "summary": "The defeated presidential candidate is under investigation for alleged money laundering and barred from leaving Brazil.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c0d/live/6e225510-d226-11f1-b8e4-17c9744a7f8e.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-27T17:08:24+00:00"
-    },
-    {
-     "title": "A judge halted D.C. golf course renovations. Trump says they'll still start next month",
-     "summary": "A federal judge has barred the government from clearing more trees or making other alterations to D.C.'s East Potomac Park without proper notice. Trump says his administration will appeal.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7754x5169+0+0/resize/7754x5169!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2F90%2F879403b2402aa1608d41ebaa8131%2Fgettyimages-2283193092.jpg",
-     "url": "https://www.npr.org/2026/10/27/nx-s1-6019192/east-potomac-golf-course-renovations-blocked-appeal",
-     "source": "NPR News",
-     "published": "2026-10-27T17:01:37+00:00"
-    },
-    {
-     "title": "藍大選面臨逆風！小笠原點出兩重傷：弱勢月餅爭議、蔣萬安防守失序",
-     "summary": "九合一大選倒數31天，長期觀察台灣政治、選舉研究的日本政治學者、清大人文社會學院榮譽講座教授小笠原欣幸直言，已明顯看出國民黨面臨逆風，若民進黨能夠拿下台北或新北任一縣市，都將會是...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5620799",
-     "source": "自由時報",
-     "published": "2026-10-27T17:00:08+00:00"
-    },
-    {
-     "title": "蔣萬安造勢喊破5萬！小雞嗨喊「反攻號角」 親藍名嘴潑冷水......",
-     "summary": "台北市長蔣萬安26日在敦化國中操場舉辦競選總部成立大會，宣稱湧入超過5萬人。隔天（27日）國民黨台北市議員李明賢在其主持的網路政論節目《鄉民監察院》上，興沖沖地問資深媒體人黃揚明...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5620827",
-     "source": "自由時報",
-     "published": "2026-10-27T16:54:16+00:00"
     }
    ]
   },
@@ -138,16 +138,40 @@
    "label": "AI",
    "items": [
     {
+     "title": "Google's Android Registered App Stores program launches Dec. 1, applications now open",
+     "summary": "Easier app installs are coming to third-party stores, pending Google's stamp of approval.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-floating-500x500.jpg",
+     "url": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/",
+     "source": "Ars Technica",
+     "published": "2026-10-27T19:32:07+00:00"
+    },
+    {
+     "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+     "summary": "You can apparently now tell AI tools what sort of protein you want them to make.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-615307388-500x500.jpg",
+     "url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+     "source": "Ars Technica",
+     "published": "2026-10-27T18:49:08+00:00"
+    },
+    {
+     "title": "Warner Bros. drops final trailer for Dune: Part Three",
+     "summary": "\"After years of combat, I've become the oppressor Chani had sworn to fight.\"",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/dune1-500x500-1793122976.jpg",
+     "url": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/",
+     "source": "Ars Technica",
+     "published": "2026-10-27T18:05:55+00:00"
+    },
+    {
      "title": "Ghostty 1.4.0",
-     "summary": "Article URL: https://ghostty.org/docs/install/release-notes/1-4-0 Comments URL: https://news.ycombinator.com/item?id=50261998 Points: 218 # Comments: 79",
+     "summary": "Article URL: https://ghostty.org/docs/install/release-notes/1-4-0 Comments URL: https://news.ycombinator.com/item?id=50261998 Points: 416 # Comments: 130",
      "image": "",
      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
      "source": "Hacker News Front Page",
      "published": "2026-10-27T16:51:22+00:00"
     },
     {
-     "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
-     "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 181 # Comments: 105",
+     "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+     "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 265 # Comments: 198",
      "image": "",
      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
      "source": "Hacker News Front Page",
@@ -162,44 +186,20 @@
      "published": "2026-10-27T16:17:58+00:00"
     },
     {
+     "title": "New 14‑inch MacBook Pro with M6",
+     "summary": "Article URL: https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/ Comments URL: https://news.ycombinator.com/item?id=50261352 Points: 169 # Comments: 180",
+     "image": "",
+     "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-27T16:08:32+00:00"
+    },
+    {
      "title": "Genie 4",
-     "summary": "Article URL: https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/ Comments URL: https://news.ycombinator.com/item?id=50261319 Points: 348 # Comments: 198",
+     "summary": "Article URL: https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/ Comments URL: https://news.ycombinator.com/item?id=50261319 Points: 495 # Comments: 295",
      "image": "",
      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
      "source": "Hacker News Front Page",
      "published": "2026-10-27T16:06:01+00:00"
-    },
-    {
-     "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
-     "summary": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/vlcsnap-2026-10-27-10h06m52s461-500x500.png",
-     "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
-     "source": "Ars Technica",
-     "published": "2026-10-27T16:00:22+00:00"
-    },
-    {
-     "title": "From cheap tool to premium subscription: When a beloved app's price skyrockets",
-     "summary": "Huge price hikes force loyal users to reconsider their favorite apps.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1321941710-500x500.jpg",
-     "url": "https://arstechnica.com/gadgets/2026/10/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets/",
-     "source": "Ars Technica",
-     "published": "2026-10-27T15:50:19+00:00"
-    },
-    {
-     "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-     "summary": "Article URL: https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/ Comments URL: https://news.ycombinator.com/item?id=50260814 Points: 180 # Comments: 88",
-     "image": "",
-     "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-27T15:28:26+00:00"
-    },
-    {
-     "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
-     "summary": "I respect Apple's first crack at a foldable phone, but I'm not sure I like it.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/IMG_3790-500x500.jpeg",
-     "url": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
-     "source": "Ars Technica",
-     "published": "2026-10-27T14:20:26+00:00"
     },
     {
      "title": "蘋果創作坊也導入 OpenAI 技術，AI 助理進駐 Keynote、Pages",
@@ -271,36 +271,116 @@
    "label": "運動",
    "items": [
     {
-     "title": "Dynasty Basketball Stock Watch: Ty Jerome, Leonard Miller rising, uncertainty for Jalen Williams",
-     "summary": "Tracking the biggest risers, fallers and emerging prospects in dynasty fantasy basketball leagues.",
-     "image": "https://media.zenfs.com/en/nbcsports.com/d2aa1620b6b3a923ea57251604d24ddb.jpg",
-     "url": "https://sports.yahoo.com/articles/dynasty-basketball-stock-watch-ty-181436161.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-27T18:14:36+00:00"
+     "title": "Fleetwood Town v Arsenal: Carabao Cup fourth round – live",
+     "summary": "⚽ League Cup updates from the 8pm GMT kick-off ⚽ Game briefly delayed by drone over Highbury | Mail Niall Here’s the Fleetwood head coach, Matt Lawlor: “We’ve had to make changes, with the champions i…",
+     "image": "https://i.guim.co.uk/img/media/76e7cf5720afb02052cffc792c2e3bf83302daf7/290_57_3140_2512/master/3140.jpg?width=140&quality=85&auto=format&fit=max&s=b58983a17ca2d95c0d4a2256f1d413b2",
+     "url": "https://www.theguardian.com/football/live/2026/oct/27/fleetwood-town-v-arsenal-carabao-cup-fourth-round-live",
+     "source": "Guardian Sport",
+     "published": "2026-10-27T20:32:55+00:00"
     },
     {
-     "title": "Lancashire treatment of Anderson disrespectful - Broad",
-     "summary": "Lancashire have been \"pretty disrespectful\" in their treatment of legendary bowler James Anderson, says his long-time England bowler partner Stuart Broad.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99ff/live/3bd4a930-d22d-11f1-b8e4-17c9744a7f8e.jpg",
-     "url": "https://www.bbc.co.uk/sport/cricket/articles/ck5ynrz680q4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-27T17:47:58+00:00"
-    },
-    {
-     "title": "Why the simmering Jaylen Brown and Jayson Tatum feud is good for the NBA -- and the 76ers-Celtics rivalry",
-     "summary": "Beef? Lamb chop? Whatever it is, the Brown and Tatum drama will be must-see TV when the Sixers and Celtics square off",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/27/793b38d1-de34-4232-b098-b3f345a36cc8/jayson-tatum-jaylen-brown-getty.png",
-     "url": "https://www.cbssports.com/nba/news/jaylen-brown-jayson-tatum-feud-good-for-nba-76ers-celtics-rivalry/",
+     "title": "Jazz big man Jaren Jackson Jr. to reportedly miss 6-8 weeks, which stings even more after Walker Kessler move",
+     "summary": "Utah has only played four games, but is already hurting for frontcourt depth",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/27/52cff377-f0ae-4984-8efe-a5f249d869ef/jjj-getty.png",
+     "url": "https://www.cbssports.com/nba/news/jaren-jackson-jr-injury-update-timeline-utah-jazz-lauri-markkanen/",
      "source": "CBS Sports NBA",
-     "published": "2026-10-27T17:24:24+00:00"
+     "published": "2026-10-27T20:29:03+00:00"
     },
     {
-     "title": "NBA rookie first impressions & early injury fallout with Tom Haberstroh",
-     "summary": "Kevin O'Connor & Tom Haberstroh recap the latest NBA news and share their rookie first impressions.",
-     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/koc-boozerdp-thumb_4831.png",
-     "url": "https://sports.yahoo.com/nba/article/nba-rookie-first-impressions--early-injury-fallout-with-tom-haberstroh-172036695.html",
+     "title": "Fleetwood-Arsenal halted for eight minutes because of drone",
+     "summary": "Arsenal's match with Fleetwood Town in the last-16 of the Carabao Cup is delayed for more than eight minutes after a drone is spotted above the stadium during the match.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ae7/live/a9a20c40-d242-11f1-84cb-7d14463da0ae.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cmqlngxw6lv3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-27T20:26:31+00:00"
+    },
+    {
+     "title": "Ex-NBA player Malik Beasley agrees to plea deal with Department of Justice in illegal sports betting case",
+     "summary": "Beasley's lawyer confirmed he agreed to a plea deal for manipulating stats to win prop bets",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/24/fd22a4d6-b4cf-42b3-988a-e2f458bb7133/beasley.jpg",
+     "url": "https://www.cbssports.com/nba/news/malik-beasley-plea-deal-department-of-justice-illegal-sports-betting/",
+     "source": "CBS Sports NBA",
+     "published": "2026-10-27T20:19:40+00:00"
+    },
+    {
+     "title": "Ex-NBA guard Malik Beasley to plead guilty after involvement in gambling scheme",
+     "summary": "Malik Beasley was indicted in June after prosecutors said he manipulated several NBA games in a larger gambling scheme.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/article/ex-nba-guard-malik-beasley-to-plead-guilty-after-involvement-in-gambling-scheme-201748994.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-10-27T17:20:36+00:00"
+     "published": "2026-10-27T20:17:48+00:00"
+    },
+    {
+     "title": "An unmanageable club? Carrick the latest to suffer in Manchester United’s faded grandeur",
+     "summary": "Only Matt Busby and Alex Ferguson have truly succeeded in the Old Trafford hot seat with each casting uneasy shadows Should any football club fit the Great Man theory of history it is Manchester Unite…",
+     "image": "https://i.guim.co.uk/img/media/30252404116b7b2759c3cfc0a3f19ae6bacdf054/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4125ff0e2711aba2053a97e09bb70999",
+     "url": "https://www.theguardian.com/football/2026/oct/27/manchester-united-michael-carrick-faded-grandeur",
+     "source": "Guardian Sport",
+     "published": "2026-10-27T20:02:34+00:00"
+    },
+    {
+     "title": "Bam Adebayo feels like the 'scapegoat' amid struggles, Heat's 0-4 start to the season",
+     "summary": "The Dallas Mavericks beat Miami 113-109 on Monday night despite a triple-double from new Heat star Giannis Antetokounmpo.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/article/bam-adebayo-feels-like-the-scapegoat-amid-struggles-heats-0-4-start-to-the-season-194055435.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-27T19:40:55+00:00"
+    },
+    {
+     "title": "Hornets to retire the jersey of Muggsy Bogues, the shortest player in NBA history",
+     "summary": "The No. 1 of the 5-foot-3 Bogues will be headed to the rafters in Charlotte on Feb. 11, 2027",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/27/8c230a35-fb4b-4ed2-9e14-9ba057eff34d/muggsy-getty.png",
+     "url": "https://www.cbssports.com/nba/news/hornets-retire-jersey-muggsy-bogues-shortest-player-nba-history/",
+     "source": "CBS Sports NBA",
+     "published": "2026-10-27T19:33:53+00:00"
+    },
+    {
+     "title": "Today's top games to watch, best bets, odds: Brewers at Rays World Series Game 4, Blazers at Lakers and more",
+     "summary": "Find best bets and props for the biggest games in sports on Tuesday from the SportsLine Projection Model and top CBS Sports experts",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/27/df14fc97-9be7-4e5a-adec-17903ef08f44/brewers-imagn-1.png",
+     "url": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-brewers-at-rays-world-series-game-4-blazers-at-lakers-and-more/",
+     "source": "CBS Sports NBA",
+     "published": "2026-10-27T19:30:52+00:00"
+    },
+    {
+     "title": "Jazz C Jaren Jackson Jr. has torn MCL, out at least 6 weeks; Lauri Markkanen day-to-day with wrist sprain",
+     "summary": "Jackson sustained his injury Monday in a game against his former Grizzlies.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/breaking-news/article/jazz-c-jaren-jackson-jr-has-torn-mcl-out-at-least-6-weeks-lauri-markkanen-day-to-day-with-wrist-sprain-201339761.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-27T19:19:18+00:00"
+    },
+    {
+     "title": "Sliding Colts trade All-Pro guard Quenton Nelson to Seahawks for draft picks",
+     "summary": "30-year-old is an eight-time Pro Bowl selection Indianapolis fired GM Ballard last week amid skid The Indianapolis Colts have traded All-Pro guard Quenton Nelson to the Seattle Seahawks, a person with…",
+     "image": "https://i.guim.co.uk/img/media/d3fd4471c2967f48947f794a8fa2d5561204dc89/0_0_2308_1846/master/2308.jpg?width=140&quality=85&auto=format&fit=max&s=b10a7b591bd6e4b75c722c4091f17f81",
+     "url": "https://www.theguardian.com/sport/2026/oct/27/quenton-nelson-colts-seahawks-trade-nfl",
+     "source": "Guardian Sport",
+     "published": "2026-10-27T19:18:07+00:00"
+    },
+    {
+     "title": "Ballon d'Or in London - the most chaotic ever?",
+     "summary": "It was the first time the Ballon d'Or had been held in London in its 70-year history - but the event was not plain sailing. BBC Sport assesses a chaotic night.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/047c/live/b205ec60-d208-11f1-b3b6-c1e79e957e40.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c6y8lgg21l89o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-27T19:06:02+00:00"
+    },
+    {
+     "title": "Man Utd stick with Carrick - inside a turbulent 48 hours at Old Trafford",
+     "summary": "BBC Sport looks at the 48 hours that led to Manchester United deciding to keep under-pressure Michael Carrick as their head coach for Saturday's trip to Chelsea.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0191/live/aa944b90-d22e-11f1-a701-fddedf244c16.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cwz0vgj35k7mo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-27T18:56:36+00:00"
+    },
+    {
+     "title": "Muggsy Bogues will have his No. 1 jersey retired by Hornets in February",
+     "summary": "The team will honor the franchise legend before a February game against the Bucks.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/article/muggsy-bogues-will-have-his-no-1-jersey-retired-by-hornets-in-february-190215447.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-27T18:47:11+00:00"
     },
     {
      "title": "Australia fight back to keep Cummins out of unwanted club... for now",
@@ -311,92 +391,12 @@
      "published": "2026-10-27T17:10:04+00:00"
     },
     {
-     "title": "Why Knicks may not be their best right away — and why not to worry",
-     "summary": "The reigning champion Knicks fell to 0-3 on the new season, pointing to either violent regression or a debilitating hangover, depending on who you ask. But is the slow start somewhat by design?",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/why-knicks-may-not-best-165702984.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-27T16:57:02+00:00"
-    },
-    {
-     "title": "How to watch Portland Trail Blazers vs Los Angeles Lakers: TV/live stream info for tonight's game",
-     "summary": "Tip-off is at 11:00 PM ET on NBC and Peacock.",
-     "image": "https://media.zenfs.com/en/nbcsports.com/8ad3462e29199d0f75b75626a74d42a1.jpg",
-     "url": "https://sports.yahoo.com/articles/watch-portland-trail-blazers-vs-164243188.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-27T16:42:43+00:00"
-    },
-    {
-     "title": "Winners and losers of NBA's first week: Giannis' Heat are ice cold, OKC injuries and new-look wonders",
-     "summary": "We're seven days into the 2026-27 NBA season, and the first week has been kind to some and harsh to others",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/25/5c8bfbe9-d5b3-4f8d-b616-02c2c107bd5f/giannis-heat-getty-2.png",
-     "url": "https://www.cbssports.com/nba/news/winners-and-losers-of-nbas-first-week-giannis-heat-okc-injuries-new-look-wonders/",
-     "source": "CBS Sports NBA",
-     "published": "2026-10-27T16:30:28+00:00"
-    },
-    {
-     "title": "Kawhi Leonard sidelined with knee injury, which means he'll miss his return to Clippers' Intuit Dome",
-     "summary": "Leonard will not be on the floor as the Raptors make their only trip to L.A. next week",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/27/5eb817df-5b27-43f7-a0af-7277bf8ac433/kawhi.jpg",
-     "url": "https://www.cbssports.com/nba/news/kawhi-leonard-sidelined-knee-injury-miss-return-to-clippers-intuit-dome/",
-     "source": "CBS Sports NBA",
-     "published": "2026-10-27T16:17:58+00:00"
-    },
-    {
-     "title": "2026 NBA betting promos: Get over $3,000 in bonuses from top online betting apps, sportsbooks for Oct. 27",
-     "summary": "Top NBA betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/26/50059aca-cd1d-452e-9f0d-3fd5e0ab0c82/jalen-brunson-knicks.jpg",
-     "url": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-get-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-oct-27/",
-     "source": "CBS Sports NBA",
-     "published": "2026-10-27T15:00:25+00:00"
-    },
-    {
-     "title": "Ballon d'Or in London - the most chaotic ever?",
-     "summary": "It was the first time the Ballon d'Or had been held in London in its 70-year history - but the event was not plain sailing. BBC Sport assesses a chaotic night.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/047c/live/b205ec60-d208-11f1-b3b6-c1e79e957e40.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c6y8lgg21l89o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-27T14:10:26+00:00"
-    },
-    {
-     "title": "Carrick to stay in charge of Man Utd for Chelsea game",
-     "summary": "Michael Carrick will remain in charge of Manchester United for their trip to Chelsea this weekend.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a02/live/af396ea0-d1f7-11f1-8c9f-8d21fef6ffad.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/crlykgeqzypyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-27T12:10:21+00:00"
-    },
-    {
-     "title": "Kane’s Ballon d’Or triumph a glorious riposte to celebrity fawning of ceremony | Barney Ronay",
-     "summary": "The England captain spoke movingly on a night of deserving winners and unintentional hilarity in London Well, there’s something new. Football: now available in new, genuinely heartwarming flavour. The…",
-     "image": "https://i.guim.co.uk/img/media/759e1c5e2bd2369fac929d04b10dc18416d063e1/0_501_2198_1758/master/2198.jpg?width=140&quality=85&auto=format&fit=max&s=52fb6656d759d143bb0c017eea0699b3",
-     "url": "https://www.theguardian.com/football/2026/oct/27/harry-kane-ballon-dor-triumph-ceremony-barney-ronay",
+     "title": "Police called to Florida soccer game after parents say three-year-old benched for being too good",
+     "summary": "Organizer says parents were causing disturbance No one arrested or made to leave game in Florida Police were called after a dispute involving the parents of a three-year-old player at a soccer game in…",
+     "image": "https://i.guim.co.uk/img/media/a1a91a4e788e2b729992e487bc6df6be0b0a1298/311_0_1767_1414/master/1767.jpg?width=140&quality=85&auto=format&fit=max&s=bb01f9990b91209284885d7a2fe590aa",
+     "url": "https://www.theguardian.com/football/2026/oct/27/florida-soccer-game-three-year-old-boy-benched-police",
      "source": "Guardian Sport",
-     "published": "2026-10-27T08:00:06+00:00"
-    },
-    {
-     "title": "Eagles’ nightmare season deepens as Cowboys hand Philadelphia fifth straight loss",
-     "summary": "Prescott throws three touchdowns in Dallas victory Javonte Williams rushes for career-high 155 yards Eagles fall to 2-5 amid Jalen Hurts injury absence Dak Prescott threw for 212 yards and three touch…",
-     "image": "https://i.guim.co.uk/img/media/f33a845eaca460fc3bf006965c3f6d9705762626/870_0_5392_4315/master/5392.jpg?width=140&quality=85&auto=format&fit=max&s=2fddb68051cd9d0a714bbb7559f559bf",
-     "url": "https://www.theguardian.com/sport/2026/oct/27/cowboys-eagles-dak-prescott-javonte-williams-nfl-monday-night-football",
-     "source": "Guardian Sport",
-     "published": "2026-10-27T04:39:28+00:00"
-    },
-    {
-     "title": "Ruthless Brewers close in on World Series sweep after crushing Rays 10-1 in Game 3",
-     "summary": "Milwaukee one win from first World Series title Brewers lead series 3-0 after resounding win in Tampa Jackson Chourio and Brice Turang sparked Milwaukee’s eight-run fifth inning, and the Brewers route…",
-     "image": "https://i.guim.co.uk/img/media/1053726ccdb1abb592a120bfbb519b526c4ddda9/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=27ec9740b0e8bc00ce09704887c7af4f",
-     "url": "https://www.theguardian.com/sport/2026/oct/26/brewers-rays-world-series-game-3-baseball",
-     "source": "Guardian Sport",
-     "published": "2026-10-27T03:22:00+00:00"
-    },
-    {
-     "title": "Golden State Valkyries one win from WNBA title after Game 5 win over Atlanta Dream",
-     "summary": "WNBA finals Game 5: Dream 55-64 Valkyries Golden State lead best-of-seven series 3-2 Valkyries could win title in second WNBA season Kiah Stokes kept swatting shots on the interior, while Veronica Bur…",
-     "image": "https://i.guim.co.uk/img/media/948f8f0a08cb53c27ccb0129f348029e324ea5ac/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=a4d982413bdecaeeee73f8c1f3d30b3f",
-     "url": "https://www.theguardian.com/sport/2026/oct/26/wnba-finals-game-5-dream-valkyries-basketball",
-     "source": "Guardian Sport",
-     "published": "2026-10-27T02:39:46+00:00"
+     "published": "2026-10-27T12:07:25+00:00"
     }
    ]
   }
