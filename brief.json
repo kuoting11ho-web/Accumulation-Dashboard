@@ -1,136 +1,136 @@
 {
- "generated": "2026-10-28T16:42:37.468070+00:00",
+ "generated": "2026-10-28T18:55:52.942146+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "Fed meeting live updates: No hike expected, but investors watching Warsh for what's next",
-     "summary": "Markets are pricing in less than a 10% chance that the FOMC follows up its quarter--point hike in September with another increase.",
+     "title": "Oracle stock pops 10% on forecast for 35% average revenue growth through 2030",
+     "summary": "Oracle issued a revenue forecast for fiscal year 2030 of $225 billion, and said it will limit additional fundraising over that stretch to $20 billion.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-28T18:54:26+00:00"
+    },
+    {
+     "title": "S&P 500 gains for a third day as Fed pauses on rate hikes, Oracle shares rally: Live updates",
+     "summary": "The S&P 500 rose on Wednesday as investors reacted to the Federal Reserve's latest interest rate decision.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/27/stock-market-today-live-updates.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-28T18:54:11+00:00"
+    },
+    {
+     "title": "Fed Chair Warsh says central bank to reduce the number of rate-setting meetings in coming years",
+     "summary": "The Federal Reserve held steady on rates at the conclusion of its October meeting, maintaining its target range of 3.75% to 4%.",
      "image": "",
      "url": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
      "source": "CNBC Top News",
-     "published": "2026-10-28T16:40:09+00:00"
+     "published": "2026-10-28T18:51:59+00:00"
     },
     {
-     "title": "西班牙高鐵追撞至少68死　交通部長：調度中心下錯指令",
-     "summary": "西班牙一班高鐵今天撞上另一班停在軌道上的高鐵列車，造成至少68人死亡，車廂嚴重毀損。交通部長表示，這起事故是因鐵路中央調度中心下達「難以理解」的指令所致。 美聯社報導，卡斯提亞曼加自治區（...…",
+     "title": "Five key takeaways from the UK Autumn Budget",
+     "summary": "The United Kingdom's government says its policies are for the 'working people of Britain'.",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5622067",
-     "source": "自由時報",
-     "published": "2026-10-28T16:30:06+00:00"
-    },
-    {
-     "title": "中國發現2.3億年前「海異螈」化石 兩棲動物可能完全生活在海洋",
-     "summary": "中國貴州省地質博物館、北京大學、美國加州大學戴維斯分校組成的跨國研究團隊，在貴州省關嶺縣晚三疊世地層中，發現兩件近乎完整、體長約為74公分的骨骼化石，確認為距今約2.37億年的兩...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/novelty/breakingnews/5622026",
-     "source": "自由時報",
-     "published": "2026-10-28T16:28:39+00:00"
-    },
-    {
-     "title": "Budget 2026 live: £100 energy payment for millions and rise in bank tax as watchdog warns on stalling living standards",
-     "summary": "OBR says that living standards are forecast to rise by just 1% over the whole post-Covid decade Budget 2026: key points at a glance Martin Lewis said that, when he met John Healey this morning, the ch…",
-     "image": "https://i.guim.co.uk/img/media/5e7783b8b11caa8c81d9b44a1e98e61549ec79e1/615_0_2109_1688/master/2109.jpg?width=140&quality=85&auto=format&fit=max&s=fcf4cf8d39158530315ff801ccdaa465",
-     "url": "https://www.theguardian.com/uk-news/live/2026/oct/28/budget-2026-latest-updates-john-healey-andy-burnham-labour-uk-politics",
-     "source": "Guardian Business",
-     "published": "2026-10-28T16:28:14+00:00"
-    },
-    {
-     "title": "劍指美軍與台海！中國部署太空雷射武器 估2020年代末成軍",
-     "summary": "最新的美國情報報告首度披露中國極機密「太空飛機」（spaceplane）的罕見衛星照片，同時警告，北京當局正擴大追蹤美軍的能力，可能在2020年代末部署「天基」（space-...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5622046",
-     "source": "自由時報",
-     "published": "2026-10-28T16:27:04+00:00"
-    },
-    {
-     "title": "Stocks making the biggest moves midday: Wendy's, Wingstop, F5, Enphase Energy, Labcorp & more",
-     "summary": "Here are some of the companies making headlines in midday trading.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/28/stocks-making-the-biggest-moves-midday-wen-wing-ffiv-enph-lh.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-28T16:19:45+00:00"
-    },
-    {
-     "title": "西班牙列車相撞至少68死：我們目前已知甚麼？",
-     "summary": "西班牙兩列載有逾500名乘客的高速列車相撞。該國交通部長表示，電腦系統故障導致列車一度停駛，但控制中心其後在「令人費解的情況下」，沒有實施速度限制而允許列車恢復行駛，最終釀成事故。",
-     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/256e/live/5a36fd20-d2db-11f1-b677-b762d2f83f6e.jpg",
-     "url": "https://www.bbc.com/zhongwen/articles/c50mejwyrypno/trad?at_medium=RSS&at_campaign=rss",
-     "source": "BBC 中文",
-     "published": "2026-10-28T16:16:36+00:00"
-    },
-    {
-     "title": "鐵票倉鬆動？11月生肖運勢震盪：3生肖逆襲、4生肖恐突槌",
-     "summary": "〔娛樂頻道／綜合報導〕九合一選戰進入倒數30天，隨著選情對決白熱化，連藍綠白參選人的「生肖命盤」也成焦點！命理專家林霖老師提醒，本月各生肖氣場出現極端兩極化，事業與財運磁場也迎來一波關鍵轉折，其...…",
-     "image": "",
-     "url": "https://ent.ltn.com.tw/news/breakingnews/5622057",
-     "source": "自由時報",
-     "published": "2026-10-28T16:15:00+00:00"
-    },
-    {
-     "title": "Kremlin says European countries not included in next Ukraine talks",
-     "summary": "The comment comes as UK and Netherlands pledge extra military support for Kyiv.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss",
+     "url": "https://www.aljazeera.com/economy/2026/10/28/five-key-takeaways-from-the-uk-autumn-budget?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-10-28T16:12:02+00:00"
+     "published": "2026-10-28T18:46:45+00:00"
     },
     {
-     "title": "Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96",
-     "summary": "Huerta co-founded the United Farm Workers union to improve working conditions in the nation's fruit and vegetable fields and coined the phrase \"Sí, se puede!\" that became a widespread rallying cry.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2666x1777+0+0/resize/2666x1777!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F02%2F71%2F87628dfc406cb1b6418252a2ccf5%2Fap26296676247718.jpg",
-     "url": "https://www.npr.org/2026/10/28/nx-s1-6020543/dolores-huerta-dies",
+     "title": "Fuel costs force US cruise ship to suspend multi-year voyage in Cambodia",
+     "summary": "Hundreds of passengers are stranded after the ship’s three-and-a-half year voyage was cut short due to fuel costs.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/28/fuel-costs-force-us-cruise-ship-to-suspend-multi-year-voyage-in-cambodia?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-28T18:34:10+00:00"
+    },
+    {
+     "title": "Jerusalem Daily: What’s next after Israel’s elections?",
+     "summary": "Prime Minister Benjamin Netanyahu and former military chief Gadi Eisenkot are both claiming victory in Israel’s election",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/jerusalem-daily-whats-next-after-israels-elections?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-28T18:31:33+00:00"
+    },
+    {
+     "title": "果粉哭！蘋果平價筆電MacBook Neo又悄悄漲價　4個月漲兩次",
+     "summary": "蘋果主打平價的MacBook Neo又偷偷漲價了，目前最新價格已來到23,900元起，短短4個月內二度調漲，讓果粉不禁感嘆「早買早享受，晚買更傷荷包」。 …",
+     "image": "",
+     "url": "https://3c.ltn.com.tw/news/68103",
+     "source": "自由時報",
+     "published": "2026-10-28T18:30:00+00:00"
+    },
+    {
+     "title": "Budget 2026: what it means for your wallet, your mortgage and your pay",
+     "summary": "How the chancellor’s measures on tax, benefits and pensions will affect your personal finances Healey offers £100 payment to households to help navigate ‘global economic storms’ Budget 2026: key point…",
+     "image": "https://i.guim.co.uk/img/media/1fe98413fecc33da5508e67f679fca36074fbf95/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=5c340aae654684b5de4d5434d66aef79",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-what-it-means-for-you",
+     "source": "Guardian Business",
+     "published": "2026-10-28T18:14:08+00:00"
+    },
+    {
+     "title": "美期中選舉前　聯準會利率按兵不動",
+     "summary": "在美國期中選舉前，美國聯邦準備理事會（Fed）今天在政策會議上宣布維持利率不變，符合市場預期，即便美國通膨仍居高不下。 聯準會聯邦公開市場委員會（FOMC）在9月上次會議中投票決議，3年來...…",
+     "image": "",
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5622080",
+     "source": "自由時報",
+     "published": "2026-10-28T18:12:03+00:00"
+    },
+    {
+     "title": "蘋果首款觸控MacBook Pro來了！導入動態島　近10萬元起跳",
+     "summary": "蘋果終於打破Mac不支援觸控螢幕的傳統，首款觸控筆電MacBook Pro正式登場，蘋果仍以「MacBook Pro」命名，不只首度加入觸控功能，還換上雙層OLED螢幕，連iPhone招牌的「動態島」也搬上筆電，以及更輕薄的機身，堪稱蘋果筆電歷代的最大變革。台灣預計10月30日開放預購，並於11月6日上市。 全新MacBook Pro總共推出14.2吋、16.3吋，最大亮點就是首度支援觸控螢幕，使…",
+     "image": "",
+     "url": "https://3c.ltn.com.tw/news/68104",
+     "source": "自由時報",
+     "published": "2026-10-28T18:10:00+00:00"
+    },
+    {
+     "title": "New book revisits the 2023 killing of an unhoused man in crisis on the NYC subway",
+     "summary": "Jordan Neely was frightening fellow passengers. A former Marine named Daniel Penny put Neely into a chokehold, killing him. Journalist Anand Giridharadas investigates the incident in Man in the Mirror…",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F79%2F38%2F5489b3204723b7e11736f3b738da%2Fgettyimages-1492948802.jpg",
+     "url": "https://www.npr.org/2026/10/28/nx-s1-6019370/jordan-neely-daniel-penny-anand-giridharadas-man-in-the-mirror",
      "source": "NPR News",
-     "published": "2026-10-28T16:10:43+00:00"
+     "published": "2026-10-28T18:07:33+00:00"
     },
     {
-     "title": "Israeli soldier visiting UK faces war crimes complaint",
-     "summary": "New UK war crimes complaint against an Israeli soldier highlights a global legal campaign to end systemic impunity.",
+     "title": "Fed holds interest rates steady even as inflation remains stubborn",
+     "summary": "The Federal Reserve opted to leave its benchmark interest rate unchanged — but investors widely expect the central bank to raise rates at its next meeting in December to combat stubborn inflation.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8087x5392+0+0/resize/8087x5392!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc3%2Feb%2F1c48feef483e9b705d5e63e76f89%2Fgettyimages-2295625605.jpg",
+     "url": "https://www.npr.org/2026/10/28/nx-s1-6020425/federal-reserve-interest-rates-inflation",
+     "source": "NPR News",
+     "published": "2026-10-28T18:04:42+00:00"
+    },
+    {
+     "title": "人未到庭遭重判　伊朗名導賈法潘納希被判逾5年徒刑",
+     "summary": "伊朗媒體引述律師說法報導，伊朗法院已在名導賈法潘納希（Jafar Panahi）未出庭的情況下判處他逾5年徒刑，不過當局這波指控的具體罪名目前仍不清楚。 伊朗學生通訊社（ISNA）昨天引述...…",
      "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/28/israeli-soldier-visiting-uk-faces-war-crimes-complaint?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-28T16:06:17+00:00"
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5622079",
+     "source": "自由時報",
+     "published": "2026-10-28T18:00:10+00:00"
     },
     {
-     "title": "‘A pretty grim picture’: outlook for UK living standards slashed despite Healey’s budget",
-     "summary": "OBR cautions about Middle East war dragging down growth and triggering a fresh cost of living crisis Healey offers £100 payment to households to help navigate ‘global economic storms’ Budget 2026: key…",
-     "image": "https://i.guim.co.uk/img/media/bc068c43c518f1f07dfa7f4034560a4c64ea8cb3/439_0_4267_3415/master/4267.jpg?width=140&quality=85&auto=format&fit=max&s=b3e666b60657a0650df9ad1b63c15808",
-     "url": "https://www.theguardian.com/business/2026/oct/28/obr-slashes-uk-growth-forecast-for-2027-despite-healey-budget-measures",
+     "title": "Balad leader blasts ‘racist’ exclusion of Arab parties in Israel",
+     "summary": "Elections have yielded no clear winner but opposition bloc refuses to ally with Arab parties.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/28/balad-leader-blasts-racist-exclusion-of-arab-parties-in-israel?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-28T17:54:51+00:00"
+    },
+    {
+     "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+     "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3381/live/719a4410-d2f2-11f1-8d86-83eebc838351.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-28T16:59:47+00:00"
+    },
+    {
+     "title": "Healey gives households £100 to help navigate ‘global economic storms’",
+     "summary": "Payments to 20m homes part of package to cut energy bills and ease cost of living crisis, paid for by bank windfall tax ‘A pretty grim picture’: outlook for UK living standards slashed despite Healey’…",
+     "image": "https://i.guim.co.uk/img/media/10594d505d9a1448232948126608f376efe079dc/1539_150_6692_5354/master/6692.jpg?width=140&quality=85&auto=format&fit=max&s=dccbddca83d581d7e2947d335202f710",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-john-healey-offers-100-payment-to-households-to-help-navigate-global-economic-storms",
      "source": "Guardian Business",
-     "published": "2026-10-28T15:40:42+00:00"
-    },
-    {
-     "title": "US Congresswoman Rashida Tlaib condemns anti-Muslim election rhetoric",
-     "summary": "",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/us-congresswoman-rashida-tlaib-condemns-anti-muslim-election-rhetoric?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-28T15:40:04+00:00"
-    },
-    {
-     "title": "What is the controversy between Real Madrid’s Kylian Mbappe and China?",
-     "summary": "The French superstar's comments about Mao Zedong have drawn the ire of China, a lucrative market for sports teams.",
-     "image": "",
-     "url": "https://www.aljazeera.com/sports/2026/10/28/kylian-mbappe-china-meme-mao-zedong-la-liga-real-madrid?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-28T15:36:39+00:00"
-    },
-    {
-     "title": "Income tax: Healey’s budget leaves thresholds frozen again. How much more will you pay?",
-     "summary": "Tax policy means freezes reduce take-home pay as earnings rise in line with inflation Income tax thresholds are set to remain frozen after John Healey’s first budget as chancellor. One of the biggest…",
-     "image": "https://i.guim.co.uk/img/media/fd8fc2226e42f5dace5cdf46887c5d7640e8b6f8/696_0_6139_4912/master/6139.jpg?width=140&quality=85&auto=format&fit=max&s=7c837b1315fb583ae045749c938a52a9",
-     "url": "https://www.theguardian.com/money/ng-interactive/2026/oct/28/budget-income-tax-thresholds-frozen-take-home-pay",
-     "source": "Guardian Business",
-     "published": "2026-10-28T15:01:13+00:00"
-    },
-    {
-     "title": "劉延東逝世：「紅二代」「團派」背景，政治局裡少見的女性身影",
-     "summary": "劉延東的逝世提醒外界一個現象：從吳儀、劉延東到孫春蘭，中共中央政治局曾連續20年保持至少一名女性委員，直到2022年「二十大」中斷，權力核心再無女性。",
-     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/32a6/live/fa8244d0-d2de-11f1-b441-2b33b063138f.jpg",
-     "url": "https://www.bbc.com/zhongwen/articles/cq2038dd7pzxo/trad?at_medium=RSS&at_campaign=rss",
-     "source": "BBC 中文",
-     "published": "2026-10-28T14:51:19+00:00"
+     "published": "2026-10-28T16:40:50+00:00"
     }
    ]
   },
@@ -138,36 +138,76 @@
    "label": "AI",
    "items": [
     {
+     "title": "Amazon turns its most capable smart speaker into a smart camera, too",
+     "summary": "The Echo Studio with Home Camera can \"see and understand what's in front of the camera.\"",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-500x500-1793206642.png",
+     "url": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
+     "source": "Ars Technica",
+     "published": "2026-10-28T18:05:22+00:00"
+    },
+    {
+     "title": "Cadillac Escalade IQ review: Huge battery, huge range, huge SUV",
+     "summary": "With more than 200 kWh, this luxury three-row can go 460 miles on a charge.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/2026-Cadillac-Escalade-IQ-1-of-26-500x500.jpg",
+     "url": "https://arstechnica.com/cars/2026/10/cadillac-escalade-iq-review-4-tons-of-electric-american-luxury-on-wheels/",
+     "source": "Ars Technica",
+     "published": "2026-10-28T17:55:45+00:00"
+    },
+    {
+     "title": "Google AI gets cagey when asked who won the 2020 elections",
+     "summary": "But the AI responses get more forthright when asked outside the US.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-500x500.jpg",
+     "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+     "source": "Ars Technica",
+     "published": "2026-10-28T17:46:32+00:00"
+    },
+    {
+     "title": "Florida county won’t investigate sketchy Flock cameras removed by mystery owners",
+     "summary": "Florida county claims it lacks resources to find owners of unpermitted Flock cameras.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2290773984-500x500.jpg",
+     "url": "https://arstechnica.com/tech-policy/2026/10/florida-county-wont-investigate-sketchy-flock-cameras-removed-by-mystery-owners/",
+     "source": "Ars Technica",
+     "published": "2026-10-28T17:37:49+00:00"
+    },
+    {
+     "title": "打破蘋果 20 年來堅持，首款觸控 MacBook Pro 亮相",
+     "summary": "蘋果終於打破過去 20 年來不為 Mac 筆電導入觸控螢幕的產品設計方向，首度推出支援觸控操作的 MacBoo […]",
+     "image": "",
+     "url": "https://technews.tw/2026/10/29/touchable-screen-macbook-pro/",
+     "source": "科技新報 TechNews",
+     "published": "2026-10-28T17:29:21+00:00"
+    },
+    {
+     "title": "MacBook Pro with PROLED XDR Display and Touch",
+     "summary": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundb... Comments URL: https://news.ycombinator.com/item?id=50276940 Points: 234 # Comments: 371",
+     "image": "",
+     "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-28T17:10:37+00:00"
+    },
+    {
+     "title": "Gemini 4 Carbon",
+     "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/ Comments URL: https://news.ycombinator.com/item?id=50276792 Points: 382 # Comments: 32…",
+     "image": "",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-28T17:01:23+00:00"
+    },
+    {
+     "title": "CNC Stone Carving",
+     "summary": "Article URL: https://carmelitegothic.com/cnc-stone-carving/ Comments URL: https://news.ycombinator.com/item?id=50274409 Points: 253 # Comments: 83",
+     "image": "",
+     "url": "https://carmelitegothic.com/cnc-stone-carving/",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-28T14:38:22+00:00"
+    },
+    {
      "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-     "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 215 # Comments:…",
+     "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 301 # Comments:…",
      "image": "",
      "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
      "source": "Hacker News Front Page",
      "published": "2026-10-28T13:41:30+00:00"
-    },
-    {
-     "title": "A hidden ocean change near Antarctica could have global consequences",
-     "summary": "Antarctic waters are getting saltier as sea-ice loss reshapes ocean circulation.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/antarctic-seaice-500x500.jpg",
-     "url": "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/",
-     "source": "Ars Technica",
-     "published": "2026-10-28T13:38:53+00:00"
-    },
-    {
-     "title": "Emacs Turns 50",
-     "summary": "Article URL: https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/ Comments URL: https://news.ycombinator.com/item?id=50273171 Points: 191 # Comments: 71",
-     "image": "",
-     "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-28T13:25:11+00:00"
-    },
-    {
-     "title": "ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
-     "summary": "Article URL: https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/ Comments URL: https://news.ycombinator.com/item?id=50272749 Points: 862 # Co…",
-     "image": "",
-     "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-28T12:49:45+00:00"
     },
     {
      "title": "AMD 斥資 10 億美元參與 Meta 股權發行，雙方合作部署 GW 等級算力基礎設施",
@@ -186,22 +226,6 @@
      "published": "2026-10-28T12:00:00+00:00"
     },
     {
-     "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
-     "summary": "Article URL: https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge…",
-     "image": "",
-     "url": "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-28T11:54:23+00:00"
-    },
-    {
-     "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
-     "summary": "US-owned trans-Pacific cables face growing risks from sabotage and China.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Trans-Pacific-cables-at-risk-500x500.jpg",
-     "url": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/",
-     "source": "Ars Technica",
-     "published": "2026-10-28T11:00:49+00:00"
-    },
-    {
      "title": "聯電展望 2027 年綜合 ASP 預期年增 10%，AI 業務三年內營收衝 25% 占比",
      "summary": "晶圓代工大廠聯電（UMC）在在第三季法會會中對法人提問表示，隨著2026年下半年產能利用率回升至90%以上，2 […]",
      "image": "",
@@ -216,14 +240,6 @@
      "url": "https://finance.technews.tw/2026/10/28/new-company-aerosoarx-signed-mou-with-rajant-and-sima-ai/",
      "source": "科技新報 TechNews",
      "published": "2026-10-28T10:11:18+00:00"
-    },
-    {
-     "title": "施振榮創業細胞再發動，設一人公司聘兩名 AI 員工出書",
-     "summary": "電腦品牌廠宏碁集團創辦人施振榮今天表示，退休 20 多年後，「創業細胞」再次發動，近期成立一人公司（OPC，O […]",
-     "image": "",
-     "url": "https://technews.tw/2026/10/28/shi-stan-opc/",
-     "source": "科技新報 TechNews",
-     "published": "2026-10-28T10:10:17+00:00"
     },
     {
      "title": "Counting the Bandages: On measuring the time that AI saves",
@@ -248,22 +264,6 @@
      "url": "https://arxiv.org/abs/2610.36077",
      "source": "arXiv cs.AI",
      "published": "2026-10-28T04:00:00+00:00"
-    },
-    {
-     "title": "CohortFlow: A Steerable Clinical Cohort Curation Agent with Localized Semantic Correction",
-     "summary": "arXiv:2610.36100v1 Announce Type: new Abstract: Language model agents for clinical cohort curation should accommodate evolving eligibility criteria without repeatedly processing unchanged requirements…",
-     "image": "",
-     "url": "https://arxiv.org/abs/2610.36100",
-     "source": "arXiv cs.AI",
-     "published": "2026-10-28T04:00:00+00:00"
-    },
-    {
-     "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
-     "summary": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/M6-iMac-500x500.jpg",
-     "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
-     "source": "Ars Technica",
-     "published": "2026-10-27T22:37:30+00:00"
     }
    ]
   },
@@ -271,20 +271,68 @@
    "label": "運動",
    "items": [
     {
-     "title": "NBA Injury Report: Who to add with Anthony Edwards, Paolo Banchero and other stars sidelined",
-     "summary": "Dan Titus breaks down the fantasy impact of the NBA’s early-season wave of injuries.",
-     "image": "",
-     "url": "https://sports.yahoo.com/fantasy/article/nba-injury-report-who-to-add-with-anthony-edwards-paolo-banchero-and-other-stars-sidelined-164127460.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-28T16:41:27+00:00"
+     "title": "Liverpool v Chelsea: Carabao Cup fourth round – live",
+     "summary": "⚽ Latest updates from Anfield, 8pm (GMT) kick-off ⚽ Live scores | Football Daily | And email Scott here Liverpool make seven changes to their starting XI following the 2-0 win at the weekend over Brig…",
+     "image": "https://i.guim.co.uk/img/media/cd4d2178718bcd586e283c96348564c216384c0d/148_0_7560_6048/master/7560.jpg?width=140&quality=85&auto=format&fit=max&s=80fc011838324e0f11da4d305e61794d",
+     "url": "https://www.theguardian.com/football/live/2026/oct/28/liverpool-v-chelsea-carabao-cup-fourth-round-live",
+     "source": "Guardian Sport",
+     "published": "2026-10-28T18:53:27+00:00"
     },
     {
-     "title": "Celtics star Jayson Tatum says he's 'starting to feel like my old self' again after hitting game-winner",
-     "summary": "Tatum, now a year-and-a-half removed from a torn Achilles, has been on an early season tear for Boston",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/28/de038ce5-c472-4fa9-bea5-ba815c743f43/tatum-getty-11.png",
-     "url": "https://www.cbssports.com/nba/news/celtics-jayson-tatum-feel-like-my-old-self-game-winner/",
+     "title": "Can these Timberwolves keep pace in the West without Anthony Edwards?",
+     "summary": "Minnesota's massive summertime pivot was working before its superstar went down with a knee injury.",
+     "image": "https://d29szjachogqwa.cloudfront.net/images/2026-10/f20e8136-eeaa-4865-85c3-aa6687d990aa",
+     "url": "https://sports.yahoo.com/nba/article/can-these-timberwolves-keep-pace-in-the-west-without-anthony-edwards-184634178.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-28T18:46:34+00:00"
+    },
+    {
+     "title": "Ernie Johnson makes major ‘Inside the NBA’ announcement, 'It's just time'",
+     "summary": "Another major change is coming to “Inside the NBA.” Ernie Johnson has announced this will be his final season with the show.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/ernie-johnson-makes-major-inside-184202878.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-28T18:42:02+00:00"
+    },
+    {
+     "title": "Knicks Injury Tracker: Jose Alvarado to miss third straight game with sprained ankle",
+     "summary": "The latest injury news and possible return dates for New York Knicks players...",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/knicks-injury-tracker-jose-alvarado-214221225.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-28T18:30:53+00:00"
+    },
+    {
+     "title": "Philadelphia 76ers vs. Indiana Pacers: How to watch the NBA game tonight: TV channel, where to stream, schedule and more",
+     "summary": "How to watch tonight's game between the 76ers and Pacers.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/article/philadelphia-76ers-vs-indiana-pacers-how-to-watch-the-nba-game-tonight-tv-channel-where-to-stream-schedule-and-more-181704968.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-28T18:17:04+00:00"
+    },
+    {
+     "title": "New study estimates 75% of deceased ex-NFL players had brain disease CTE",
+     "summary": "Research looked at prevalence of chronic traumatic encephalopathy in 2,362 players who died in 2008-2023 A new study published on Wednesday estimates that about 75% of former NFL players who died over…",
+     "image": "https://i.guim.co.uk/img/media/d5c91b4c09f1b63b7d91a484a7b76daf44952a96/62_0_4168_3336/master/4168.jpg?width=140&quality=85&auto=format&fit=max&s=2f1d379bbd59c5cae6e86c4b3de6c58f",
+     "url": "https://www.theguardian.com/us-news/2026/oct/28/cte-nfl-brain-disease-research",
+     "source": "Guardian Sport",
+     "published": "2026-10-28T18:04:14+00:00"
+    },
+    {
+     "title": "Labuschagne's form hits record low but Australia hint at future",
+     "summary": "Marnus Labuschagne's poor form hit a record low but Australia's new guard stood up to put the tourists in a strong position in the decisive Test against South Africa.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f819/live/38658c50-d2ec-11f1-93e1-3b657b665bcf.jpg",
+     "url": "https://www.bbc.co.uk/sport/cricket/articles/cxyvr1my94m4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-28T17:33:41+00:00"
+    },
+    {
+     "title": "NBA player props, odds, picks: LeBron James among best bets for Wednesday, Oct. 28",
+     "summary": "We'll use the SportsLine Projection Model to go over the best player prop bets for Wednesday's NBA games",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/28/898b002a-1dae-47bc-8bed-9266ee27a8b2/lebron-jams-sixers.jpg",
+     "url": "https://www.cbssports.com/betting/news/nba-player-props-odds-picks-lebron-james-among-best-bets-for-wednesday-oct-28/",
      "source": "CBS Sports NBA",
-     "published": "2026-10-28T16:24:48+00:00"
+     "published": "2026-10-28T16:48:11+00:00"
     },
     {
      "title": "NBA one-week overreactions: Luka Dončić as the MVP frontrunner? Who's in the most trouble?",
@@ -293,14 +341,6 @@
      "url": "https://www.cbssports.com/nba/news/nba-one-week-overreactions-luka-doncic-mvp-most-trouble/",
      "source": "CBS Sports NBA",
      "published": "2026-10-28T16:03:37+00:00"
-    },
-    {
-     "title": "2026-27 NBA Rookies Report Card, Grades Oct 28: Way too early thoughts on Cameron Boozer, Yaxel Lendeborg",
-     "summary": "This is more like the results of a first-week-of-school pop quiz, but Lendeborg grades out well.",
-     "image": "https://nbcsports.brightspotcdn.com/5f/4c/e283b9ee4fabad90c6cfa63551b0/washington-wizards-primary.svg",
-     "url": "https://sports.yahoo.com/articles/2026-27-nba-rookies-report-153536936.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-28T15:35:36+00:00"
     },
     {
      "title": "Use DraftKings promo code to get $200 bonus, free NBA League Pass for Brewers-Rays, World Series Game 5, NBA",
@@ -319,24 +359,8 @@
      "published": "2026-10-28T14:56:23+00:00"
     },
     {
-     "title": "High-scoring Lakers stress they need to play championship defense",
-     "summary": "Luka Doncic and Austin Reaves are helping the Lakers score at an elite clip, but a loss to Portland Tuesday exposed the team's defensive lapses.",
-     "image": "https://media.zenfs.com/en/la_times_articles_853/c1e2c1553679448231d11aed0e4bbd88.jpg",
-     "url": "https://sports.yahoo.com/articles/high-scoring-lakers-stress-play-143847542.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-28T14:38:47+00:00"
-    },
-    {
-     "title": "Rockets 2026-2027 NBA Title window just broke wide open",
-     "summary": "The Rockets’ championship odds feel as good as they have in the Rafael Stone era",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/9a666c0879aa48df6a5a123a7ba4f9d1.jpg",
-     "url": "https://sports.yahoo.com/articles/rockets-2026-2027-nba-title-143358152.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-28T14:33:58+00:00"
-    },
-    {
-     "title": "Chiefs reportedly signing Tucker in wake of sexual misconduct allegations as Butker struggles",
-     "summary": "Tucker was banned under NFL’s conduct policy Butker has missed five of 16 FG attempts this season The Kansas City Chiefs are reportedly signing the former Baltimore Ravens kicker Justin Tucker to thei…",
+     "title": "Chiefs sign Justin Tucker in wake of sexual misconduct allegations as Butker struggles",
+     "summary": "Tucker was banned under NFL’s conduct policy Butker has missed five of 16 FG attempts this season The Kansas City Chiefs have signed the former Baltimore Ravens kicker Justin Tucker to their practice…",
      "image": "https://i.guim.co.uk/img/media/aad922a16d2de736d5ed8b1b2f4f05fa2d4ec744/620_0_6195_4959/master/6195.jpg?width=140&quality=85&auto=format&fit=max&s=67277d1a9fddba17365b930f57b69604",
      "url": "https://www.theguardian.com/sport/2026/oct/28/justin-tucker-harrison-butker-nfl-kicker-chiefs",
      "source": "Guardian Sport",
@@ -373,30 +397,6 @@
      "url": "https://www.bbc.co.uk/sport/football/articles/cje36dn5nx36o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-10-28T11:48:28+00:00"
-    },
-    {
-     "title": "Jay-Z is the perfect Super Bowl shill for a league of billionaires",
-     "summary": "The rapper lends the NFL a veneer of credibility but is unlikely to push back on the establishment figures who run the league On Monday the NFL named Jay-Z as the headliner for this season’s Super Bow…",
-     "image": "https://i.guim.co.uk/img/media/26a5512f05ddcff1c8683136cd4969026f38d6db/328_0_3866_3095/master/3866.jpg?width=140&quality=85&auto=format&fit=max&s=2a0c2fed06d2520c93d438a4ac50ccf6",
-     "url": "https://www.theguardian.com/sport/2026/oct/28/jay-z-halftime-show-super-bowl",
-     "source": "Guardian Sport",
-     "published": "2026-10-28T09:15:02+00:00"
-    },
-    {
-     "title": "Goodbye to Wawrinka - an everyman who gatecrashed the greats",
-     "summary": "Stan Wawrinka's glorious career - which brought him three Grand Slam titles in a golden era - ends after an honourable defeat on an emotional night in Basel.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b564/live/880c4810-d257-11f1-aea4-e9d772bed98c.jpg",
-     "url": "https://www.bbc.co.uk/sport/tennis/articles/crlykgp51ej4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-28T07:14:18+00:00"
-    },
-    {
-     "title": "Rays battle from brink in 12th inning to stun Brewers and stave off World Series sweep",
-     "summary": "Tampa Bay force Game 5 with extra-innings rally Milwaukee denied first World Series championship Brewers still hold 3-1 lead in best-of-seven series Jonny DeLuca and pinch-hitter Ben Williamson hits R…",
-     "image": "https://i.guim.co.uk/img/media/9b9c0495ec835a1f6d5404f0bd03eb6039139bde/1281_0_3954_3166/master/3954.jpg?width=140&quality=85&auto=format&fit=max&s=0afa144849b46695f26052bc5a0e348a",
-     "url": "https://www.theguardian.com/sport/2026/oct/28/rays-brewers-world-series-game-four-12th-inning-rally",
-     "source": "Guardian Sport",
-     "published": "2026-10-28T04:54:59+00:00"
     }
    ]
   }
