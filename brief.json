@@ -1,32 +1,120 @@
 {
- "generated": "2026-10-29T16:58:30.626632+00:00",
+ "generated": "2026-10-29T18:59:44.528781+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "European Central Bank President Lagarde to step down early",
-     "summary": "Christine Lagarde will leave the post in February, nine months before the end of her eight-year term.",
+     "title": "Texas Republican group seeks to block certification of state’s election",
+     "summary": "Republicans in a Texas county have filed a lawsuit asking for ballots in the state's midterm races to be hand-counted.",
      "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/29/european-central-bank-president-lagarde-to-step-down-early?traffic_source=rss",
+     "url": "https://www.aljazeera.com/news/2026/10/29/texas-republican-group-seeks-to-block-certification-of-states-election?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-10-29T16:34:55+00:00"
+     "published": "2026-10-29T18:40:01+00:00"
     },
     {
-     "title": "Why US Sports Owners Spend Millions on Politics",
-     "summary": "US sports team owners include some of the wealthiest people in the world and some spend millions of dollars on politics",
+     "title": "US Muslims concerned but resilient as ‘hate’ attacks target Abdul El-Sayed",
+     "summary": "Muslim advocates say the best way to respond to hate is to elect the Democratic candidate in Michigan to US Senate.",
      "image": "",
-     "url": "https://www.aljazeera.com/video/game-theory/2026/10/29/why-us-sports-owners-spend-millions-on-politics?traffic_source=rss",
+     "url": "https://www.aljazeera.com/news/2026/10/29/us-muslims-concerned-but-resilient-as-hate-attacks-target-abdul-el-sayed?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-10-29T16:33:44+00:00"
+     "published": "2026-10-29T18:30:04+00:00"
     },
     {
-     "title": "七殺星加持奪冠！林霖點名11月「5生肖」財運強強滾",
-     "summary": "〔娛樂頻道／綜合報導〕年底前想讓荷包大進補，動作可得快狠準！命理專家林霖老師公布11月「生肖財運王TOP5」，指出因受到紫微、武曲等吉星護持，排名居前的「5個生肖」職場貴人運大爆發，尤其是「冠軍...…",
+     "title": "Finland launches criminal probe of suspected environmental damage by Google",
+     "summary": "The US tech giant is investing $15bn in a huge new data centre project in northern Finland.",
      "image": "",
-     "url": "https://ent.ltn.com.tw/news/breakingnews/5623329",
+     "url": "https://www.aljazeera.com/economy/2026/10/29/finland-launches-criminal-probe-of-suspected-environmental-damage-by-google?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-29T18:24:13+00:00"
+    },
+    {
+     "title": "法國萬聖夜將迎來新一波示威　內政部長要求加強維安部署",
+     "summary": "法國本週末將迎來新一波示威活動，當局正嚴陣以待，內政部長努涅斯（Laurent Nunez）已警告，城鎮發生暴力事件的風險「非常高」。 法新社報導，黃背心運動（Yellow Vest）及中...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5623375",
      "source": "自由時報",
-     "published": "2026-10-29T16:33:00+00:00"
+     "published": "2026-10-29T18:21:03+00:00"
+    },
+    {
+     "title": "Al Jazeera marks 30th anniversary with network overhaul",
+     "summary": "Marking three decades, Al Jazeera unveils a new structure: three channels, 33 programmes, and tech-driven innovation.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/29/al-jazeera-marks-30th-anniversary-with-network-overhaul?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-29T18:20:07+00:00"
+    },
+    {
+     "title": "Big Oil earnings are set to surge. Why investors may want to be cautious",
+     "summary": "Big Oil earnings are coming. Why guidance could matter most and why the the charts suggest investors should be cautious.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/29/big-oil-earnings-are-set-to-surge-why-investors-may-want-to-be-cautious.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-29T18:13:32+00:00"
+    },
+    {
+     "title": "日本議員揭露李琴峰隱私　東京地院勒令賠償",
+     "summary": "日本山梨縣甲府市市議員村松裕美先前揭露台灣旅日作家李琴峰性別變更前的照片與姓名。東京地院29日認定這非法侵害李琴峰的隱私，並命令村松賠償110萬日圓（約台幣22萬元）。 李琴峰2021年以...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5623374",
+     "source": "自由時報",
+     "published": "2026-10-29T18:12:03+00:00"
+    },
+    {
+     "title": "S&P 500 heads for first loss in four days as Alphabet, Caterpillar crack after earnings: Live updates",
+     "summary": "Alphabet reported a disappointing third quarter, and shares tumbled.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/28/stock-market-today-live-updates.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-29T18:04:05+00:00"
+    },
+    {
+     "title": "聯準會與歐洲央行維持利率不變　歐股收高",
+     "summary": "美國聯邦準備理事會（Fed）昨天維持利率不變，歐洲中央銀行（ECB）今天也按兵不動，歐洲主要股市今天都收高。 倫敦FTSE 100指數上漲27.57點或0.26%，收報10722.07點。...…",
+     "image": "",
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5623372",
+     "source": "自由時報",
+     "published": "2026-10-29T18:00:03+00:00"
+    },
+    {
+     "title": "Even birds get jet lagged, study shows",
+     "summary": "A species of seabirds appears to become disoriented on flights back to its nest due to shifting time zones.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4827x3218+0+0/resize/4827x3218!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F92%2Fde%2F64a796b940969f070d5662ee43ba%2Fgettyimages-2286434113.jpg",
+     "url": "https://www.npr.org/2026/10/29/nx-s1-6019228/manx-shearwater-jet-lag-birds",
+     "source": "NPR News",
+     "published": "2026-10-29T18:00:00+00:00"
+    },
+    {
+     "title": "Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song",
+     "summary": "Musician wrote a ‘love letter’ to Canada with a new album – and some pointed commentary about the US president Lake Ontario, the vast body of water that straddles the US-Canada border, has gone by man…",
+     "image": "https://i.guim.co.uk/img/media/d7827a476e14a9fe6c2f060b9b99453364c02b5e/205_0_4252_3403/master/4252.jpg?width=140&quality=85&auto=format&fit=max&s=3a433930e59ad86fd80c83ceb24b198c",
+     "url": "https://www.theguardian.com/world/2026/oct/29/bryan-adams-donald-trump-song",
+     "source": "Guardian World",
+     "published": "2026-10-29T17:49:47+00:00"
+    },
+    {
+     "title": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
+     "summary": "The trouncing of the far right provides a playbook for social and environmental movements in other countries facing elections, including the US, Spain and France Thank you, Brazil, for demonstrating h…",
+     "image": "https://i.guim.co.uk/img/media/4b8061be068d0c34f7875e002f51ed5bc5855c91/299_0_2102_1682/master/2102.jpg?width=140&quality=85&auto=format&fit=max&s=7d5e04a65fae36a35be7d35843425ab3",
+     "url": "https://www.theguardian.com/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win",
+     "source": "Guardian World",
+     "published": "2026-10-29T17:46:38+00:00"
+    },
+    {
+     "title": "Fishing is a key issue in Alaska's tight U.S. Senate race",
+     "summary": "Alaska's U.S. Senate race is embroiled in an emotional fight over fish. Many in the state rely upon salmon to feed their families but those fish and others are increasingly hard to find.",
+     "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6018248",
+     "url": "https://www.npr.org/2026/10/29/nx-s1-6018248/fishing-is-a-key-issue-in-alaskas-tight-u-s-senate-race",
+     "source": "NPR News",
+     "published": "2026-10-29T17:21:58+00:00"
+    },
+    {
+     "title": "台北設計獎合影P掉「洋流飄帶」 再爆配樂無版權",
+     "summary": "台北市政府在29日舉辦台北設計獎頒獎典禮，豈料頻頻出包，先是釋出的媒體照片將設計師賴謙忱佩戴的「洋流」飄帶修圖P掉；遭到賴謙忱在Threads發文狠酸「真的把蔣寶保護的很好」。...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5623361",
+     "source": "自由時報",
+     "published": "2026-10-29T17:09:24+00:00"
     },
     {
      "title": "‘Why has the Chancellor left the wealthiest untouched?’ – our money and economics writers answered your questions",
@@ -37,100 +125,12 @@
      "published": "2026-10-29T16:32:51+00:00"
     },
     {
-     "title": "台南火車站鋼琴不能隨便彈？台鐵突貼公告 市府協調：演奏免申請",
-     "summary": "台南火車站公共鋼琴爆紅，被網友封為「台南國家音樂廳」，吸引音樂愛好者朝聖，也帶動台北車站、高雄車站、台中新烏日站及高捷美麗島站等地公共鋼琴演奏風氣，情歌王子林隆璇日前與曾獲總統...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5623358",
-     "source": "自由時報",
-     "published": "2026-10-29T16:31:16+00:00"
-    },
-    {
-     "title": "新北國中生遭逼磕跪踹腹影片涉及3校 教育局說話了",
-     "summary": "有網路社群影片顯示新北1名國中男學生被逼下跪，周圍還有眾多同年紀的圍觀者，該男學生甚至遭逼磕頭、踹腹，另有同校女學生受波及；民進黨新北市議員李宇翔表示，受害者皆為五股區國中生，...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5623352",
-     "source": "自由時報",
-     "published": "2026-10-29T16:30:26+00:00"
-    },
-    {
-     "title": "陸委會指台灣從沒「台獨選項」 鄭麗文酸：為何民進黨黨綱有？",
-     "summary": "針對陸委會副主委沈有忠表示，「台灣從來沒有台獨的選項」，台獨這個議題完全不存在，國民黨主席鄭麗文昨出席「台灣光復暨抗戰勝利81週年慶祝大會」時表示，令人看了啞然失笑，若台灣從來...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5623357",
-     "source": "自由時報",
-     "published": "2026-10-29T16:29:46+00:00"
-    },
-    {
      "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
      "summary": "Wall Street hammered Alphabet for an earnings miss that included weaker-than-expected revenue out of the company's core business.",
      "image": "",
      "url": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
      "source": "CNBC Top News",
      "published": "2026-10-29T16:25:40+00:00"
-    },
-    {
-     "title": "S&P 500 heads for first loss in four days as Alphabet, Caterpillar crack after earnings: Live updates",
-     "summary": "Alphabet reported a disappointing third quarter, and shares tumbled.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/28/stock-market-today-live-updates.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-29T16:24:33+00:00"
-    },
-    {
-     "title": "Manchester United’s Carrick backs Fernandes and is expected to face Chelsea",
-     "summary": "Michael Carrick will manage Man Utd at Chelsea on Saturday despite sacking rumours and says Bruno Fernandes will return.",
-     "image": "",
-     "url": "https://www.aljazeera.com/sports/2026/10/29/manchester-uniteds-carrick-expected-to-face-chelsea-and-backs-fernandes?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-29T16:23:53+00:00"
-    },
-    {
-     "title": "Deadly rock collapse at famous Turkiye tourist site",
-     "summary": "",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/deadly-rock-collapse-at-famous-turkiye-tourist-site?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-29T16:20:15+00:00"
-    },
-    {
-     "title": "巴西前總統博索納羅之子敗給盧拉後，為何飛往美國？",
-     "summary": "這位參議員離開巴西後，被拍到在美國走下飛機。他在巴西因涉嫌洗錢而接受調查。",
-     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5a4c/live/63916d40-d2d8-11f1-b677-b762d2f83f6e.jpg",
-     "url": "https://www.bbc.com/zhongwen/articles/cx5ynjr6q6gzo/trad?at_medium=RSS&at_campaign=rss",
-     "source": "BBC 中文",
-     "published": "2026-10-29T16:19:30+00:00"
-    },
-    {
-     "title": "US and Japan agree to establish a Japanese facility for joint missile production",
-     "summary": "The announcement Wednesday is the latest action by the allies, who have repeatedly expressed alarm over China's growing assertiveness in Asia.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3333+0+0/resize/5000x3333!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F04%2F54%2F8ac4fc1f4626be23c3b532cfb1ea%2Fap26301341519312.jpg",
-     "url": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
-     "source": "NPR News",
-     "published": "2026-10-29T15:58:27+00:00"
-    },
-    {
-     "title": "China elevates a military general to the Politburo and seeks to strengthen party discipline",
-     "summary": "This move comes about a year before President Xi Jinping is expected to secure his fourth five-year term.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3422x2282+0+0/resize/3422x2282!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcc%2Fcc%2F5481abda4bb2a1f0f3d355fbfd5f%2Fap26302467609122.jpg",
-     "url": "https://www.npr.org/2026/10/29/g-s1-150645/china-elevates-a-military-general-to-the-politburo-and-seeks-to-strengthen-party-discipline",
-     "source": "NPR News",
-     "published": "2026-10-29T15:53:46+00:00"
-    },
-    {
-     "title": "Who benefits when massive AI data centers come to town?",
-     "summary": "The battle over data centers is hitting the ballot box. Brookings scholar Darrell West talks about how the backlash against the AI boom, flock cameras and tech companies is crossing party lines.",
-     "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6022096",
-     "url": "https://www.npr.org/2026/10/29/nx-s1-6022096/who-benefits-when-massive-ai-data-centers-come-to-town",
-     "source": "NPR News",
-     "published": "2026-10-29T15:41:59+00:00"
-    },
-    {
-     "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-     "summary": "The defeated presidential candidate says he will lead the opposition from the US.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57ed/live/bd177c10-d3aa-11f1-b441-2b33b063138f.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-29T14:58:28+00:00"
     }
    ]
   },
@@ -138,52 +138,68 @@
    "label": "AI",
    "items": [
     {
+     "title": "Report: Trump did nothing with intel that China planted spy close to Nvidia CEO",
+     "summary": "Spy accused of exploiting Trump ties to Huang, funneling secrets to China.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298607192-500x500.jpg",
+     "url": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
+     "source": "Ars Technica",
+     "published": "2026-10-29T18:29:12+00:00"
+    },
+    {
+     "title": "Turning a solar power system into its own backup",
+     "summary": "Plant design allows it to run on either stored solar heat or combustion.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-2-500x500.jpeg",
+     "url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
+     "source": "Ars Technica",
+     "published": "2026-10-29T18:02:26+00:00"
+    },
+    {
+     "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+     "summary": "Charges filed as Trump admin tries to save Kalshi from Utah's total ban on gambling.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-500x500-1788462770.jpg",
+     "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+     "source": "Ars Technica",
+     "published": "2026-10-29T17:21:33+00:00"
+    },
+    {
+     "title": "Google Search is now less than half of Alphabet’s revenue",
+     "summary": "Article URL: https://www.kadoa.com/companies/insights/google-search-below-half Comments URL: https://news.ycombinator.com/item?id=50291945 Points: 308 # Comments: 248",
+     "image": "",
+     "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-29T16:42:17+00:00"
+    },
+    {
+     "title": "Google admits AI search makes less money, but it's fixing that with more ads",
+     "summary": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-500x500-1748638352.jpg",
+     "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+     "source": "Ars Technica",
+     "published": "2026-10-29T16:24:55+00:00"
+    },
+    {
+     "title": "H.264 Is Magic (2016)",
+     "summary": "Article URL: https://sidbala.com/h-264-is-magic/ Comments URL: https://news.ycombinator.com/item?id=50291054 Points: 156 # Comments: 82",
+     "image": "",
+     "url": "https://sidbala.com/h-264-is-magic/",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-29T15:53:03+00:00"
+    },
+    {
+     "title": "I went to Mexico to test-drive the cars Americans can’t buy",
+     "summary": "https://archive.ph/sGqBh Comments URL: https://news.ycombinator.com/item?id=50290668 Points: 193 # Comments: 189",
+     "image": "",
+     "url": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-29T15:30:22+00:00"
+    },
+    {
      "title": "We're releasing the weights of Mistral Large 4",
-     "summary": "Article URL: https://mistral.ai/news/mistral-large-4-oss/ Comments URL: https://news.ycombinator.com/item?id=50289418 Points: 542 # Comments: 136",
+     "summary": "Article URL: https://mistral.ai/news/mistral-large-4-oss/ Comments URL: https://news.ycombinator.com/item?id=50289418 Points: 773 # Comments: 208",
      "image": "",
      "url": "https://mistral.ai/news/mistral-large-4-oss/",
      "source": "Hacker News Front Page",
      "published": "2026-10-29T14:13:21+00:00"
-    },
-    {
-     "title": "‘You Are Done’: The letter sent to King by the F.B.I (2014)",
-     "summary": "https://archive.ph/Ykfga Comments URL: https://news.ycombinator.com/item?id=50288867 Points: 361 # Comments: 252",
-     "image": "",
-     "url": "https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-29T13:40:04+00:00"
-    },
-    {
-     "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
-     "summary": "The leak reveals undercover agents, surveillance groups, and sensitive DHS access.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ice-agent-500x500.jpg",
-     "url": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
-     "source": "Ars Technica",
-     "published": "2026-10-29T12:58:34+00:00"
-    },
-    {
-     "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-     "summary": "Article URL: https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1 Comments URL: https://news.ycombinator.com/item?id=50288019 Points: 284 # Comments: 217",
-     "image": "",
-     "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-29T12:41:56+00:00"
-    },
-    {
-     "title": "DoorDash to Acquire Instacart",
-     "summary": "Article URL: https://about.doordash.com/en-us/news/doordash-to-acquire-instacart Comments URL: https://news.ycombinator.com/item?id=50287919 Points: 199 # Comments: 353",
-     "image": "",
-     "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-29T12:33:05+00:00"
-    },
-    {
-     "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
-     "summary": "\"NASA desperately needs SpaceX, and SpaceX knows it, and Elon knows it.\"",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/spacex-nasa-slots-500x500.jpg",
-     "url": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
-     "source": "Ars Technica",
-     "published": "2026-10-29T11:00:08+00:00"
     },
     {
      "title": "91APP 訂單資訊外洩！波及千家品牌、480 萬名消費者，承諾全面負責",
@@ -248,22 +264,6 @@
      "url": "https://arxiv.org/abs/2610.36077",
      "source": "arXiv cs.AI",
      "published": "2026-10-29T04:00:00+00:00"
-    },
-    {
-     "title": "CohortFlow: A Steerable Clinical Cohort Curation Agent with Localized Semantic Correction",
-     "summary": "arXiv:2610.36100v1 Announce Type: new Abstract: Language model agents for clinical cohort curation should accommodate evolving eligibility criteria without repeatedly processing unchanged requirements…",
-     "image": "",
-     "url": "https://arxiv.org/abs/2610.36100",
-     "source": "arXiv cs.AI",
-     "published": "2026-10-29T04:00:00+00:00"
-    },
-    {
-     "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
-     "summary": "This Vulcan launch will be first to use a full complement of 6 solid rocket boosters.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/55617683176_c8f6425b60_o-500x500.jpg",
-     "url": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
-     "source": "Ars Technica",
-     "published": "2026-10-28T22:51:15+00:00"
     }
    ]
   },
@@ -271,9 +271,65 @@
    "label": "運動",
    "items": [
     {
-     "title": "Careless dismissals give Australia route to series win",
+     "title": "Golden State Valkyries 69-80 Atlanta Dream: WNBA finals 2026 Game 6 – reaction",
+     "summary": "Dream stave off elimination and force Game 7 Dominant first quarter sets the tone for Atlanta Reach out to Ella on Bluesky or by email Valkyries 5-8 Dream, 6.41, first quarter Valkyries point guard Ve…",
+     "image": "https://i.guim.co.uk/img/media/6802ffc2bad82ff0c9b642f1ce5dd08c85a9eafc/335_0_2850_2280/master/2850.jpg?width=140&quality=85&auto=format&fit=max&s=94818256ae89de8c714e8fb08828307c",
+     "url": "https://www.theguardian.com/sport/live/2026/oct/29/golden-state-valkyries-v-atlanta-dream-wnba-finals-2026-game-6-live-buildup",
+     "source": "Guardian Sport",
+     "published": "2026-10-29T18:55:48+00:00"
+    },
+    {
+     "title": "Uefa close to selecting candidate to run against Infantino in Fifa election",
+     "summary": "Challenger’s identity could be approved by next week Arsène Wenger not thought to have entered reckoning for role Uefa and its allies are close to identifying a candidate to run against Gianni Infanti…",
+     "image": "https://i.guim.co.uk/img/media/0b7728112428d6f431df4efff43a5e1adecab416/253_0_3308_2646/master/3308.jpg?width=140&quality=85&auto=format&fit=max&s=0d61ff0e24be76f498354e1917ab022e",
+     "url": "https://www.theguardian.com/football/2026/oct/29/uefa-close-to-identifying-candidate-gianni-infantino-in-fifa-election",
+     "source": "Guardian Sport",
+     "published": "2026-10-29T18:41:04+00:00"
+    },
+    {
+     "title": "Fantasy Basketball Rankings (Points leagues): Early risers and fallers of the 2026-27 NBA season",
+     "summary": "Fantasy basketball analyst Dan Titus takes a look at some early winners and losers of the season.",
+     "image": "",
+     "url": "https://sports.yahoo.com/fantasy/article/fantasy-basketball-rankings-points-leagues-early-risers-and-fallers-of-the-2026-27-nba-season-180253060.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-29T18:02:53+00:00"
+    },
+    {
+     "title": "Grizzlies vs. Trail Blazers NBA picks: Can Portland prevail in battle of unbeatens, Ja Morant payback game?",
+     "summary": "We have a matchup of unbeatens in the NBA on Thursday as Memphis visits Portland and Ja Morant",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/28/d5346360-fee6-4937-aae4-aa3f031ac075/2026-10-24t012911z-1078951476-mt1usatoday30168460-rtrmadp-3-nba-portland-trail-blazers-at-sacramento-kings-jpg.jpg",
+     "url": "https://www.cbssports.com/betting/news/grizzlies-vs-trail-blazers-nba-picks-portland-to-prevail-in-battle-of-unbeatens-ja-morant-payback-game/",
+     "source": "CBS Sports NBA",
+     "published": "2026-10-29T17:57:10+00:00"
+    },
+    {
+     "title": "Victor Wembanyama on 60 Minutes: Spurs star explains why 'villain' label didn't bother him during NBA Finals",
+     "summary": "The full 60 Minutes interview with Wembanyama will air this Sunday (Nov. 1) on CBS",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/29/9e53645d-0385-4acb-b198-b65a944407a5/wemby-60-minutes.png",
+     "url": "https://www.cbssports.com/nba/news/victor-wembanyama-60-minutes-interview-villain-label-nba-finals/",
+     "source": "CBS Sports NBA",
+     "published": "2026-10-29T17:43:29+00:00"
+    },
+    {
+     "title": "Miami finally wins, Cooper Flagg’s rise, impact rookies & league-wide injury woes with Steve Jones",
+     "summary": "Kevin O'Connor and Steve Jones react to the latest NBA news including the Heat finally getting a win, AJ Dybantsa's debut and more.",
+     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/koc-yahoo-102926_0466.jpg",
+     "url": "https://sports.yahoo.com/nba/article/miami-finally-wins-cooper-flaggs-rise-impact-rookies--league-wide-injury-woes-with-steve-jones-172814675.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-29T17:28:14+00:00"
+    },
+    {
+     "title": "Dowman to miss three matches after appeal rejected",
+     "summary": "Arsenal's Max Dowman will miss three matches after an appeal against his sending-off during Tuesday's loss at Fleetwood is rejected.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5147/live/a2fe6400-d2cf-11f1-b677-b762d2f83f6e.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c6kgq9qg28dno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-29T17:19:06+00:00"
+    },
+    {
+     "title": "Careless dismissals give Australia route to series win in South Africa",
      "summary": "Australia take a step towards victory over South Africa in Cape Town, with the help of careless batting from Proteas' top order.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/490e/live/0176af60-d3b6-11f1-b441-2b33b063138f.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42b2/live/34539a90-d3bd-11f1-93e1-3b657b665bcf.jpg",
      "url": "https://www.bbc.co.uk/sport/cricket/articles/cwz0vevng3n0o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-10-29T16:53:40+00:00"
@@ -296,19 +352,11 @@
     },
     {
      "title": "NBA's biggest surprises, most concerning starts and best teams of the early season",
-     "summary": "Our writers share their takeaways from the first week-plus and power rank the five best teams so far.",
+     "summary": "Our writers share their takeaways from the first week-plus and power-rank the five best teams so far.",
      "image": "",
      "url": "https://sports.yahoo.com/nba/article/nbas-biggest-surprises-most-concerning-starts-and-best-teams-of-the-early-season-162509256.html",
      "source": "Yahoo Sports NBA",
      "published": "2026-10-29T16:23:36+00:00"
-    },
-    {
-     "title": "Bears swing big and trade two first-round picks for star Titans DT Jeffery Simmons",
-     "summary": "Struggling Tennessee get haul of picks for tackle Chicago are chasing first Super Bowl title since 1985 The Chicago Bears have acquired All-Pro defensive tackle Jeffery Simmons in a blockbuster trade…",
-     "image": "https://i.guim.co.uk/img/media/b38d3880f1ea9c7bef01f540b72e39061de0ee70/510_0_4778_3825/master/4778.jpg?width=140&quality=85&auto=format&fit=max&s=41519773674ea16384ec9749cd6b98fc",
-     "url": "https://www.theguardian.com/sport/2026/oct/29/bears-jeffery-simmons-titans-trade",
-     "source": "Guardian Sport",
-     "published": "2026-10-29T16:22:59+00:00"
     },
     {
      "title": "2026 NBA betting promos: Claim over $3,000 in bonuses from top online betting apps, sportsbooks for Oct. 29",
@@ -327,30 +375,6 @@
      "published": "2026-10-29T15:15:23+00:00"
     },
     {
-     "title": "Cavs vs. Hawks: How to watch, odds, and injury report",
-     "summary": "The Cavs will try to win their first game in Atlanta since 2024.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/6eec192d2132d8df36a08f40e79b9e02.jpg",
-     "url": "https://sports.yahoo.com/articles/cavs-vs-hawks-watch-odds-150000031.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-29T15:00:00+00:00"
-    },
-    {
-     "title": "Knicks Bulletin: ‘Sugar’",
-     "summary": "All of a sudden, the Knicks look scary. Who would have thought after they won the championship four months ago lost three in a row!? Here’s the latest as the guys rest up for their NBA Cup title-defen…",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/d5920c66cb8c337ecd825ab705191b97.jpg",
-     "url": "https://sports.yahoo.com/articles/knicks-bulletin-sugar-144500989.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-29T14:45:00+00:00"
-    },
-    {
-     "title": "'Fully committed' Fernandes to remain Man Utd captain",
-     "summary": "Manchester United head coach Michael Carrick confirms Bruno Fernandes will remain captain, and addresses his own future before Saturday's trip to Chelsea.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4203/live/1524b320-d3a4-11f1-a5cd-49637fcbd4e4.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/ckz7x8z1e9y9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-29T14:31:52+00:00"
-    },
-    {
      "title": "Jaylen Brown insists he never demanded Celtics trade, pushes back on 'false allegations' from Brian Scalabrine",
      "summary": "The now-76ers star denied giving Boston a list of ultimatums or a trade demand this summer",
      "image": "https://sportshub.cbsistatic.com/i/2026/10/29/eddc78b5-5ce5-43bf-8da2-16e9bd9ee660/jaylen.jpg",
@@ -367,36 +391,12 @@
      "published": "2026-10-29T14:01:44+00:00"
     },
     {
-     "title": "Five ways the NBA's injury outbreak could impact trade season: OKC has work to do, Rockets are in control",
-     "summary": "Barely a week into the new season, the list of sidelined stars keeps growing ... so what does it mean as teams consider reinforcements?",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/29/35fc9ca5-4a4b-4682-831a-17c6d91bac90/williams-edwards-getty.png",
-     "url": "https://www.cbssports.com/nba/news/five-ways-nba-injury-outbreak-impact-trade-season-thunder-rockets/",
-     "source": "CBS Sports NBA",
-     "published": "2026-10-29T13:51:12+00:00"
-    },
-    {
-     "title": "Grizzlies vs. Trail Blazers NBA picks: Can Portland prevail in battle of unbeatens, Ja Morant payback game?",
-     "summary": "We have a matchup of unbeatens in the NBA on Thursday as Memphis visits Portland and Ja Morant",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/28/d5346360-fee6-4937-aae4-aa3f031ac075/2026-10-24t012911z-1078951476-mt1usatoday30168460-rtrmadp-3-nba-portland-trail-blazers-at-sacramento-kings-jpg.jpg",
-     "url": "https://www.cbssports.com/betting/news/grizzlies-vs-trail-blazers-nba-picks-portland-to-prevail-in-battle-of-unbeatens-ja-morant-payback-game/",
-     "source": "CBS Sports NBA",
-     "published": "2026-10-29T13:48:34+00:00"
-    },
-    {
      "title": "Is the double drop from the Premier League becoming more common?",
      "summary": "Back-to-back relegations to the third tier of English football are becoming more common and this season Burnley could make it a hat-trick after Luton Town and Leicester.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/660e/live/5ff58e70-d1ff-11f1-b30f-21253679b290.jpg",
      "url": "https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-10-29T13:19:52+00:00"
-    },
-    {
-     "title": "A three-year-old soccer prodigy went viral. The adults have already let him down",
-     "summary": "From Ms Rachel to Roc Nation, the internet embraced a Florida toddler. Police records reviewed by the Guardian complicate the story – and raise troubling questions There is real tragedy in this week’s…",
-     "image": "https://i.guim.co.uk/img/media/51d75855f0c8121e0d969e38b083ab5c8719c5f8/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=d8f53853a10eeb699e3774d7a3986972",
-     "url": "https://www.theguardian.com/football/2026/oct/29/florida-three-year-old-soccer-viral-video-police-social-media",
-     "source": "Guardian Sport",
-     "published": "2026-10-29T08:00:29+00:00"
     }
    ]
   }
