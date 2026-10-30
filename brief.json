@@ -1,16 +1,120 @@
 {
- "generated": "2026-10-30T18:40:27.473163+00:00",
+ "generated": "2026-10-30T20:53:26.446150+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "FBI working with Binance after crypto exchange hit by $6.3bn heist – business live",
-     "summary": "Blockchain intelligence firm TRM says North Korea’s TraderTraitor hacking unit is responsible for the largest crypto theft on record Explainer: How big a deal is this, who did it, and are investments…",
-     "image": "https://i.guim.co.uk/img/media/c88d8154f76fef59b24c916cab7348652d9f113c/481_0_4070_3256/master/4070.jpg?width=140&quality=85&auto=format&fit=max&s=bfe6e3452b9f288d5d3b8b2949449826",
+     "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+     "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13b1/live/6aa032d0-d44d-11f1-bfc7-afe23fc6cf5b.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-30T20:41:51+00:00"
+    },
+    {
+     "title": "US appeals court again rejects Trump bid to set aside California ballots",
+     "summary": "The 9th Circuit Court called the petition to remove 20,000 ballots from California's vote count unconstitutional.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-30T20:39:50+00:00"
+    },
+    {
+     "title": "G20 drops group photo as Europeans refuse to stand with Lavrov",
+     "summary": "Sanctioned Russian FM attends Atlanta talks as Iran war, Hormuz disruption and Ukraine divide G20 members.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-30T20:37:20+00:00"
+    },
+    {
+     "title": "從蓋房子到經營城市！馥華45年轉型 板橋雙塔揭開城市經營新布局",
+     "summary": "馥華集團於45年前由板橋出發，在今年迎來板橋馥華艾美酒店的開幕，從建築開發走向全方位不動產開發商，馥華持續在住宅市場開創新局，同時也宣布進軍零售市場，為客戶提供更完整的生活服務，也為城市創造長遠價值。…",
+     "image": "",
+     "url": "https://estate.ltn.com.tw/article/29197",
+     "source": "自由時報",
+     "published": "2026-10-30T20:30:59+00:00"
+    },
+    {
+     "title": "從住宅、商辦到零售！馥華轉型全方位開發商",
+     "summary": "馥華集團斥資約236億元打造板橋大型複合式開發案，涵蓋住宅案「馥華艾美」、商辦「馥華世界廣場」及台北板橋馥華艾美酒店，集團橫跨建築、飯店、營造，也加碼布局商辦空間，更宣布進軍零售市場，目標成為全方位開發商。…",
+     "image": "",
+     "url": "https://estate.ltn.com.tw/article/29198",
+     "source": "自由時報",
+     "published": "2026-10-30T20:30:58+00:00"
+    },
+    {
+     "title": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
+     "summary": "Investors are nervous about the massive AI spending from the tech giants and whether that will pay off.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-30T20:30:57+00:00"
+    },
+    {
+     "title": "沙烏地聯軍稱攔截無人機及飛彈　美下令撤離非緊急人員",
+     "summary": "葉門叛軍「青年運動」與沙烏地阿拉伯領導的聯軍衝突持續升高。聯軍今天表示，在利雅德附近攔截並摧毀一架無人機，同時攔截一枚朝南部發射的彈道飛彈。美國駐沙烏地大使館因安全風險升高，下令非緊急政府人...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5624477",
+     "source": "自由時報",
+     "published": "2026-10-30T20:30:07+00:00"
+    },
+    {
+     "title": "北中南3大老牌百貨接連熄燈 周邊房價變天？跌最慘是它",
+     "summary": "全台老牌百貨接連熄燈，周邊房價也跟著跌？北中南3大百貨相繼退場，實登卻揭露意外反差！台北SOGO敦化館、高雄大統百貨五福店周邊房價不跌反漲，台中四季百貨東海店周邊卻下跌近17%，3大商圈呈現2漲1跌。…",
+     "image": "",
+     "url": "https://estate.ltn.com.tw/article/29185",
+     "source": "自由時報",
+     "published": "2026-10-30T20:30:00+00:00"
+    },
+    {
+     "title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff – business live",
+     "summary": "Cryptocurrency-related firms Coinbase, Strategy, and Robinhood fell in the wake of reports that hackers stole $6.3bn from Binance How big a deal is the $6.3bn Binance crypto heist, who did it, and are…",
+     "image": "https://i.guim.co.uk/img/media/5ae15dbea2e348bd685e0e7f83a1cb42d980c10e/85_0_2280_1825/master/2280.jpg?width=140&quality=85&auto=format&fit=max&s=e7a4698a0e43d2c6e0c3e1ae78407fe3",
      "url": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
      "source": "Guardian Business",
-     "published": "2026-10-30T18:33:25+00:00"
+     "published": "2026-10-30T20:24:25+00:00"
+    },
+    {
+     "title": "Rubio hosts G20 talks as Russia’s Lavrov presence sparks tensions",
+     "summary": "US Secretary of State Marco Rubio urged G20 officials to work together to confront threats to the economic order.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_rubio-hosts-g20-talks-as-russias-lavrov-present-301026?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-30T20:13:36+00:00"
+    },
+    {
+     "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+     "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61df/live/2d4de870-d487-11f1-b441-2b33b063138f.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-30T20:10:56+00:00"
+    },
+    {
+     "title": "Port Sudan families can barely afford water as shortages persist",
+     "summary": "Despite efforts to restore damaged infrastructure, residents face soaring water costs as war, displacement strain supply",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/10/30/port-sudan-families-can-barely-afford-water-as-shortages-persist?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-10-30T20:10:22+00:00"
+    },
+    {
+     "title": "Canada and EU announce new alliance open to like-minded countries",
+     "summary": "Alliance for the Future, unveiled at Montreal summit and open to other countries, conceived for world ‘shaken by new storms’ Canada and Europe have announced a new alliance of like-minded nations to s…",
+     "image": "https://i.guim.co.uk/img/media/fb5d95bd3e88ee966741d3d25099a1b85ecc6648/0_99_3718_2973/master/3718.jpg?width=140&quality=85&auto=format&fit=max&s=491522c805e5cc2531e4c403a521654a",
+     "url": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
+     "source": "Guardian World",
+     "published": "2026-10-30T19:42:15+00:00"
+    },
+    {
+     "title": "Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked",
+     "summary": "Crypto exchanges make it easier to buy, sell and store digital assets, but they come with risks, too.",
+     "image": "",
+     "url": "https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-30T19:39:46+00:00"
     },
     {
      "title": "Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spills into election",
@@ -21,122 +125,26 @@
      "published": "2026-10-30T18:32:17+00:00"
     },
     {
-     "title": "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds",
-     "summary": "More than $6 billion in crypto was stolen from Binance, setting off a race to recover the funds before North Korea-linked hackers can launder them into cash.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-30T18:08:07+00:00"
-    },
-    {
-     "title": "Kim Jong Un calls for North Korea’s drone technology superiority",
-     "summary": "North Korean leader Kim Jong Un calls for “absolute superiority” in drone capabilities.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_north-korea-seeks-absolute-superiority-in-drone-301026?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-30T18:03:45+00:00"
-    },
-    {
      "title": "ICE activity is surging ahead of midterms. So is voter turnout.",
      "summary": "Across the country, there are reports of heightened ICE activity. Advocates worry about how close it is to midterms, but so far voter turnout is surging.",
      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5464+0+0/resize/8192x5464!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F94%2F18%2F99a9b98e4d66ad72a0ae53b74782%2Fgettyimages-2298640808.jpg",
      "url": "https://www.npr.org/2026/10/30/nx-s1-6023331/ice-activity-surge-midterms",
      "source": "NPR News",
      "published": "2026-10-30T17:45:27+00:00"
-    },
-    {
-     "title": "Nasdaq plunges 3%, heads for worst day since June as tech stocks lead sell-off: Live updates",
-     "summary": "Amazon and Intel shares tumbled after the companies posted their latest earnings reports.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/29/stock-market-today-live-updates.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-30T17:43:53+00:00"
-    },
-    {
-     "title": "How cuts under Colombia’s de la Espriella threaten a key human rights court",
-     "summary": "Colombia's president plans to slash spending on a transitional justice court. But war crimes victims fear the cost.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/longform/2026/10/30/how-cuts-under-colombias-de-la-espriella-threaten-a-key-human-rights-court?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-30T17:43:21+00:00"
-    },
-    {
-     "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-     "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61df/live/2d4de870-d487-11f1-b441-2b33b063138f.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-30T17:39:43+00:00"
-    },
-    {
-     "title": "科技股賣壓沉重　歐股多數收黑",
-     "summary": "美國科技大廠財報欠佳，加劇市場對人工智慧（AI）投資熱潮的擔憂，科技股賣壓沉重，歐洲股市今天多數收黑。 倫敦FTSE 100指數上漲7.71點或0.07%，收在10729.78點。 法蘭...…",
-     "image": "",
-     "url": "https://ec.ltn.com.tw/article/breakingnews/5624468",
-     "source": "自由時報",
-     "published": "2026-10-30T17:36:03+00:00"
-    },
-    {
-     "title": "Report reveals campaign promoting racist, Islamophobic, anti-Qatar views",
-     "summary": "Investigation finds that years-long operation sought to portray Qatar as driving force behind mass migration to Europe.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/10/30/report-reveals-campaign-promoting-racist-islamophobic-anti-qatar-views?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-30T17:34:27+00:00"
-    },
-    {
-     "title": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
-     "summary": "The U.S. Department of the Treasury has announced new Series I bond rates through April 2027.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-30T17:15:53+00:00"
-    },
-    {
-     "title": "Barcelona’s Flick praises Yamal’s ‘mentality’ after missing out on Ballon d’Or",
-     "summary": "Lamine Yamal was tipped for the Golden Ball which went to Harry Kane, but his Barca boss 'proud' of teenager's reaction.",
-     "image": "",
-     "url": "https://www.aljazeera.com/sports/2026/10/30/barcelonas-flick-praises-yamal-mentality-in-missing-out-on-ballon-dor?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-10-30T17:13:32+00:00"
-    },
-    {
-     "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-     "summary": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22e/live/c1455920-d46c-11f1-93e1-3b657b665bcf.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-30T17:07:19+00:00"
-    },
-    {
-     "title": "沈富雄爆柯志恩說當選就邀他當顧問「住免費」 網：開始酬傭？",
-     "summary": "九合一大選倒數29天，前立委沈富雄週五（30日）上節目時自爆，國民黨高雄市長候選人柯志恩向他承諾，只要當選就要在市長辦公室開一個顧問室，邀請他下去高雄「住免費」，讓大批網友看傻眼...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5624446",
-     "source": "自由時報",
-     "published": "2026-10-30T16:51:37+00:00"
-    },
-    {
-     "title": "讚沈伯洋是「菩薩」挨批造神  曹興誠開口了",
-     "summary": "聯電創辦人曹興誠日前在社群分析為何「洋流」能夠感動這麼多人，稱讚民進黨台北市長候選人沈伯洋就像是菩薩，挨批在「造神」。對此，曹興誠30日晚間做出解釋，並稱此次首都選戰就像是「菩薩...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5624452",
-     "source": "自由時報",
-     "published": "2026-10-30T16:41:42+00:00"
-    },
-    {
-     "title": "里長候選人承認現金賄選竟未准押 台東地院說原因",
-     "summary": "台東地檢署29日大動作偵辦議員、里長賄選案，檢調一次帶回28人偵訊，議員、助理與里長等人聲押，但最終都被請回；其中，里長候選人已坦承現金賄選，法官卻未准押，台東地院各給出不同裁...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/society/breakingnews/5624458",
-     "source": "自由時報",
-     "published": "2026-10-30T16:36:45+00:00"
     }
    ]
   },
   "ai": {
    "label": "AI",
    "items": [
+    {
+     "title": "Rare meteorite from Mars gives us a view into its ancient crust",
+     "summary": "A meteorite found in the Sahara is a rare piece of Mars' ancient crust.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-3-500x500.jpeg",
+     "url": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/",
+     "source": "Ars Technica",
+     "published": "2026-10-30T18:13:42+00:00"
+    },
     {
      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
      "summary": "Low costs and offline security mean magnetic tape still has a job.",
@@ -146,20 +154,20 @@
      "published": "2026-10-30T17:38:19+00:00"
     },
     {
+     "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+     "summary": "Article URL: https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f Comments URL: https://news.ycombinator.com/item?id=50307219 Points: 176 # Comments: 121",
+     "image": "",
+     "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-30T17:27:25+00:00"
+    },
+    {
      "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
      "summary": "Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up.",
      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1425343562-500x500.jpg",
      "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
      "source": "Ars Technica",
      "published": "2026-10-30T16:53:49+00:00"
-    },
-    {
-     "title": "US tech stocks see sharp falls over AI cost fears",
-     "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 173 # Comments: 153",
-     "image": "",
-     "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-30T16:13:02+00:00"
     },
     {
      "title": "Analysts find looming launch crisis is \"more severe\" than anticipated",
@@ -195,35 +203,27 @@
     },
     {
      "title": "AI isn't replacing SREs, it's deskilling them",
-     "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 294 # Comments: 218",
+     "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 383 # Comments: 295",
      "image": "",
      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
      "source": "Hacker News Front Page",
      "published": "2026-10-30T15:52:18+00:00"
     },
     {
-     "title": "Northflank Breached",
-     "summary": "Article URL: https://status.northflank.com Comments URL: https://news.ycombinator.com/item?id=50305025 Points: 188 # Comments: 113",
+     "title": "The federated code forge",
+     "summary": "Article URL: https://tangled.org/blog/forge/ Comments URL: https://news.ycombinator.com/item?id=50305573 Points: 159 # Comments: 58",
      "image": "",
-     "url": "https://status.northflank.com",
+     "url": "https://tangled.org/blog/forge/",
      "source": "Hacker News Front Page",
-     "published": "2026-10-30T15:10:31+00:00"
+     "published": "2026-10-30T15:44:29+00:00"
     },
     {
-     "title": "Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It",
-     "summary": "Article URL: https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no Comments URL: https://news.ycombinator.com/item?id=50304419 Points: 212 # Comments: 205",
+     "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+     "summary": "Article URL: https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance Comments URL: https://news.ycombinator.com/item?id=50305480 Points: 152 #…",
      "image": "",
-     "url": "https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no",
+     "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
      "source": "Hacker News Front Page",
-     "published": "2026-10-30T14:27:44+00:00"
-    },
-    {
-     "title": "GM to pay $220 million after selling customer Smart Driver data",
-     "summary": "Owners of GM cars found their driving data had been sold to insurance companies.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/05/myBuick-App-01-500x500.jpg",
-     "url": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/",
-     "source": "Ars Technica",
-     "published": "2026-10-30T13:53:20+00:00"
+     "published": "2026-10-30T15:39:05+00:00"
     },
     {
      "title": "TXOne Networks 推出 ServiceNow 整合，將企業弱點管理延伸至 OT 現場",
@@ -271,12 +271,92 @@
    "label": "運動",
    "items": [
     {
-     "title": "Breeders’ Cup 2026: Folsom Blues set to go off as favourite in Juvenile Turf, day one – live",
-     "summary": "Updates from Keeneland. First race 6.55pm GMT (2.55pm ET) Full race card | Thoughts? Get in touch with Greg via email Loughnane a late switch on Libertango Now there’s a surprise – Flavien Prat was ex…",
-     "image": "https://i.guim.co.uk/img/media/449270e74cf7d5a1e48bceb65e9de108705e5e7c/1_381_3516_2813/master/3516.jpg?width=140&quality=85&auto=format&fit=max&s=9ab718858906a8ea2f24dd6ad645fa03",
-     "url": "https://www.theguardian.com/sport/live/2026/oct/30/breeders-cup-2026-folsom-blues-set-to-go-off-as-favourite-in-juvenile-turf-day-one-live",
+     "title": "Use BetMGM bonus code CBSSPORTS to land $1,500 bonus bets for 76ers-Knicks, NBA, Baylor-UCF, college football",
+     "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NBA, college football and NFL betting",
+     "image": "https://sportshub.cbsistatic.com/i/2026/09/08/8c9b2f2a-2dd9-45bb-932a-45e8faf837ef/betmgm-promo-code-september-2026.jpg",
+     "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-land-1500-bonus-bets-76ers-knicks-nba-baylor-ucf-college-football/",
+     "source": "CBS Sports NBA",
+     "published": "2026-10-30T20:07:05+00:00"
+    },
+    {
+     "title": "Ja Morant injury: Trail Blazers star expected to miss at least four weeks with hamstring strain",
+     "summary": "Another day, another notable injury in the NBA -- and this time, Morant is expected to miss at least a month",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/30/3a54d781-812e-42de-921b-934fca8828ea/ja-morant-getty-7.png",
+     "url": "https://www.cbssports.com/nba/news/ja-morant-injury-trail-blazers-star-miss-at-least-four-weeks-hamstring-strain/",
+     "source": "CBS Sports NBA",
+     "published": "2026-10-30T20:05:18+00:00"
+    },
+    {
+     "title": "Arteta can take inspiration from George Graham to expunge painful Anfield memories",
+     "summary": "Arsenal have not won at Liverpool for 13 league games but Gunners’ win in 1989 remains one of club’s greatest nights Mikel Arteta used a Spanish word to describe what it felt like to be helpless at An…",
+     "image": "https://i.guim.co.uk/img/media/8bc5c76caa655aaa0f39f870d1a86cebc0953e2b/0_0_3637_2910/master/3637.jpg?width=140&quality=85&auto=format&fit=max&s=747b16e4d518027cb3f97a995fabb2fe",
+     "url": "https://www.theguardian.com/football/2026/oct/30/mikel-arteta-arsenal-inspiration-george-graham-anfield-liverpool",
      "source": "Guardian Sport",
-     "published": "2026-10-30T18:28:13+00:00"
+     "published": "2026-10-30T20:00:23+00:00"
+    },
+    {
+     "title": "Fiesta awaits in Mexico City as Kimi Antonelli speeds towards F1 history",
+     "summary": "Italian 20-year-old is on the verge of becoming the youngest world champion with the Mexican Grand Prix ready for a carnival coronation atmosphere An undeniable highlight of this Formula One season, m…",
+     "image": "https://i.guim.co.uk/img/media/a3f6476ae0305f3ba9a2861828462902a66c1333/181_0_4296_3439/master/4296.jpg?width=140&quality=85&auto=format&fit=max&s=9767a2c9c2162c90bd5e4ae0b539008b",
+     "url": "https://www.theguardian.com/sport/2026/oct/30/mexico-grand-prix-kimi-antonelli-f1-history",
+     "source": "Guardian Sport",
+     "published": "2026-10-30T20:00:22+00:00"
+    },
+    {
+     "title": "How can playing for Manchester City fit into Marc Guéhi’s moral universe? | Barney Ronay",
+     "summary": "Club’s predicament raises interesting questions about principles, both for individuals and the Premier League I felt unbelievably ponderous. My head was made of Aztec stone. I realised I didn’t want t…",
+     "image": "https://i.guim.co.uk/img/media/1b026abea70290dea3132cff7efc573c7760cd79/55_0_2068_1654/master/2068.jpg?width=140&quality=85&auto=format&fit=max&s=2cd0687a58c0e4fea2f4ecba7a5711d6",
+     "url": "https://www.theguardian.com/football/2026/oct/30/manchester-city-financial-charges-guilty-marc-guehi-premier-league",
+     "source": "Guardian Sport",
+     "published": "2026-10-30T20:00:22+00:00"
+    },
+    {
+     "title": "Portland's Ja Morant to miss at least a month with left hamstring strain",
+     "summary": "This throws cold water on one of the best stories of the early season, the Trail Blazers offense.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/portlands-ja-morant-miss-least-195649072.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-30T19:56:49+00:00"
+    },
+    {
+     "title": "Leclerc fastest in Mexico City Grand Prix first practice",
+     "summary": "Ferrari's Charles Leclerc goes fastest in the first practice session of the Mexico City Grand Prix.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e2d/live/764217c0-d493-11f1-93e1-3b657b665bcf.jpg",
+     "url": "https://www.bbc.co.uk/sport/formula1/articles/cqde8p6j9ye7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-30T19:43:59+00:00"
+    },
+    {
+     "title": "Today's top games to watch, best bets, odds: Knicks at 76ers, Lakers at Warriors, UCF vs. Baylor and more",
+     "summary": "Find best bets and props for the biggest games in sports on Friday from the SportsLine Projection Model and top CBS Sports experts",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/22/19a6cd59-5bf6-41ec-96a5-40ba26e6b016/lebron-james.jpg",
+     "url": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-knicks-at-76ers-lakers-at-warriors-ucf-vs-baylor-and-more/",
+     "source": "CBS Sports NBA",
+     "published": "2026-10-30T19:29:27+00:00"
+    },
+    {
+     "title": "Trail Blazers' Ja Morant out at least four weeks with hamstring injury",
+     "summary": "Portland Trail Blazers guard Ja Morant will miss at least four weeks, adding to the list of NBA stars who have gotten injured already this season.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/trail-blazers-ja-morant-least-191932852.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-30T19:19:32+00:00"
+    },
+    {
+     "title": "Fantasy Basketball Weekend Streamers: Ja'Kobe Walter, Tristan da Silva starring as injury replacements",
+     "summary": "Ja'Kobe Walter and Tristan da Silva lead a group of 10 players worth streaming this weekend.",
+     "image": "https://media.zenfs.com/en/nbcsports.com/b037e677e8a8dbd8ae8738b3415b15c3.jpg",
+     "url": "https://sports.yahoo.com/articles/fantasy-basketball-weekend-streamers-jakobe-190534310.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-30T19:05:34+00:00"
+    },
+    {
+     "title": "The Credits: The Empire Strikes Back",
+     "summary": "A slew of injuries to key players and a couple of 5-0 starts headline this week in the NBA",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/15000659b3cd0933343acd324d1c54fa.jpg",
+     "url": "https://sports.yahoo.com/articles/credits-empire-strikes-back-182146392.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-30T18:21:46+00:00"
     },
     {
      "title": "Why Yaxel Lendeborg could be the key to saving what's left of the Warriors' Stephen Curry era",
@@ -287,60 +367,12 @@
      "published": "2026-10-30T18:21:07+00:00"
     },
     {
-     "title": "Dwyane Wade's statue gets a facelift: Heat legend's bronze likeness updated with new face",
-     "summary": "'I hope when people see it now, they see a better likeness of me,' Wade said on Friday",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/30/779a641f-737b-471f-8336-1934a2551f2f/dwade.png",
-     "url": "https://www.cbssports.com/nba/news/dwyane-wade-statue-facelift-heat-legends-bronze-likeness-updated/",
-     "source": "CBS Sports NBA",
-     "published": "2026-10-30T17:48:49+00:00"
-    },
-    {
-     "title": "NBA's 'unprecedented' early season injury crisis has players and coaches searching for answers",
-     "summary": "Less than two weeks into the 2026-27 NBA season, a large handful of star players have already sustained notable injuries",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/30/916bf68a-1bde-44a8-898c-75d5db3c777c/haliburton-getty-9.png",
-     "url": "https://www.cbssports.com/nba/news/nba-unprecedented-early-season-injury-crisis-players-coaches-answers/",
-     "source": "CBS Sports NBA",
-     "published": "2026-10-30T17:37:38+00:00"
-    },
-    {
-     "title": "Grizzlies & Blazers Impress Early, Trick or Treat + 2026 WNBA Finals Game 6 Takeaways",
-     "summary": "Nekias Duncan and Steve Jones review NBA teams' starts to the regular season and recap Game 6 of the WNBA Finals.",
-     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/tds-jerome-thumb_2215.png",
-     "url": "https://sports.yahoo.com/nba/article/grizzlies--blazers-impress-early-trick-or-treat--2026-wnba-finals-game-6-takeaways-173136999.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-30T17:31:36+00:00"
-    },
-    {
-     "title": "Yahoo Perfect 5: Building around Luka Dončić, Joel Embiid and two Warriors' value plays for Friday's slate",
-     "summary": "Dan Titus takes you through who he's picking for his Perfect 5 lineup for Friday's Prime doubleheader.",
-     "image": "",
-     "url": "https://sports.yahoo.com/fantasy/article/yahoo-perfect-5-building-around-luka-doncic-joel-embiid-and-two-warriors-value-plays-for-fridays-slate-172233225.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-30T17:22:33+00:00"
-    },
-    {
-     "title": "Kam Williams is nearing a return from injury but unlikely to play in Kentucky vs. Manhattan",
-     "summary": "Kentucky is slowly approaching full health with the regular season on deck.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/3b71e2ecab325a5bde203a632031986a.jpg",
-     "url": "https://sports.yahoo.com/articles/kam-williams-nearing-return-injury-172133148.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-30T17:21:33+00:00"
-    },
-    {
      "title": "South Africa-Australia set for classic finale – what does history suggest could happen?",
      "summary": "South Africa set up an epic final day of their decisive Test against Australia by batting throughout the fourth day. What does history suggest could happen?",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2515/live/dcdcd0b0-d47f-11f1-b441-2b33b063138f.jpg",
      "url": "https://www.bbc.co.uk/sport/cricket/articles/c6n8dpvyyy71o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-10-30T17:03:40+00:00"
-    },
-    {
-     "title": "Despite 0-5 start, Kings coach Doug Christie reportedly not on hot seat",
-     "summary": "The Sacramento front office wants to judge him with a healthy roster, according to the report.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/despite-0-5-start-kings-165211634.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-30T16:52:11+00:00"
     },
     {
      "title": "What Howe could bring to Man Utd - and what are the challenges?",
@@ -351,14 +383,6 @@
      "published": "2026-10-30T16:27:13+00:00"
     },
     {
-     "title": "NBA's five biggest X-Factors for 2026-27 season: Hopes hinge on Joel Embiid, LaMelo Ball and others",
-     "summary": "These five players are the major swing pieces that could shape the new NBA season",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/30/3baed233-10d0-406d-a0ce-a00d4f7fbef4/joel-embiid-getty-17.png",
-     "url": "https://www.cbssports.com/nba/news/nba-five-biggest-x-factors-2026-27-season-joel-embiid-lamelo-ball/",
-     "source": "CBS Sports NBA",
-     "published": "2026-10-30T16:25:51+00:00"
-    },
-    {
      "title": "From her own Barbie doll to bench - how Ellie Kildunne slipped from Red Roses' XV",
      "summary": "Ellie Kildunne has been the Red Roses' figurehead throughout their rise to world champions, so why is she on the bench for Friday night's Test against the USA?",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20d9/live/b6628fc0-d479-11f1-8edb-d9fce66588c6.jpg",
@@ -367,36 +391,12 @@
      "published": "2026-10-30T16:22:55+00:00"
     },
     {
-     "title": "‘We are not in Disneyland’: Arteta warns Dowman of Arsenal’s demands",
-     "summary": "‘We have made these mistakes … you can get punished’ Dowman lost appeal against red card at Fleetwood Mikel Arteta has warned Max Dowman that he “is not in Disneyland” and must learn from his red card…",
-     "image": "https://i.guim.co.uk/img/media/480e441aeae0b87326608c654e9522d90eb63d54/305_0_2817_2253/master/2817.jpg?width=140&quality=85&auto=format&fit=max&s=b6877567e9a3814b9a1b3ac845039411",
-     "url": "https://www.theguardian.com/football/2026/oct/30/max-dowman-red-card-suspension-mikel-arteta-arsenal-fleetwood-liverpool-premier-league",
-     "source": "Guardian Sport",
-     "published": "2026-10-30T15:44:51+00:00"
-    },
-    {
-     "title": "Britain's first £100m man facing defining moment",
-     "summary": "Is it 'now or never' for Jack Grealish after he was dropped by Everton for a breach of club discipline, asks chief football writer Phil McNulty?",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a69e/live/a617bf90-d45c-11f1-ab12-eb0c94f5b382.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cmzxj2e2e5p2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-30T13:42:15+00:00"
-    },
-    {
      "title": "NCAA basketball 2026-27 predictions: from JuJu Watkins to Tyran Stokes, the names you’ll know by March",
      "summary": "Can Florida’s continuity trump the transfer portal? Will JuJu Watkins pick up where she left off? And who will survive an expanded March Madness? Our writers weigh in Lots of stuff. The return of JuJu…",
      "image": "https://i.guim.co.uk/img/media/c0e91a36e86cdd190465fa4b9d37307d64fb9892/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=87fd2c42370a4faf7875ffcd9592089c",
      "url": "https://www.theguardian.com/sport/2026/oct/30/ncaa-basketball-2026-27-season-predictions-march-madness",
      "source": "Guardian Sport",
      "published": "2026-10-30T11:00:51+00:00"
-    },
-    {
-     "title": "Packers beat Panthers as Green Bay’s Christian Watson returns after mid-game hospital visit",
-     "summary": "Carolina Panthers 19-27 Green Bay Packers Packers WR has 113 receiving yards despite injury Jordan Love threw three touchdown passes, Josh Jacobs scored twice and the Green Bay Packers withstood three…",
-     "image": "https://i.guim.co.uk/img/media/97abfd32e8630c2d0c5c96cb38fe96b103a7af01/438_0_3497_2798/master/3497.jpg?width=140&quality=85&auto=format&fit=max&s=da793d33ee5d291bf0f9d7c6abcc9fdb",
-     "url": "https://www.theguardian.com/sport/2026/oct/29/packers-panthers-thursday-night-football-nfl-christian-watson-hospital",
-     "source": "Guardian Sport",
-     "published": "2026-10-30T03:53:42+00:00"
     }
    ]
   }
