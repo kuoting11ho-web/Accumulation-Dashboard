@@ -1,72 +1,128 @@
 {
- "generated": "2026-10-31T17:48:29.920787+00:00",
+ "generated": "2026-10-31T20:05:27.915425+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "Pakistan beat Sri Lanka as Zaman’s century turns thrilling tri-series final",
-     "summary": "Fakhar Zaman's century outdoes Kamindu Mendis and propels Pakistan to three-wicket win against Sri Lanka in cricket final.",
+     "title": "Clashes erupt between police and protesters in Paris",
+     "summary": "Over 320,000 people protested around France in a third weekend of demonstrations against the rising cost of living and poor public services.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9670/live/78247d30-d560-11f1-93e1-3b657b665bcf.jpg",
+     "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-31T19:37:43+00:00"
+    },
+    {
+     "title": "France seethes again as youth-led protests sweep Europe",
+     "summary": "French Interior Minister Laurent Nuñez warned of a \"very high risk\" of disorder, especially after dark on Halloween, as some 320,000 people nationwide took to the streets.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7542x5028+0+0/resize/7542x5028!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F84%2F42%2F30374004412bbfde4b4826b0b2dc%2Ffrance.jpg",
+     "url": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
+     "source": "NPR News",
+     "published": "2026-10-31T19:30:19+00:00"
+    },
+    {
+     "title": "'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
+     "summary": "One evacuated couple says they crossed minefields in Oleshky in a search for food.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/053a/live/d1a9e840-d54c-11f1-bcb7-8f812b44c2e5.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-31T19:22:26+00:00"
+    },
+    {
+     "title": "How vulnerable are cryptocurrency platforms?",
+     "summary": "Hackers have targeted Binance, the world’s largest exchange.",
      "image": "",
-     "url": "https://www.aljazeera.com/sports/2026/10/31/pakistan-beat-sri-lanka-as-zaman-century-turns-thrilling-tri-series-final?traffic_source=rss",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/10/31/how-vulnerable-are-cryptocurrency-platforms?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-10-31T17:21:05+00:00"
+     "published": "2026-10-31T19:19:29+00:00"
     },
     {
-     "title": "A cure for Trump? Why Democratic doctors are running in the 2026 midterms",
-     "summary": "Democratic doctors aim to convert the backlash against the Trump administration’s health policies into midterm votes.",
+     "title": "Palestinians ‘Stealing their own olives’",
+     "summary": "In the occupied West Bank, Israeli settlers have turned olive harvesting into a deadly activity for Palestinians.",
      "image": "",
-     "url": "https://www.aljazeera.com/news/longform/2026/10/31/a-cure-for-trump-why-democratic-doctors-are-running-in-the-2026-midterms?traffic_source=rss",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/palestinians-stealing-their-own?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-10-31T17:19:44+00:00"
+     "published": "2026-10-31T19:18:32+00:00"
     },
     {
-     "title": "Dakar Youth Olympics: Who gets to hold the flame?",
-     "summary": "Senegal makes history by becoming the first African country to host an Olympic event.",
+     "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
+     "summary": "Binance says it has restored backing for 90% of assets affected by its $6.3 billion hack and is planning to resume withdrawals, subject to security checks.",
      "image": "",
-     "url": "https://www.aljazeera.com/sports/2026/10/31/dakar-youth-olympics-who-gets-to-hold-the-flame?traffic_source=rss",
+     "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+     "source": "CNBC Top News",
+     "published": "2026-10-31T19:16:25+00:00"
+    },
+    {
+     "title": "法國數十萬人抗議生活成本　萬聖節變裝上街",
+     "summary": "法國今天有數十萬人走上街頭，抗議生活成本飆漲與警察暴力。適逢萬聖節，部分示威者打扮成小丑、女巫等造型參與抗議，巴黎等多個城市警方施放催淚瓦斯，並與示威者爆發衝突。 法新社報導，這是法國連續...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5625373",
+     "source": "自由時報",
+     "published": "2026-10-31T19:12:04+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》 ‘Reading Boy’ sculpture hoped to inspire youth",
+     "summary": "By Jonathan Chin / Staff writer, with CNA The Sun Yat-sen Memorial Hall in Taipei on Tuesday held...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5625330",
+     "source": "自由時報",
+     "published": "2026-10-31T19:00:00+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》 Taiwan thanks allies for supporting Strait peace",
+     "summary": "By Lee I-chia / Staff reporter Taiwan yesterday welcomed and expressed appreciation for foreign m...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5625324",
+     "source": "自由時報",
+     "published": "2026-10-31T19:00:00+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》 Lai calls for respect for all as Taiwan celebrates Pride",
+     "summary": "MORE THAN A PARADE: People shared stories, with one saying they wanted to show their mom the road th...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5625326",
+     "source": "自由時報",
+     "published": "2026-10-31T19:00:00+00:00"
+    },
+    {
+     "title": "Who is Arafat Minhas, Pakistan cricket’s rising star all-rounder?",
+     "summary": "A calm head on young shoulders, Arafat Minhas has swiftly earned the reputation of a match-winner for Pakistan.",
+     "image": "",
+     "url": "https://www.aljazeera.com/sports/2026/10/31/who-is-arafat-minhas-pakistan-crickets-rising-star-all-rounder?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-10-31T17:17:21+00:00"
+     "published": "2026-10-31T18:50:25+00:00"
     },
     {
-     "title": "Flavio Bolsonaro says he may run again for Brazilian presidency",
-     "summary": "",
+     "title": "London police arrest 139 as hundreds protest Palestine Action ban",
+     "summary": "Demonstrations in London and Edinburgh come days before a UK Supreme Court appeal challenging the group's proscription.",
      "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/flavio-bolsonaro-says-he-may-run-again-for-brazilian-presidency?traffic_source=rss",
+     "url": "https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-10-31T17:12:11+00:00"
+     "published": "2026-10-31T18:48:29+00:00"
     },
     {
-     "title": "四方外長關切經濟脅迫與產能過剩　暗批中國",
-     "summary": "「四方安全對話」（Quad）4國外長今天發表聯合聲明，對出口限制等「經濟脅迫」及導致產能過剩的做法表達嚴重關切，批評矛頭指向中國。 由美國、印度、日本與澳洲組成的「四方安全對話」在喬治亞州...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5625366",
-     "source": "自由時報",
-     "published": "2026-10-31T17:12:03+00:00"
+     "title": "Key takeaways from this week's political meeting in Beijing",
+     "summary": "The Communist party central committee meeting was focused on discipline and fighting corruption. It comes ahead of next year when Xi is widely expected to try to secure a fourth term.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2d%2Faa%2F00209429492ba03523634db38c54%2Fap26303093614138.jpg",
+     "url": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
+     "source": "NPR News",
+     "published": "2026-10-31T18:42:33+00:00"
     },
     {
-     "title": "沈伯洋市長辯論金句掀熱議！23年前獨站稻田 3封信早已露端倪",
-     "summary": "台北市長候選人蔣萬安與沈伯洋昨（31）日舉行電視辯論，雙方針對市政成果、政策可行性與城市願景交鋒。辯論結束後，網路上對兩人的表現出現不同解讀，有網友將辯論逐字稿交由AI分...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/art/breakingnews/5625365",
-     "source": "自由時報",
-     "published": "2026-10-31T17:07:46+00:00"
+     "title": "A simple explainer of the massive $6.3 billion crypto heist at Binance",
+     "summary": "Here are five things to know about the massive hack of the crypto exchange Binance — from how it happened to what it means for the sector.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5795x3815+0+0/resize/5795x3815!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0e%2F3c%2F40d3ade044dd8ef13db2618a0db7%2Fgettyimages-1496426886.jpg",
+     "url": "https://www.npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea",
+     "source": "NPR News",
+     "published": "2026-10-31T18:11:02+00:00"
     },
     {
-     "title": "人潮重回30年前榮景 台南新光中山店熄燈告別青春",
-     "summary": "「看到今天的人潮，就像回到30年前的榮景。」資深員工回憶，當年週年慶還得到百貨周邊定點發傳單，如今新光三越台南中山店在歡呼聲中熄燈，也向大家的青春歲月道別。 ​熄燈前夕...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5625364",
-     "source": "自由時報",
-     "published": "2026-10-31T17:06:27+00:00"
-    },
-    {
-     "title": "沈伯洋強調都更需重視陪伴遭藍白嘲諷 他翻到蔣萬安也這樣說過！",
-     "summary": "台北市長選舉首場電視辯論於週六（10/31）登場，交叉詰問環節一開始雙方就針對都更議題交鋒。針對民進黨候選人沈伯洋強調都更「最重要是陪伴」，遭不少藍白粉嘲諷是在「講幹話」，沒想到...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5625354",
-     "source": "自由時報",
-     "published": "2026-10-31T17:02:35+00:00"
+     "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+     "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41b8/live/9f93a310-d532-11f1-b441-2b33b063138f.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-31T17:53:35+00:00"
     },
     {
      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
@@ -75,68 +131,20 @@
      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
      "published": "2026-10-31T16:32:08+00:00"
-    },
-    {
-     "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
-     "summary": "Binance says it has restored backing for 90% of assets affected by its $6.3 billion hack and is planning to resume withdrawals, subject to security checks.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-31T16:06:44+00:00"
-    },
-    {
-     "title": "A-listers and AI stylists: how high-street brands are staging a fashion comeback",
-     "summary": "Gap, M&S, Topshop and more are taking a leaf from luxury label playbooks to satisfy savvier generation of shoppers High street brands that boomed in the noughties before the squeeze of both sustainabl…",
-     "image": "https://i.guim.co.uk/img/media/392bac3568445a08a38ac339fc9393a9fd479db7/0_507_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=4649f1c8decf36e3c9aecd71297f15b3",
-     "url": "https://www.theguardian.com/fashion/2026/oct/31/a-listers-ai-stylists-high-street-brands-fashion-comeback",
-     "source": "Guardian Business",
-     "published": "2026-10-31T16:00:47+00:00"
-    },
-    {
-     "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-     "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41b8/live/9f93a310-d532-11f1-b441-2b33b063138f.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-31T15:50:41+00:00"
-    },
-    {
-     "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-     "summary": "Government data shows that more than 10,000 people have contracted the rare virus.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5071/live/dc9ee270-d531-11f1-866a-b522399149a0.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-31T15:16:20+00:00"
-    },
-    {
-     "title": "UK charity shop profits plummet amid shift in secondhand clothes market",
-     "summary": "British Heart Foundation describes ‘exceptionally challenging’ trading after Oxfam’s retail profit reportedly fell 23% amid rise of platforms such as Vinted Profits at some of the UK’s best-known char…",
-     "image": "https://i.guim.co.uk/img/media/96af588f30bb56de819cd5be243b9f7784fab473/26_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=d361795511aaccc711e179a445804418",
-     "url": "https://www.theguardian.com/society/2026/oct/31/profits-uk-charity-shops-oxfam-shift-secondhand-clothes-market",
-     "source": "Guardian Business",
-     "published": "2026-10-31T15:10:52+00:00"
-    },
-    {
-     "title": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
-     "summary": "The latest developments come amid allegations, first reported by The New York Times, that Democrats recruited a spoiler candidate in the toss-up U.S. Senate race.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1800x1201+0+0/resize/1800x1201!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F71%2F23%2Fc930c03f4b42967e4f2cfe53a1df%2Fap26303582385359.jpg",
-     "url": "https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate",
-     "source": "NPR News",
-     "published": "2026-10-31T13:50:58+00:00"
-    },
-    {
-     "title": "Trump promised to slash energy costs  — but gasoline, diesel and jet fuel all soared instead",
-     "summary": "President Donald Trump promised voters who were angry about inflation that he would slash gasoline prices below $2 a gallon in his first year in office.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html",
-     "source": "CNBC Top News",
-     "published": "2026-10-31T12:49:58+00:00"
     }
    ]
   },
   "ai": {
    "label": "AI",
    "items": [
+    {
+     "title": "Casio Watches of the 1980s",
+     "summary": "Article URL: https://www.casio.com/us/watches/50th/Heritage/1980s/ Comments URL: https://news.ycombinator.com/item?id=50317363 Points: 156 # Comments: 72",
+     "image": "",
+     "url": "https://www.casio.com/us/watches/50th/Heritage/1980s/",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-31T16:00:48+00:00"
+    },
     {
      "title": "毅力號首度在火星實測太空衣沾附微塵，超細顆粒恐成載人任務健康隱憂",
      "summary": "美國太空總署（NASA）的「毅力號」（Perseverance）火星車在進行長達 1,645 個火星日（Mar […]",
@@ -162,6 +170,14 @@
      "published": "2026-10-31T16:00:01+00:00"
     },
     {
+     "title": "Malware uses LLMs to rank victims by how much they're worth",
+     "summary": "Article URL: https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/ Comments URL: https://news.ycombinator.com/item?id=50316531 Points: 202 # C…",
+     "image": "",
+     "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+     "source": "Hacker News Front Page",
+     "published": "2026-10-31T14:29:03+00:00"
+    },
+    {
      "title": "Seabirds racing home over the ocean can get jet-lagged",
      "summary": "A long flight home from feeding grounds messes with birds' internal clocks.",
      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-4-500x500.jpeg",
@@ -178,8 +194,8 @@
      "published": "2026-10-31T11:02:34+00:00"
     },
     {
-     "title": "We Took over ChatGPT Accounts",
-     "summary": "Article URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai Comments URL: https://news.ycombinator.com/item?id=50314699 Points: 224 # Comments: 108",
+     "title": "Do the math: How we took over ChatGPT accounts",
+     "summary": "Article URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai Comments URL: https://news.ycombinator.com/item?id=50314699 Points: 272 # Comments: 125",
      "image": "",
      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
      "source": "Hacker News Front Page",
@@ -187,19 +203,11 @@
     },
     {
      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
-     "summary": "Article URL: https://piefed.world/post/1503394 Comments URL: https://news.ycombinator.com/item?id=50314666 Points: 204 # Comments: 135",
+     "summary": "Article URL: https://piefed.world/post/1503394 Comments URL: https://news.ycombinator.com/item?id=50314666 Points: 259 # Comments: 157",
      "image": "",
      "url": "https://piefed.world/post/1503394",
      "source": "Hacker News Front Page",
      "published": "2026-10-31T10:23:41+00:00"
-    },
-    {
-     "title": "Serbia just elected the world's brainiest parliament",
-     "summary": "Article URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament Comments URL: https://news.ycombinator.com/item?id=50314654 Points: 658 # Comments: 378",
-     "image": "",
-     "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-31T10:21:30+00:00"
     },
     {
      "title": "蘑菇 AI 陪伴機器人 Mori 亮相，不說話也沒有螢幕、主打找回注意力",
@@ -208,14 +216,6 @@
      "url": "https://technews.tw/2026/10/31/mori-might-be-the-cutest-ai-companion-robot-yet-and-it-reacts-to-you-like-a-pet/",
      "source": "科技新報 TechNews",
      "published": "2026-10-31T09:00:02+00:00"
-    },
-    {
-     "title": "Switch Lowering in GCC",
-     "summary": "Article URL: https://xoranth.net/gcc-switch/ Comments URL: https://news.ycombinator.com/item?id=50314085 Points: 159 # Comments: 29",
-     "image": "",
-     "url": "https://xoranth.net/gcc-switch/",
-     "source": "Hacker News Front Page",
-     "published": "2026-10-31T08:02:26+00:00"
     },
     {
      "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
@@ -271,12 +271,60 @@
    "label": "運動",
    "items": [
     {
-     "title": "Tottenham v Crystal Palace: Premier League – live",
-     "summary": "⚽ Updates on the 5.30pm GMT kick-off in north London ⚽ Football Daily | Premier League table | Email Niall Before we begin, there will be a minute’s silence, plus the Last Post, to mark Remembrance Da…",
-     "image": "https://i.guim.co.uk/img/media/7eaed8abcc927d4de03b0da02dc29019689d9a5f/360_0_4050_3240/master/4050.jpg?width=140&quality=85&auto=format&fit=max&s=9542832d3d4a948ea70e5773318c4a92",
+     "title": "Canelo Álvarez v Christian Mbilli: WBC super-middleweight championship – live buildup",
+     "summary": "Álvarez challenges for Mbilli’s 168lb title in Riyadh Mexican star fights for first time since Crawford loss Reach out to Bryan on Bluesky or by email Hello and welcome Riyadh’s Kingdom Arena for toni…",
+     "image": "https://i.guim.co.uk/img/media/79bf3749e0f2b77dbcc1947bc79857cd8aab8946/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=8081b6f32bf49b6f5af4beb670a84552",
+     "url": "https://www.theguardian.com/sport/live/2026/oct/31/canelo-alvarez-v-christian-mbilli-wbc-super-middleweight-championship-live-buildup",
+     "source": "Guardian Sport",
+     "published": "2026-10-31T19:44:00+00:00"
+    },
+    {
+     "title": "Tottenham 2-0 Crystal Palace: Premier League – live reaction",
+     "summary": "⚽ Updates on the 5.30pm GMT kick-off in north London ⚽ Football Daily | Premier League table | Email Niall 6 mins: Spurs enjoying the early possession, stroking the ball swiftly around midfield. 3 min…",
+     "image": "https://i.guim.co.uk/img/media/82ce903d989d0de8a2e6dda4283bd601e7e9d57f/1717_748_2060_1649/master/2060.jpg?width=140&quality=85&auto=format&fit=max&s=1f81bba91ca6c6a2fe22bf1f024a780f",
      "url": "https://www.theguardian.com/football/live/2026/oct/31/tottenham-v-crystal-palace-premier-league-live",
      "source": "Guardian Sport",
-     "published": "2026-10-31T17:32:45+00:00"
+     "published": "2026-10-31T19:38:00+00:00"
+    },
+    {
+     "title": "Maresca's big test is to address mounting Man City issues",
+     "summary": "Enzo Maresca enjoyed a flawless start as Manchester City manager, winning his first seven Premier League games in charge, but the honeymoon period is now over.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9843/live/a24ea490-d557-11f1-b937-61b94454a4cf.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cve8rkd8r302o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-31T19:05:41+00:00"
+    },
+    {
+     "title": "Jeanie Buss accuses siblings of conspiring against her as dispute over Lakers stake continues",
+     "summary": "Buss accused her siblings of a 'cloak and dagger' campaign through the media in a court filing this week",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/31/2c89a994-ccbb-4dda-962c-daffa9b9a50b/jeaniebuss.png",
+     "url": "https://www.cbssports.com/nba/news/jeanie-buss-lakers-sale-family-dispute/",
+     "source": "CBS Sports NBA",
+     "published": "2026-10-31T18:55:21+00:00"
+    },
+    {
+     "title": "Usyk eyes 'final chapter' at cruiserweight against Benavidez",
+     "summary": "Former undisputed heavyweight champion Oleksandr Usyk is eyeing a return to cruiserweight to fight David Benavidez before retiring from boxing, says his adviser.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7580/live/d2a756e0-d553-11f1-bcb7-8f812b44c2e5.png",
+     "url": "https://www.bbc.co.uk/sport/boxing/articles/crpdg3qwjg4eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-10-31T18:11:22+00:00"
+    },
+    {
+     "title": "Packers’ Josh Jacobs faces fresh abuse allegations from three women in police records",
+     "summary": "Three women contacted police after Jacobs’ May arrest One alleged the Packers star threatened to kill her Lawyers call allegations ‘uncorroborated’ and ‘old’ As police investigated the battery case in…",
+     "image": "https://i.guim.co.uk/img/media/f2110960087379233094937cfe23f8e5cab78fa3/196_0_1759_1408/master/1759.jpg?width=140&quality=85&auto=format&fit=max&s=33b1107f645f2e37e9c36e8a58928171",
+     "url": "https://www.theguardian.com/sport/2026/oct/31/josh-jacobs-green-bay-packers-abuse-allegations-police-records",
+     "source": "Guardian Sport",
+     "published": "2026-10-31T17:35:04+00:00"
+    },
+    {
+     "title": "Game Preview #7: Wolves vs Spurs Game Thread",
+     "summary": "In the first game since the conference semi-finals, the Wolves fly to San Antonio looking to build a new winning streak.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/cccb819fd9823beff7d609c016544ea3.jpg",
+     "url": "https://sports.yahoo.com/articles/game-preview-7-wolves-vs-173000632.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-31T17:30:00+00:00"
     },
     {
      "title": "Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick",
@@ -287,20 +335,20 @@
      "published": "2026-10-31T17:27:06+00:00"
     },
     {
-     "title": "Breeders’ Cup 2026, day two: horse racing – live",
-     "summary": "Updates from Keeneland, first race 5.10pm GMT/1.10pm ET Full race card | Thoughts? Get in touch with Greg via email 17.48 Breeders’ Cup Turf Sprint, Grade One, 5½f We’re on to the turf next, and the m…",
-     "image": "https://i.guim.co.uk/img/media/e7052c17ec7738a2d440d9be9b8eae3f5aacba64/481_0_2022_1618/master/2022.jpg?width=140&quality=85&auto=format&fit=max&s=0065d9d5e17922bfaed8652181109e47",
-     "url": "https://www.theguardian.com/sport/live/2026/oct/31/breeders-cup-2026-day-two-live",
-     "source": "Guardian Sport",
-     "published": "2026-10-31T17:26:49+00:00"
+     "title": "Jaylen Brown, Tacko Fall questionable, Joel Embiid, LeBron James ruled OUT for Sixers-Hornets",
+     "summary": "The Sixers will be down two of their stars, but might get some reinforcements back against the Hornets.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/0c5e89c57dcaad91e30e158a649c9745.jpg",
+     "url": "https://sports.yahoo.com/articles/jaylen-brown-tacko-fall-questionable-171828834.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-31T17:18:28+00:00"
     },
     {
-     "title": "Quins claim victory at Exeter in nine-try nailbiter",
-     "summary": "Tries for Cadan Murley, Jack Kenningham and a brace for Lucas Schmidt allow Harlequins to edge past Exeter Chiefs.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bae6/live/d0647a80-d54d-11f1-bcb7-8f812b44c2e5.jpg",
-     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwe9l41ke3mzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-31T17:10:55+00:00"
+     "title": "VJ Edgecombe was ready for the moment yet again",
+     "summary": "VJ Edgecombe came up with a big stop then nailed a dagger three. It was just another day at the office for the 21-year-old.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/23c2b9b8b23d4a81ba5ad80ecd53c11a.jpg",
+     "url": "https://sports.yahoo.com/articles/vj-edgecombe-ready-moment-yet-164500232.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-10-31T16:45:00+00:00"
     },
     {
      "title": "How can Thunder survive Chet Holmgren's absence? Rookie Aday Mara becomes vital as trade rumors swirl",
@@ -309,14 +357,6 @@
      "url": "https://www.cbssports.com/nba/news/chet-holmgren-injury-how-can-thunder-survive-trade-rumors/",
      "source": "CBS Sports NBA",
      "published": "2026-10-31T16:39:54+00:00"
-    },
-    {
-     "title": "Returning Estevao brings X-factor to strikerless Chelsea",
-     "summary": "Morgan Rogers swings the match in Chelsea's favour as Estevao Willian dazzles, making a mystery of his limited action under Xabi Alonso this season.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf18/live/aba32670-d542-11f1-b69a-cfba30d5f3d4.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cwnv0p143qzyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-10-31T16:34:42+00:00"
     },
     {
      "title": "Luka Dončić teaches Yaxel Lendeborg a lesson, but Warriors bail their rookie out in comeback win over Lakers",
@@ -335,44 +375,12 @@
      "published": "2026-10-31T15:44:33+00:00"
     },
     {
-     "title": "Sixers try to keep it rolling in Charlotte with both teams on short rest",
-     "summary": "Less than 24 hours after tipping off against the Knicks, the Sixers will be in Charlotte to take on the Hornets.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/42a736af7e9b73c63712ff0679fc8bec.jpg",
-     "url": "https://sports.yahoo.com/articles/sixers-try-keep-rolling-charlotte-145302948.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-31T14:53:02+00:00"
-    },
-    {
-     "title": "Manchester United crisis deepens with Chelsea defeat and Martínez red card",
-     "summary": "Get ready for another week of agonising over the sorry state of Manchester United. The legends of old will rage on podcasts, clips of a fuming Gary Neville will fly around social media and by the time…",
-     "image": "https://i.guim.co.uk/img/media/5a56e290138ba3b14a3514de7e7fe982dd5f6caf/861_418_4183_3346/master/4183.jpg?width=140&quality=85&auto=format&fit=max&s=68c863c970309804bb9346a605f8e2fd",
-     "url": "https://www.theguardian.com/football/2026/oct/31/chelsea-manchester-united-premier-league-match-report",
-     "source": "Guardian Sport",
-     "published": "2026-10-31T14:42:36+00:00"
-    },
-    {
-     "title": "Knicks Bulletin: ‘Josh said he feels the fatigue?’",
-     "summary": "The Sixers beat the Knicks on Friday… …meaning they are 2-0 in the head-to-head matchup. That’s it, that’s all it means. No parade down Broad Street. Here’s what we heard coming out of Cheesesteak Are…",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/ab892a5a0be83c06be09404b8350c66d.jpg",
-     "url": "https://sports.yahoo.com/articles/knicks-bulletin-josh-said-feels-140000392.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-31T14:00:00+00:00"
-    },
-    {
      "title": "2026 NBA betting promos: Claim over $3,000 in bonuses from top online betting apps, sportsbooks for Oct. 31",
      "summary": "Top NBA betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
      "image": "https://sportshub.cbsistatic.com/i/2026/10/31/2b4f9094-9a26-471b-a4f2-5fa2e3b08114/shai-gilgeous-alexander-3.jpg",
      "url": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-claim-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-oct-31/",
      "source": "CBS Sports NBA",
      "published": "2026-10-31T13:57:25+00:00"
-    },
-    {
-     "title": "Sixers down Embiid and James to end back-to-back in Charlotte",
-     "summary": "The Sixers will be undermanned for their game Saturday night against the Hornets.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/sixers-down-embiid-james-end-133139864.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-10-31T13:31:39+00:00"
     },
     {
      "title": "'Un-Australian' - Warner tears into former side after SA charge to win",
@@ -389,14 +397,6 @@
      "url": "https://www.theguardian.com/sport/2026/oct/31/larry-johnson-nfl-cte-brain-injuries-kansas-city-chiefs",
      "source": "Guardian Sport",
      "published": "2026-10-31T09:00:38+00:00"
-    },
-    {
-     "title": "Lakers vs. Warriors picks, odds: Golden State could pull off upset to begin NBA Cup play",
-     "summary": "SportsLine expert Matt Severance breaks down Friday's Los Angles vs. Golden State NBA Cup matchup",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/29/3dc9eb4f-a22b-435a-a2b6-bdf5e8ecbc8b/2026-10-22t000445z-263733395-mt1usatoday30151213-rtrmadp-3-nba-golden-state-warriors-at-los-angeles-lakers-jpg.jpg",
-     "url": "https://www.cbssports.com/betting/news/lakers-vs-warriors-picks-odds-golden-state-could-pull-off-upset-to-begin-nba-cup-play/",
-     "source": "CBS Sports NBA",
-     "published": "2026-10-31T01:00:59+00:00"
     }
    ]
   }
