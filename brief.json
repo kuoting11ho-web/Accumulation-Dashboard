@@ -1,142 +1,150 @@
 {
- "generated": "2026-11-01T18:27:09.495920+00:00",
+ "generated": "2026-11-01T20:36:18.465174+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "Democratic Rep. Stevens endorses Rogers over El-Sayed in Michigan Senate election",
+     "title": "Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michigan Senate election",
      "summary": "Haley Stevens had lost the Democratic nomination for Senate in Michigan to Abdul El-Sayed earlier this year.",
      "image": "",
      "url": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
      "source": "CNBC Top News",
-     "published": "2026-11-01T18:16:05+00:00"
+     "published": "2026-11-01T20:34:28+00:00"
     },
     {
-     "title": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
-     "summary": "Sen. Chris Murphy's office announced Sunday that he suffered a stroke and was hospitalized the day prior, though they say he is 'awake and alert.'",
+     "title": "Police clash with housing crisis protesters in Portugal",
+     "summary": "",
      "image": "",
-     "url": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-01T18:08:33+00:00"
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/police-clash-with-housing-crisis-protesters-in-portugal?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-01T20:31:17+00:00"
     },
     {
-     "title": "Investors take out $3.6bn from Binance after record hack that stole billions",
-     "summary": "Cryptocurrency exchange has begun to allow withdrawals after $6.3bn theft believed to have come from North Korea Investors have pulled $3.6bn (£2.7bn) in funds from the cryptocurrency exchange Binance…",
+     "title": "保加利亞總統決選出口民調：代理總統約托娃勝出",
+     "summary": "出口民調結果顯示，主張與莫斯科對話、反對軍援烏克蘭的保加利亞代理總統約托娃今天在總統大選決選中勝出，可望成為保加利亞首位經選舉產生的女性國家元首。 路透社報導，根據當地時間晚間8時投票結束...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5626159",
+     "source": "自由時報",
+     "published": "2026-11-01T20:30:10+00:00"
+    },
+    {
+     "title": "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal",
+     "summary": "Democratic nominee Mary Peltola is facing two candidates named Dan Sullivan in the Alaska Senate election, one of whom is the Republican incumbent.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-01T20:21:39+00:00"
+    },
+    {
+     "title": "Al Jazeera celebrates 30th anniversary",
+     "summary": "Since its first broadcast in 1996, Al Jazeera has spent three decades bringing stories to audiences worldwide.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-celebrates-30th-anniversary?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-01T20:21:05+00:00"
+    },
+    {
+     "title": "Northern Territory water plan condemned as ‘blatant and shameless’ attack on nature",
+     "summary": "Exclusive : Move to scrap legal requirement to set aside water for environment is ‘extreme even for the NT CLP government’, green group says Get our breaking news email , free app or daily news podcas…",
+     "image": "https://i.guim.co.uk/img/media/5af2175986fa47f1b85895400bafbb5cd19c208c/217_0_7920_6336/master/7920.jpg?width=140&quality=85&auto=format&fit=max&s=01c67ba829cb52b823fe1740118585e8",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/02/northern-territory-water-plan-condemned-as-blatant-and-shameless-attack-on-nature",
+     "source": "Guardian World",
+     "published": "2026-11-01T20:02:57+00:00"
+    },
+    {
+     "title": "Video captures house collapsing due to Ecuador floods",
+     "summary": "Residents filmed as a house collapsed into a swollen river in Ecuador, where torrential rains and floods linked to El N",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/video-captures-house-collapsing-due-to-ecuador-floods?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-01T19:56:47+00:00"
+    },
+    {
+     "title": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
+     "summary": "British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda British officials initially insisted that discussions of reparations for sl…",
+     "image": "https://i.guim.co.uk/img/media/3aa8217e3ba513aa013ca78934624c405592db3a/825_27_4852_3884/master/4852.jpg?width=140&quality=85&auto=format&fit=max&s=15987da48c5c1fcf175bb20b07717adc",
+     "url": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
+     "source": "Guardian World",
+     "published": "2026-11-01T19:50:39+00:00"
+    },
+    {
+     "title": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
+     "summary": "Rep. Haley Stevens was scheduled to attend a unity event today with Abdul El-Sayed, who beat her in the Democratic primary. Instead, she endorsed his Republican opponent, Mike Rogers.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2614x1741+0+0/resize/2614x1741!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F98%2F9b%2F8dd4ff984429b0392a7b2129803a%2Fap26305624303454.jpg",
+     "url": "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
+     "source": "NPR News",
+     "published": "2026-11-01T19:49:15+00:00"
+    },
+    {
+     "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end",
+     "summary": "A rare humanitarian ceasefire has allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e6/live/7871d270-d627-11f1-a947-0507737f09b2.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-01T19:48:17+00:00"
+    },
+    {
+     "title": "Arsenal go top after narrow win at Liverpool",
+     "summary": "Arsenal pick up their first win at Anfield since 2012 to go three points clear of Man City",
+     "image": "",
+     "url": "https://www.aljazeera.com/sports/2026/11/1/arsenal-go-top-after-narrow-win-at-liverpool?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-01T19:09:18+00:00"
+    },
+    {
+     "title": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
+     "summary": "Murphy's office says he was taken to the hospital this weekend after experiencing numbness in his arm. His chief of staff said he is responding well to treatment and expected to make a full recovery.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5666x3777+0+0/resize/5666x3777!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F05%2F6e%2F8562f8374158a09f65515925a89e%2Fgettyimages-2236122542.jpg",
+     "url": "https://www.npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke",
+     "source": "NPR News",
+     "published": "2026-11-01T19:00:58+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》 China harassing shipping with east coast patrol: CGA",
+     "summary": "/ Staff writer, with Reuters and CNA The China Coast Guard is harassing shipping off Taiwan’s eas...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5626108",
+     "source": "自由時報",
+     "published": "2026-11-01T19:00:00+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》 Taiwan protests APEC ‘discrimination’",
+     "summary": "VARYING TREATMENT:During Chen Shui-bian’s presidency, China had rejected Taiwan’s APEC envoy, but ha...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5626104",
+     "source": "自由時報",
+     "published": "2026-11-01T19:00:00+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》 Lai urges passage of extra budget for Taipower, CPC",
+     "summary": "NEED SUPPORT: Local fuel prices have been relatively stable, as state-run firms have been absorbing ...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5626105",
+     "source": "自由時報",
+     "published": "2026-11-01T19:00:00+00:00"
+    },
+    {
+     "title": "Investors pull billions in funds from Binance after record $6.3bn hack",
+     "summary": "Cryptocurrency exchange has begun to allow withdrawals after theft believed to have come from North Korea Investors have pulled $3.6bn (£2.7bn) in funds from the cryptocurrency exchange Binance as it…",
      "image": "https://i.guim.co.uk/img/media/1cc5d516bf0f48d67707a1c8812e46fedebccb84/960_0_4742_3794/master/4742.jpg?width=140&quality=85&auto=format&fit=max&s=22da0ad6afc69e7efa2b8b04a1deee14",
      "url": "https://www.theguardian.com/business/2026/nov/01/investors-take-out-36bn-from-binance-after-record-hack-that-stole-billions",
      "source": "Guardian Business",
-     "published": "2026-11-01T18:08:05+00:00"
-    },
-    {
-     "title": "美期中選舉倒數 5300萬人提前投票 川普狂撒支票救選情",
-     "summary": "美國期中選舉即將於3日登場。共和黨在選前最後一個週日，展開最後衝刺，試圖阻止預測中的慘敗；民主黨則摩拳擦掌，力拚奪下國會控制權，以對總統川普史無前例的擴權行動，祭出首次實質的...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5626149",
-     "source": "自由時報",
-     "published": "2026-11-01T18:02:50+00:00"
-    },
-    {
-     "title": "防範期中選舉變天 白宮擬定「無國會施政」劇本 擴大行政權力抗民主黨調查",
-     "summary": "1名白宮官員及2名知情人士透露，美國總統川普的白宮團隊已投入數月時間，為民主黨可能在期中選舉奪回國會控制權預做準備。他們正研擬計畫，企圖透過擴大行政權限來持續推動核心施政，同...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5626145",
-     "source": "自由時報",
-     "published": "2026-11-01T18:00:51+00:00"
-    },
-    {
-     "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
-     "summary": "A federal judge has dismissed a highly unusual lawsuit by the Trump administration that tried to block the certification of results from Alaska's U.S. Senate race if the Republican incumbent lost.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5511x3674+0+0/resize/5511x3674!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8e%2F0d%2Ffd0f1c0242dbbaae1087d631eb51%2Fap26287065638477.jpg",
-     "url": "https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan",
-     "source": "NPR News",
-     "published": "2026-11-01T18:00:37+00:00"
-    },
-    {
-     "title": "許尹鏸/林芝昀不敵印尼組合　德國海洛羽球賽女雙連2年亞軍",
-     "summary": "BWF超級500等級的德國海洛羽球公開賽，台灣女雙許尹鏸、林芝昀在決賽強碰印尼組合普拉提維、拉瑪哈提，鏖戰45分鐘後以18比21、19比21落敗，連2年獲得亞軍。 世界羽球總會（BWF）女...…",
-     "image": "",
-     "url": "https://sports.ltn.com.tw/news/breakingnews/5626153",
-     "source": "自由時報",
-     "published": "2026-11-01T18:00:07+00:00"
-    },
-    {
-     "title": "美期中選舉牽動對中政策！民主黨拚奪回關稅主導權 擬推「對台六項保證法案」",
-     "summary": "美國期中選舉將於3日正式登場，這場選舉不僅是總統川普施政滿意度的期中考，更將深刻影響美國未來2年的外交與經貿走向。政治分析家指出，若民主黨成功奪回參眾兩院任一院的控制權，除了...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5626152",
-     "source": "自由時報",
-     "published": "2026-11-01T17:58:09+00:00"
-    },
-    {
-     "title": "The midterms will test the nation's political direction and confidence",
-     "summary": "At least some portion of the nation is likely to have its political confidence — and perhaps even its sense of security — tested in the days and weeks ahead. That test could also continue for some tim…",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3333+0+0/resize/5000x3333!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F67%2Fc5%2F55863e424a1aaa899a46775f2ebf%2Fgettyimages-2277856360.jpg",
-     "url": "https://www.npr.org/2026/11/01/nx-s1-6023380/midterms-test-confidence",
-     "source": "NPR News",
-     "published": "2026-11-01T17:57:58+00:00"
-    },
-    {
-     "title": "Armed police start patrols in Sydney after Bondi Beach attack",
-     "summary": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce75/live/a6edaf70-d618-11f1-93e1-3b657b665bcf.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-01T17:56:47+00:00"
-    },
-    {
-     "title": "New York marathon: Sweden's Almgren and Kenya's Chepkirui win as 60,000 take part",
-     "summary": "Andreas Almgren of Sweden won the men's race of the New York City Marathon in his debut in the event while Sheila Chepkirui of Kenya won the women's race on Sunday for the second time.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F33%2F9a%2Fcb0df8494b4cb81bed9914fc29f8%2Fap26305596566296.jpg",
-     "url": "https://www.npr.org/2026/11/01/nx-s1-6025437/new-york-marathon-almgren-chepkirui-win",
-     "source": "NPR News",
-     "published": "2026-11-01T17:33:21+00:00"
-    },
-    {
-     "title": "How a small Wisconsin city scuttled a secretive $1.6bn datacenter project",
-     "summary": "Residents of Menomonie mounted a successful protest against a huge campus in the city as national resistance to the AI boom grows In the spring of 2025, Sydney Brennan was riding high. The 22-year-old…",
-     "image": "https://i.guim.co.uk/img/media/61be171119618d6d06feb21e32b64fd03ce80952/0_1049_2403_1922/master/2403.jpg?width=140&quality=85&auto=format&fit=max&s=fd2321d98224ee99cdcd8bb5f52ad7ee",
-     "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/01/wisconsin-city-menomie-meta-datacenter",
-     "source": "Guardian Business",
-     "published": "2026-11-01T17:31:24+00:00"
-    },
-    {
-     "title": "Hebron siege continues for 10th day as Israel threatens wider offensive",
-     "summary": "Hebron's economic losses surpass $3.8m as Israeli forces demolish West Bank homes and close hundreds of businesses.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/1/hebron-siege-continues-for-10th-day-as-israel-threatens-wider-offensive?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-01T17:30:45+00:00"
-    },
-    {
-     "title": "National Grid to site biggest substation on Teesside, near planned AI datacentre",
-     "summary": "New electricity generating capacity would enable north-east to attract investment for major datacentre projects National Grid has taken a step towards building Britain’s biggest electricity substation…",
-     "image": "https://i.guim.co.uk/img/media/6454f44555fa48a5f38d1d066c370cb6e7376a80/0_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=e2c6966aba034a344664fd433e1e0b7f",
-     "url": "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre",
-     "source": "Guardian Business",
-     "published": "2026-11-01T17:10:52+00:00"
-    },
-    {
-     "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-     "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c922/live/4fe4c8d0-d5fa-11f1-a701-fddedf244c16.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-01T17:06:32+00:00"
-    },
-    {
-     "title": "Al Jazeera marks 30 years of transforming news in Middle East and beyond",
-     "summary": "The anniversary coincides with a significant restructuring of Al Jazeera Media Network’s Arabic-language news services.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/1/al-jazeera-celebrates-30-years-of-transforming-news-in-region-and-beyond?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-01T16:59:41+00:00"
+     "published": "2026-11-01T18:53:25+00:00"
     }
    ]
   },
   "ai": {
    "label": "AI",
    "items": [
+    {
+     "title": "Patrick Stewart taught us what good men do with power",
+     "summary": "Article URL: https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism Comments URL: https://news.ycombinator.com/item?id=50327650 Points: 243 # Comments: 168",
+     "image": "",
+     "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-01T17:28:16+00:00"
+    },
     {
      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
      "summary": "Saw Karpathy's HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5). It's ~16.5k books that at least two different HN commenters brought up, from 2007 till now. Each bo…",
@@ -146,28 +154,12 @@
      "published": "2026-11-01T15:58:28+00:00"
     },
     {
-     "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
-     "summary": "Article URL: https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-ami…",
-     "image": "",
-     "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-01T14:36:13+00:00"
-    },
-    {
      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
-     "summary": "Article URL: https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/ Comments URL: https://news.ycombinator.com/item?id=50326099 Points: 207 # Comments: 7…",
+     "summary": "Article URL: https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/ Comments URL: https://news.ycombinator.com/item?id=50326099 Points: 281 # Comments: 1…",
      "image": "",
      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
      "source": "Hacker News Front Page",
      "published": "2026-11-01T14:34:43+00:00"
-    },
-    {
-     "title": "Restrooms along the Norwegian Scenic Routes",
-     "summary": "Article URL: https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/ Comments URL: https://news.ycombinator.com/item?id=50324388 Points: 625 # Comments:…",
-     "image": "",
-     "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-01T10:47:58+00:00"
     },
     {
      "title": "語音、視訊皆能錄，LINE「通話錄製」限時免費開放",
@@ -202,6 +194,14 @@
      "published": "2026-11-01T08:00:41+00:00"
     },
     {
+     "title": "The AI cost of JavaScript frameworks",
+     "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 250 # Comments: 172",
+     "image": "",
+     "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-01T06:06:19+00:00"
+    },
+    {
      "title": "Seabirds racing home over the ocean can get jet-lagged",
      "summary": "A long flight home from feeding grounds messes with birds' internal clocks.",
      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-4-500x500.jpeg",
@@ -223,20 +223,52 @@
    "label": "運動",
    "items": [
     {
-     "title": "Liverpool v Arsenal: Premier League – live",
-     "summary": "Updates from the match at Anfield (4.30pm GMT) Table | Top scorers | Email Daniel here So where is the game? Liverpool will look to get men around the ball when Arsenal have it, opening the pitch for…",
-     "image": "https://i.guim.co.uk/img/media/d44e2ade31341f0c40e71877d293a06ce185314d/857_269_4272_3420/master/4272.jpg?width=140&quality=85&auto=format&fit=max&s=51ed5bf50eea13eb2421c3fa699730d3",
-     "url": "https://www.theguardian.com/football/live/2026/nov/01/liverpool-v-arsenal-premier-league-live",
+     "title": "Mexican Formula One Grand Prix: Kimi Antonelli aims to seal title – live",
+     "summary": "️ Italian will be champion if he finishes race ninth or higher ️ Email beau.dure@theguardian.com or chat to him on BlueSky Lap 4 of 71: Hamilton inquires as to what action is being taken. He’s assured…",
+     "image": "https://i.guim.co.uk/img/media/17b5e46bd8f82ffe94a9938e82bec7db2cce1ce0/1174_0_3998_3200/master/3998.jpg?width=140&quality=85&auto=format&fit=max&s=7f9974e580d75fa2bf2fbfa9121404c1",
+     "url": "https://www.theguardian.com/sport/live/2026/nov/01/mexican-formula-one-grand-prix-kimi-antonelli-aims-to-seal-title-live",
      "source": "Guardian Sport",
-     "published": "2026-11-01T18:22:09+00:00"
+     "published": "2026-11-01T20:27:42+00:00"
     },
     {
-     "title": "NFL week eight: Ravens v Bills, Browns v Steelers, Vikings v Lions and more – updates",
+     "title": "NFL week eight: Ravens v Bills, Browns v Steelers, Vikings v Lions and more – live",
      "summary": "Unbeaten Minnesota v Detroit; Jackson v Allen in Buffalo Email Graham here SACK! Vikings 0-0 Lions 9:28, 1st quarter The Lions are punting after a pair of sacks from Andrew van Ginkel and Eric Wilson.…",
-     "image": "https://i.guim.co.uk/img/media/23e4c56f08bfe29c62856d89a864919c10e2af22/391_0_3307_2645/master/3307.jpg?width=140&quality=85&auto=format&fit=max&s=a9a88fc2d5c06eb414f0ff9367a3d823",
+     "image": "https://i.guim.co.uk/img/media/b16f73ff2b8db2e6e6e558b4d6cc433da7e0e344/685_167_5838_4670/master/5838.jpg?width=140&quality=85&auto=format&fit=max&s=63b9c0b1770e884303b7fa1536f4474f",
      "url": "https://www.theguardian.com/sport/live/2026/nov/01/nfl-week-eight-ravens-v-bills-browns-v-steelers-vikings-v-lions-and-more-updates",
      "source": "Guardian Sport",
-     "published": "2026-11-01T18:20:09+00:00"
+     "published": "2026-11-01T20:27:32+00:00"
+    },
+    {
+     "title": "From Fleetwood embarrassment to 'magical' Anfield win 14 years in making",
+     "summary": "Arsenal bounce back from the low of defeat at League Two Fleetwood to secure their first win in 14 years at Anfield - and open up a three-point lead at the top of the Premier League.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbd8/live/473d6620-d62b-11f1-b085-b9e65bc8bfff.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c39wz2epven4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-01T20:16:46+00:00"
+    },
+    {
+     "title": "Arsenal move clear at the top with a rare win at Liverpool",
+     "summary": "Arsenal win at Anfield for the first time since 2012 to earn a three-point lead at the top of the Premier League table following an end-to-end match that leaves Liverpool frustrated to have taken noth…",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/035d/live/adb0c650-d62a-11f1-a701-fddedf244c16.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-01T20:00:18+00:00"
+    },
+    {
+     "title": "Giant curiosity Hibs finally liberated from the sucker punch",
+     "summary": "Hibernian, for once, avoid late heartbreak to set up League Cup final with Rangers, writes Tom English.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d1/live/12fd5df0-d623-11f1-8b43-9d133992838c.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cxr5yjpnd31eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-01T18:45:49+00:00"
+    },
+    {
+     "title": "Arsenal hold on for first league win at Liverpool since 2012 after Kai Havertz pounces early",
+     "summary": "It was a game when Arsenal showed their ruthless side and all of the champion knowhow that they accumulated over the course of last season. As they headed back to London, they did so having made a sta…",
+     "image": "https://i.guim.co.uk/img/media/d102428e00591513f6c600276e6bb4d298a610bb/638_0_4247_3398/master/4247.jpg?width=140&quality=85&auto=format&fit=max&s=136312d5accd482da3a93915e700b8a9",
+     "url": "https://www.theguardian.com/football/2026/nov/01/liverpool-arsenal-premier-league-match-report",
+     "source": "Guardian Sport",
+     "published": "2026-11-01T18:44:48+00:00"
     },
     {
      "title": "Week 2 Aftermath: Anthony Edwards, Kawhi Leonard and others join the dreaded injury list",
@@ -255,12 +287,20 @@
      "published": "2026-11-01T17:34:12+00:00"
     },
     {
-     "title": "New York City Marathon: Andreas Almgren wins on debut as Sheila Chepkirui reclaims crown",
-     "summary": "Kenya’s Sheila Chepkirui wins second women’s title USA’s Jessica Jessica McClain finishes in second Sweden’s Andreas Almgren wins men’s race on debut Sheila Chepkirui of Kenya won the women’s race of…",
-     "image": "https://i.guim.co.uk/img/media/43fd2b679742998aa116d00276a136507a1c6cbf/508_0_4198_3359/master/4198.jpg?width=140&quality=85&auto=format&fit=max&s=7473f4b08ed3d4d410231a3163fb28a0",
-     "url": "https://www.theguardian.com/sport/2026/nov/01/new-york-city-marathon-andreas-almgren-wins-on-debut-as-sheila-chepkirui-reclaims-crown",
-     "source": "Guardian Sport",
-     "published": "2026-11-01T16:33:00+00:00"
+     "title": "Dusty May is exactly what the city of Dallas needed",
+     "summary": "The first-year head coach already has a hold on the hearts of Mavericks fans.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/856b2056279315c27f832e2c7589329e.jpg",
+     "url": "https://sports.yahoo.com/articles/dusty-may-exactly-city-dallas-173000144.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-01T17:30:00+00:00"
+    },
+    {
+     "title": "A look at the Suns’ schedule for November",
+     "summary": "How does the calendar shape up for the first full month of the season?",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/d95d306ddb34db44f93f5add38a4bce8.jpg",
+     "url": "https://sports.yahoo.com/articles/look-suns-schedule-november-170000570.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-01T17:00:00+00:00"
     },
     {
      "title": "‘We have effing unbreakable love’: how the maverick Natalie Nakase led the Valkyries to WNBA glory",
@@ -277,46 +317,6 @@
      "url": "https://sports.yahoo.com/articles/celtics-without-key-starter-face-160217885.html",
      "source": "Yahoo Sports NBA",
      "published": "2026-11-01T16:02:17+00:00"
-    },
-    {
-     "title": "How Dart revived career with help of Wimbledon champion",
-     "summary": "Britain's Harriet Dart knows people doubted whether she would ever win a WTA title, but says the belief of her coach Marion Bartoli helped achieve the best week of her career.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc98/live/7e9cac50-d60a-11f1-a701-fddedf244c16.jpg",
-     "url": "https://www.bbc.co.uk/sport/tennis/articles/cmrlyw2y0gxzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-01T15:55:46+00:00"
-    },
-    {
-     "title": "Defeat for London City against Man City - but is Europe a real possibility?",
-     "summary": "London City Lionesses suffer defeat by Manchester City but their performance suggests they are closer to Champions League qualification than expected.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/340f/live/54e51be0-d61e-11f1-93e1-3b657b665bcf.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-01T15:49:47+00:00"
-    },
-    {
-     "title": "Nets vs. Pacers preview: Brooklyn searches for answers after 0-5 start",
-     "summary": "Brooklyn enters November with an 0-5 record and looks to get its season on track against Indiana.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/41d9c72c83a761eb04fe8253a75df92b.jpg",
-     "url": "https://sports.yahoo.com/articles/nets-vs-pacers-preview-brooklyn-154459186.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-01T15:44:59+00:00"
-    },
-    {
-     "title": "What we learned from the Spurs’ win over the Timberwolves",
-     "summary": "The Spurs still look a lot like last year’s team. That is both good and bad.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/2db17bc0a496bf3960092844be184210.jpg",
-     "url": "https://sports.yahoo.com/articles/learned-spurs-win-over-timberwolves-152823059.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-01T15:28:23+00:00"
-    },
-    {
-     "title": "Referee accidentally fractures college football player's leg",
-     "summary": "A referee accidentally fractures a college football player's leg during a bizarre incident in the first half of East Carolina Pirates' win against Temple Owls.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1882/live/eccbb630-d605-11f1-a790-6f04ef4f8c74.jpg",
-     "url": "https://www.bbc.co.uk/sport/american-football/articles/ck30ey1ezmyqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-01T15:17:04+00:00"
     },
     {
      "title": "2026 NBA betting promos: Claim over $3,000 in bonuses from top online betting apps, sportsbooks for November 1",
