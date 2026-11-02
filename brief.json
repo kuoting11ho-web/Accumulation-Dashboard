@@ -1,32 +1,104 @@
 {
- "generated": "2026-11-02T20:24:21.922461+00:00",
+ "generated": "2026-11-02T22:21:50.159330+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-     "summary": "Local officials say more had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png",
-     "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-02T20:23:12+00:00"
-    },
-    {
-     "title": "Intel foundry push faces critical test after stock's 45% plunge in October",
-     "summary": "Intel’s turnaround now hinges on proving its foundry strategy can deliver, as customers look for signs the company will add fab capacity and catch TSMC",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/02/intel-foundry-faces-critical-test-after-stocks-45percent-plunge-in-october.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-02T20:20:34+00:00"
-    },
-    {
-     "title": "Apple earnings live updates: New CEO John Ternus faces first Wall Street test",
+     "title": "Apple beats on quarterly revenue in CEO John Ternus' first earnings report: Live updates",
      "summary": "Follow Apple Q4 2026 earnings live for revenue, EPS, iPhone sales, China performance, AI updates, holiday guidance and AAPL stock reaction.",
      "image": "",
      "url": "https://www.cnbc.com/2026/11/02/apple-aapl-q4-2026-earnings-live-updates.html",
      "source": "CNBC Top News",
-     "published": "2026-11-02T20:15:00+00:00"
+     "published": "2026-11-02T22:17:26+00:00"
+    },
+    {
+     "title": "起風了！洋流風車夯爆彰化 9位民代邀親子DIY同樂！",
+     "summary": "轉動新彰化！台北市長候選人沈伯洋掀起「洋流效應」，不只洋流飄帶很搶手，更稀缺的是超吸睛「洋流風車」，彰化縣9位跨區民代決定不只是發放洋流風車，將於8日邀請親子一起來DIY，一起...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5627237",
+     "source": "自由時報",
+     "published": "2026-11-02T22:11:49+00:00"
+    },
+    {
+     "title": "撒錢哥孤獨死 曾說送女警5千萬求交往  律師曝1動作可能拿",
+     "summary": "曾當街丟600萬元現金被封為「撒錢哥」的台南名人李耿東昨天在家中孤獨死，他生前發文送出約5000萬家產給暗戀的林姓女警，林育弘律師說，若認定為死因贈與，女警官只要在李男生前有表示...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/society/breakingnews/5627233",
+     "source": "自由時報",
+     "published": "2026-11-02T22:09:29+00:00"
+    },
+    {
+     "title": "破圈但看好度落後！沈伯洋指2原因：跟我態度有關",
+     "summary": "首次上稿 11-02 23:59更新時間 11-03 06:07 資深媒體人黃創夏2日於《新聞面對面》提問民進黨籍台北市長候選沈伯洋，選戰剩下26天，不論是活動主動性、開創性...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5627210",
+     "source": "自由時報",
+     "published": "2026-11-02T22:07:00+00:00"
+    },
+    {
+     "title": "北市長辯論 她讚沈伯洋展現格局、批蔣萬安人身攻擊",
+     "summary": "台北市長選戰首輪電視辯論落幕，民進黨議員候選人高嘉瑜在「少康戰情室」節目大讚民進黨台北市長候選人沈伯洋展現格局，但台北市長蔣萬安卻人身攻擊，「你不是只是攻擊沈伯洋，而是攻擊所有...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5627229",
+     "source": "自由時報",
+     "published": "2026-11-02T22:04:08+00:00"
+    },
+    {
+     "title": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
+     "summary": "Palantir's commercial revenue jumped 148% to $984 million, surpassing government revenue of $953 million.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-02T21:46:56+00:00"
+    },
+    {
+     "title": "Student protests resume in France as pupils return to school",
+     "summary": "",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/student-protests-resume-in-france-as-pupils-return-to-school?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-02T21:28:55+00:00"
+    },
+    {
+     "title": "‘Work to do’: Authorities give update on Florida private jet crash",
+     "summary": "Officials have provided an update on the investigation into Sunday’s deadly Learjet crash in Florida.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/work-to-do-authorities-give-update-on-florida-private-jet-crash?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-02T21:23:31+00:00"
+    },
+    {
+     "title": "Trump focuses on Reflecting Pool in final public speech before midterms",
+     "summary": "Trump seemed to acknowledge that Democrats had an advantage heading into Election Day. \"But we gave this a very strong shot,\" he said.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/02/trump-midterm-election-speech-reflecting-pool.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-02T21:15:13+00:00"
+    },
+    {
+     "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+     "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png",
+     "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-02T21:10:04+00:00"
+    },
+    {
+     "title": "Mamdani’s progressive allies vie for seats in Congress",
+     "summary": "Three New York City progressive Democrats are expected to win their midterm congressional races in Tuesday's election.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/11/2/mamdanis-progressive-allies-vie-for-seats-in-congress?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-02T20:48:56+00:00"
+    },
+    {
+     "title": "What’s the future of the Western Sahara conflict?",
+     "summary": "The UN is ending its peacekeeping mission in the disputed territory after the US and Russia blocked its extension.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/11/2/whats-the-future-of-the-western-sahara-conflict?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-02T20:43:44+00:00"
     },
     {
      "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
@@ -59,84 +131,20 @@
      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
      "published": "2026-11-02T19:58:34+00:00"
-    },
-    {
-     "title": "HRW calls on Zambia to halt post-election crackdown",
-     "summary": "Opposition figures arrested and disappeared since President Hakainde Hichilema claimed August victory.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/2/hrw-calls-on-zambia-to-halt-post-election-crackdown?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-02T19:40:10+00:00"
-    },
-    {
-     "title": "Protester’s ‘I support genocide’ sign appears to face no police action",
-     "summary": "Holding a sign expressing support for genocide is not, in itself, grounds for arrest under UK law.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/protesters-i-support-genocide-sign-appears-to-face-no-police-action?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-02T19:39:24+00:00"
-    },
-    {
-     "title": "俄軍空襲烏克蘭東南部村莊　至少18死27人失聯",
-     "summary": "俄烏戰火未見停歇之際，烏克蘭總統澤倫斯基指出，俄羅斯軍隊今天空襲烏國東南部札波羅熱州一座村莊，造成至少18人喪命，地方官員還提及，有5人受傷、27人失聯。 法新社報導，澤倫斯基（Volod...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5627243",
-     "source": "自由時報",
-     "published": "2026-11-02T19:21:03+00:00"
-    },
-    {
-     "title": "Lindsay Clancy in court to drop child murder charges after mistrial",
-     "summary": "Defence argues juror misconduct and judge's questioning impacted Clancy's trial for strangling of her three children.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/2/lindsay-clancy-in-court-to-drop-child-murder-charges-after-mistrial?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-02T19:11:37+00:00"
-    },
-    {
-     "title": "Trump asks Supreme Court to block 20,000 California ballots before midterms",
-     "summary": "California says any move to block ballots from suspected noncitizens could disenfranchise eligible voters.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/2/trump-asks-supreme-court-to-block-20000-california-ballots-before-midterms?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-02T19:06:52+00:00"
-    },
-    {
-     "title": "《TAIPEI TIMES》Second phase of COVID, flu shots starts",
-     "summary": "ONE-TWO PUNCH: Deputy Minister of Health and Welfare Chuang Jen-hsiang received both jabs at a PX Ma...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5627183",
-     "source": "自由時報",
-     "published": "2026-11-02T19:00:00+00:00"
-    },
-    {
-     "title": "《TAIPEI TIMES》Central bank eases curbs on exporters selling US$",
-     "summary": "Bloomberg The central bank is said to have eased restrictions on exporters selling US dollars to su...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5627188",
-     "source": "自由時報",
-     "published": "2026-11-02T19:00:00+00:00"
-    },
-    {
-     "title": "《TAIPEI TIMES》Beijing to step up aggression: MAC official",
-     "summary": "POST-PLENUM:To shift public attention from its failing economy, China could deploy tactics to create...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5627185",
-     "source": "自由時報",
-     "published": "2026-11-02T19:00:00+00:00"
-    },
-    {
-     "title": "Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials",
-     "summary": "The judge said he was \"deeply troubled\" by the mistakes and rushed nature of the case over the FBI's Hunter Biden probes — one of several politically charged DOJ actions ahead of the midterms.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F96%2Fcb%2F16f82eca423aa567a3f7b440f7ae%2Fgettyimages-2185699833.jpg",
-     "url": "https://www.npr.org/2026/11/02/g-s1-151242/judge-tosses-case-fbi-officials-hunter-biden",
-     "source": "NPR News",
-     "published": "2026-11-02T18:54:01+00:00"
     }
    ]
   },
   "ai": {
    "label": "AI",
    "items": [
+    {
+     "title": "Third person dies of bird flu since virus started jumping to livestock",
+     "summary": "The threat is still considered to be low, but the virus continues to spread.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2190742287-500x500.jpg",
+     "url": "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/",
+     "source": "Ars Technica",
+     "published": "2026-11-02T21:21:43+00:00"
+    },
     {
      "title": "Googling \"Zelda\" today offers a glimpse of how search worked in 1998",
      "summary": "\"The flow of time is always cruel.\"",
@@ -154,6 +162,14 @@
      "published": "2026-11-02T19:13:26+00:00"
     },
     {
+     "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+     "summary": "Article URL: https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432 Comments URL: https://news.ycombinator.com/item?id=50341462 Points: 163 # Comments: 28",
+     "image": "",
+     "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-02T18:39:38+00:00"
+    },
+    {
      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
      "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Apple-CEO-John-Ternus-500x500.jpg",
@@ -163,19 +179,11 @@
     },
     {
      "title": "Astra can read and write weights to improve Qwen",
-     "summary": "Article URL: https://rikiyat.github.io/blog/weight-space-programming/ Comments URL: https://news.ycombinator.com/item?id=50341174 Points: 741 # Comments: 228",
+     "summary": "Article URL: https://rikiyat.github.io/blog/weight-space-programming/ Comments URL: https://news.ycombinator.com/item?id=50341174 Points: 1332 # Comments: 416",
      "image": "",
      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
      "source": "Hacker News Front Page",
      "published": "2026-11-02T18:21:28+00:00"
-    },
-    {
-     "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
-     "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1180626096-500x500.jpg",
-     "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
-     "source": "Ars Technica",
-     "published": "2026-11-02T18:05:31+00:00"
     },
     {
      "title": "Show HN: Subvocal – Talk to your computer without making noise",
@@ -195,19 +203,11 @@
     },
     {
      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-     "summary": "Article URL: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11 Comments URL: https://news.ycombinator.com/item?id=50339494 Points: 206 # Comments: 16…",
+     "summary": "Article URL: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11 Comments URL: https://news.ycombinator.com/item?id=50339494 Points: 251 # Comments: 20…",
      "image": "",
      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
      "source": "Hacker News Front Page",
      "published": "2026-11-02T16:40:29+00:00"
-    },
-    {
-     "title": "US boy names that became girl names and vice versa",
-     "summary": "Article URL: https://namedaisy.com/blog/boy-names-that-became-girl-names Comments URL: https://news.ycombinator.com/item?id=50339397 Points: 158 # Comments: 173",
-     "image": "",
-     "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-02T16:34:36+00:00"
     },
     {
      "title": "紅巨星的異常震盪與磁場，恐源自掠奪伴星質量",
@@ -271,20 +271,68 @@
    "label": "運動",
    "items": [
     {
+     "title": "Who produced the kind of performance Moyes loves? - player ratings",
+     "summary": "Newcastle United and Everton's players rated following their Premier League match.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4849/live/5bf82cd0-d707-11f1-ac17-5d3d5470aaba.png",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cmglwjxx45gjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-02T22:08:43+00:00"
+    },
+    {
+     "title": "Newcastle United 0-1 Everton: Premier League – live",
+     "summary": "Premier League updates from the 8pm GMT kick-off Live scores | Read today’s Football Daily | Email Daniel Jaissle tells Sky Elanga is improving physically and deserves to start today; he wants him and…",
+     "image": "https://i.guim.co.uk/img/media/61da07022b58b5c320d12c1fb752e004a96345b7/0_36_4403_3523/master/4403.jpg?width=140&quality=85&auto=format&fit=max&s=1a79e42254ba23e515c804418812cf86",
+     "url": "https://www.theguardian.com/football/live/2026/nov/02/newcastle-united-v-everton-premier-league-live",
+     "source": "Guardian Sport",
+     "published": "2026-11-02T22:07:49+00:00"
+    },
+    {
+     "title": "Lions’ Jack Campbell remains hospitalized after ‘scary’ neck injury but initial signs are positive",
+     "summary": "Team say they will not release further information 26-year-old will remain in hospital for time being The Detroit Lions have said the initial signs for Jack Campbell are “positive” after the linebacke…",
+     "image": "https://i.guim.co.uk/img/media/31a5afcc974e5a7392985b712b52ec8422ca4e36/254_0_5318_4255/master/5318.jpg?width=140&quality=85&auto=format&fit=max&s=c85a9d8447950c8c4278c26e1097c2f7",
+     "url": "https://www.theguardian.com/sport/2026/nov/02/lions-give-positive-update-on-jack-campbell-after-scary-neck-injury-sends-linebacker-to-hospital",
+     "source": "Guardian Sport",
+     "published": "2026-11-02T21:15:43+00:00"
+    },
+    {
+     "title": "Coby White to make season debut for Hornets after missing team's first 7 games with strained calf",
+     "summary": "White signed a three-year deal with Charlotte after being acquired from the Bulls. Trading LaMelo Ball cleared a starting spot for him.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/article/coby-white-to-make-season-debut-for-hornets-after-missing-teams-first-7-games-with-strained-calf-210226101.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-02T21:02:26+00:00"
+    },
+    {
+     "title": "Oklahoma City to retire Russell Westbrook's jersey in Feb. 7 ceremony",
+     "summary": "When James Harden and Kevin Durant left, it was Russell Westbrook who stayed and won in OKC.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/oklahoma-city-retire-russell-westbrooks-205559298.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-02T20:55:59+00:00"
+    },
+    {
+     "title": "Five things we learned from Victor Wembanyama's '60 Minutes' interview, including why he loves going barefoot",
+     "summary": "The Spurs star sat for an interview with CBS News on everything from his villain status to what he learned from Gregg Popovich",
+     "image": "https://sportshub.cbsistatic.com/i/2026/11/02/7fd2e97d-87ba-4bc4-9a25-191bb85f7444/wemby-getty-2.png",
+     "url": "https://www.cbssports.com/nba/news/victor-wembanyama-60-minutes-barefoot-gregg-popovich-gambling-villain/",
+     "source": "CBS Sports NBA",
+     "published": "2026-11-02T20:33:20+00:00"
+    },
+    {
+     "title": "Today's top games to watch, best bets, odds: Bears vs. Seahawks on MNF, Pelicans vs. Grizzlies and more",
+     "summary": "Find best bets and props for the biggest games in sports on Monday from the SportsLine Projection Model and top CBS Sports experts",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/25/7768690e-6725-4793-ade2-ae55cd766d62/sam-darnold-seahawks.jpg",
+     "url": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-bears-vs-seahawks-on-mnf-pelicans-vs-grizzlies-and-more/",
+     "source": "CBS Sports NBA",
+     "published": "2026-11-02T20:30:46+00:00"
+    },
+    {
      "title": "Fifa to share confidential World Cup sell-off plan documents",
      "summary": "Fifa has informed members of its Council that they will be granted access to view some documents related to president Gianni Infantino's failed plan to sell off stakes in the World Cup to private inve…",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3134/live/d6604cd0-d6eb-11f1-a741-236ee91c2e25.jpg",
      "url": "https://www.bbc.co.uk/sport/football/articles/c6vgj0p4ey17o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-11-02T20:23:55+00:00"
-    },
-    {
-     "title": "Newcastle United v Everton: Premier League – live",
-     "summary": "Premier League updates from the 8pm GMT kick-off Live scores | Read today’s Football Daily | Email Daniel Jaissle tells Sky Elanga is improving physically and deserves to start today; he wants him and…",
-     "image": "https://i.guim.co.uk/img/media/d427a5218773c2e1100d82f668e94b2617c5ec19/314_38_2741_2194/master/2741.jpg?width=140&quality=85&auto=format&fit=max&s=f099c1acb05aa932857ace057de8c128",
-     "url": "https://www.theguardian.com/football/live/2026/nov/02/newcastle-united-v-everton-premier-league-live",
-     "source": "Guardian Sport",
-     "published": "2026-11-02T20:21:28+00:00"
     },
     {
      "title": "Yaxel balls out + injury-riddled seasons with JE Skeets, Magic check-in with Steve Ceruti + NBA Power Rankings 1.0",
@@ -301,14 +349,6 @@
      "url": "https://www.cbssports.com/nba/news/warriors-yaxel-lendeborg-benched-40-points-peer-pressure-clippers/",
      "source": "CBS Sports NBA",
      "published": "2026-11-02T20:08:15+00:00"
-    },
-    {
-     "title": "Revisiting the Superclásico: a story of death, violence, colour and family",
-     "summary": "Attending Boca v River in the week I turned 60 made me recall a lifetime of experiences at the fixture Ever since the Observer Sport Monthly published a list of 50 sporting things you must do before y…",
-     "image": "https://i.guim.co.uk/img/media/e12c6feac7cb349c1f5a8c635a79c1418e14eab8/49_0_3694_2956/master/3694.jpg?width=140&quality=85&auto=format&fit=max&s=8fec1766846cadd8b44e05a52f8bd843",
-     "url": "https://www.theguardian.com/football/2026/nov/02/revisiting-superclasico-boca-juniors-river-plate",
-     "source": "Guardian Sport",
-     "published": "2026-11-02T20:00:27+00:00"
     },
     {
      "title": "Longtime host Michael Wilbon steps away from ESPN due to ‘health issues’",
@@ -335,44 +375,12 @@
      "published": "2026-11-02T19:16:08+00:00"
     },
     {
-     "title": "Thunder announce they'll retire Russell Westbrook's No. 0 jersey in February",
-     "summary": "Westbrook wiped back tears when the announcement was made.",
-     "image": "",
-     "url": "https://sports.yahoo.com/nba/breaking-news/article/thunder-announce-theyll-retire-russell-westbrooks-no-0-jersey-in-february-200739502.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-02T19:10:59+00:00"
-    },
-    {
-     "title": "Grading every NBA lottery pick's first two weeks as impressive 2026 rookie class dazzles early",
-     "summary": "Darius Acuff Jr., Yaxel Lendeborg, Cameron Boozer and Caleb Wilson are just some of the names who have looked great so far",
-     "image": "https://sportshub.cbsistatic.com/i/2026/11/01/5bf76adf-77d1-4af9-807a-920431a38c18/untitled-design-45.png",
-     "url": "https://www.cbssports.com/nba/news/grading-every-nba-lottery-picks-first-two-weeks-rookie-class/",
-     "source": "CBS Sports NBA",
-     "published": "2026-11-02T19:04:49+00:00"
-    },
-    {
-     "title": "How to watch Oklahoma City Thunder vs Cleveland Cavaliers: TV/live stream info for tonight's game",
-     "summary": "Tip-off is at 7:00 PM ET on NBCSN and Peacock.",
-     "image": "https://media.zenfs.com/en/nbcsports.com/e15f1a9464d74ea8a80d9aa0134fea97.jpg",
-     "url": "https://sports.yahoo.com/articles/watch-oklahoma-city-thunder-vs-184410021.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-02T18:44:10+00:00"
-    },
-    {
      "title": "England call up Spencer and Randall as injuries hit",
      "summary": "Ben Spencer and Harry Randall are named in England's squad for this month's Nations Championship after injury hits Alex Mitchell and Archie McParland.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/280a/live/832f1590-d6e2-11f1-93e1-3b657b665bcf.png",
      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cvp8gxldn304o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-11-02T17:48:54+00:00"
-    },
-    {
-     "title": "Luka Dončić explains his 'step forward' on defense after five-steal performance vs. Raptors",
-     "summary": "The Lakers superstar leads the league in scoring, but, on Sunday, his increased defensive effort stood out",
-     "image": "https://sportshub.cbsistatic.com/i/2026/11/02/e22d8a85-615d-40a3-8459-a11ffc0caec0/luka.jpg",
-     "url": "https://www.cbssports.com/nba/news/luka-doncic-explains-step-forward-defense/",
-     "source": "CBS Sports NBA",
-     "published": "2026-11-02T16:55:19+00:00"
     },
     {
      "title": "Carrick says it's 'crazy' but he's looking forward to Roma game",
@@ -389,14 +397,6 @@
      "url": "https://www.theguardian.com/sport/2026/nov/02/tampa-bay-buccaneers-zero-passing-yards-nfl-atlanta-falcons",
      "source": "Guardian Sport",
      "published": "2026-11-02T08:00:35+00:00"
-    },
-    {
-     "title": "How Antonelli 'blew everyone away' to make F1 history",
-     "summary": "Kimi Antonelli seems destined for Formula 1 greatness after winning his first world title, writes Andrew Benson.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6698/live/f3d07d40-d654-11f1-93e1-3b657b665bcf.jpg",
-     "url": "https://www.bbc.co.uk/sport/formula1/articles/c6m2dj7ze9v2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-02T01:47:30+00:00"
     }
    ]
   }
