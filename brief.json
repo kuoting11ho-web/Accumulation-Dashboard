@@ -1,48 +1,80 @@
 {
- "generated": "2026-11-02T22:21:50.159330+00:00",
+ "generated": "2026-11-02T23:37:06.108932+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "Apple beats on quarterly revenue in CEO John Ternus' first earnings report: Live updates",
+     "title": "TWCA憑證不符國際標準！962個政府機關受影響 數發部公布最新進度",
+     "summary": "台灣網路認證公司（TWCA）被爆出部分網站安全憑證不符國際標準，必須在11月6日前完成更換。對此，有立委2日呼籲，政府應儘速公開受影響的政府網站與企業數量，並公布換證進度...…",
+     "image": "",
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5627164",
+     "source": "自由時報",
+     "published": "2026-11-02T23:31:30+00:00"
+    },
+    {
+     "title": "學生提議成真  台東大學YouBike 2.0進駐",
+     "summary": "國立台東大學知本校區占地60公頃，為便利師生往返宿舍、教室及圖書館，學生會主動提出校園交通需求，經學校積極推動，並獲曙光牙醫診所林傳凱醫師捐助、縣政府支持，30輛YouBike...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/life/breakingnews/5627268",
+     "source": "自由時報",
+     "published": "2026-11-02T23:30:41+00:00"
+    },
+    {
+     "title": "勞動部鼓勵工作生活平衡 規劃放寬9歲前最長60天育兒假",
+     "summary": "為協助「企業留才」，鼓勵企業以具體行動實踐照顧員工的承諾，勞動部長洪申翰指出，友善職場與彈性制度已成為企業攬才、留才與實現永續經營的關鍵，政府透過修法，延長產假與陪產假、將「育...…",
+     "image": "",
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5627207",
+     "source": "自由時報",
+     "published": "2026-11-02T23:30:35+00:00"
+    },
+    {
+     "title": "美國期中選舉共和黨崩盤？專家學者6大理由不認同",
+     "summary": "首次上稿 11-02 22:31更新時間 11-03 07:30 11月3日美國期中選舉進入倒數階段。縱使社會氛圍和民調皆有利民主黨選情，也有望在國會選舉有所斬獲，但據路透引...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5627161",
+     "source": "自由時報",
+     "published": "2026-11-02T23:30:29+00:00"
+    },
+    {
+     "title": "Stock market after midterm elections: What S&P 500 history shows",
+     "summary": "Midterms historically precede a strong year for the S&P 500. What to know if Democrats win back Congress",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-02T23:13:34+00:00"
+    },
+    {
+     "title": "Apple's stock drops on weak margin forecast in Ternus’ first earnings report: Live updates",
      "summary": "Follow Apple Q4 2026 earnings live for revenue, EPS, iPhone sales, China performance, AI updates, holiday guidance and AAPL stock reaction.",
      "image": "",
      "url": "https://www.cnbc.com/2026/11/02/apple-aapl-q4-2026-earnings-live-updates.html",
      "source": "CNBC Top News",
-     "published": "2026-11-02T22:17:26+00:00"
+     "published": "2026-11-02T23:13:19+00:00"
     },
     {
-     "title": "起風了！洋流風車夯爆彰化 9位民代邀親子DIY同樂！",
-     "summary": "轉動新彰化！台北市長候選人沈伯洋掀起「洋流效應」，不只洋流飄帶很搶手，更稀缺的是超吸睛「洋流風車」，彰化縣9位跨區民代決定不只是發放洋流風車，將於8日邀請親子一起來DIY，一起...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5627237",
-     "source": "自由時報",
-     "published": "2026-11-02T22:11:49+00:00"
+     "title": "Apple posts stronger-than-expected revenue in first earnings report for new CEO John Ternus",
+     "summary": "Result for the company, which earned $30.71bn and exceeded analysts’ expectations, bucked downward trend for tech firms Apple Inc posted stronger-than-expected revenue in the fiscal third quarter, giv…",
+     "image": "https://i.guim.co.uk/img/media/239025535869a7cdf1697204f229df889ccc49d5/369_0_3690_2952/master/3690.jpg?width=140&quality=85&auto=format&fit=max&s=1bcbf16e99e63941661ddae02eaae046",
+     "url": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings",
+     "source": "Guardian Business",
+     "published": "2026-11-02T23:07:49+00:00"
     },
     {
-     "title": "撒錢哥孤獨死 曾說送女警5千萬求交往  律師曝1動作可能拿",
-     "summary": "曾當街丟600萬元現金被封為「撒錢哥」的台南名人李耿東昨天在家中孤獨死，他生前發文送出約5000萬家產給暗戀的林姓女警，林育弘律師說，若認定為死因贈與，女警官只要在李男生前有表示...…",
+     "title": "Trump approval rating near record low on eve of US midterm elections: Poll",
+     "summary": "Only 32 percent of voters approve of Trump's job performance in the latest Reuters/Ipsos poll.",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/society/breakingnews/5627233",
-     "source": "自由時報",
-     "published": "2026-11-02T22:09:29+00:00"
+     "url": "https://www.aljazeera.com/news/2026/11/2/trump-approval-rating-near-record-low-on-eve-of-us-midterm-elections-poll?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-02T23:05:30+00:00"
     },
     {
-     "title": "破圈但看好度落後！沈伯洋指2原因：跟我態度有關",
-     "summary": "首次上稿 11-02 23:59更新時間 11-03 06:07 資深媒體人黃創夏2日於《新聞面對面》提問民進黨籍台北市長候選沈伯洋，選戰剩下26天，不論是活動主動性、開創性...…",
+     "title": "Powerful storm tears through beach resort on Italy’s southern coast",
+     "summary": "Surveillance footage captured the moment a tornado ripped through a beach resort restaurant in Castellaneta Marina",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5627210",
-     "source": "自由時報",
-     "published": "2026-11-02T22:07:00+00:00"
-    },
-    {
-     "title": "北市長辯論 她讚沈伯洋展現格局、批蔣萬安人身攻擊",
-     "summary": "台北市長選戰首輪電視辯論落幕，民進黨議員候選人高嘉瑜在「少康戰情室」節目大讚民進黨台北市長候選人沈伯洋展現格局，但台北市長蔣萬安卻人身攻擊，「你不是只是攻擊沈伯洋，而是攻擊所有...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5627229",
-     "source": "自由時報",
-     "published": "2026-11-02T22:04:08+00:00"
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/powerful-storm-tears-through-beach-resort-on-italys-southern-coast?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-02T22:59:41+00:00"
     },
     {
      "title": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
@@ -50,7 +82,15 @@
      "image": "",
      "url": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
      "source": "CNBC Top News",
-     "published": "2026-11-02T21:46:56+00:00"
+     "published": "2026-11-02T22:53:20+00:00"
+    },
+    {
+     "title": "US midterms 2026: What polls reveal about Democratic, Republican voters",
+     "summary": "From the economy and cost of living to immigration, polls suggest where American voters agree and disagree.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/11/2/us-midterms-2026-what-polls-reveal-about-democratic-republican-voters?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-02T22:40:06+00:00"
     },
     {
      "title": "Student protests resume in France as pupils return to school",
@@ -59,14 +99,6 @@
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/student-protests-resume-in-france-as-pupils-return-to-school?traffic_source=rss",
      "source": "Al Jazeera",
      "published": "2026-11-02T21:28:55+00:00"
-    },
-    {
-     "title": "‘Work to do’: Authorities give update on Florida private jet crash",
-     "summary": "Officials have provided an update on the investigation into Sunday’s deadly Learjet crash in Florida.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/work-to-do-authorities-give-update-on-florida-private-jet-crash?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-02T21:23:31+00:00"
     },
     {
      "title": "Trump focuses on Reflecting Pool in final public speech before midterms",
@@ -85,22 +117,6 @@
      "published": "2026-11-02T21:10:04+00:00"
     },
     {
-     "title": "Mamdani’s progressive allies vie for seats in Congress",
-     "summary": "Three New York City progressive Democrats are expected to win their midterm congressional races in Tuesday's election.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/2/mamdanis-progressive-allies-vie-for-seats-in-congress?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-02T20:48:56+00:00"
-    },
-    {
-     "title": "What’s the future of the Western Sahara conflict?",
-     "summary": "The UN is ending its peacekeeping mission in the disputed territory after the US and Russia blocked its extension.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/inside-story/2026/11/2/whats-the-future-of-the-western-sahara-conflict?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-02T20:43:44+00:00"
-    },
-    {
      "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
      "summary": "Millions of Americans are turning to AI for election information, but chatbots are getting voting facts wrong and recommending candidates, raising concerns they could influence voters' decisions.",
      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F33%2F38%2F09ecdec14eff88fe2fc14345fc06%2Fgettyimages-2302583503.jpg",
@@ -115,28 +131,44 @@
      "url": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
      "source": "Guardian World",
      "published": "2026-11-02T20:00:27+00:00"
-    },
-    {
-     "title": "Is America really that polarized? The answer might be a surprise",
-     "summary": "The U.S. has become more politically polarized, but research shows people overestimate their differences and there is 'messy middle' majority of Americans who share overlapping political views.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5500x3670+0+0/resize/5500x3670!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F16%2Ffd%2F401ffbcb4dea8054ffd72e0169a5%2Fgettyimages-2301917700.jpg",
-     "url": "https://www.npr.org/2026/11/02/nx-s1-6003534/us-political-polarization-research-trump",
-     "source": "NPR News",
-     "published": "2026-11-02T20:00:00+00:00"
-    },
-    {
-     "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
-     "summary": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground!\"",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fc4/live/ff862190-d6f8-11f1-b983-c357054e4d1e.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-02T19:58:34+00:00"
     }
    ]
   },
   "ai": {
    "label": "AI",
    "items": [
+    {
+     "title": "國際柴油高漲，玻利維亞農民尋求廢棄物回收替代燃料",
+     "summary": "俄烏戰爭、伊朗戰爭加乘，國際柴油價格高漲，全球農民都感受到沉重壓力，玻利維亞於 2026 年 9 月宣布不再補 […]",
+     "image": "",
+     "url": "https://technews.tw/2026/11/03/bolivian-farmers-turn-to-waste-recycling-for-alternative-fuel/",
+     "source": "科技新報 TechNews",
+     "published": "2026-11-02T23:30:12+00:00"
+    },
+    {
+     "title": "AI 新創 Tolan 估值上看 2.68 億美元，活躍用戶破 25 萬穩站 AI 情緒陪伴市場",
+     "summary": "標榜能協助使用者管理日常生活、處理人際關係與情緒並達成個人目標的 AI 陪伴應用程式 Tolan，近日宣布再獲 […]",
+     "image": "",
+     "url": "https://technews.tw/2026/11/03/ai-startup-tolan-valuation-268m/",
+     "source": "科技新報 TechNews",
+     "published": "2026-11-02T23:20:11+00:00"
+    },
+    {
+     "title": "2026 年第四季全球伺服器市場動態與 2027 年展望",
+     "summary": "預估 2026 年九大 CSP 資本支出逾 9,571 億美元、年增約 106%，2027 年約 1.53 兆 […]",
+     "image": "",
+     "url": "https://technews.tw/2026/11/03/global-server-market-dynamics-q4-2026-2027-outlook/",
+     "source": "科技新報 TechNews",
+     "published": "2026-11-02T23:00:50+00:00"
+    },
+    {
+     "title": "BYD sold more EVs last month than the US did all quarter",
+     "summary": "Article URL: https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/ Comments URL: https://news.ycombinator.com/item?id=50344181 Points: 200 # Comments: 178",
+     "image": "",
+     "url": "https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-02T21:38:49+00:00"
+    },
     {
      "title": "Third person dies of bird flu since virus started jumping to livestock",
      "summary": "The threat is still considered to be low, but the virus continues to spread.",
@@ -163,7 +195,7 @@
     },
     {
      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
-     "summary": "Article URL: https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432 Comments URL: https://news.ycombinator.com/item?id=50341462 Points: 163 # Comments: 28",
+     "summary": "Article URL: https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432 Comments URL: https://news.ycombinator.com/item?id=50341462 Points: 242 # Comments: 41",
      "image": "",
      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
      "source": "Hacker News Front Page",
@@ -179,7 +211,7 @@
     },
     {
      "title": "Astra can read and write weights to improve Qwen",
-     "summary": "Article URL: https://rikiyat.github.io/blog/weight-space-programming/ Comments URL: https://news.ycombinator.com/item?id=50341174 Points: 1332 # Comments: 416",
+     "summary": "Article URL: https://rikiyat.github.io/blog/weight-space-programming/ Comments URL: https://news.ycombinator.com/item?id=50341174 Points: 1612 # Comments: 515",
      "image": "",
      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
      "source": "Hacker News Front Page",
@@ -202,14 +234,6 @@
      "published": "2026-11-02T17:00:00+00:00"
     },
     {
-     "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-     "summary": "Article URL: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11 Comments URL: https://news.ycombinator.com/item?id=50339494 Points: 251 # Comments: 20…",
-     "image": "",
-     "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-02T16:40:29+00:00"
-    },
-    {
      "title": "紅巨星的異常震盪與磁場，恐源自掠奪伴星質量",
      "summary": "奧地利科學技術研究所（ISTA）與國際研究團隊發表於《天文學與天體物理學》期刊的最新研究指出，要正確解讀恆星內 […]",
      "image": "",
@@ -224,30 +248,6 @@
      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
      "source": "MIT Tech Review AI",
      "published": "2026-11-02T13:10:32+00:00"
-    },
-    {
-     "title": "真的成了！Marvell 宣布以股票交易方式收購光通訊龍頭 Lumentum",
-     "summary": "Marvell 與 Lumentum 達成最終協議，Marvell 將透過全股票交易方式收購 Lumentum […]",
-     "image": "",
-     "url": "https://technews.tw/2026/11/02/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity/",
-     "source": "科技新報 TechNews",
-     "published": "2026-11-02T12:33:16+00:00"
-    },
-    {
-     "title": "大同華映案和解露曙光，30.29 億元人民幣爭議擬以 7.68 億元和解",
-     "summary": "大同今（2）日召開重大訊息記者會，宣布董事會通過與中國華映科技的和解方案。大同代理發言人張瑞凱表示，雙方針對過 […]",
-     "image": "",
-     "url": "https://technews.tw/2026/11/02/tatung-cpt-case-settlement-hope-rmb-3-029-billion-dispute-settled-for-768-million/",
-     "source": "科技新報 TechNews",
-     "published": "2026-11-02T12:12:56+00:00"
-    },
-    {
-     "title": "韓國第六代國家超級電腦「漢江」啟用，但預算因 GPU 漲價追加約五成",
-     "summary": "韓國科學技術資訊通訊部與韓國科學技術資訊研究院（KISTI）今日舉行第六代國家超級電腦「漢江」啟用典禮，總經費 […]",
-     "image": "",
-     "url": "https://technews.tw/2026/11/02/korea-unveils-276-mil-hangang-supercomputer/",
-     "source": "科技新報 TechNews",
-     "published": "2026-11-02T10:10:14+00:00"
     },
     {
      "title": "The agentic web is here",
@@ -271,20 +271,36 @@
    "label": "運動",
    "items": [
     {
-     "title": "Who produced the kind of performance Moyes loves? - player ratings",
-     "summary": "Newcastle United and Everton's players rated following their Premier League match.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4849/live/5bf82cd0-d707-11f1-ac17-5d3d5470aaba.png",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cmglwjxx45gjo?at_medium=RSS&at_campaign=rss",
+     "title": "From nightmare debut season to Everton hero - Barry's revival",
+     "summary": "Last season Thierno Barry scored eight goals in 41 appearances. This season it's taken him just 12 games to match that tally.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f34/live/8799e290-d70a-11f1-81b9-c76bd127a61a.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cqj346rvg3pzo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
-     "published": "2026-11-02T22:08:43+00:00"
+     "published": "2026-11-02T23:28:17+00:00"
     },
     {
-     "title": "Newcastle United 0-1 Everton: Premier League – live",
-     "summary": "Premier League updates from the 8pm GMT kick-off Live scores | Read today’s Football Daily | Email Daniel Jaissle tells Sky Elanga is improving physically and deserves to start today; he wants him and…",
-     "image": "https://i.guim.co.uk/img/media/61da07022b58b5c320d12c1fb752e004a96345b7/0_36_4403_3523/master/4403.jpg?width=140&quality=85&auto=format&fit=max&s=1a79e42254ba23e515c804418812cf86",
-     "url": "https://www.theguardian.com/football/live/2026/nov/02/newcastle-united-v-everton-premier-league-live",
+     "title": "Grealish can still have Everton future - Moyes",
+     "summary": "Everton boss David Moyes says there is a way back for Jack Grealish at the club - but does not know when he might return to the team.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f4e/live/f69cc0c0-d711-11f1-b19c-4d0080e30e42.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cm70pgrd22x4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-02T23:14:27+00:00"
+    },
+    {
+     "title": "Newcastle unrest grows as Barry and Everton give Jaissle another headache",
+     "summary": "Jack Grealish will do well to get back into the Everton starting lineup when he returns to the squad – as David Moyes’s side are doing just fine without him. Newcastle were condemned to a second defea…",
+     "image": "https://i.guim.co.uk/img/media/cb071176768c8c2d12863a56220c55b812e7f2a0/314_0_3627_2902/master/3627.jpg?width=140&quality=85&auto=format&fit=max&s=fdca47981a05481ab8248e3b20313c71",
+     "url": "https://www.theguardian.com/football/2026/nov/02/newcastle-everton-premier-league-match-report",
      "source": "Guardian Sport",
-     "published": "2026-11-02T22:07:49+00:00"
+     "published": "2026-11-02T22:04:11+00:00"
+    },
+    {
+     "title": "Boston Celtics Daily Links 11/2/26",
+     "summary": "All the Celtics news you need in one convenient place.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/ce07b04d2f67c54ff9a54b12e1665dee.jpg",
+     "url": "https://sports.yahoo.com/articles/boston-celtics-daily-links-11-212622908.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-02T21:26:22+00:00"
     },
     {
      "title": "Lions’ Jack Campbell remains hospitalized after ‘scary’ neck injury but initial signs are positive",
@@ -295,6 +311,14 @@
      "published": "2026-11-02T21:15:43+00:00"
     },
     {
+     "title": "Jayson Tatum named Eastern Conference Player of the Week for 14th time in career",
+     "summary": "Tatum averaged 30.3 points and seven assists during Boston's perfect 4-0 week, moving one award shy of Larry Bird.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/376a83b62fab5e1b85c986d123dd400e.jpg",
+     "url": "https://sports.yahoo.com/articles/jayson-tatum-named-eastern-conference-210851947.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-02T21:08:51+00:00"
+    },
+    {
      "title": "Coby White to make season debut for Hornets after missing team's first 7 games with strained calf",
      "summary": "White signed a three-year deal with Charlotte after being acquired from the Bulls. Trading LaMelo Ball cleared a starting spot for him.",
      "image": "",
@@ -303,12 +327,12 @@
      "published": "2026-11-02T21:02:26+00:00"
     },
     {
-     "title": "Oklahoma City to retire Russell Westbrook's jersey in Feb. 7 ceremony",
-     "summary": "When James Harden and Kevin Durant left, it was Russell Westbrook who stayed and won in OKC.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/oklahoma-city-retire-russell-westbrooks-205559298.html",
+     "title": "JJ Redick believes Sandro Mamukelashvili is a ‘rare’ offensive player",
+     "summary": "The early returns for Mamukelashvili with the Lakers are promising",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/9aeea73933521267849140370e9f1cf4.jpg",
+     "url": "https://sports.yahoo.com/articles/jj-redick-believes-sandro-mamukelashvili-210132660.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-11-02T20:55:59+00:00"
+     "published": "2026-11-02T21:01:32+00:00"
     },
     {
      "title": "Five things we learned from Victor Wembanyama's '60 Minutes' interview, including why he loves going barefoot",
@@ -328,19 +352,11 @@
     },
     {
      "title": "Fifa to share confidential World Cup sell-off plan documents",
-     "summary": "Fifa has informed members of its Council that they will be granted access to view some documents related to president Gianni Infantino's failed plan to sell off stakes in the World Cup to private inve…",
+     "summary": "Council members will need to travel to Fifa's headquarters in Zurich to see the documents, and will be subject to \"strict review protocols\".",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3134/live/d6604cd0-d6eb-11f1-a741-236ee91c2e25.jpg",
      "url": "https://www.bbc.co.uk/sport/football/articles/c6vgj0p4ey17o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-11-02T20:23:55+00:00"
-    },
-    {
-     "title": "Yaxel balls out + injury-riddled seasons with JE Skeets, Magic check-in with Steve Ceruti + NBA Power Rankings 1.0",
-     "summary": "Kevin O'Connor is joined by JE Skeets & Steve Ceruti to react to the biggest NBA news from the weekend.",
-     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/koc-yaxel-thumb_8948.png",
-     "url": "https://sports.yahoo.com/nba/article/yaxel-balls-out--injury-riddled-seasons-with-je-skeets-magic-check-in-with-steve-ceruti--nba-power-rankings-10-202000297.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-02T20:20:00+00:00"
     },
     {
      "title": "Why Warriors rookie Yaxel Lendeborg was benched after being 'peer pressured' into chasing 40 against Clippers",
@@ -365,22 +381,6 @@
      "url": "https://www.cbssports.com/nba/news/russell-westbrook-thunder-number-retirement/",
      "source": "CBS Sports NBA",
      "published": "2026-11-02T19:46:50+00:00"
-    },
-    {
-     "title": "Grizzlies tore down their core. So how are they the NBA's last unbeaten team?",
-     "summary": "The Memphis Grizzlies have a surprising 6-0 record to start the NBA season. Here's why and what it means for their hopes of making the playoffs.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/grizzlies-tore-down-core-nbas-191608459.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-02T19:16:08+00:00"
-    },
-    {
-     "title": "England call up Spencer and Randall as injuries hit",
-     "summary": "Ben Spencer and Harry Randall are named in England's squad for this month's Nations Championship after injury hits Alex Mitchell and Archie McParland.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/280a/live/832f1590-d6e2-11f1-93e1-3b657b665bcf.png",
-     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cvp8gxldn304o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-02T17:48:54+00:00"
     },
     {
      "title": "Carrick says it's 'crazy' but he's looking forward to Roma game",
