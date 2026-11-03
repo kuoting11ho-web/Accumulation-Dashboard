@@ -1,80 +1,120 @@
 {
- "generated": "2026-11-03T17:54:54.074695+00:00",
+ "generated": "2026-11-03T20:09:17.379934+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "Midterm elections 2026 live updates: Economy, inflation and voter concerns",
+     "title": "Michigan voters face crucial choice as Trump’s grip on Congress is tested",
+     "summary": "Michigan’s closely contested Senate race and voter concerns over the economy are putting Trump’s control of Washington.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/michigan-voters-face-crucial-choice-as-trumps-grip-on-congress-is-tested?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-03T20:00:30+00:00"
+    },
+    {
+     "title": "湖口台灣松下工廠凌晨大火黑煙沖天 疑爆炸聲響震碎民宅門窗",
+     "summary": "三更半夜突然「砰」一聲傳出巨響，許多新竹縣鄉親都被嚇醒！位於新竹產業園區的台灣松下多層材料公司今（4）日凌晨近2點傳出火警，整個大火竄出，黑煙沖天，數公里外即可看見，周邊住戶也...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/society/breakingnews/5628505",
+     "source": "自由時報",
+     "published": "2026-11-03T19:58:15+00:00"
+    },
+    {
+     "title": "Midterm elections 2026 live updates: Economy, inflation and other voter concerns",
      "summary": "Follow 2026 midterm elections live updates, including House and Senate races, Texas, Georgia, Ohio and Minnesota, and key results as polls close.",
      "image": "",
      "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
      "source": "CNBC Top News",
-     "published": "2026-11-03T17:53:41+00:00"
+     "published": "2026-11-03T19:57:59+00:00"
     },
     {
-     "title": "AI-generated 'slopaganda' in political ads puts internet platforms on alert",
-     "summary": "Tuesday's midterm elections follow record spending on AI-generated political ads.",
+     "title": "Nasdaq rebounds as chip stocks bounce, Dow dragged lower by Apple: Live updates",
+     "summary": "The Nasdaq Composite rose on Tuesday as investors moved back into key technology stocks after recent pressure and geared up for U.S. midterm election results.",
      "image": "",
-     "url": "https://www.cnbc.com/2026/11/03/ai-generated-slopaganda-in-political-ads-puts-platforms-on-alert.html",
+     "url": "https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html",
      "source": "CNBC Top News",
-     "published": "2026-11-03T17:37:31+00:00"
+     "published": "2026-11-03T19:53:31+00:00"
     },
     {
-     "title": "市場關注美國期中選舉　歐股收低",
-     "summary": "美國期中選舉今天登場，投資人持觀望態度，歐洲股市主要指數今天收低。 倫敦FTSE 100指數下跌122.90點或1.14%，收報10638.43點。 法蘭克福DAX指數小跌116.47點...…",
+     "title": "CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue",
+     "summary": "CrowdStrike launched an AI kill switch that the company says can stop internal agents, block relaunches and cut enterprise network access.",
      "image": "",
-     "url": "https://ec.ltn.com.tw/article/breakingnews/5628497",
-     "source": "自由時報",
-     "published": "2026-11-03T17:36:03+00:00"
+     "url": "https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-03T19:35:24+00:00"
     },
     {
-     "title": "白宮：梅蘭妮亞將接見俄烏代表　為美國歷史非凡時刻",
-     "summary": "白宮今天表示，美國第一夫人梅蘭妮亞（Melania Trump）將在華盛頓接見俄羅斯與烏克蘭「代表」，但沒有提供具體日期，也未透露可能有哪些人員出席。 法新社報導，白宮在聲明中指出，這兩個...…",
+     "title": "Michigan US Senate race: Rogers, El-Sayed urge turnout for critical race",
+     "summary": "Abdul El-Sayed hopes to become the first Muslim US senator as Michigan's Senate race reaches its critical final hours.",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5628494",
-     "source": "自由時報",
-     "published": "2026-11-03T17:30:06+00:00"
+     "url": "https://www.aljazeera.com/news/2026/11/3/michigan-us-senate-race-rogers-el-sayed-urge-turnout-for-critical-race?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-03T19:13:49+00:00"
     },
     {
-     "title": "Protect Poundland from predatory capitalism, MPs tell government",
-     "summary": "Budget retailer and 12,000 jobs at risk after US owner fails to accept buyout offers MPs have called on the government to protect Poundland and other high street stores from “predatory capitalism” and…",
-     "image": "https://i.guim.co.uk/img/media/1b649855fa074407e8669b52440db74680645869/622_0_4636_3711/master/4636.jpg?width=140&quality=85&auto=format&fit=max&s=d3de01cc7638dc266c7aee2d3960c128",
-     "url": "https://www.theguardian.com/business/2026/nov/03/protect-poundland-mps-tell-government-retail",
+     "title": "Severe weather disrupts election day across several US states",
+     "summary": "Flash floods, torrential rain and tornadoes have disrupted midterm election day in several US states.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_severe-weather-disrupts-election-day-across-us-031126?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-03T19:13:19+00:00"
+    },
+    {
+     "title": "美國選民投票之際　川普稱將停止對以色列40億美元援助",
+     "summary": "美國總統川普今天表示，他已與以色列總理尼坦雅胡達成協議，華府將在今年底結束後停止向以色列提供40億美元的資金援助，但仍會向這個最親密的中東盟友出售武器。 路透社報導，美國期中選舉登場，在選...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5628506",
+     "source": "自由時報",
+     "published": "2026-11-03T19:12:03+00:00"
+    },
+    {
+     "title": "Yemen gov’t accuses IRGC, Hezbollah of sending 21 experts to back Houthis",
+     "summary": "Yemeni interior minister says foreign involvement expanded beyond arms and training to directing military operations.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/11/3/yemen-govt-accuses-irgc-hezbollah-of-sending-21-experts-to-back-houthis?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-03T19:09:09+00:00"
+    },
+    {
+     "title": "Hackers behind $6.3bn Binance heist ‘used malware and bogus job interviews’",
+     "summary": "Firm reveals details about how its cryptocurrency exchange was compromised, saying operation began in June The hackers behind the $6.3bn (£4.7bn) Binance heist used bogus job interviews, malicious sof…",
+     "image": "https://i.guim.co.uk/img/media/f67cc40e017c9be99ab108202d9308c5bb1694fb/356_0_3333_2666/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=487438a07d6c27b83b2345b8ed2b3fd0",
+     "url": "https://www.theguardian.com/business/2026/nov/03/hackers-63bn-binance-heist-malware-bogus-job-interviews-cryptocurrency",
      "source": "Guardian Business",
-     "published": "2026-11-03T17:29:00+00:00"
+     "published": "2026-11-03T19:00:23+00:00"
     },
     {
-     "title": "Jerusalem Daily: Israel detains Al Jazeera journalist in Hebron raids",
-     "summary": "Al Jazeera journalist Montaser Nassar was detained in raids near Hebron.",
+     "title": "紐約州韋斯切斯特郡投票機故障　選務人員緊急處置",
+     "summary": "美國期中選舉登場，紐約州第17選區韋斯切斯特郡傳出投票機故障，無法讀取紙本選票，不過選務人員已緊急處理且持續計票中。計票結果將協助決定整個選區的聯邦眾議院席次歸屬。 法新社報導，韋斯切斯特...…",
      "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/jerusalem-daily-israel-detains-al-jazeera-journalist-in-hebron-raids?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-03T17:26:02+00:00"
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5628503",
+     "source": "自由時報",
+     "published": "2026-11-03T19:00:04+00:00"
     },
     {
-     "title": "Russian strikes on Dnipro kill two, injure 20 others",
-     "summary": "Russian strikes on Dnipro damaged residential areas and several medical facilities.",
+     "title": "《TAIPEI TIMES》Smart glasses cheating to be punishable by admissions ban",
+     "summary": "By Fion Khan / Staff writer, with CNA University applicants caught cheating with electronic devic...…",
      "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/russian-strikes-on-dnipro-kill-two-injure-20-others?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-03T17:24:08+00:00"
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5628419",
+     "source": "自由時報",
+     "published": "2026-11-03T19:00:00+00:00"
     },
     {
-     "title": "South Carolina shrimpers weigh costs, vote in crucial US midterms",
-     "summary": "Shrimpers worry about fuel costs, tariffs and Trump's proposed cuts to the agency that provides vital weather data.",
+     "title": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
+     "summary": "Binance has replenished 98% of $6.34 billion in affected assets, according to a security report the crypto exchange issued Tuesday.",
      "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/3/south-carolina-shrimpers-weigh-costs-vote-in-crucial-us-midterms?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-03T17:22:45+00:00"
+     "url": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-03T18:40:37+00:00"
     },
     {
-     "title": "Bomb threats target seven flights across Europe",
+     "title": "Seven flights across Europe targeted by suspected bomb threats",
      "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db91/live/79069d70-d79d-11f1-84dd-e55f4bec0ecd.png",
      "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-11-03T17:21:26+00:00"
+     "published": "2026-11-03T17:56:03+00:00"
     },
     {
      "title": "When caring for aging family members becomes cost prohibitive",
@@ -85,52 +125,12 @@
      "published": "2026-11-03T17:09:56+00:00"
     },
     {
-     "title": "美司法部派1000名選舉監督員進駐50州　規模史上最大",
-     "summary": "美國司法部今天表示，正向全美50個州部署1000名選舉監督員與觀察員，並稱這是美國史上規模最大的選舉日監督行動。 路透社報導，美國司法部在一份聲明中，列出各州內將接收監督員與觀察員的司法管...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5628490",
-     "source": "自由時報",
-     "published": "2026-11-03T17:06:03+00:00"
-    },
-    {
-     "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
-     "summary": "Disney expects to lay off several thousand employees in the latest round of job cuts for the entertainment giant.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-03T17:05:29+00:00"
-    },
-    {
-     "title": "Darfur survivors vow to tell story of those killed after Sudan camp attacks",
-     "summary": "Survivors of attacks on displacement camps in Darfur recall the lives they built, and violence that forced them to flee.",
-     "image": "",
-     "url": "https://www.aljazeera.com/features/2026/11/3/darfur-survivors-vow-to-tell-story-of-those-killed-after-sudan-camp-attacks?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-03T17:03:24+00:00"
-    },
-    {
      "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
      "summary": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eae/live/d2df48e0-d79a-11f1-b441-2b33b063138f.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/617d/live/6d097ab0-d7bb-11f1-8a3d-5320e3fab176.jpg",
      "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
      "published": "2026-11-03T16:57:41+00:00"
-    },
-    {
-     "title": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
-     "summary": "Binance has replenished 98% of $6.34 billion in affected assets, according to a security report the crypto exchange issued Tuesday.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-03T16:52:17+00:00"
-    },
-    {
-     "title": "擺脫依賴美國！英法主導「非北約」烏克蘭維和部隊 遇俄攻擊將還擊",
-     "summary": "西方官員透露，若烏克蘭達成停火協議並部署維和部隊，駐紮當地的英國軍隊及其歐洲盟友在遭遇俄羅斯攻擊時，將被允許開火還擊。這支由英、法兩國主導的穩定部隊，將完全由歐洲國家組成，且...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5628485",
-     "source": "自由時報",
-     "published": "2026-11-03T16:45:48+00:00"
     }
    ]
   },
@@ -138,52 +138,68 @@
    "label": "AI",
    "items": [
     {
-     "title": "Google dismantles botnet secretly running on 1.3 million Android TV boxes",
-     "summary": "Google has cut ties with the company behind the botnet campaign.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/mecool-malware-500x500.jpg",
-     "url": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/",
+     "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+     "summary": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/brave-500x500.jpg",
+     "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
      "source": "Ars Technica",
-     "published": "2026-11-03T17:08:21+00:00"
+     "published": "2026-11-03T18:30:27+00:00"
     },
     {
-     "title": "This space company is betting its future on a propellant available everywhere",
-     "summary": "Is that water in your spacecraft, or are you just happy to see the delta-V?",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Argonaut-Transit-to-Moon-16x9-1-500x500.jpg",
-     "url": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/",
+     "title": "Buttons are back and storage is king when it comes to car interiors",
+     "summary": "We talk with Nissan designer Hiren Patel about how vehicle interior designs are changing.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/2027-Nissan-Rogue-Hybrid-05-500x500.jpg",
+     "url": "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/",
      "source": "Ars Technica",
-     "published": "2026-11-03T16:50:32+00:00"
+     "published": "2026-11-03T18:19:31+00:00"
     },
     {
-     "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
-     "summary": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-500x500.jpg",
-     "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
+     "title": "Google will let schools skip AI tools, but they have to give up search, too",
+     "summary": "Google will offer schools AI tools that purportedly don't give away the answers.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-500x500.jpg",
+     "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
      "source": "Ars Technica",
-     "published": "2026-11-03T16:03:13+00:00"
+     "published": "2026-11-03T17:54:43+00:00"
     },
     {
-     "title": "Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.",
-     "summary": "Meta faces pressure to protect No Kings Instagram on election day.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/zuck-trump-no-kings-500x500-1793646871.jpg",
-     "url": "https://arstechnica.com/tech-policy/2026/11/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram/",
-     "source": "Ars Technica",
-     "published": "2026-11-03T15:39:30+00:00"
-    },
-    {
-     "title": "Schools that block Google’s A.I. will lose student access to its search engine",
-     "summary": "https://archive.ph/RuwsB https://blog.google/products-and-platforms/products/educatio... Comments URL: https://news.ycombinator.com/item?id=50353192 Points: 176 # Comments: 155",
+     "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+     "summary": "Article URL: https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/ Comments URL: https://news.ycombinator.com/item?id=50355251 Points: 272 # Comments: 79",
      "image": "",
-     "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+     "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
      "source": "Hacker News Front Page",
-     "published": "2026-11-03T15:25:47+00:00"
+     "published": "2026-11-03T17:40:00+00:00"
     },
     {
-     "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
-     "summary": "Article URL: https://honnibal.dev/blog/astra-read-write-misleading Comments URL: https://news.ycombinator.com/item?id=50351111 Points: 694 # Comments: 160",
+     "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+     "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 641 # Comments: 204",
      "image": "",
-     "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+     "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
      "source": "Hacker News Front Page",
-     "published": "2026-11-03T12:21:17+00:00"
+     "published": "2026-11-03T17:22:37+00:00"
+    },
+    {
+     "title": "Another child dies of measles as CDC reportedly holds up health alert",
+     "summary": "NY gov. pointed to Kennedy's long-standing anti-vaccine work as spurring outbreaks.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2053751760-500x500.jpg",
+     "url": "https://arstechnica.com/health/2026/11/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert/",
+     "source": "Ars Technica",
+     "published": "2026-11-03T17:21:29+00:00"
+    },
+    {
+     "title": "Study estimates 75% of NFL players who died over 15-year span had CTE",
+     "summary": "Article URL: https://www.nbcnews.com/health/health-news/study-estimates-75-nfl-players-died-15-year-span-may-cte-rcna605975 Comments URL: https://news.ycombinator.com/item?id=50353335 Points: 195 # Co…",
+     "image": "",
+     "url": "https://www.nbcnews.com/health/health-news/study-estimates-75-nfl-players-died-15-year-span-may-cte-rcna605975",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-03T15:38:04+00:00"
+    },
+    {
+     "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+     "summary": "Article URL: https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/ Comments URL: https://news.ycombinator.com/item?id=50353229 Points:…",
+     "image": "",
+     "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-03T15:29:15+00:00"
     },
     {
      "title": "How “reverse game theory” could keep AI agents in check",
@@ -226,22 +242,6 @@
      "published": "2026-11-03T09:40:42+00:00"
     },
     {
-     "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
-     "summary": "Article URL: https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html Comments URL: https://news.ycombinator.com/item?id=50349276 Points: 283 # Comments: 136",
-     "image": "",
-     "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-03T07:56:21+00:00"
-    },
-    {
-     "title": "Nvidia – open-source auto-ontology",
-     "summary": "Article URL: https://github.com/NVIDIA/auto-ontology Comments URL: https://news.ycombinator.com/item?id=50348962 Points: 241 # Comments: 99",
-     "image": "",
-     "url": "https://github.com/NVIDIA/auto-ontology",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-03T07:04:50+00:00"
-    },
-    {
      "title": "A Generalized Sparse Fuzzy Clustering Framework with Automated Cluster Cardinality Estimation Ability",
      "summary": "arXiv:2611.00159v1 Announce Type: new Abstract: Fuzzy clustering provides a robust framework for handling ambiguous and overlapping data boundaries, yet its traditional formulation generates entirely…",
      "image": "",
@@ -271,6 +271,70 @@
    "label": "運動",
    "items": [
     {
+     "title": "Barcelona v Aston Villa: Champions League – live",
+     "summary": "⚽️ Champions League updates from the 8pm GMT kick-off ⚽️ Manchester United v Roma – follow it live ⚽️ Live scores | League phase standings | And email Luke Steven Gerrard and Ally McCoist are on co-co…",
+     "image": "https://i.guim.co.uk/img/media/87e10d33b74893195a6aced88a734e16d2dac1f2/931_652_3935_3149/master/3935.jpg?width=140&quality=85&auto=format&fit=max&s=21cd8569e589739796eff537dda9b63a",
+     "url": "https://www.theguardian.com/football/live/2026/nov/03/barcelona-v-aston-villa-champions-league-live",
+     "source": "Guardian Sport",
+     "published": "2026-11-03T19:57:49+00:00"
+    },
+    {
+     "title": "Manchester United v Roma: Champions League – live",
+     "summary": "⚽️ Champions League updates from the 8pm GMT kick-off ⚽️ Barcelona v Aston Villa – follow it live ⚽️ Live scores | League phase standings | And email Will Gorton-born Butt on TV and another one on the…",
+     "image": "https://i.guim.co.uk/img/media/e64eb9ef9ade6ff4f77f92122a55d5f4a1080e3f/1109_0_5546_4437/master/5546.jpg?width=140&quality=85&auto=format&fit=max&s=40f747647ad174cec9118bea5ecc2dba",
+     "url": "https://www.theguardian.com/football/live/2026/nov/03/manchester-united-v-roma-champions-league-live",
+     "source": "Guardian Sport",
+     "published": "2026-11-03T19:56:29+00:00"
+    },
+    {
+     "title": "Former Arizona wing Dalen Terry signs with Thunder",
+     "summary": "Dalen Terry is on an NBA roster after starting the season on the sidelines. The former Arizona Wildcats wing has signed a two-year deal with the Oklahoma City Thunder, according to ESPN’s Shams Charan…",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/5456b294d37d37985ded99be2d1731c5.jpg",
+     "url": "https://sports.yahoo.com/articles/former-arizona-wing-dalen-terry-194228927.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-03T19:42:28+00:00"
+    },
+    {
+     "title": "Warriors keep winning, examining the new-look Mavs + saluting the Valkyries & Dream",
+     "summary": "Nekias Duncan & Steve Jones react to the biggest NBA performances from the weekend and recap the WNBA Finals.",
+     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/tds-cooper-thumb_7411.png",
+     "url": "https://sports.yahoo.com/nba/article/warriors-keep-winning-examining-the-new-look-mavs--saluting-the-valkyries--dream-180659530.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-03T18:06:59+00:00"
+    },
+    {
+     "title": "Phoenix is falling behind, and there’s no room for another slow start",
+     "summary": "A familiar record has brought a different reality, with higher expectations and no draft pick to fall back on.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/5d9f102b3bf28cd4bc817a53f082fdde.jpg",
+     "url": "https://sports.yahoo.com/articles/phoenix-falling-behind-no-room-180000700.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-03T18:00:00+00:00"
+    },
+    {
+     "title": "Adou Thiero ‘trending in the right direction,’ could return from knee injury by end of week",
+     "summary": "Thiero is yet to play this regular season as he deals with swelling in his left knee",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/53fda5fdbd49b863c1274aa2e214c611.jpg",
+     "url": "https://sports.yahoo.com/articles/adou-thiero-trending-direction-could-175519729.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-03T17:55:19+00:00"
+    },
+    {
+     "title": "Ty Jerome is on a Linsanity-esque run, but here's why his MVP-level scoring isn't that big of a surprise",
+     "summary": "The Grizzlies guard has been a per-minute monster going back to his breakout year in Cleveland",
+     "image": "https://sportshub.cbsistatic.com/i/2026/11/03/b6688450-64f9-4e44-a31a-d02829aa590b/ty-jerome-getty-1.png",
+     "url": "https://www.cbssports.com/nba/news/ty-jerome-linsanity-mvp-level-scoring-surprise/",
+     "source": "CBS Sports NBA",
+     "published": "2026-11-03T17:46:53+00:00"
+    },
+    {
+     "title": "USOPC considering plan to sell stake in Team USA as LA Olympics approach",
+     "summary": "US set to host Summer and Winter Olympics USOPC CEO says business model in early stages The US Olympic and Paralympic Committee (USOPC) is in the advanced stages of setting up an entity to sell a stak…",
+     "image": "https://i.guim.co.uk/img/media/5a36930e956e0aa7948c00362cbd77aae9ab76ae/396_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=ced5e9f8b396b4b66d3ad7d306325410",
+     "url": "https://www.theguardian.com/sport/2026/nov/03/usopc-considering-plan-to-sell-stake-in-team-usa-as-la-olympics-approach",
+     "source": "Guardian Sport",
+     "published": "2026-11-03T17:45:42+00:00"
+    },
+    {
      "title": "England's Mitchell ruled out of Nations Championship",
      "summary": "Scrum-half Alex Mitchell has been ruled out of the whole of England's Nations Championship after suffering his fourth hamstring injury of the year.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80ee/live/13b430e0-d78e-11f1-9440-953b82c8f55a.jpg",
@@ -279,52 +343,12 @@
      "published": "2026-11-03T17:16:16+00:00"
     },
     {
-     "title": "'We don't have enough time to recover:' Is the NBA game outpacing the players?",
-     "summary": "Only two weeks into the season, the NBA has a growing injury problem.",
-     "image": "",
-     "url": "https://sports.yahoo.com/nba/article/we-dont-have-enough-time-to-recover-is-the-nba-game-outpacing-the-players-170940254.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-03T17:09:40+00:00"
-    },
-    {
-     "title": "Three notable decisions from NBA's rookie-scale extension deadline: Thunder seemingly give up on lottery pick",
-     "summary": "The Thunder appear ready to move on from Nikola Topić, while the Hornets did not extend a former top-six pick",
-     "image": "https://sportshub.cbsistatic.com/i/2026/11/03/18fcc890-9910-4806-b033-11cb8c2b2c83/nikola-topic-getty.png",
-     "url": "https://www.cbssports.com/nba/news/nba-rookie-scale-contract-deadline-thunder-give-up-on-lottery-pick/",
-     "source": "CBS Sports NBA",
-     "published": "2026-11-03T16:54:27+00:00"
-    },
-    {
-     "title": "Q&A with Hall of Famer Mitch Richmond, talking Yaxel Lendeborg, LeBron, Jokic, Game Pulse",
-     "summary": "Richmond is NBA history personified and is still up on the modern game and players.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/q-hall-famer-mitch-richmond-163454711.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-03T16:34:54+00:00"
-    },
-    {
-     "title": "Thunder sign Dalen Terry out of G League to provide depth at forward",
-     "summary": "Terry, the No. 18 pick in the 2022 NBA Draft, played for the Bulls and 76ers.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/thunder-sign-dalen-terry-g-161739771.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-03T16:17:39+00:00"
-    },
-    {
      "title": "NBA Bracketology: Projecting the full 20-team postseason field as Knicks, Thunder take steps back",
      "summary": "We have a long way to go in the 2026-27 NBA season, but it's never too early to wonder what the playoff field might look like ... right?",
      "image": "https://sportshub.cbsistatic.com/i/2026/11/03/63398b6e-9cb4-4f72-bbd9-577b9b202418/nba-bracketology-1103.png",
      "url": "https://www.cbssports.com/nba/news/nba-bracketology-projecting-20-team-postseason-field-nov-3/",
      "source": "CBS Sports NBA",
      "published": "2026-11-03T15:50:57+00:00"
-    },
-    {
-     "title": "Watch LeBron take a swig of a fan's drink during the game",
-     "summary": "\"I wanted to see if it was worth it on my arm and how good it was. It was all right.\"",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/watch-lebron-swig-fans-drink-154906037.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-03T15:49:06+00:00"
     },
     {
      "title": "LeBron James explains why he sipped a 76ers fan's wine during win vs. Bulls",
@@ -367,36 +391,12 @@
      "published": "2026-11-03T12:42:04+00:00"
     },
     {
-     "title": "Champagne, cocaine and some very long walks: when pedestrianism ruled the sporting world",
-     "summary": "Crowds once flocked to see ambling athletes pull off amazing feats of stamina. Edward Payson Weston was chief among them More than $1.4bn has been staked on prediction markets for this week’s US midte…",
-     "image": "https://i.guim.co.uk/img/media/e878383684ed0fd5f8567a32625ae12b87b9c987/0_49_4960_3967/master/4960.jpg?width=140&quality=85&auto=format&fit=max&s=de23fbf2f1673447348ed8d96be63800",
-     "url": "https://www.theguardian.com/sport/2026/nov/03/pedestrianism-long-distance-walking-edward-payson-weston",
-     "source": "Guardian Sport",
-     "published": "2026-11-03T09:30:43+00:00"
-    },
-    {
      "title": "Tenerife striker De Miguel dies after on-field collision",
      "summary": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71f9/live/08251a60-d779-11f1-9539-05485195b558.png",
      "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-11-03T09:09:18+00:00"
-    },
-    {
-     "title": "Caleb Williams and new arrival Jeffery Simmons power Bears past sputtering Seahawks",
-     "summary": "Star defensive lineman has one sack, six tackles D’Andre Swift rushes for three touchdowns Seattle have lost three of their last four games Caleb Williams threw a touchdown pass on the opening drive a…",
-     "image": "https://i.guim.co.uk/img/media/c91dba7724a8ca434767e18834a1a75d3f47fb8d/424_0_4243_3395/master/4243.jpg?width=140&quality=85&auto=format&fit=max&s=44a65ed5cb06876394b26a7623e9824d",
-     "url": "https://www.theguardian.com/sport/2026/nov/02/bears-seahawks-caleb-williams-jeffery-simmons-monday-night-football",
-     "source": "Guardian Sport",
-     "published": "2026-11-03T04:55:38+00:00"
-    },
-    {
-     "title": "Wolff hails world champion Antonelli as role model in blast at F1’s ‘entitled moaners’",
-     "summary": "Mercedes team principal hits out at ‘selfish’ drivers Antonelli says he will keep No 12 on his car next season The Mercedes team principal, Toto Wolff, has described his Formula One world champion Kim…",
-     "image": "https://i.guim.co.uk/img/media/26b31196f3b88f6aa946d306addaa7678b965e98/684_465_4002_3203/master/4002.jpg?width=140&quality=85&auto=format&fit=max&s=aa83f74ed89e61e4ed9d1beb4a22e80d",
-     "url": "https://www.theguardian.com/sport/2026/nov/02/toto-wolff-kimi-antonelli-f1-world-champion",
-     "source": "Guardian Sport",
-     "published": "2026-11-02T10:40:22+00:00"
     }
    ]
   }
