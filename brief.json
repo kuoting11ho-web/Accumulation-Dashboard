@@ -1,112 +1,112 @@
 {
- "generated": "2026-11-03T20:09:17.379934+00:00",
+ "generated": "2026-11-03T21:51:11.161919+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
-    {
-     "title": "Michigan voters face crucial choice as Trump’s grip on Congress is tested",
-     "summary": "Michigan’s closely contested Senate race and voter concerns over the economy are putting Trump’s control of Washington.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/michigan-voters-face-crucial-choice-as-trumps-grip-on-congress-is-tested?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-03T20:00:30+00:00"
-    },
-    {
-     "title": "湖口台灣松下工廠凌晨大火黑煙沖天 疑爆炸聲響震碎民宅門窗",
-     "summary": "三更半夜突然「砰」一聲傳出巨響，許多新竹縣鄉親都被嚇醒！位於新竹產業園區的台灣松下多層材料公司今（4）日凌晨近2點傳出火警，整個大火竄出，黑煙沖天，數公里外即可看見，周邊住戶也...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/society/breakingnews/5628505",
-     "source": "自由時報",
-     "published": "2026-11-03T19:58:15+00:00"
-    },
     {
      "title": "Midterm elections 2026 live updates: Economy, inflation and other voter concerns",
      "summary": "Follow 2026 midterm elections live updates, including House and Senate races, Texas, Georgia, Ohio and Minnesota, and key results as polls close.",
      "image": "",
      "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
      "source": "CNBC Top News",
-     "published": "2026-11-03T19:57:59+00:00"
+     "published": "2026-11-03T21:49:18+00:00"
     },
     {
-     "title": "Nasdaq rebounds as chip stocks bounce, Dow dragged lower by Apple: Live updates",
+     "title": "Spanish transport minister resigns days after deadly train crash",
+     "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61f/live/6dc1cd30-d7c6-11f1-a701-fddedf244c16.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-03T21:40:42+00:00"
+    },
+    {
+     "title": "A Binance engineer thought he was interviewing for a job. Then the hackers pounced",
+     "summary": "North Korean hackers pulled off the biggest cyber heist ever by duping a Binance engineer into thinking he was being recruited for a job, the crypto exchange says.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4549x3034+0+0/resize/4549x3034!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe7%2F6a%2Ff8406921473a86a43e0037f3e7f7%2Fgettyimages-2302659435.jpg",
+     "url": "https://www.npr.org/2026/11/03/nx-s1-6027799/binance-crypto-exchange-cyber-heist",
+     "source": "NPR News",
+     "published": "2026-11-03T21:30:20+00:00"
+    },
+    {
+     "title": "宜蘭東林寺爆侵占洗錢 住持父子吞上億善款 收押禁見",
+     "summary": "張清羽張維夫 涉將廟產當私人金庫 〔記者王峻祺／宜蘭報導〕宜蘭東林寺住持張清羽及出家兒子張維夫涉嫌將上億元信眾捐款及廟產占為己有，並把侵占款項轉購虛擬貨幣及黃金、白銀洗錢藏匿。宜蘭地檢署發動搜索及拘提行動，張清羽父子經法院裁定收押禁見，其餘五名廟務人員同列被告，檢方諭令十萬元至一百萬元不等交保，全…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/society/paper/1777076",
+     "source": "自由時報",
+     "published": "2026-11-03T21:30:00+00:00"
+    },
+    {
+     "title": "豪奢住持 搭500萬保時捷休旅車出庭",
+     "summary": "〔記者江志雄／宜蘭報導〕宜蘭彌陀之家東林寺住持張清羽及兒子張維夫，涉嫌掏空廟產被羈押禁見。據了解，東林寺捐獻信眾不乏企業界名人，今年八月，張清羽到宜蘭地院出庭時搭乘的五百萬元保時捷休旅車，據傳就是由承攬某知名公共工程的張姓企業家提供。 信眾不乏企業界名人 據了解，六十八歲張清羽原本在新北市修行，…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/society/paper/1777130",
+     "source": "自由時報",
+     "published": "2026-11-03T21:30:00+00:00"
+    },
+    {
+     "title": "防堵共諜 國軍「接密資格認證」上路",
+     "summary": "不分軍文職及階級 一律查核 〔記者方瑋立／台北報導〕中國近年加大對我國軍方滲透企圖，國防部昨送抵立法院的業務報告證實，為瞭解國軍涉密人員安全顧慮及風險，國防部已訂頒「國軍涉密人員安全調查作業規定」，建立國軍「接密資格認證」機制，不分軍、文職及階級，均須依接密等級區分完成查核，無危安疑慮者才能接觸國…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/politics/paper/1777141",
+     "source": "自由時報",
+     "published": "2026-11-03T21:30:00+00:00"
+    },
+    {
+     "title": "自由日日Shoot》拒動員輔選國民黨游淑貞 花縣衛生局長朱家祥遭拔官",
+     "summary": "〔記者花孟璟／花蓮報導〕九合一選戰倒數廿四天，花蓮縣衛生局長朱家祥前晚自爆選前遭拔官、調職參議，因為縣府秘書長要求他動員一百人去支持國民黨縣長候選人游淑貞，他當面拒絕，縣長徐榛蔚當天就將他調職縣府參議。朱決定辭職回任小兒科醫師，坦言「相信所有縣府的局處首長都跟我一樣，在政治、專業間糾葛」。 朱嘆縣…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/politics/paper/1777077",
+     "source": "自由時報",
+     "published": "2026-11-03T21:30:00+00:00"
+    },
+    {
+     "title": "AMD stock jumps 7% on earnings as data center revenue nearly doubles",
+     "summary": "AMD reported better-than-expected third-quarter results, driven by booming sales of AI chips",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-03T21:20:14+00:00"
+    },
+    {
+     "title": "Netanyahu’s eight-seat problem",
+     "summary": "Netanyahu’s Likud-led bloc won the most seats in the general election, but forming a government is another battle",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/netanyahus-eight-seat-problem?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-03T21:19:13+00:00"
+    },
+    {
+     "title": "S&P 500 snaps 3-day skid on Election Day as chip stocks rebound",
      "summary": "The Nasdaq Composite rose on Tuesday as investors moved back into key technology stocks after recent pressure and geared up for U.S. midterm election results.",
      "image": "",
      "url": "https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html",
      "source": "CNBC Top News",
-     "published": "2026-11-03T19:53:31+00:00"
+     "published": "2026-11-03T21:15:40+00:00"
     },
     {
-     "title": "CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue",
-     "summary": "CrowdStrike launched an AI kill switch that the company says can stop internal agents, block relaunches and cut enterprise network access.",
+     "title": "Palestinian families return home after Israeli siege of Hebron",
+     "summary": "",
      "image": "",
-     "url": "https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-03T19:35:24+00:00"
-    },
-    {
-     "title": "Michigan US Senate race: Rogers, El-Sayed urge turnout for critical race",
-     "summary": "Abdul El-Sayed hopes to become the first Muslim US senator as Michigan's Senate race reaches its critical final hours.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/3/michigan-us-senate-race-rogers-el-sayed-urge-turnout-for-critical-race?traffic_source=rss",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-families-return-home-after-israeli-siege-of-hebron?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-03T19:13:49+00:00"
+     "published": "2026-11-03T21:15:17+00:00"
     },
     {
-     "title": "Severe weather disrupts election day across several US states",
-     "summary": "Flash floods, torrential rain and tornadoes have disrupted midterm election day in several US states.",
+     "title": "US astronauts vote from space in 2026 midterm elections",
+     "summary": "NASA astronaut Anil Menon demonstrated on social media how he cast his ballot for Harris County in Texas, from space.",
      "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_severe-weather-disrupts-election-day-across-us-031126?traffic_source=rss",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_us-astronauts-vote-from-space-in-2026-elections-031126?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-03T19:13:19+00:00"
+     "published": "2026-11-03T21:03:24+00:00"
     },
     {
-     "title": "美國選民投票之際　川普稱將停止對以色列40億美元援助",
-     "summary": "美國總統川普今天表示，他已與以色列總理尼坦雅胡達成協議，華府將在今年底結束後停止向以色列提供40億美元的資金援助，但仍會向這個最親密的中東盟友出售武器。 路透社報導，美國期中選舉登場，在選...…",
+     "title": "Kyiv protest raises suspicions of possible Russian orchestration",
+     "summary": "Ukraine is investigating clashes between protesters and authorities at a military dormitory near Kyiv.",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5628506",
-     "source": "自由時報",
-     "published": "2026-11-03T19:12:03+00:00"
-    },
-    {
-     "title": "Yemen gov’t accuses IRGC, Hezbollah of sending 21 experts to back Houthis",
-     "summary": "Yemeni interior minister says foreign involvement expanded beyond arms and training to directing military operations.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/3/yemen-govt-accuses-irgc-hezbollah-of-sending-21-experts-to-back-houthis?traffic_source=rss",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/kyiv-protest-raises-suspicions-of-possible-russian-orchestration?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-03T19:09:09+00:00"
-    },
-    {
-     "title": "Hackers behind $6.3bn Binance heist ‘used malware and bogus job interviews’",
-     "summary": "Firm reveals details about how its cryptocurrency exchange was compromised, saying operation began in June The hackers behind the $6.3bn (£4.7bn) Binance heist used bogus job interviews, malicious sof…",
-     "image": "https://i.guim.co.uk/img/media/f67cc40e017c9be99ab108202d9308c5bb1694fb/356_0_3333_2666/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=487438a07d6c27b83b2345b8ed2b3fd0",
-     "url": "https://www.theguardian.com/business/2026/nov/03/hackers-63bn-binance-heist-malware-bogus-job-interviews-cryptocurrency",
-     "source": "Guardian Business",
-     "published": "2026-11-03T19:00:23+00:00"
-    },
-    {
-     "title": "紐約州韋斯切斯特郡投票機故障　選務人員緊急處置",
-     "summary": "美國期中選舉登場，紐約州第17選區韋斯切斯特郡傳出投票機故障，無法讀取紙本選票，不過選務人員已緊急處理且持續計票中。計票結果將協助決定整個選區的聯邦眾議院席次歸屬。 法新社報導，韋斯切斯特...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5628503",
-     "source": "自由時報",
-     "published": "2026-11-03T19:00:04+00:00"
-    },
-    {
-     "title": "《TAIPEI TIMES》Smart glasses cheating to be punishable by admissions ban",
-     "summary": "By Fion Khan / Staff writer, with CNA University applicants caught cheating with electronic devic...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5628419",
-     "source": "自由時報",
-     "published": "2026-11-03T19:00:00+00:00"
-    },
-    {
-     "title": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
-     "summary": "Binance has replenished 98% of $6.34 billion in affected assets, according to a security report the crypto exchange issued Tuesday.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-03T18:40:37+00:00"
+     "published": "2026-11-03T20:54:44+00:00"
     },
     {
      "title": "Seven flights across Europe targeted by suspected bomb threats",
@@ -114,29 +114,37 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db91/live/79069d70-d79d-11f1-84dd-e55f4bec0ecd.png",
      "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-11-03T17:56:03+00:00"
+     "published": "2026-11-03T20:42:47+00:00"
     },
     {
-     "title": "When caring for aging family members becomes cost prohibitive",
-     "summary": "AARP reports family caregivers are spending 60% more than they were five years ago. Journalist Paula Span discusses the rising costs of caregiving and senior living, and the options available to us.",
-     "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6026479",
-     "url": "https://www.npr.org/2026/11/03/nx-s1-6026479/when-caring-for-aging-family-members-becomes-cost-prohibitive",
-     "source": "NPR News",
-     "published": "2026-11-03T17:09:56+00:00"
+     "title": "Two Australians confirmed dead in Spain’s high-speed train crash",
+     "summary": "Legal body handling identification says three latest victims include two Australians and a Japanese citizen Get our breaking news email , free app or daily news podcast Two Australians are among 69 pe…",
+     "image": "https://i.guim.co.uk/img/media/3a53091f68fd61e0d54bc255ed8c1604aa2b87be/424_0_4240_3392/master/4240.jpg?width=140&quality=85&auto=format&fit=max&s=af7032ac075652a49749f3fb52998e3c",
+     "url": "https://www.theguardian.com/world/2026/nov/04/two-australians-dead-in-spain-high-speed-train-crash-ntwnfb",
+     "source": "Guardian World",
+     "published": "2026-11-03T20:21:14+00:00"
     },
     {
-     "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-     "summary": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/617d/live/6d097ab0-d7bb-11f1-8a3d-5320e3fab176.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-03T16:57:41+00:00"
+     "title": "Apple warns of risks related to AI agents behaving in 'unintended or unpredictable' ways",
+     "summary": "Apple’s annual filing warns that AI agents could exceed permissions, resist instructions or take actions that are difficult to reverse.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/03/apple-warns-of-ai-agents-behave-in-unintended-or-unpredictable-ways.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-03T20:10:41+00:00"
     }
    ]
   },
   "ai": {
    "label": "AI",
    "items": [
+    {
+     "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+     "summary": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Russia-Borodinsky-coal-mine-500x500.jpg",
+     "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+     "source": "Ars Technica",
+     "published": "2026-11-03T20:39:55+00:00"
+    },
     {
      "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
      "summary": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content.",
@@ -163,7 +171,7 @@
     },
     {
      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-     "summary": "Article URL: https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/ Comments URL: https://news.ycombinator.com/item?id=50355251 Points: 272 # Comments: 79",
+     "summary": "Article URL: https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/ Comments URL: https://news.ycombinator.com/item?id=50355251 Points: 369 # Comments: 122",
      "image": "",
      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
      "source": "Hacker News Front Page",
@@ -171,27 +179,19 @@
     },
     {
      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-     "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 641 # Comments: 204",
+     "summary": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 798 # Comments: 263",
      "image": "",
      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
      "source": "Hacker News Front Page",
      "published": "2026-11-03T17:22:37+00:00"
     },
     {
-     "title": "Another child dies of measles as CDC reportedly holds up health alert",
-     "summary": "NY gov. pointed to Kennedy's long-standing anti-vaccine work as spurring outbreaks.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2053751760-500x500.jpg",
-     "url": "https://arstechnica.com/health/2026/11/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert/",
-     "source": "Ars Technica",
-     "published": "2026-11-03T17:21:29+00:00"
-    },
-    {
-     "title": "Study estimates 75% of NFL players who died over 15-year span had CTE",
-     "summary": "Article URL: https://www.nbcnews.com/health/health-news/study-estimates-75-nfl-players-died-15-year-span-may-cte-rcna605975 Comments URL: https://news.ycombinator.com/item?id=50353335 Points: 195 # Co…",
+     "title": "Stringman, an $800 open-source room scale gripper robot",
+     "summary": "Article URL: https://neufangled.com/ Comments URL: https://news.ycombinator.com/item?id=50354358 Points: 196 # Comments: 91",
      "image": "",
-     "url": "https://www.nbcnews.com/health/health-news/study-estimates-75-nfl-players-died-15-year-span-may-cte-rcna605975",
+     "url": "https://neufangled.com/",
      "source": "Hacker News Front Page",
-     "published": "2026-11-03T15:38:04+00:00"
+     "published": "2026-11-03T16:47:29+00:00"
     },
     {
      "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
@@ -273,18 +273,42 @@
     {
      "title": "Barcelona v Aston Villa: Champions League – live",
      "summary": "⚽️ Champions League updates from the 8pm GMT kick-off ⚽️ Manchester United v Roma – follow it live ⚽️ Live scores | League phase standings | And email Luke Steven Gerrard and Ally McCoist are on co-co…",
-     "image": "https://i.guim.co.uk/img/media/87e10d33b74893195a6aced88a734e16d2dac1f2/931_652_3935_3149/master/3935.jpg?width=140&quality=85&auto=format&fit=max&s=21cd8569e589739796eff537dda9b63a",
+     "image": "https://i.guim.co.uk/img/media/c522201a189f4dd77f7bc58017d59f9493c6d114/407_59_3264_2611/master/3264.jpg?width=140&quality=85&auto=format&fit=max&s=75c35d6c55ebcd4a681faa7cd1af2b9c",
      "url": "https://www.theguardian.com/football/live/2026/nov/03/barcelona-v-aston-villa-champions-league-live",
      "source": "Guardian Sport",
-     "published": "2026-11-03T19:57:49+00:00"
+     "published": "2026-11-03T21:43:59+00:00"
     },
     {
      "title": "Manchester United v Roma: Champions League – live",
      "summary": "⚽️ Champions League updates from the 8pm GMT kick-off ⚽️ Barcelona v Aston Villa – follow it live ⚽️ Live scores | League phase standings | And email Will Gorton-born Butt on TV and another one on the…",
-     "image": "https://i.guim.co.uk/img/media/e64eb9ef9ade6ff4f77f92122a55d5f4a1080e3f/1109_0_5546_4437/master/5546.jpg?width=140&quality=85&auto=format&fit=max&s=40f747647ad174cec9118bea5ecc2dba",
+     "image": "https://i.guim.co.uk/img/media/fb8c48ba601222d997caa974ab5a5257172a29b3/297_132_2544_2035/master/2544.jpg?width=140&quality=85&auto=format&fit=max&s=8c91d9b7ee7693e32a6e75213852ac87",
      "url": "https://www.theguardian.com/football/live/2026/nov/03/manchester-united-v-roma-champions-league-live",
      "source": "Guardian Sport",
-     "published": "2026-11-03T19:56:29+00:00"
+     "published": "2026-11-03T21:43:17+00:00"
+    },
+    {
+     "title": "Dumont family takes controlling ownership of Mavericks after purchasing shares from Miriam Adelson",
+     "summary": "Mark Cuban is still a minority owner of the Mavericks, and holds a roughly 27% share in the team.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/article/dumont-family-takes-controlling-ownership-of-mavericks-after-purchasing-shares-from-miriam-adelson-214154371.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-03T21:41:54+00:00"
+    },
+    {
+     "title": "Fun, flowing, not yet flawless: Lakers' league-best offense still has room to improve",
+     "summary": "The Lakers lead the league in scoring and its starting lineup has the best rating of any five-player group, but the chemistry is still developing.",
+     "image": "https://media.zenfs.com/en/la_times_articles_853/b8cf7c6d47c3d0144bf669cf01ecd4f9.jpg",
+     "url": "https://sports.yahoo.com/articles/fun-flowing-not-yet-flawless-210416555.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-03T21:04:16+00:00"
+    },
+    {
+     "title": "Seven players have 2027-28 rookie contract options declined",
+     "summary": "Another three players were outright waived by teams, while 19 had their options picked up.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/seven-players-2027-28-rookie-204826915.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-03T20:48:26+00:00"
     },
     {
      "title": "Former Arizona wing Dalen Terry signs with Thunder",
@@ -293,30 +317,6 @@
      "url": "https://sports.yahoo.com/articles/former-arizona-wing-dalen-terry-194228927.html",
      "source": "Yahoo Sports NBA",
      "published": "2026-11-03T19:42:28+00:00"
-    },
-    {
-     "title": "Warriors keep winning, examining the new-look Mavs + saluting the Valkyries & Dream",
-     "summary": "Nekias Duncan & Steve Jones react to the biggest NBA performances from the weekend and recap the WNBA Finals.",
-     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/tds-cooper-thumb_7411.png",
-     "url": "https://sports.yahoo.com/nba/article/warriors-keep-winning-examining-the-new-look-mavs--saluting-the-valkyries--dream-180659530.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-03T18:06:59+00:00"
-    },
-    {
-     "title": "Phoenix is falling behind, and there’s no room for another slow start",
-     "summary": "A familiar record has brought a different reality, with higher expectations and no draft pick to fall back on.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/5d9f102b3bf28cd4bc817a53f082fdde.jpg",
-     "url": "https://sports.yahoo.com/articles/phoenix-falling-behind-no-room-180000700.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-03T18:00:00+00:00"
-    },
-    {
-     "title": "Adou Thiero ‘trending in the right direction,’ could return from knee injury by end of week",
-     "summary": "Thiero is yet to play this regular season as he deals with swelling in his left knee",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/53fda5fdbd49b863c1274aa2e214c611.jpg",
-     "url": "https://sports.yahoo.com/articles/adou-thiero-trending-direction-could-175519729.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-03T17:55:19+00:00"
     },
     {
      "title": "Ty Jerome is on a Linsanity-esque run, but here's why his MVP-level scoring isn't that big of a surprise",
