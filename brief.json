@@ -1,24 +1,112 @@
 {
- "generated": "2026-11-05T20:42:41.278760+00:00",
+ "generated": "2026-11-05T22:06:27.025117+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "Dow tumbles 1,800 points, erasing its postelection rally; Nasdaq plummets 5%: Live updates",
+     "title": "Nasdaq drops into correction territory — here’s what typically happens next",
+     "summary": "Nasdaq’s slide into correction territory puts its history of recoveries in focus. Here's what history shows.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-05T21:57:33+00:00"
+    },
+    {
+     "title": "美股收盤》血洗科技股！道瓊狂跌1833點 台積電ADR重挫逾10％",
+     "summary": "民主黨贏得美國國會控制權，市場憂心AI建設監管將更加嚴格，資料中心建設放緩，科技股跌幅擴大。週四道瓊工業指數下跌1833.06點、3.44%，那斯達克指數下跌5.52%，較上月創...…",
+     "image": "",
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5631141",
+     "source": "自由時報",
+     "published": "2026-11-05T21:56:51+00:00"
+    },
+    {
+     "title": "立冬「下午5點」接財水！命理師點名「4星座4生肖」注意健康",
+     "summary": "〔娛樂頻道／綜合報導〕11/7本週六將迎來24節氣中的立冬，塔羅暨趨勢專家小孟老師提醒，今年立冬交節氣落在下午5點，這個時間點其實也是轉運、接財水的大好機會！ 民眾除了要留意季節轉換的6大生...…",
+     "image": "",
+     "url": "https://ent.ltn.com.tw/news/breakingnews/5631082",
+     "source": "自由時報",
+     "published": "2026-11-05T21:55:00+00:00"
+    },
+    {
+     "title": "【時尚大道】全球4大頂級車迷狂熱收藏揭秘",
+     "summary": "對真正的汽車收藏家來說，自家車庫可能就是一座移動博物館，綜觀全球4位頂尖愛車人士的收藏，喜好也截然不同，這些藏品不只是財富的象徵，更保存了賽車、設計與汽車工業發展的歷史典藏。…",
+     "image": "",
+     "url": "https://auto.ltn.com.tw/news/33350",
+     "source": "自由時報",
+     "published": "2026-11-05T21:46:00+00:00"
+    },
+    {
+     "title": "遠東SOGO週年慶首日買氣狂飆 首個週末搶購潮勢不可擋 美食齊聚親子家庭一站玩樂",
+     "summary": "遠東SOGO百貨台北店39週年慶昨（5）日正式開跑，董事長黃晴雯對今年買氣深具信心，宣布全台7家分店今年的週年慶業績總目標上看130億元，做為領頭羊的台北店首日業績便挑戰12.5億元，換算下來平均每小時得創造超過1.1億元的驚人營收。…",
+     "image": "",
+     "url": "https://istyle.ltn.com.tw/article/41542",
+     "source": "自由時報",
+     "published": "2026-11-05T21:45:00+00:00"
+    },
+    {
+     "title": "Spanish footballer Jesus de Miguel mourned by family and friends",
+     "summary": "The 30-year-old striker suffered cardiac arrest following an on-field collision.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/spanish-footballer-jesus-de-miguel-mourned-by-family-and-friends?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-05T21:42:30+00:00"
+    },
+    {
+     "title": "Israeli demolitions displace more than 100 Palestinians in Biddu",
+     "summary": "Israeli forces demolished five homes in Biddu, occupied West Bank, displacing more than 100 people.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/aje-onl-nf_israeli-demolitions-displace-palestinians-in-biddu-051126?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-05T21:33:40+00:00"
+    },
+    {
+     "title": "The October jobs report is out Friday. Here's everything to expect",
+     "summary": "The Bureau of Labor Statistics releases the October nonfarm payrolls report Friday at 8:30 a.m. ET.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-05T21:32:52+00:00"
+    },
+    {
+     "title": "Hoax bomb threats force emergency landings, evacuations across Europe",
+     "summary": "Bomb threats are causing travel disruptions at airports across Europe, targeting at least 27 flights.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hoax-bomb-threats-force-emergency-landings-evacuations-across-europe?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-05T21:26:21+00:00"
+    },
+    {
+     "title": "California governor commutes sentences for state's 548 death row inmates",
+     "summary": "California has historically had the largest population of people on death row in the US.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e11/live/430c9930-d956-11f1-b7f4-8bd3c0617693.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-05T21:25:48+00:00"
+    },
+    {
+     "title": "Nasdaq sees worst day in 18 months as investors bet on AI slowdown after Democrats’ election triumph",
+     "summary": "Nearly $2tn shaved off Nasdaq value as worries of curbs to AI datacenters ripple across bourses The Nasdaq share index had its worst day in 18 months after slumping 5.5% on Thursday amid growing signs…",
+     "image": "https://i.guim.co.uk/img/media/3a568c8ddd6dd680b69418b3c568815a7cbbea29/261_0_3478_2784/master/3478.jpg?width=140&quality=85&auto=format&fit=max&s=06500e89cb38f5ecdd58baa634d2acb4",
+     "url": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses",
+     "source": "Guardian Business",
+     "published": "2026-11-05T21:23:18+00:00"
+    },
+    {
+     "title": "Dow drops 1,800 points; Nasdaq tumbles into correction territory on AI tech wreck: Live updates",
      "summary": "Investors continued to rotate away from technology stocks and into more defensive areas of the market.",
      "image": "",
      "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
      "source": "CNBC Top News",
-     "published": "2026-11-05T20:37:09+00:00"
+     "published": "2026-11-05T21:18:42+00:00"
     },
     {
-     "title": "California governor commutes death sentences for all 548 people on death row",
-     "summary": "California has historically had the largest population of death row inmates in the US.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e11/live/430c9930-d956-11f1-b7f4-8bd3c0617693.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-05T20:28:38+00:00"
+     "title": "Saudi coalition intercepts missile fired towards Medina",
+     "summary": "Interception comes after Saudi civil defence agency warned of potential danger near the strategic port of Yanbu.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-05T20:48:47+00:00"
     },
     {
      "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
@@ -29,38 +117,6 @@
      "published": "2026-11-05T20:17:16+00:00"
     },
     {
-     "title": "Mass protests in France driven by nationwide strike action",
-     "summary": "More than 250,000 people took to the streets across France on Thursday as five unions called a day of strike action.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-05T20:11:37+00:00"
-    },
-    {
-     "title": "AI meltdown: Chip stocks and neoclouds plunge, pushing Nasdaq to worst day since April 2025",
-     "summary": "Companies tied to the AI buildout are all selling off as concerns mount about a slowdown following the midterm elections.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-05T20:08:49+00:00"
-    },
-    {
-     "title": "The blame game: How the US midterm shock is shaping Israel’s race for PM",
-     "summary": "The Republican midterm rout is helping shape who leads Israel next, as Netanyahu’s US ties turn toxic.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/5/the-blame-game-how-the-us-midterm-shock-is-shaping-israels-race-for-pm?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-05T20:07:04+00:00"
-    },
-    {
-     "title": "巴紐警方證實查扣砲彈　中國使館稱只是造型酒瓶遭打臉",
-     "summary": "巴布亞紐幾內亞近日查獲中製砲彈，並拘捕涉案中國人，但中國使館聲稱只是「砲彈造型的酒瓶」，巴紐警察首長今天表示，當局已證實警方在首都莫士比港查扣的是一枚130公厘砲彈。 法新社報導，巴紐警方...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5631135",
-     "source": "自由時報",
-     "published": "2026-11-05T20:00:03+00:00"
-    },
-    {
      "title": "Who could be behind hoax bomb threats to European air travel?",
      "summary": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feab/live/224ee450-d951-11f1-b441-2b33b063138f.jpg",
@@ -69,74 +125,34 @@
      "published": "2026-11-05T19:58:40+00:00"
     },
     {
-     "title": "Top US civil rights official resigns",
-     "summary": "New Democratic Congress expected to probe Trump Justice Department office's handling of Epstein files and ICE killings.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/5/top-us-civil-rights-official-resigns?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-05T19:48:00+00:00"
-    },
-    {
-     "title": "假炸彈威脅再襲歐洲多地　至少27架航班受干擾",
-     "summary": "歐洲今天再度出現假炸彈威脅，至少27架客機航班受到干擾，部分飛機被迫臨時降落，並引發戰鬥機緊急升空護航或攔截，這是本週發生的第2波類似事件。 路透社報導，儘管目前尚無國家為這些威脅出面認責...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5631133",
-     "source": "自由時報",
-     "published": "2026-11-05T19:36:04+00:00"
-    },
-    {
-     "title": "Melania Trump calls for peace at meeting with Russia, Ukraine officials",
-     "summary": "US first lady hosts Russian, Ukrainian officials at the White House, urges two sides to build on recent local truce.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/5/melania-trump-calls-for-peace-at-meeting-with-russia-ukraine-officials?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-05T19:31:28+00:00"
-    },
-    {
-     "title": "Wall Street's fear gauge surges the most since April. Why traders think it should be even higher",
-     "summary": "From its intraday low to high Thursday, VIX moved more than 11 points, the biggest one-day move since April 9.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/05/wall-streets-fear-gauge-surges-the-most-since-april-why-traders-think-it-should-be-even-higher.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-05T19:20:21+00:00"
-    },
-    {
-     "title": "巴拉圭總統潘尼亞捲銀行風暴請辭　副總統阿里亞納接任",
-     "summary": "台灣友邦巴拉圭的總統潘尼亞今天宣布請辭，由副總統阿里亞納接替領導國家。近日一家與潘尼亞有關的銀行遭接管，導致數百萬人無法提領存款，引發該國金融與政治危機。 法新社報導，巴拉圭中央銀行3日以...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5631130",
-     "source": "自由時報",
-     "published": "2026-11-05T19:00:04+00:00"
-    },
-    {
-     "title": "《TAIPEI TIMES》Weekday travel program approved until year-end",
-     "summary": "INCONSEQUENTIAL:There is a negligible price difference between paying full price on hotels’ Web site...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5631004",
-     "source": "自由時報",
-     "published": "2026-11-05T19:00:00+00:00"
-    },
-    {
      "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
      "summary": "Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse Paraguay’s rightwing president, Santiago Peña, resigned on Thursday after a political…",
      "image": "https://i.guim.co.uk/img/media/a77eebbaa9a34c6ba08a7521d0b9d7e55650da11/1666_5_3949_3159/master/3949.jpg?width=140&quality=85&auto=format&fit=max&s=e82620f109a326e6d5b5cff3740166e3",
      "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
      "source": "Guardian World",
      "published": "2026-11-05T18:48:07+00:00"
-    },
-    {
-     "title": "US tech shares fall sharply as investors bet on AI slowdown after Democrats’ election triumph",
-     "summary": "Nasdaq heading for its worst day in 18 months in volatile trading on Wall Street The Nasdaq share index was on track for its worst day in 18 months after slumping by up to 5% on Thursday amid growing…",
-     "image": "https://i.guim.co.uk/img/media/3a568c8ddd6dd680b69418b3c568815a7cbbea29/261_0_3478_2784/master/3478.jpg?width=140&quality=85&auto=format&fit=max&s=06500e89cb38f5ecdd58baa634d2acb4",
-     "url": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses",
-     "source": "Guardian Business",
-     "published": "2026-11-05T18:44:25+00:00"
     }
    ]
   },
   "ai": {
    "label": "AI",
    "items": [
+    {
+     "title": "Kagi Search for Everyone",
+     "summary": "Article URL: https://kagi.com/changelog Comments URL: https://news.ycombinator.com/item?id=50383740 Points: 163 # Comments: 86",
+     "image": "",
+     "url": "https://kagi.com/changelog",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-05T20:03:34+00:00"
+    },
+    {
+     "title": "Goodbye from Salon",
+     "summary": "Article URL: https://www.salon.com/2026/11/05/goodbye-from-salon/ Comments URL: https://news.ycombinator.com/item?id=50383739 Points: 233 # Comments: 76",
+     "image": "",
+     "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-05T20:03:29+00:00"
+    },
     {
      "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
      "summary": "Software optimizes a physical model of the telescope to reduce noise.",
@@ -170,28 +186,20 @@
      "published": "2026-11-05T17:40:27+00:00"
     },
     {
+     "title": "Window Sweaters",
+     "summary": "Article URL: https://github.com/saragordic/window-sweaters Comments URL: https://news.ycombinator.com/item?id=50381383 Points: 173 # Comments: 65",
+     "image": "",
+     "url": "https://github.com/saragordic/window-sweaters",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-05T16:50:14+00:00"
+    },
+    {
      "title": "Motorola Signature 27 with GrapheneOS support",
-     "summary": "Article URL: https://motorolanews.com/motorola-signature-27-2/ Comments URL: https://news.ycombinator.com/item?id=50380810 Points: 278 # Comments: 185",
+     "summary": "Article URL: https://motorolanews.com/motorola-signature-27-2/ Comments URL: https://news.ycombinator.com/item?id=50380810 Points: 329 # Comments: 224",
      "image": "",
      "url": "https://motorolanews.com/motorola-signature-27-2/",
      "source": "Hacker News Front Page",
      "published": "2026-11-05T16:01:34+00:00"
-    },
-    {
-     "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-     "summary": "Article URL: https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/ Comments URL: https://news.ycombinator.com/item?id=50379704 Points: 452 # Comments: 81",
-     "image": "",
-     "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-05T14:44:20+00:00"
-    },
-    {
-     "title": "MCP Explained",
-     "summary": "Article URL: https://mcp-explained.com/ Comments URL: https://news.ycombinator.com/item?id=50379249 Points: 188 # Comments: 100",
-     "image": "",
-     "url": "https://mcp-explained.com/",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-05T14:08:35+00:00"
     },
     {
      "title": "可見光加紅外線雙視角，兩大太空望遠鏡看穿神祕「貓頭星雲」",
@@ -200,14 +208,6 @@
      "url": "https://technews.tw/2026/11/05/cats-head-nebula/",
      "source": "科技新報 TechNews",
      "published": "2026-11-05T13:44:37+00:00"
-    },
-    {
-     "title": "I wish tech companies knew more about me",
-     "summary": "Article URL: https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me Comments URL: https://news.ycombinator.com/item?id=50378942 Points: 191 # Comments: 179",
-     "image": "",
-     "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-05T13:40:52+00:00"
     },
     {
      "title": "8 吋晶圓掀漲價潮！TrendForce：明年全球晶圓代工產值有望再衝三成",
@@ -271,6 +271,46 @@
    "label": "運動",
    "items": [
     {
+     "title": "2026 NBA betting promos: Get over $3,000 in bonuses from top online betting apps, sportsbooks for November 5",
+     "summary": "Top NBA betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+     "image": "https://sportshub.cbsistatic.com/i/2026/04/17/0c32b6a0-930f-4538-bff4-44d8d75450ca/stephen-curry-warriors.jpg",
+     "url": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-get-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-november-5/",
+     "source": "CBS Sports NBA",
+     "published": "2026-11-05T21:39:05+00:00"
+    },
+    {
+     "title": "Bronny James faces uncertain NBA future after Lakers assign him to G League",
+     "summary": "James has totaled just 12 minutes across five appearances in his third NBA season",
+     "image": "https://sportshub.cbsistatic.com/i/2026/11/05/a9c0bc28-0621-4110-b1f2-ab399897c171/bronny-j-getty.png",
+     "url": "https://www.cbssports.com/nba/news/bronny-james-lakers-g-league-uncertain-nba-future/",
+     "source": "CBS Sports NBA",
+     "published": "2026-11-05T21:25:59+00:00"
+    },
+    {
+     "title": "Antonelli says 2027 preparation starts now",
+     "summary": "New world champion Kimi Antonelli says he is treating the final races of the season as the beginnings of his campaign to retain the title next year.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f013/live/16615b50-d956-11f1-b7f4-8bd3c0617693.jpg",
+     "url": "https://www.bbc.co.uk/sport/formula1/articles/cx0544g2n1jdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-05T21:19:56+00:00"
+    },
+    {
+     "title": "Bronny James headed to G League after dismal start to Lakers season",
+     "summary": "The Lakers assigned Bronny James to their G League affiliate after he saw limited NBA playing time early this season. Here's what to know.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/bronny-james-headed-g-league-210620198.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-05T21:06:20+00:00"
+    },
+    {
+     "title": "Lewis Hamilton refuses to back down over criticism of teammate Leclerc",
+     "summary": "Ferrari teammates clashed at Mexico Grand Prix Hamilton: ‘I’ve worked hard to build a relationship with Charles’ Lewis Hamilton has refused to back down over his criticism of his Ferrari teammate Char…",
+     "image": "https://i.guim.co.uk/img/media/81f7d8ef86475a4320ffec3ae3d46c1a3bda1ae6/657_0_6573_5258/master/6573.jpg?width=140&quality=85&auto=format&fit=max&s=21478ad76f76b61c5ee36fe5a8b99567",
+     "url": "https://www.theguardian.com/sport/2026/nov/05/lewis-hamilton-refuses-to-back-down-over-criticism-of-teammate-leclerc",
+     "source": "Guardian Sport",
+     "published": "2026-11-05T20:38:12+00:00"
+    },
+    {
      "title": "Today's top games to watch, best bets, odds: Jaguars vs. Ravens NFL Week 9 TNF, Heat vs. Warriors, more",
      "summary": "Find best bets and props for the biggest games in sports on Thursday from the SportsLine Projection Model and top CBS Sports experts",
      "image": "https://sportshub.cbsistatic.com/i/2026/01/07/d86cdbb1-ed48-470e-b749-31172a9aa748/trevor-lawrence.jpg",
@@ -279,12 +319,12 @@
      "published": "2026-11-05T20:30:51+00:00"
     },
     {
-     "title": "Russell to have 'deep, deep look in mirror'",
-     "summary": "Mercedes' George Russell speaks about his season after team-mate Kimi Antonelli won the championship",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d596/live/aca0e540-d951-11f1-b2ee-87d22b17ac74.jpg",
-     "url": "https://www.bbc.co.uk/sport/formula1/articles/cr3wvvpxnx1wo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-05T19:55:51+00:00"
+     "title": "Boston Celtics Daily Links 11/5/26",
+     "summary": "All the Celtics news you need in one convenient place.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/67c75e21615840efd6dce5ccc1e5d1b0.jpg",
+     "url": "https://sports.yahoo.com/articles/boston-celtics-daily-links-11-194749977.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-05T19:47:49+00:00"
     },
     {
      "title": "LeBron James' lawyers send cease and desist to AI sports-betting app that used his name and likeness",
@@ -293,14 +333,6 @@
      "url": "https://sports.yahoo.com/nba/article/lebron-james-lawyers-send-cease-and-desist-to-ai-sports-betting-app-that-used-his-name-and-likeness-194016252.html",
      "source": "Yahoo Sports NBA",
      "published": "2026-11-05T19:40:16+00:00"
-    },
-    {
-     "title": "Golden State Valkyries celebrate historic WNBA championship with Bay Area parade – in pictures",
-     "summary": "Four days after clinching their first WNBA title in only their second season, the Golden State Valkyries celebrated their historic triumph with a parade through San Francisco and Oakland Williams lift…",
-     "image": "https://i.guim.co.uk/img/media/ea10c621ac7bb44532406027be285e8d7a60080f/465_0_4628_3705/master/4628.jpg?width=140&quality=85&auto=format&fit=max&s=4236e3693d4bab6839d5e3cb532e6f1b",
-     "url": "https://www.theguardian.com/sport/gallery/2026/nov/05/golden-state-valkyries-wnba-championship-parade-san-francisco-oakland-pictures",
-     "source": "Guardian Sport",
-     "published": "2026-11-05T19:36:57+00:00"
     },
     {
      "title": "DP World Tour ready to extend olive branch to rebels including DeChambeau after LIV Golf collapse",
@@ -341,38 +373,6 @@
      "url": "https://www.bbc.co.uk/sport/tennis/articles/cmq8nn2q01wdo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-11-05T18:38:24+00:00"
-    },
-    {
-     "title": "Did Miami finally start to find its defensive identity?",
-     "summary": "It was just one half against a struggling Clippers team, but Erik Spoelstra thinks they started to.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/did-miami-finally-start-defensive-181018089.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-05T18:10:18+00:00"
-    },
-    {
-     "title": "Has Danny Wolf’s breakout game unlocked frontcourt potential?",
-     "summary": "After cracking Jordi Fernández’s rotation, Wolf proved how he can unlock Brooklyn’s identity.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/6aca5ccb7a9651e2fa23bffa9f21ea5c.jpg",
-     "url": "https://sports.yahoo.com/articles/danny-wolf-breakout-game-unlocked-180944343.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-05T18:09:44+00:00"
-    },
-    {
-     "title": "Darius Acuff Jr. isn't a perfect rookie, but he may be just what the Kings need right now",
-     "summary": "Acuff is being asked to do more than any rookie in his class and so far, it's largely working as expected",
-     "image": "https://sportshub.cbsistatic.com/i/2026/11/05/901994c0-7a6a-47d5-b3a2-c0521edd2efe/acuff-getty.png",
-     "url": "https://www.cbssports.com/nba/news/darius-acuff-jr-kings-perfect-rookie-offense/",
-     "source": "CBS Sports NBA",
-     "published": "2026-11-05T16:56:20+00:00"
-    },
-    {
-     "title": "Victor Wembanyama after historic 52-point, 24-rebound night: 'It should be more like this, more often'",
-     "summary": "The Spurs star said he's finally getting his legs back after starting the season sick",
-     "image": "https://sportshub.cbsistatic.com/i/2026/11/05/7a319f33-8347-4ecb-9dd8-16fbe555beee/wemby.jpg",
-     "url": "https://www.cbssports.com/nba/news/victor-wembanyama-spurs-historic-night-more-like-this/",
-     "source": "CBS Sports NBA",
-     "published": "2026-11-05T15:58:18+00:00"
     },
     {
      "title": "What new Kane deal means for England and the Premier League record",
