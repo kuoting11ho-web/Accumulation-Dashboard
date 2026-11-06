@@ -1,40 +1,40 @@
 {
- "generated": "2026-11-06T17:33:35.099116+00:00",
+ "generated": "2026-11-06T19:58:57.697275+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
-     "summary": "Voters across the country on Tuesday voiced their support for candidates who have pledged to place restrictions on data center development.",
+     "title": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
+     "summary": "Trump revealed the shake-up three days after Democrats' landslide victory in the midterm elections, winning majority control of the House and Senate.",
      "image": "",
-     "url": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
+     "url": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
      "source": "CNBC Top News",
-     "published": "2026-11-06T17:24:48+00:00"
+     "published": "2026-11-06T19:58:28+00:00"
     },
     {
-     "title": "Further bomb threats disrupt at least another 18 flights across Europe",
-     "summary": "Media organisations in Ireland and UK also affected as apparently coordinated effort to cause chaos continues A fresh wave of bomb threats has disrupted air traffic across Europe but the affected plan…",
-     "image": "https://i.guim.co.uk/img/media/1f88c9a52100be8318eb3a96107a54f59d0a5606/205_0_4147_3317/master/4147.jpg?width=140&quality=85&auto=format&fit=max&s=019361f7d5bba2227ccd0b0797d26c42",
-     "url": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
-     "source": "Guardian Business",
-     "published": "2026-11-06T17:14:31+00:00"
-    },
-    {
-     "title": "US tech stocks recovering on Wall Street after worst day in 19 months – business live",
-     "summary": "European and Asia-Pacific markets slide after Wall Street rout, while latest US jobs report beats forecasts Could the AI bubble burst after Democrats’ midterms sweep? - The Latest Despite the sharp lo…",
-     "image": "https://i.guim.co.uk/img/media/0e4c788de335f06b675ebb989bef6fdeb25ba7e8/566_34_4958_3966/master/4958.jpg?width=140&quality=85&auto=format&fit=max&s=c40c707925631ae56fbc8262dbcce86c",
-     "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
-     "source": "Guardian Business",
-     "published": "2026-11-06T17:12:33+00:00"
-    },
-    {
-     "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
-     "summary": "Coreweave's steep yields reflect stress in the AI debt markets as investors worry about a data center slowdown. What comes next.",
+     "title": "Nasdaq attempts to recover from worst rout in 19 months as AI stocks see some buying: Live updates",
+     "summary": "A bout of hard selling battered the stock market Thursday, sending the three major averages to their worst session since April 2025.",
      "image": "",
-     "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+     "url": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html",
      "source": "CNBC Top News",
-     "published": "2026-11-06T17:09:53+00:00"
+     "published": "2026-11-06T19:54:20+00:00"
+    },
+    {
+     "title": "No one knows how many ballots are outstanding in Mississippi's Senate race",
+     "summary": "The razor-thin margin between GOP Sen. Cindy Hyde-Smith and Democrat Scott Colom is shining a light on an election process in Mississippi that is among the slowest and most decentralized in the U.S.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4981x3321+0+0/resize/4981x3321!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F37%2F99%2F2d61aae94ab9843e5fad2fe5274f%2Fgettyimages-2303247634.jpg",
+     "url": "https://www.npr.org/2026/11/06/nx-s1-6030645/mississippi-senate-results-provisional-ballots",
+     "source": "NPR News",
+     "published": "2026-11-06T19:50:14+00:00"
+    },
+    {
+     "title": "A disturbing employment trend is hiding beneath the latest strong job numbers",
+     "summary": "The average jobless worker's bout of unemployment surpassed 27 weeks in October, the highest outside of the pandemic period in a decade.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-06T19:49:09+00:00"
     },
     {
      "title": "AI stocks climb after trillions wiped from market values",
@@ -42,95 +42,95 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-11-06T17:03:02+00:00"
+     "published": "2026-11-06T19:37:10+00:00"
     },
     {
-     "title": "US prosecutor who led Trump-backed election probe exits Justice Department",
-     "summary": "Jason Reding Quinones' resignation comes as administration braces for Democrat-led investigations.",
+     "title": "Why is Britain refusing to pay slavery reparations?",
+     "summary": "Britain compensated slave owners, not the enslaved. Can an apology without reparations be enough?",
      "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/6/us-prosecutor-who-led-trump-backed-election-probe-exits-justice-department?traffic_source=rss",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/why-is-britain-refusing-to-pay-slavery-reparations?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-06T17:02:19+00:00"
+     "published": "2026-11-06T19:34:33+00:00"
     },
     {
-     "title": "Paraguay resumes Pena impeachment proceedings as financial crisis deepens",
-     "summary": "Political turmoil comes after a digital bank's failure has left half the population without access to their accounts.",
+     "title": "Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52",
+     "summary": "The Chilean film-maker, whose films starred Florence Pugh, Julianne Moore and Rachel Weisz, died at his home in Santiago Chilean film-maker Sebastián Lelio has died at the age of 52. He was best known…",
+     "image": "https://i.guim.co.uk/img/media/f6a6cae8f175168cacea46f4a86c8976eba48874/0_1_3771_3014/master/3771.jpg?width=140&quality=85&auto=format&fit=max&s=c6beebf168305ed73cd45df513ad0f52",
+     "url": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies",
+     "source": "Guardian World",
+     "published": "2026-11-06T19:23:24+00:00"
+    },
+    {
+     "title": "Could Trump’s veto stop the Democratic majority?",
+     "summary": "Democrats have won the House and Senate. AJLabs looks at the numbers and what their majority means for Trump.",
      "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/6/paraguay-resumes-pena-impeachment-proceedings-as-financial-crisis-deepens?traffic_source=rss",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/us-congress-flipped-061126?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-06T16:58:56+00:00"
+     "published": "2026-11-06T19:18:33+00:00"
     },
     {
-     "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
-     "summary": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/698e/live/fc50b650-d9fc-11f1-93e1-3b657b665bcf.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-06T16:51:01+00:00"
-    },
-    {
-     "title": "隨機攻擊台中放學學童 木棍男收押",
-     "summary": "台中市北屯區9歲國小男童4日放學時，遭47歲呂姓男子從背後持木棒攻擊，腰部受傷。台中地檢署昨天（6日）指揮偵辦，檢察官訊後當庭逮捕呂男，認定有串證及反覆犯案之虞，深夜向法院聲請...…",
+     "title": "Israel closes Hebron’s Ibrahimi Mosque to Palestinians for Jewish holiday",
+     "summary": "Contested West Bank holy site is reopened exclusively for Israelis, deepening tensions over control of the mosque.",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/society/breakingnews/5632301",
+     "url": "https://www.aljazeera.com/news/2026/11/6/israel-closes-hebrons-ibrahimi-mosque-to-palestinians-for-jewish-holiday?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-06T19:16:07+00:00"
+    },
+    {
+     "title": "Stephen Miller will replace Susie Wiles as Trump's chief of staff",
+     "summary": "The change comes after sweeping Republican losses in the midterm elections.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4845x3231+0+0/resize/4845x3231!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F10%2F40%2F1c511ae2416e9d70791a8143dfb6%2Fgettyimages-2301644366.jpg",
+     "url": "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff",
+     "source": "NPR News",
+     "published": "2026-11-06T19:13:52+00:00"
+    },
+    {
+     "title": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
+     "summary": "Pope Leo begins his first South American tour since lung cancer surgery. The 12-day journey takes him to Uruguay, Argentina and Peru, where he spent two decades.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7102x4734+0+0/resize/7102x4734!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbc%2F2d%2F036602604d04bdf7cf1bb565478f%2Fap26309594274044.jpg",
+     "url": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery",
+     "source": "NPR News",
+     "published": "2026-11-06T19:13:06+00:00"
+    },
+    {
+     "title": "Trump says making adviser Stephen Miller White House chief of staff",
+     "summary": "This is a breaking news story.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-06T19:08:31+00:00"
+    },
+    {
+     "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
+     "summary": "A healthcare intelligence-sharing organization is warning its members to lock down systems following cyberattacks on cold storage systems, including a French blood bank.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3333+0+0/resize/5000x3333!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc7%2Fb8%2Fb629bb2042d1afc6a8774ba0e682%2Fgettyimages-2286697424-1.jpg",
+     "url": "https://www.npr.org/2026/11/06/nx-s1-6032602/cyberattack-blood-bank-healthcare",
+     "source": "NPR News",
+     "published": "2026-11-06T19:00:21+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》 Taiwan to close its office in Papua New Guinea",
+     "summary": "RESTRICTING TAIWAN: Beijing is using coercion and economic incentives to force other countries to ac...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5632274",
      "source": "自由時報",
-     "published": "2026-11-06T16:43:49+00:00"
+     "published": "2026-11-06T19:00:00+00:00"
     },
     {
-     "title": "Taiwan to close representative office in Papua New Guinea, blames China",
-     "summary": "Amid the fallout, Taiwan says it will stop purchases of liquefied natural gas from Port Moresby.",
+     "title": "《TAIPEI TIMES》 Legislator May Chin indicted on security charges",
+     "summary": "/ Staff writer, with CNA Independent Legislator May Chin （高金素梅） and three others were indicted ye...…",
      "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/6/taiwan-to-close-representative-office-in-papua-new-guinea-blames-china?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T16:40:39+00:00"
-    },
-    {
-     "title": "Data center double-down: Hassett says blue wave won't stop AI build-out",
-     "summary": "Data centers are a crucial part of President Donald Trump's push to win the global artificial intelligence race, which he continues despite the midterm results.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/06/data-centers-ai-elections-hassett.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-06T16:34:01+00:00"
-    },
-    {
-     "title": "立冬12星座「命數轉折」大清算！誰能絕處逢生一飛衝天？",
-     "summary": "〔娛樂頻道／綜合報導〕立冬補喙空，股民心也空？！台股連兩日大崩盤，失守4萬點防線，每位股民平均慘虧113萬元，災情慘重！命理專家Amanda直言，星象正掀起前所未有的金錢恐慌與命運拉鋸，隨著天地...…",
-     "image": "",
-     "url": "https://ent.ltn.com.tw/news/breakingnews/5632297",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5632273",
      "source": "自由時報",
-     "published": "2026-11-06T16:33:00+00:00"
+     "published": "2026-11-06T19:00:00+00:00"
     },
     {
-     "title": "UK dairy farmers face further pressure as milk processor cuts prices",
-     "summary": "Freshways lowers price paid to producers by 7p a litre, prompting warnings confidence in the sector is ‘at rock bottom’ “Milk is leaving the farm at a loss,” says dairy farmer Ian Harvey, as he warns…",
-     "image": "https://i.guim.co.uk/img/media/023ddc9c0a6ea277ce369177da0ca489c5581b34/227_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=5f2f605c056016892400595753b054ae",
-     "url": "https://www.theguardian.com/environment/2026/nov/06/uk-dairy-farmers-face-squeeze-as-milk-processor-cuts-prices",
-     "source": "Guardian Business",
-     "published": "2026-11-06T16:27:32+00:00"
-    },
-    {
-     "title": "Jerusalem Daily: Arab parties back Eisenkot against Netanyahu",
-     "summary": "Arab-majority parties in Israel, the Joint List and Ra’am, have backed Netanyahu’s rival Gadi Eisenkot to form a governm",
+     "title": "《TAIPEI TIMES》 Police arrest man over AI data theft in Kaohsiung",
+     "summary": "/ Staff writer, with CNA Police in Kaohsiung yesterday said they have arrested a man in connectio...…",
      "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/jerusalem-daily-arab-parties-back-eisenkot-against-netanyahu?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-06T16:21:57+00:00"
-    },
-    {
-     "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
-     "summary": "Nonfarm payrolls were expected to increase by 59,000 in October as the unemployment rate was expected to hold steady at 4.2%.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-06T16:06:59+00:00"
-    },
-    {
-     "title": "重大戰略轉型！傳台積電將進軍先進記憶體  為輝達生產3D DRAM",
-     "summary": "彭博報導，科技媒體《The Information》披露，台積電考慮擴大業務，進軍包括先進記憶體製造領域。此舉將使全球最大晶片代工龍頭在人工智慧（AI）供應鏈中佔有更大地位。 ...…",
-     "image": "",
-     "url": "https://ec.ltn.com.tw/article/breakingnews/5632298",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5632276",
      "source": "自由時報",
-     "published": "2026-11-06T15:59:43+00:00"
+     "published": "2026-11-06T19:00:00+00:00"
     }
    ]
   },
@@ -138,20 +138,36 @@
    "label": "AI",
    "items": [
     {
+     "title": "The folks behind John Wick are back with Karōshi trailer",
+     "summary": "Stuntman/director Chad Stahelski and 87Eleven bring us an action-packed dystopian, futuristic thriller.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-12.24.52-PM-500x500.png",
+     "url": "https://arstechnica.com/culture/2026/11/the-folks-behind-john-wick-are-back-with-karoshi-trailer/",
+     "source": "Ars Technica",
+     "published": "2026-11-06T18:30:19+00:00"
+    },
+    {
+     "title": "You know the launch market is tough when satellite companies start building rockets",
+     "summary": "\"The Blacklift rocket is the springboard to significantly expand our total addressable market.\"",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Abel__Jason-500x500.jpg",
+     "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
+     "source": "Ars Technica",
+     "published": "2026-11-06T18:20:47+00:00"
+    },
+    {
+     "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+     "summary": "Meta won't force Facebook page owners to allow AI training on linked content.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1363244761-500x500.jpg",
+     "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+     "source": "Ars Technica",
+     "published": "2026-11-06T17:43:02+00:00"
+    },
+    {
      "title": "Wisconsin reports measles death of a baby, first death in over 35 years",
      "summary": "Next week, experts will determine if the US has lost its measles elimination status.",
      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2202122534-500x500.jpg",
      "url": "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/",
      "source": "Ars Technica",
      "published": "2026-11-06T17:06:32+00:00"
-    },
-    {
-     "title": "Could potential AI clones of GTA VI force a quicker official port?",
-     "summary": "A former Rockstar tech director thinks the developer is facing new time pressures.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/gta6-500x500-1793980851.jpg",
-     "url": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
-     "source": "Ars Technica",
-     "published": "2026-11-06T16:19:12+00:00"
     },
     {
      "title": "質量僅預期的千分之一，韋伯望遠鏡意外發現最遙遠電波爆誕生地",
@@ -171,39 +187,15 @@
     },
     {
      "title": "Deus Ex",
-     "summary": "Article URL: https://www.filfre.net/2026/11/deus-ex/ Comments URL: https://news.ycombinator.com/item?id=50393758 Points: 168 # Comments: 75",
+     "summary": "Article URL: https://www.filfre.net/2026/11/deus-ex/ Comments URL: https://news.ycombinator.com/item?id=50393758 Points: 262 # Comments: 132",
      "image": "",
      "url": "https://www.filfre.net/2026/11/deus-ex/",
      "source": "Hacker News Front Page",
      "published": "2026-11-06T15:44:36+00:00"
     },
     {
-     "title": "It's a weird time to buy a laptop, but the new MacBook Pro doesn't skimp on quality",
-     "summary": "It has the best laptop screen we've used, but there may be reasons to wait.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MacBook-Pro-closed-lid-500x500-1793924693.jpg",
-     "url": "https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality/",
-     "source": "Ars Technica",
-     "published": "2026-11-06T15:28:07+00:00"
-    },
-    {
-     "title": "RIP Cybertruck",
-     "summary": "Article URL: https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/ Comments URL: https://news.ycombinator.com/item?id=50393154 Points: 249 # Comments: 347",
-     "image": "",
-     "url": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-06T15:01:38+00:00"
-    },
-    {
-     "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
-     "summary": "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-500x500.jpg",
-     "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
-     "source": "Ars Technica",
-     "published": "2026-11-06T14:13:32+00:00"
-    },
-    {
      "title": "Gemini Omni 1.2 Flash",
-     "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50392118 Points: 198 # Comments: 15…",
+     "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50392118 Points: 243 # Comments: 18…",
      "image": "",
      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
      "source": "Hacker News Front Page",
@@ -226,6 +218,14 @@
      "published": "2026-11-06T12:50:00+00:00"
     },
     {
+     "title": "Tesla to wind down Cybertruck production",
+     "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817 Comments URL: https://news.ycombinator.com/item?id=50391456 Points: 546 # Comme…",
+     "image": "",
+     "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-06T12:13:51+00:00"
+    },
+    {
      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post ab…",
      "image": "",
@@ -235,7 +235,7 @@
     },
     {
      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
-     "summary": "Article URL: https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105 Comments URL: https://news.ycombinator.com/item?id=50390124 Points: 531 # Comments: 332",
+     "summary": "Article URL: https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105 Comments URL: https://news.ycombinator.com/item?id=50390124 Points: 584 # Comments: 372",
      "image": "",
      "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
      "source": "Hacker News Front Page",
@@ -271,20 +271,68 @@
    "label": "運動",
    "items": [
     {
+     "title": "Everton v Coventry City: Premier League – live",
+     "summary": "⚽ Premier League updates from the 8pm GMT kick-off ⚽ Today’s Football Daily | Live scores | Table | Mail Scott Pre-match postbag: Evertonians Telling It As They See It edition. “Greetings from almost…",
+     "image": "https://i.guim.co.uk/img/media/61a04a7499bb92c752b0f53c6f87101f0eb85308/350_0_4337_3469/master/4337.jpg?width=140&quality=85&auto=format&fit=max&s=34839fe744eff0707df3fd78ab529e4d",
+     "url": "https://www.theguardian.com/football/live/2026/nov/06/everton-v-coventry-city-premier-league-live-updates",
+     "source": "Guardian Sport",
+     "published": "2026-11-06T19:55:53+00:00"
+    },
+    {
+     "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Cavaliers-76ers, NBA, New Mexico-Nevada Friday",
+     "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NBA, college football, and NFL betting on Friday",
+     "image": "https://sportshub.cbsistatic.com/i/2026/09/08/8c9b2f2a-2dd9-45bb-932a-45e8faf837ef/betmgm-promo-code-september-2026.jpg",
+     "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-cavaliers-76ers-nba-new-mexico-nevada-friday/",
+     "source": "CBS Sports NBA",
+     "published": "2026-11-06T19:47:23+00:00"
+    },
+    {
+     "title": "Player-coach rift report will only galvanise England - George",
+     "summary": "England hooker Jamie George says the squad are \"really upset\" by a newspaper article claiming the end of their summer tour was marked by player unrest over Steve Borthwick's leadership.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20db/live/d8475e40-da0a-11f1-bbd1-cf41b7fd4e9b.jpg",
+     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx2qqyz4p1po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-06T18:30:57+00:00"
+    },
+    {
+     "title": "Scotland come full circle for another crack at All Blacks",
+     "summary": "Sione Tuipulotu and Scotland have the chance to end one of sport's longest-standing hoodoos against New Zealand on Saturday, writes Andy Burke.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/996d/live/16a61820-d9e8-11f1-bbe5-797ee05bee69.jpg",
+     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw62yy06dejzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-06T18:29:09+00:00"
+    },
+    {
+     "title": "Rookie Report Vol. 1 + What Brought Us Joy with Myles Ehrlich and Owen Pence",
+     "summary": "Nekias Duncan and Steve Jones talk about the 2026 NBA rookie class and celebrate the 2026 WNBA season.",
+     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/tds-boozer-thumb_1611.png",
+     "url": "https://sports.yahoo.com/nba/article/rookie-report-vol-1--what-brought-us-joy-with-myles-ehrlich-and-owen-pence-175726310.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-06T17:57:26+00:00"
+    },
+    {
+     "title": "Taylor Swift called the 'fakest' celebrity fan by Knicks player",
+     "summary": "Asked on TikTok Live who the 'fakest' celebrity fan was during the Knicks' championship run, Tyler Kolek named Taylor Swift.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/taylor-swift-called-fakest-celebrity-174307738.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-06T17:43:07+00:00"
+    },
+    {
+     "title": "Raptors look to claim first NBA Cup win",
+     "summary": "Raptors take on the Milwaukee Bucks in second NBA Cup game.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/aaa5636854baf3f78816a6fddcf185cd.jpg",
+     "url": "https://sports.yahoo.com/articles/raptors-look-claim-first-nba-171755688.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-06T17:17:55+00:00"
+    },
+    {
      "title": "Doc Rivers talks Giannis Antetokounmpo leaving Bucks, challenges of coaching superstar",
      "summary": "\"It's really a strange thing, and he really has one way: downhill, force, force. Every play.\"",
      "image": "",
      "url": "https://sports.yahoo.com/articles/doc-rivers-talks-giannis-antetokounmpo-171122916.html",
      "source": "Yahoo Sports NBA",
      "published": "2026-11-06T17:11:22+00:00"
-    },
-    {
-     "title": "Giannis is playing defense like a toddler chasing a ball",
-     "summary": "Giannis’ defensive decline in one clip.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/768a2d338df5340a35588d6301d48130.png",
-     "url": "https://sports.yahoo.com/articles/giannis-playing-defense-toddler-chasing-165646588.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-06T16:56:46+00:00"
     },
     {
      "title": "Doc Rivers says 'difficult' Giannis Antetokounmpo 'didn't want to be the bad guy' while forcing Bucks exit",
@@ -303,14 +351,6 @@
      "published": "2026-11-06T16:34:51+00:00"
     },
     {
-     "title": "Yahoo Perfect 5: Luka Dončić, Evan Mobley and Walker Kessler lead my Friday lineup",
-     "summary": "Fantasy basketball analyst Dan Titus shares his lineup for Yahoo Perfect 5.",
-     "image": "",
-     "url": "https://sports.yahoo.com/fantasy/article/yahoo-perfect-5-luka-doncic-evan-mobley-and-walker-kessler-lead-my-friday-lineup-163200277.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-06T16:32:00+00:00"
-    },
-    {
      "title": "Is Palmer's England career over under Tuchel?",
      "summary": "Cole Palmer faces a fight to save his England career after he was excluded from Thomas Tuchel's latest squad, says chief football writer Phil McNulty.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bce3/live/a576c690-d9ec-11f1-bbe5-797ee05bee69.jpg",
@@ -327,28 +367,12 @@
      "published": "2026-11-06T16:19:58+00:00"
     },
     {
-     "title": "Fantasy Basketball Weekend Streamers: Kingston Flemings, Brayden Burries take over as starters",
-     "summary": "Kingston Flemings and Brayden Burries lead a group of 10 players worth streaming this weekend.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/fantasy-basketball-weekend-streamers-kingston-155254606.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-06T15:52:54+00:00"
-    },
-    {
      "title": "How Gotham FC re-tooled for another NWSL title run – this time as favorites",
      "summary": "After two titles won as the lowest seed in the playoffs, the New Jersey club sought consistency in 2026. It’s arrived, but what’s next? By the time Gotham FC had won their second NWSL Championship in…",
      "image": "https://i.guim.co.uk/img/media/9f462a31cb0f99a6a17231a4c9a3a1046c7108ab/879_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=aff1ed8eff7e4dcc21e407570220ef85",
      "url": "https://www.theguardian.com/football/2026/nov/06/gotham-fc-nwsl-playoffs",
      "source": "Guardian Sport",
      "published": "2026-11-06T15:32:26+00:00"
-    },
-    {
-     "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for 76ers-Cavaliers, NBA, New Mexico-Nevada Friday",
-     "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NBA, college football, and NFL betting on Friday",
-     "image": "https://sportshub.cbsistatic.com/i/2026/09/08/8c9b2f2a-2dd9-45bb-932a-45e8faf837ef/betmgm-promo-code-september-2026.jpg",
-     "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-76ers-cavaliers-nba-new-mexico-nevada-friday/",
-     "source": "CBS Sports NBA",
-     "published": "2026-11-06T15:12:07+00:00"
     },
     {
      "title": "'A beautiful story' as Bellingham brothers called up",
@@ -367,36 +391,12 @@
      "published": "2026-11-06T14:01:54+00:00"
     },
     {
-     "title": "Fly-half Smith fit to steer England against Wallabies",
-     "summary": "Fly-half Fin Smith recovers from a calf injury and will start for England in their opening Test of the autumn against Australia on Sunday.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff3e/live/5813ff40-d9f0-11f1-bb10-cdca6001fbcf.jpg",
-     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cv4g11wr6l5jo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-06T14:00:55+00:00"
-    },
-    {
-     "title": "Two-year ban for 'Clicky Ponting' cricketer",
-     "summary": "An amateur cricketer is banned for two years for his role in the ‘Clicky Ponting’ cheating scandal that made headlines across the globe.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8850/live/cc8c8630-d9dc-11f1-a701-fddedf244c16.jpg",
-     "url": "https://www.bbc.co.uk/sport/cricket/articles/c62keenz7dzjo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-06T12:00:21+00:00"
-    },
-    {
      "title": "Hockey’s streaming spree means there’s one fewer thing holding Canada together",
      "summary": "A shared joy of the sport has united Canada for much of its history. But it’s becoming increasingly difficult – and expensive – to watch games on television The Oilers lost to the Detroit Red Wings on…",
      "image": "https://i.guim.co.uk/img/media/db29a684b83f186cc21fbdf9a6c0eff23b6cb339/343_0_3425_2740/master/3425.jpg?width=140&quality=85&auto=format&fit=max&s=e98b81d9c863e5bd200727186b50731a",
      "url": "https://www.theguardian.com/sport/2026/nov/06/hockeys-streaming-spree-means-theres-one-fewer-thing-holding-canada-together",
      "source": "Guardian Sport",
      "published": "2026-11-06T10:00:50+00:00"
-    },
-    {
-     "title": "Jaguars trounce rudderless Ravens as Baltimore slump to fourth straight loss",
-     "summary": "Trevor Lawrence throws for 242 yards and a touchdown Ravens’ Joe Fagnano manages just 60 passing yards Jacksonville improve to 6-2 with fifth win in six games With their top two quarterbacks injured,…",
-     "image": "https://i.guim.co.uk/img/media/8f9e461147a9f2b8c4f6fee08d1918ef6446c8c0/63_0_5071_4057/master/5071.jpg?width=140&quality=85&auto=format&fit=max&s=c894e995cd3e7af7e499197a204d442b",
-     "url": "https://www.theguardian.com/sport/2026/nov/05/jacksonville-jaguars-baltimore-ravens-trevor-lawrence-joe-fagnano-nfl",
-     "source": "Guardian Sport",
-     "published": "2026-11-06T04:17:29+00:00"
     }
    ]
   }
