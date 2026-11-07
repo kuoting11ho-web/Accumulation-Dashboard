@@ -1,64 +1,88 @@
 {
- "generated": "2026-11-07T16:31:26.920836+00:00",
+ "generated": "2026-11-07T18:05:25.660746+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "讓海洋更乾淨 SEA YOU海洋巡迴展高雄駁二登場",
-     "summary": "海洋委員會海洋保育署推出「SEA YOU海洋的星願與守護」海洋廢棄物治理巡迴展，昨（7）日在高雄駁二藝術特區蓬萊倉庫群B6登場，邀請大小朋友跟著海洋生物解任務，透過光影、互動遊...…",
+     "title": "日本中部規模5.7地震無海嘯威脅　愛知縣疑兩人受傷",
+     "summary": "日本氣象廳今天表示，中部地區凌晨1時4分發生規模5.7地震，目前無海嘯威脅，但愛知縣豐田市疑有兩人受傷。 根據日本氣象廳，震央位於靜岡縣西部，震源深度為40公里，愛知縣知多市測得最大震度5...…",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5633013",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5633210",
      "source": "自由時報",
-     "published": "2026-11-07T16:22:51+00:00"
+     "published": "2026-11-07T17:54:04+00:00"
     },
     {
-     "title": "「特戰英豪」總決賽吸5千人次進場  台北海大狂獵鯊3：0奪冠",
-     "summary": "第六屆全國電競青年錦標賽昨舉辦「特戰英豪」總決賽，吸引超過5千人次觀戰，最終由「台北海大狂獵鯊」以精湛團隊默契奪得總冠軍，強勢抱回20萬元獎金。 高市青...…",
+     "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
+     "summary": "Dave Wehner, Meta’s chief strategy officer, is leaving the company to become CFO of Fireworks, the AI infrastructure startup valued at $17.5 billion in July.",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5633133",
-     "source": "自由時報",
-     "published": "2026-11-07T16:15:58+00:00"
+     "url": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-07T17:51:16+00:00"
     },
     {
-     "title": "Guatemalan lawmaker and three police officers killed in armed attack",
-     "summary": "It happened in a region of the country known to have drug trafficking activity.",
+     "title": "波蘭槍擊案釀6死15傷　男嫌遭警方開槍擊中後送醫",
+     "summary": "波蘭當局今天表示，一名男子下午3時左右在波蘭第二大城克拉科夫的歷史城區開火，造成至少6人死亡、15人受傷。這名槍手隨後被警方開槍擊中並送醫，目前其犯案動機不明。 法新社報導，警方指出，一名...…",
      "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5633208",
+     "source": "自由時報",
+     "published": "2026-11-07T17:45:04+00:00"
+    },
+    {
+     "title": "Houthis report 25 killed in Yemen strikes",
+     "summary": "Yemen’s Houthis say at least 25 people have been killed and 30 injured in air strikes.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-07T16:15:18+00:00"
+     "published": "2026-11-07T17:39:23+00:00"
     },
     {
-     "title": "獨家》八八風災成滲透破口！高金集團紅錢「鋪」進原鄉  選票逐屆上升",
-     "summary": "無黨籍立委高金素梅等人，涉組成「祖靈之邦團隊」，引進1.7億元巨額資金發展共諜組織，被依國安法起訴，檢方曝光其籠絡原住民手法，而原鄉部落在88風災後，則有好幾個類似的道路工程，...…",
+     "title": "Lebanese footballer refuses to give up after injuries from Israeli strike",
+     "summary": "After surviving an Israeli airstrike that left her in a coma, Celine Haidar is back on the pitch, coaching footballers.",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633187",
-     "source": "自由時報",
-     "published": "2026-11-07T16:13:23+00:00"
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/lebanese-footballer-refuses-to-give-up-after-injuries-from-israeli-strike?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-07T17:16:50+00:00"
     },
     {
-     "title": "棒球迷福利來了！參加台中線上許願有機會收集大聯盟球星李灝宇簽名球",
-     "summary": "台中市打造可容納4.5萬球迷的「台灣超巨蛋」，日前台灣超巨蛋BOT案正式完成簽約，運動局特別推出線上許願抽獎活動，即日起至11月15日止，民眾只要分享對未來場館的期待與想像，就...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5633080",
-     "source": "自由時報",
-     "published": "2026-11-07T16:09:15+00:00"
+     "title": "Ousted Paraguayan president appears before prosecutors",
+     "summary": "Paraguayan President Santiago Peña was removed from office and placed under house arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6653x4435+0+0/resize/6653x4435!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F78%2F40561ab4423abbd70bf3463d02c0%2Fgettyimages-2295537388.jpg",
+     "url": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
+     "source": "NPR News",
+     "published": "2026-11-07T17:14:36+00:00"
     },
     {
-     "title": "Hundreds march in Pau, France against high living costs",
+     "title": "Jerusalem Daily: Heavy rains flood Gaza",
      "summary": "",
      "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/hundreds-march-in-pau-france-against-high-living-costs?traffic_source=rss",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/jerusalem-daily-heavy-rains-flood-gaza?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-07T16:09:11+00:00"
+     "published": "2026-11-07T17:11:29+00:00"
     },
     {
-     "title": "Five killed and at least 10 injured in Krakow shooting",
-     "summary": "Five people have been killed and at least 10 injured in a shooting near the main market square in Krakow, Poland.",
+     "title": "Valencia vs Real Madrid LIVE: La Liga",
+     "summary": "Follow updates from the La Liga clash, including the build-up, analysis and live text commentary of the match.",
      "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss",
+     "url": "https://www.aljazeera.com/sports/liveblog/2026/11/7/valencia-vs-real-madrid-live-la-liga?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-07T16:06:58+00:00"
+     "published": "2026-11-07T17:00:12+00:00"
+    },
+    {
+     "title": "沈伯洋「戒慎恐懼之夜」大酸蔣萬安 鍾沛君：很中二啦！",
+     "summary": "民進黨台北市長候選人沈伯洋在「戒慎恐懼之夜」，猛酸現任市長蔣萬安鼠患，稱蔣的選戰策略都在學他，「好怕一個月後他變合格市長」。對此，台北市議員鍾沛君在「TVBS戰情室」節目上表示...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633204",
+     "source": "自由時報",
+     "published": "2026-11-07T16:45:33+00:00"
+    },
+    {
+     "title": "史上最強翻身來了！雨揚點名「2生肖」本週財運事業一路狂飆",
+     "summary": "〔娛樂新聞／綜合報導〕擺脫低谷的時刻到了！才剛推出《2027開運大預言》新書的命理專家雨揚，昨公開11/8～11/14 十二生肖運勢直言，本週有股神祕能量悄悄運轉，特別是其中兩個今年犯太歲的生肖...…",
+     "image": "",
+     "url": "https://ent.ltn.com.tw/news/breakingnews/5633182",
+     "source": "自由時報",
+     "published": "2026-11-07T16:33:00+00:00"
     },
     {
      "title": "No clear winner after tight New Zealand general election",
@@ -69,20 +93,20 @@
      "published": "2026-11-07T15:56:28+00:00"
     },
     {
-     "title": "Iran’s IRGC says building underground sites for weapons production, storage",
-     "summary": "IRGC says underground military complexes allow missile production to continue even under heavy bombardment.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-07T15:34:58+00:00"
-    },
-    {
      "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
      "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
      "image": "",
      "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
      "source": "CNBC Top News",
      "published": "2026-11-07T15:23:46+00:00"
+    },
+    {
+     "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+     "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-07T15:19:35+00:00"
     },
     {
      "title": "A promising new medicine against heart disease fails unexpectedly",
@@ -107,30 +131,6 @@
      "url": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
      "source": "CNBC Top News",
      "published": "2026-11-07T13:03:12+00:00"
-    },
-    {
-     "title": "Great British Railways: new dawn for a new network but with plenty of old problems to fix",
-     "summary": "Experts predict a baptism of fire for GBR in 2027, with likely issues ranging from clapped-out trains and track to extreme weather-related stress The glad tidings brought by the minister were that the…",
-     "image": "https://i.guim.co.uk/img/media/5944b61ee5436a78b173fbd2474520d21b660c05/973_545_2629_2103/master/2629.jpg?width=140&quality=85&auto=format&fit=max&s=fe4d7f779954d5c6a3bf0273e4013d4f",
-     "url": "https://www.theguardian.com/business/2026/nov/07/great-british-railways-new-dawn-for-a-new-network-but-with-plenty-of-old-problems-to-fix",
-     "source": "Guardian Business",
-     "published": "2026-11-07T13:00:11+00:00"
-    },
-    {
-     "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
-     "summary": "Anthropic is poised to become the first pure-play AI company to hit the public market at a time when the public is increasingly leary of the industry.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-07T13:00:01+00:00"
-    },
-    {
-     "title": "Perspective: Simon Winchester was here to tell a story",
-     "summary": "British American reporter and author Simon Winchester died of a heart attack Nov. 3. We take a moment to remember his long career, which included covering Bloody Sunday and Watergate.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2059x1367+0+0/resize/2059x1367!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F92%2Fd2%2F7a80d4954842a7193d194eec3b3b%2Fgettyimages-585797523.jpg",
-     "url": "https://www.npr.org/2026/11/07/nx-s1-6023225/perspective-simon-winchester-was-here-to-tell-a-story",
-     "source": "NPR News",
-     "published": "2026-11-07T13:00:00+00:00"
     }
    ]
   },
@@ -186,16 +186,8 @@
      "published": "2026-11-07T11:00:34+00:00"
     },
     {
-     "title": "Upload Your RAM",
-     "summary": "Article URL: https://uploadyourram.org Comments URL: https://news.ycombinator.com/item?id=50403214 Points: 232 # Comments: 213",
-     "image": "",
-     "url": "https://uploadyourram.org",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-07T10:15:26+00:00"
-    },
-    {
      "title": "Every Mac comes with an (undocumented) family member classifier",
-     "summary": "Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph Comments URL: https://news.ycombinator.com/item?id=50403097 Points: 369 # Comments: 211",
+     "summary": "Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph Comments URL: https://news.ycombinator.com/item?id=50403097 Points: 424 # Comments: 243",
      "image": "",
      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
      "source": "Hacker News Front Page",
@@ -203,19 +195,27 @@
     },
     {
      "title": "Need for Speed Underground 2 online in the browser",
-     "summary": "Article URL: https://nfsu2.xyz/ Comments URL: https://news.ycombinator.com/item?id=50403052 Points: 427 # Comments: 137",
+     "summary": "Article URL: https://nfsu2.xyz/ Comments URL: https://news.ycombinator.com/item?id=50403052 Points: 529 # Comments: 161",
      "image": "",
      "url": "https://nfsu2.xyz/",
      "source": "Hacker News Front Page",
      "published": "2026-11-07T09:36:36+00:00"
     },
     {
-     "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
-     "summary": "Article URL: https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals Comments URL: https://news.ycombinator.com/item?id=50401740 Points: 162 # Comments:…",
+     "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+     "summary": "Article URL: https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/ Comments URL: https://news.ycombinator.com/item?id=50399991 Points: 167 # Comments: 137",
      "image": "",
-     "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+     "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
      "source": "Hacker News Front Page",
-     "published": "2026-11-07T04:54:36+00:00"
+     "published": "2026-11-06T23:37:19+00:00"
+    },
+    {
+     "title": "Libghostty 1.0",
+     "summary": "Article URL: https://mitchellh.com/writing/libghostty-1-0 Comments URL: https://news.ycombinator.com/item?id=50399933 Points: 928 # Comments: 152",
+     "image": "",
+     "url": "https://mitchellh.com/writing/libghostty-1-0",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-06T23:30:52+00:00"
     },
     {
      "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
@@ -247,12 +247,52 @@
    "label": "運動",
    "items": [
     {
-     "title": "Arsenal v Hull City, Fulham v Newcastle United, FA Cup and more: football – live",
-     "summary": "⚽️ Follow live updates from all of Saturday’s football action ⚽️ Live scores | Full tables | Follow us on TikTok | Mail Barry In yesterday’s Football Daily email , John Brewin previewed his pick of th…",
-     "image": "https://i.guim.co.uk/img/media/9f1b960cf73470a66a09bbb4404402dc82e9d918/335_139_4808_3848/master/4808.jpg?width=140&quality=85&auto=format&fit=max&s=8751b441e0585dcf6f61b554872fe79c",
-     "url": "https://www.theguardian.com/football/live/2026/nov/07/arsenal-v-hull-city-fulham-v-newcastle-united-fa-cup-and-more-football-live",
+     "title": "Nottingham Forest v Manchester City: Premier League – live",
+     "summary": "⚽ Premier League updates from the 5.30pm GMT kick-off ⚽ Live scores | Full tables | Follow us on TikTok | Mail Tom We’re off at the City Ground. Before kick-off, we’ll hear The Last Post. Remembrance…",
+     "image": "https://i.guim.co.uk/img/media/530bd82f63282fcede07685f5916e577aa3139ec/137_0_3591_2874/master/3591.jpg?width=140&quality=85&auto=format&fit=max&s=87725c44fbc0dacdf27aa6c8101846ab",
+     "url": "https://www.theguardian.com/football/live/2026/nov/07/nottingham-forest-v-manchester-city-premier-league-live",
      "source": "Guardian Sport",
-     "published": "2026-11-07T16:18:49+00:00"
+     "published": "2026-11-07T17:47:46+00:00"
+    },
+    {
+     "title": "São Paulo Formula One Grand Prix qualifying in Brazil – live",
+     "summary": "️ Updates from the Interlagos (session starts 6pm GMT) ️ Sign up for The Recap newsletter | And email Philip Isack Hadjar has been talking to Naomi Schiff about his love for Ayrton Senna, at the scene…",
+     "image": "https://i.guim.co.uk/img/media/11f7a736d69bf6bd7960ddc031dba0a2cbc2abbb/770_122_2649_2120/master/2649.jpg?width=140&quality=85&auto=format&fit=max&s=c1b82db2fd0f584caa30064ec719d272",
+     "url": "https://www.theguardian.com/sport/live/2026/nov/07/sao-paulo-formula-one-grand-prix-qualifying-in-brazil-live",
+     "source": "Guardian Sport",
+     "published": "2026-11-07T17:45:46+00:00"
+    },
+    {
+     "title": "Highlights: Non-league Kidderminster shock League One Doncaster",
+     "summary": "National League Kidderminster shock League One Doncaster to progress to the second round of the FA Cup.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b477/live/b17159f0-dace-11f1-93e1-3b657b665bcf.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-07T17:23:20+00:00"
+    },
+    {
+     "title": "Goal caps eye-catching Odegaard display - player ratings for Arsenal v Hull",
+     "summary": "How Arsenal and Hull City's players rated following their Premier League match at Emirates Stadium.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05de/live/79243450-dace-11f1-bda8-29fb69dbc026.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cq62yp4lg831o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-07T17:00:38+00:00"
+    },
+    {
+     "title": "Luka Doncic's historic run jump starts early MVP conversation",
+     "summary": "Lakers guard Luka Doncic's teammates and opposing coaches are in awe of his blistering scoring so far this season, fueling early support for MVP honors.",
+     "image": "https://media.zenfs.com/en/la_times_articles_853/68cdeb9fef055f559bd64c2b52026e2c.jpg",
+     "url": "https://sports.yahoo.com/articles/luka-doncics-historic-start-jumpstarts-164352457.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-07T16:43:52+00:00"
+    },
+    {
+     "title": "Tottenham set to complain to Pro Ref - but should Bogle have seen red?",
+     "summary": "Tottenham are set to submit a formal complaint about the decision not to send off Jayden Bogle for his challenge on Mathys Tel during the defeat by Leeds.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4437/live/77476990-dac4-11f1-bda8-29fb69dbc026.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-07T16:35:26+00:00"
     },
     {
      "title": "Ruthless All Blacks blow Scotland away in second half",
@@ -271,20 +311,28 @@
      "published": "2026-11-07T15:28:16+00:00"
     },
     {
-     "title": "Hamilton, Leclerc and Verstappen to have penalties",
-     "summary": "Red Bull's Max Verstappen and Ferrari drivers Lewis Hamilton and Charles Leclerc will all have grid penalties at the Sao Paulo Grand Prix.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c32/live/d1e82420-daba-11f1-8c3b-f3c0d6bd7c4f.jpg",
-     "url": "https://www.bbc.co.uk/sport/formula1/articles/c574p28devp4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-07T15:01:59+00:00"
+     "title": "Highlights: Spurs handle Kings behind blazing three-point shooting",
+     "summary": "The Spurs extend their winning streak to seven and start NBA Cup play 1-0.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/341a72366a0fe2b85d2fdf6fa33b30b2.jpg",
+     "url": "https://sports.yahoo.com/articles/highlights-spurs-handle-kings-behind-151510499.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-07T15:15:10+00:00"
     },
     {
-     "title": "Tongue ruled out of Australia tour as Rashid stars in warm-up",
-     "summary": "England fast bowler Josh Tongue is ruled out of the upcoming white-ball tour of Australia with a toe injury.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2df5/live/93643300-dab1-11f1-9da2-b11e4d68c08e.jpg",
-     "url": "https://www.bbc.co.uk/sport/cricket/articles/c875p26gnnp2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-07T14:41:04+00:00"
+     "title": "Nets vs. Hawks preview: Brooklyn opens four-game road trip in Atlanta",
+     "summary": "The Brooklyn Nets begin a four game road trip with a matchup against the Atlanta Hawks.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/a0ba2fb22260eb85c9a886e92a60b99b.jpg",
+     "url": "https://sports.yahoo.com/articles/nets-vs-hawks-preview-brooklyn-151241534.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-07T15:12:41+00:00"
+    },
+    {
+     "title": "Winners & Sinners: Week 3",
+     "summary": "Who and what stood out for the Bucks this week?",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/6c76221571012ae14d77f8825635c048.jpg",
+     "url": "https://sports.yahoo.com/articles/winners-sinners-week-3-150000158.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-07T15:00:00+00:00"
     },
     {
      "title": "2026 NBA betting promos: Get over $3,000 in bonuses from top online betting apps, sportsbooks for November 7",
@@ -293,54 +341,6 @@
      "url": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-get-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-november-7/",
      "source": "CBS Sports NBA",
      "published": "2026-11-07T14:40:14+00:00"
-    },
-    {
-     "title": "Okafor the difference despite Van Hecke defiance - Leeds v Spurs ratings",
-     "summary": "How Leeds United and Tottenham Hotspurs' players rated in their Premier League match.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc27/live/09850300-daaf-11f1-9da2-b11e4d68c08e.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-07T14:35:23+00:00"
-    },
-    {
-     "title": "Jayson Tatum admits Charlotte ‘feels like home’ after NBA Cup masterclass",
-     "summary": "Tatum was drowned with ‘MVP’ cheers and ‘Let’s go Celtics’ chants in Charlotte on Friday night.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/cce706eaa7a257ac5472f34ded70009b.jpg",
-     "url": "https://sports.yahoo.com/articles/jayson-tatum-admits-charlotte-feels-142509652.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-07T14:25:09+00:00"
-    },
-    {
-     "title": "Bucks vs. Raptors Player Grades: Burries shows out, Turner no-shows in second-half collapse",
-     "summary": "The rook and the vet had very different nights.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/5651886526ce4b63db56af3fd0b3b66e.jpg",
-     "url": "https://sports.yahoo.com/articles/bucks-vs-raptors-player-grades-130913509.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-07T13:09:13+00:00"
-    },
-    {
-     "title": "Game Preview: Knicks at Cavaliers, November 7, 2026",
-     "summary": "The Knicks and Cavaliers tangle for an Eastern Conference Finals rematch.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/f6edfd7cc4fef728503de77b5ad27d68.jpg",
-     "url": "https://sports.yahoo.com/articles/game-preview-knicks-cavaliers-november-120530121.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-07T12:05:30+00:00"
-    },
-    {
-     "title": "Takeaways from a Celtics 3-point blitz in a buzzy win over the Hornets",
-     "summary": "A flurry of threes and an unstoppable Tatum led to a full NBA cup win.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/40e1de1d968f46fdead27c0b549da639.jpg",
-     "url": "https://sports.yahoo.com/articles/takeaways-celtics-3-point-blitz-120000065.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-07T12:00:00+00:00"
-    },
-    {
-     "title": "Infantino caught in the web as tide turns against Trump in midterms and leaves Fifa exposed | Barney Ronay",
-     "summary": "Trump Exposed Reactor Core Syndrome very much in play after Democrat landslide – and Fifa’s president may pay a price Oh baby, clamp me in your repulsive mouthparts. Sink your unusually large and veno…",
-     "image": "https://i.guim.co.uk/img/media/9e7ae405facd7fe96282352c135e94adb050c653/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=38906b7b587387cc7c955c209ace0e04",
-     "url": "https://www.theguardian.com/football/2026/nov/07/gianni-infantino-fifa-donald-trump-democrats-republicans",
-     "source": "Guardian Sport",
-     "published": "2026-11-07T08:00:05+00:00"
     },
     {
      "title": "Dončić dazzles with 53 in Lakers’ win as LeBron held to eight in Cleveland return",
