@@ -1,9 +1,97 @@
 {
- "generated": "2026-11-08T18:24:18.013759+00:00",
+ "generated": "2026-11-08T20:36:31.047801+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
+    {
+     "title": "Iran threatens to ‘rain down hell’ if US escalates war",
+     "summary": "President Trump warns that US forces are 'locked and loaded' and ready to strike, if necessary.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-08T20:13:39+00:00"
+    },
+    {
+     "title": "平時相見大不易　排燈節成印度人與親友團圓重要時刻",
+     "summary": "印度幅員遼闊，交通往返太花時間，因此親朋好友少有機會相聚，民眾多會利用排燈節（Diwali）期間與親友團圓，共同歡度這個每年最重要的節慶。 根據印度史詩「羅摩衍那」（Ramayana）記載...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5634029",
+     "source": "自由時報",
+     "published": "2026-11-08T20:12:03+00:00"
+    },
+    {
+     "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+     "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-08T19:58:02+00:00"
+    },
+    {
+     "title": "期中選舉大勝　民主黨擬調查馬斯克、米勒及美國大企業",
+     "summary": "美國國會資深議員今天表示，民主黨明年1月掌控國會後，科技業富豪馬斯克、總統川普新任命的白宮幕僚長米勒，以及部分大型企業，很可能成為國會調查對象。 路透社報導，即將分別執掌聯邦眾議院監督暨政...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5634028",
+     "source": "自由時報",
+     "published": "2026-11-08T19:45:06+00:00"
+    },
+    {
+     "title": "Al Jazeera tries Baseball5 at Youth Olympics",
+     "summary": "",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/al-jazeera-tries-baseball5-at-youth-olympics?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-08T19:26:38+00:00"
+    },
+    {
+     "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
+     "summary": "France says European officials will attend this week's U.S.-mediated Russia-Ukraine talks in Abu Dhabi, the first three-way round of negotiations since February.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8144x5424+0+0/resize/8144x5424!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffa%2Fa1%2F91147a0b4187a331f76a4c33d532%2Fap26311445819542.jpg",
+     "url": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
+     "source": "NPR News",
+     "published": "2026-11-08T19:25:30+00:00"
+    },
+    {
+     "title": "Man United earn 4-4 draw against Aston Villa but remain in relegation zone",
+     "summary": "Michael Carrick's team continue forgettable season with last-gasp draw at Old Trafford in front of angry home fans.",
+     "image": "",
+     "url": "https://www.aljazeera.com/sports/2026/11/8/man-united-earn-4-4-draw-against-aston-villa-but-remain-in-relegation-zone?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-08T19:15:36+00:00"
+    },
+    {
+     "title": "After the midterms, where does the Republican Party stand?",
+     "summary": "GOP suffered a loss, but it is hardly a historic one. A party in power has always been held to account in the midterms.",
+     "image": "",
+     "url": "https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-08T19:09:18+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》 Chinese-owned yachts barred from Taiwan ports",
+     "summary": "By Huan Yi-ching and William Hetherington / Staff reporter, with staff writer Chinese-owned yacht...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5633963",
+     "source": "自由時報",
+     "published": "2026-11-08T19:00:00+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》 NSC tightens anti-infiltration measures",
+     "summary": "REVISED REGULATIONS:The guidance, which has drawn from the experience of the US, Canada, the UK and ...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5633960",
+     "source": "自由時報",
+     "published": "2026-11-08T19:00:00+00:00"
+    },
+    {
+     "title": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
+     "summary": "Democrats have vowed to investigate both President Donald Trump's White House and businesses that have worked with the administration.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-08T18:57:56+00:00"
+    },
     {
      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
      "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
@@ -21,76 +109,12 @@
      "published": "2026-11-08T18:18:30+00:00"
     },
     {
-     "title": "謝金河揭她踢館「又一村」 王鴻薇深夜發文反擊 網酸：影片會說話",
-     "summary": "台北市長蔣萬安6日在藍委王鴻薇等人陪同下到遼寧夜市掃街拜票，發生包圍「洋流」店家、在店門口高呼叫囂事件，挨轟霸凌異溫層。沒有想到財信傳媒集團董事長謝金河當天居然也是目擊者，站出來...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633950",
-     "source": "自由時報",
-     "published": "2026-11-08T18:08:22+00:00"
-    },
-    {
-     "title": "Infantino’s Japanese challenger claims he could unseat FIFA president",
-     "summary": "Kozo Tashima believes he has a '20 to 30 percent' chance of winning the FIFA presidency election against Infantino.",
-     "image": "",
-     "url": "https://www.aljazeera.com/sports/2026/11/8/infantinos-japanese-challenger-claims-he-could-unseat-fifa-president?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-08T18:01:05+00:00"
-    },
-    {
      "title": "Collision of two trains in Egypt kills at least seven",
      "summary": "President orders prompt investigation after one train derails in collision in al-Ayyat about 30 miles from Cairo Seven people were killed and more than 100 injured when two trains collided on Sunday s…",
      "image": "https://i.guim.co.uk/img/media/7527078bbb41cf17b1a35718b70ebdceeada7492/206_271_4462_3569/master/4462.jpg?width=140&quality=85&auto=format&fit=max&s=24b5e48c937f7ee0a5afbdfdeb04cf94",
      "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
      "source": "Guardian World",
      "published": "2026-11-08T17:51:17+00:00"
-    },
-    {
-     "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
-     "summary": "Protesters seek stricter trade restrictions on Israel and a halt to all arms sales.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-08T17:44:51+00:00"
-    },
-    {
-     "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-     "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-08T17:35:13+00:00"
-    },
-    {
-     "title": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
-     "summary": "Israel's president picks Gadi Eisenkot to form the next government, passing over Benjamin Netanyahu.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-08T17:11:52+00:00"
-    },
-    {
-     "title": "Photos: Diwali celebrations light up India and its global diaspora",
-     "summary": "Celebrations feature fireworks, prayers, reunions, rangoli designs, feasting, and the sharing of sweets and gifts.",
-     "image": "",
-     "url": "https://www.aljazeera.com/gallery/2026/11/8/photos-diwali-celebrations-light-up-india-and-its-global-diaspora?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-08T17:03:14+00:00"
-    },
-    {
-     "title": "小野部長忍不住了！自曝每天在電視前為他喊凍蒜：心裡很著急",
-     "summary": "民進黨台北市長候選人沈伯洋8日和文化部長李遠一同參加北投文化走讀，「小野」部長在活動中一番發自內心希望沈伯洋趕快選上的致詞，在網上引發討論。 沈伯洋週日下午和李遠走訪北投中...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633993",
-     "source": "自由時報",
-     "published": "2026-11-08T16:51:45+00:00"
-    },
-    {
-     "title": "國民黨無新竹市長候選人！錢康明酸「市黨部懇託信」是羞辱藍營",
-     "summary": "國民黨今年在新竹市長選舉未提名人選，支持現任但退出民眾黨改以無黨籍參選的市長高虹安拚連任，並打著「藍白合」旗幟；而國民黨新竹市黨部發出懇託信號召黨員支持黨部提名及支持的市長及議...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5634002",
-     "source": "自由時報",
-     "published": "2026-11-08T16:46:49+00:00"
     },
     {
      "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
@@ -101,42 +125,26 @@
      "published": "2026-11-08T16:46:15+00:00"
     },
     {
-     "title": "最大射程衝1.8萬公里！東風-61核飛彈加速部署 共軍核威懾戰力躍進",
-     "summary": "中國中央電視台報導，中國最新型陸基洲際彈道飛彈（ICBM）「東風-61」，正以遠快於過去洲際飛彈的速度，投入人民解放軍的常態化軍事訓練，引發外界關注，共軍在將新型戰略飛...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/def/breakingnews/5633997",
-     "source": "自由時報",
-     "published": "2026-11-08T16:37:07+00:00"
-    },
-    {
      "title": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
      "summary": "On Sunday, tens of thousands packed the main square in Florida, Uruguay, to watch Pope Leo speak.",
      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb6%2Fdc%2Fbfa72c634de2ac6fd5d3cbc6c94a%2Fap26312478472333.jpg",
      "url": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
      "source": "NPR News",
      "published": "2026-11-08T16:30:16+00:00"
-    },
-    {
-     "title": "How Democrats will try to end Trump's tariffs",
-     "summary": "Rep. Hakeem Jeffries, D-N.Y., who is likely the next House speaker, has made clear that ending President Trump's tariffs is one of Democrats' top priorities.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-08T15:36:39+00:00"
-    },
-    {
-     "title": "Russell Brand to learn sentence after being found guilty of rape and sexual assault",
-     "summary": "Comedian Brand faces a \"significant\" prison sentence, which a London court judge is set to hand down on Monday.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2706x1804+0+0/resize/2706x1804!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe1%2F3b%2Fc4576aa14f7f879c8f83e8b05046%2Fap26307590155292.jpg",
-     "url": "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault",
-     "source": "NPR News",
-     "published": "2026-11-08T15:07:15+00:00"
     }
    ]
   },
   "ai": {
    "label": "AI",
    "items": [
+    {
+     "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+     "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 297 # Comments: 183",
+     "image": "",
+     "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-08T18:16:07+00:00"
+    },
     {
      "title": "Physicists listened to electrical noise to crack a superconductor mystery",
      "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
@@ -147,11 +155,19 @@
     },
     {
      "title": "Person of Interest",
-     "summary": "Article URL: https://krthr.co/person-of-interest/ Comments URL: https://news.ycombinator.com/item?id=50412318 Points: 243 # Comments: 159",
+     "summary": "Article URL: https://krthr.co/person-of-interest/ Comments URL: https://news.ycombinator.com/item?id=50412318 Points: 272 # Comments: 178",
      "image": "",
      "url": "https://krthr.co/person-of-interest/",
      "source": "Hacker News Front Page",
      "published": "2026-11-08T11:23:28+00:00"
+    },
+    {
+     "title": "Writing as a thinking tool",
+     "summary": "Article URL: http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html Comments URL: https://news.ycombinator.com/item?id=50412067 Points: 205 # Comments: 71",
+     "image": "",
+     "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-08T10:41:52+00:00"
     },
     {
      "title": "系微10月營收1.04 億元",
@@ -163,7 +179,7 @@
     },
     {
      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-     "summary": "Article URL: https://github.com/synchopate/llama-modchip Comments URL: https://news.ycombinator.com/item?id=50411961 Points: 231 # Comments: 67",
+     "summary": "Article URL: https://github.com/synchopate/llama-modchip Comments URL: https://news.ycombinator.com/item?id=50411961 Points: 292 # Comments: 104",
      "image": "",
      "url": "https://github.com/synchopate/llama-modchip",
      "source": "Hacker News Front Page",
@@ -194,22 +210,6 @@
      "published": "2026-11-08T08:30:20+00:00"
     },
     {
-     "title": "Goodbye Claude, hello Pi",
-     "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 573 # Comments: 366",
-     "image": "",
-     "url": "https://caleb.software/posts/claude-to-pi.html",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-08T03:11:48+00:00"
-    },
-    {
-     "title": "Making any integer with four 2s (2025)",
-     "summary": "Article URL: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/ Comments URL: https://news.ycombinator.com/item?id=50408713 Points: 186 # Comments: 50",
-     "image": "",
-     "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-07T22:38:58+00:00"
-    },
-    {
      "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
      "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/great-zimbabwe-500x500.jpg",
@@ -231,44 +231,100 @@
    "label": "運動",
    "items": [
     {
-     "title": "The FA Cup",
-     "summary": "Jason Mohammad presents highlights from the first round of the FA Cup.",
-     "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pllym7.jpg",
-     "url": "https://www.bbc.co.uk/iplayer/live/bbctwo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-08T18:41:30+00:00"
-    },
-    {
-     "title": "'Tinkerman' Alonso's Chelsea side still searching for identity",
-     "summary": "Xabi Alonso's frustration is evident as Chelsea's struggles for an identity continue with the disappointing 1-0 defeat by Sunderland.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad64/live/45acce10-db9c-11f1-81e8-61c133a2b43c.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-08T18:20:56+00:00"
-    },
-    {
-     "title": "São Paulo Grand Prix: Formula One 2026 – live",
-     "summary": "️ Updates from Interlagos (race due to start 5pm GMT) ️ Email Daniel | Sign up for The Recap We’ve got dancers in the main straight, rain coming down. I’d not be shocked if we see some incidents today…",
-     "image": "https://i.guim.co.uk/img/media/db51ea2aaa5217beac3fc4a21e8a72e52b575fa0/262_11_3419_2737/master/3419.jpg?width=140&quality=85&auto=format&fit=max&s=b739f084140564e4369b0d410f40144f",
-     "url": "https://www.theguardian.com/sport/live/2026/nov/08/sao-paulo-f1-grand-prix-live-updates",
-     "source": "Guardian Sport",
-     "published": "2026-11-08T18:16:04+00:00"
-    },
-    {
      "title": "NFL week nine: Jets v Chiefs, Rams v Commanders, Broncos v Panthers and more – updates",
      "summary": "Bengals joint-top of AFC North with 34-17 win in Madrid What do the midterms mean for the NFL? | Email Graham Broncos 0-0 Panthers 14:56, 1st quarter Here we go! Carolina kick it away to Denver. The B…",
-     "image": "https://i.guim.co.uk/img/media/9212435bb11ecea3a737668885e744d9b63d90d8/271_0_2845_2276/master/2845.jpg?width=140&quality=85&auto=format&fit=max&s=36753fc3764dadf89e7eb8f441297a7f",
+     "image": "https://i.guim.co.uk/img/media/4b913ea25f9b76975f97aa57199acaecadce3179/732_0_5803_4643/master/5803.jpg?width=140&quality=85&auto=format&fit=max&s=5fbe68c571da192d7126d49d20bcd08d",
      "url": "https://www.theguardian.com/sport/live/2026/nov/08/nfl-week-nine-jets-v-chiefs-rams-v-commanders-broncos-v-panthers-and-more-updates",
      "source": "Guardian Sport",
-     "published": "2026-11-08T18:15:40+00:00"
+     "published": "2026-11-08T20:32:16+00:00"
     },
     {
-     "title": "Manchester United v Aston Villa: Premier League – live",
-     "summary": "⚽️ Premier League updates from 4.30pm GMT ⚽️ Jonathan Wilson: There are few reasons for Emery to leave Villa for United ⚽️ Today’s results | Mail Tim Sunderland have clung on to beat Chelsea 1-0, whic…",
-     "image": "https://i.guim.co.uk/img/media/44e8b9d51a9edcf13ef48c8d7c09d1631050c519/0_96_3859_3089/master/3859.jpg?width=140&quality=85&auto=format&fit=max&s=faac0f3b7fb85ac249f0978f33ceb362",
-     "url": "https://www.theguardian.com/football/live/2026/nov/08/man-utd-v-aston-villa-premier-league-live",
+     "title": "Week 4 Look Ahead: Luka Dončić continues to dominate, while Kon Knueppel is back on the injury report",
+     "summary": "Luka and Victor Wembanyama had elite performances in Week 3, while the Bulls welcome back center Nic Claxton.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/week-4-look-ahead-luka-201500001.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-08T20:15:00+00:00"
+    },
+    {
+     "title": "Man Utd score twice in stoppage time to share points in eight-goal thriller",
+     "summary": "Manchester United twice come back from two goals down to earn a point against Aston Villa in an eight-goal thriller at Old Trafford, although they will go into the international break in the Premier L…",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f78/live/514a5d20-dba9-11f1-93e1-3b657b665bcf.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/videos/cqj6jldpl2gyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-08T20:01:16+00:00"
+    },
+    {
+     "title": "Brighton breeze past 10-man Brentford to move up to second",
+     "summary": "Diego Gomez's long-range strike fires Brighton to a 2-0 over Brentford, who saw Igor Thiago be shown a straight red card, as Fabian Hurzeler's side move up to second in the Premier League.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8967/live/b01c8b60-dbaa-11f1-a701-fddedf244c16.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/videos/cry836l4q56po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-08T20:00:21+00:00"
+    },
+    {
+     "title": "Liverpool dispatch Palace to pile pressure on Sage",
+     "summary": "Liverpool see off Crystal Palace 3-1 at Selhurst Park as Pierre Sage's side suffer their fourth defeat in a row in the Premier League.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd96/live/6ce7c2c0-dba9-11f1-93e1-3b657b665bcf.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/videos/c5djv1mn7gj8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-08T19:58:46+00:00"
+    },
+    {
+     "title": "Struggling Sunderland beat Chelsea to move off bottom of Premier League",
+     "summary": "Sunderland held on to their first Premier League win since August as Enzo le Fee's penalty help the hosts sink Chelsea at the Stadium of Light.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0cb/live/72a12510-dbab-11f1-a701-fddedf244c16.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/videos/c64g1nj4v4rmo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-08T19:58:31+00:00"
+    },
+    {
+     "title": "Thunder trade grades: OKC swipes promising young wing Nique Clifford from the rebuilding Kings",
+     "summary": "The Thunder are sending two second-round picks to Sacramento",
+     "image": "https://sportshub.cbsistatic.com/i/2026/11/08/0c9b2064-d5cc-4259-a316-0adfd794109b/clifford-getty.png",
+     "url": "https://www.cbssports.com/nba/news/thunder-trade-grades-nique-clifford-kings/",
+     "source": "CBS Sports NBA",
+     "published": "2026-11-08T19:33:51+00:00"
+    },
+    {
+     "title": "Is Luka Dončić playing tonight? Injury update on Lakers star vs. Pistons",
+     "summary": "The Lakers will be without the driving force of their offense against one of the best defenses in the NBA to start their four-game road trip.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/luka-don-playing-tonight-injury-191718124.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-08T19:17:18+00:00"
+    },
+    {
+     "title": "Dominant Lando Norris powers to victory in São Paulo F1 Grand Prix",
+     "summary": "Mercedes wrap up constructors’ championship Red Bull’s Max Verstappen surges to second place Lando Norris won the São Paulo Grand Prix after an incident-packed race at Interlagos, including a remarkab…",
+     "image": "https://i.guim.co.uk/img/media/a6f4cc604bc1be7fe15c40578b7f7bf6efda1745/241_0_2414_1931/master/2414.jpg?width=140&quality=85&auto=format&fit=max&s=d6064f901484d3626aa210fbd9850ee3",
+     "url": "https://www.theguardian.com/sport/2026/nov/08/lando-norris-wins-f1-sao-paulo-grand-prix-max-verstappen-kimi-antonelli-lewis-hamilton-mercedes",
      "source": "Guardian Sport",
-     "published": "2026-11-08T18:15:36+00:00"
+     "published": "2026-11-08T19:12:32+00:00"
+    },
+    {
+     "title": "Dorgu rescues point for Manchester United in eight-goal thriller against Aston Villa",
+     "summary": "Does this late, late comeback draw keep Michael Carrick in his job? He urged United to back up their breathless Roma comeback victory on Tuesday by building momentum and they did, kind of, by avoiding…",
+     "image": "https://i.guim.co.uk/img/media/0aa088aa46fa510182e5835b6b1d067143e90c4f/325_0_3707_2967/master/3707.jpg?width=140&quality=85&auto=format&fit=max&s=aade0e16a816760ff2cb4902ebca9c02",
+     "url": "https://www.theguardian.com/football/2026/nov/08/manchester-united-aston-villa-premier-league-match-report",
+     "source": "Guardian Sport",
+     "published": "2026-11-08T18:54:23+00:00"
+    },
+    {
+     "title": "Luka Dončić sidelined for Lakers-Pistons game due to back tightness",
+     "summary": "The Lakers announced his status hours before Sunday's 6 p.m. ET tip. He entered Sunday listed as questionable.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/breaking-news/article/luka-doncic-sidelined-for-lakers-pistons-game-due-to-back-tightness-185318322.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-08T18:53:18+00:00"
+    },
+    {
+     "title": "Thunder reportedly trade for Kings' Nique Clifford in wake of injuries",
+     "summary": "The Thunder make the deal amid a spate of injuries that have created need up and down the roster.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/breaking-news/article/thunder-reportedly-trade-for-kings-nique-clifford-in-wake-of-injuries-185731868.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-08T18:15:38+00:00"
     },
     {
      "title": "Peschel scores on debut as USA rout Germany 5-0 at women’s hockey worlds",
@@ -279,60 +335,12 @@
      "published": "2026-11-08T18:00:54+00:00"
     },
     {
-     "title": "Alcaraz takes revenge on Shelton to win first Paris Masters title",
-     "summary": "Carlos Alcaraz takes revenge on Ben Shelton as the Spaniard's remarkable comeback from injury continues with victory in the final of the Paris Masters.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96ae/live/c1b3eb80-db95-11f1-a42b-dbe60e973664.jpg",
-     "url": "https://www.bbc.co.uk/sport/tennis/articles/ck9qz8d2znl5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-08T17:56:35+00:00"
-    },
-    {
-     "title": "England swat aside Wallabies to back up Borthwick",
-     "summary": "England provide emphatic on-pitch backing for head coach Steve Borthwick as they swat aside a listless Australia at Allianz Stadium.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b3d/live/75da4d80-db9f-11f1-93e1-3b657b665bcf.jpg",
-     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c9rkyg1gl7rgo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-08T17:04:08+00:00"
-    },
-    {
-     "title": "Jalen Duren will miss at least another 2 weeks due to hamstring injury, Pistons report",
-     "summary": "Duren has been sidelined since Detroit's October 23 game against Miami.",
-     "image": "",
-     "url": "https://sports.yahoo.com/nba/article/jalen-duren-will-miss-at-least-another-2-weeks-due-to-hamstring-injury-pistons-report-170925429.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-08T16:51:24+00:00"
-    },
-    {
-     "title": "Pistons vs Lakers preview: Best Defense vs best offense",
-     "summary": "Luka Dončić is rolling, but Detroit might have answers.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/0c4dce5d18b27c328fa37812e929e4a8.jpg",
-     "url": "https://sports.yahoo.com/articles/pistons-vs-lakers-preview-best-155739854.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-08T15:57:39+00:00"
-    },
-    {
-     "title": "Highlights: Spurs third-quarter barrage blows out Trail Blazers",
-     "summary": "After starting 0-2, the Spurs have now won eight straight.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/ff2ea6b19cae336c95e35c59b5defe09.jpg",
-     "url": "https://sports.yahoo.com/articles/highlights-spurs-third-quarter-barrage-152445234.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-08T15:24:45+00:00"
-    },
-    {
      "title": "2026 NBA betting promos: Get over $3,000 in bonuses from top online betting apps, sportsbooks for November 8",
      "summary": "Top NBA betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
      "image": "https://sportshub.cbsistatic.com/i/2026/10/21/558f7d31-9a65-4ee0-a221-05b5e910455d/luka-doncic-copy.jpg",
      "url": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-get-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-november-8/",
      "source": "CBS Sports NBA",
      "published": "2026-11-08T15:17:20+00:00"
-    },
-    {
-     "title": "Knicks Bulletin: ‘I wasn’t lying in that sense’",
-     "summary": "The Cavaliers beat the Knicks on Saturday, adding another win to their analytical spreadsheet. Cleveland remains undefeated on that front, while New York keeps stacking dubs on the court. Here’s some…",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/9b9c7f4ec588839925dbcc95ecd44f1c.jpg",
-     "url": "https://sports.yahoo.com/articles/knicks-bulletin-wasn-t-lying-150000971.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-08T15:00:00+00:00"
     },
     {
      "title": "Cavaliers coach Kenny Atkinson explains infamous 'analytically' quote during playoffs loss to Knicks",
@@ -349,14 +357,6 @@
      "url": "https://www.cbssports.com/nba/news/man-arrested-stalking-lebron-james-los-angeles-home/",
      "source": "CBS Sports NBA",
      "published": "2026-11-07T21:55:54+00:00"
-    },
-    {
-     "title": "The numbers behind Luka Dončić's historic start are entering the realm of ridiculous",
-     "summary": "Dončić scored 53 points in a Lakers win over the Blazers Friday night and looks like the runaway MVP in the early going",
-     "image": "https://sportshub.cbsistatic.com/i/2026/11/07/48669356-4ff5-421b-bfbc-6bb3f5004031/luka-numbers-getty.png",
-     "url": "https://www.cbssports.com/nba/news/luka-doncic-lakers-mvp-numbers-historic-start/",
-     "source": "CBS Sports NBA",
-     "published": "2026-11-07T15:28:16+00:00"
     }
    ]
   }
