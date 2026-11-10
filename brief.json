@@ -1,16 +1,72 @@
 {
- "generated": "2026-11-10T20:29:29.428066+00:00",
+ "generated": "2026-11-10T21:50:38.146448+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "花蓮秀林03:21發生規模3.4地震 最大震度2級",
-     "summary": "花蓮縣秀林鄉今天凌晨3時21分發生芮氏規模3.4有感地震，最大震度花蓮縣銅門2級。 根據中央氣象署資料顯示，今天3時21分在花蓮縣秀林鄉發生芮氏規模3.4地震，地震深度為2...…",
+     "title": "Rep. Jim Jordan, Sen. John Thune elected GOP leaders in Congress",
+     "summary": "House Speaker Mike Johnson, R-La., announced the day after Election Day he would not run for minority leader in the 120th Congress.",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5636398",
+     "url": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-10T21:48:48+00:00"
+    },
+    {
+     "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
+     "summary": "Business executives warned at a Washington summit of rising costs and shifting supply chains as polls showed growing opposition to Trump's tariffs.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-10T21:45:46+00:00"
+    },
+    {
+     "title": "遠東SOGO週年慶第二波開跑 忠孝館搶攻暖經濟大衣5折起 復興館生日慶加碼買一送一",
+     "summary": "遠東SOGO台北店39週年慶已於11月5日正式開跑，頂級客層發揮實力，造就週年慶首4日整體業績表現亮眼，客單價逆勢成長13%，包括珠寶、精品、家電以及化妝品的表現皆超出預期。今（11）日起進入週年慶第二波檔期，在特惠組與折扣的誘因下，加上氣溫轉涼保暖需求大增，遠東SOGO對業績深具信心。…",
+     "image": "",
+     "url": "https://istyle.ltn.com.tw/article/41571",
      "source": "自由時報",
-     "published": "2026-11-10T20:24:01+00:00"
+     "published": "2026-11-10T21:40:00+00:00"
+    },
+    {
+     "title": "台灣奧迪RS 5車系全新登場 Audi Sport首款高性能PHEV 房車與旅行車型雙箭並進",
+     "summary": "台灣奧迪（Audi）昨（10）日正式宣布全新Audi RS 5車系上市，成為Audi Sport家族首款高性能插電式油電（PHEV）力作，結合V6渦輪動力、革新quattro操控科技以及寬體性能美學，具備強悍實力、純電續航與頂級操控，讓RS 5車系同時滿足熱血駕馭與日常通勤，提供Sedan房車與Avant旅行車型選擇，售價591萬元起。…",
+     "image": "",
+     "url": "https://auto.ltn.com.tw/news/33410",
+     "source": "自由時報",
+     "published": "2026-11-10T21:38:00+00:00"
+    },
+    {
+     "title": "RIMOWA行李箱換裝演繹藝術美學 暮土棕曜藍色點綴旅行配件 Groove迷你托特包齊亮相",
+     "summary": "RIMOWA為秋冬帶來兩款季節新色，將古典繪畫中的色彩轉化為時尚設計，推出Umber暮土棕與Ultramarine曜藍色，同步運用於Essential行李箱以及Groove皮革包袋系列，讓旅行配件也能展現藝術美感。…",
+     "image": "",
+     "url": "https://istyle.ltn.com.tw/article/41572",
+     "source": "自由時報",
+     "published": "2026-11-10T21:36:00+00:00"
+    },
+    {
+     "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
+     "summary": "CoreWeave's stock has been hammered heading into the neocloud's Q3 earnings report.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-10T21:35:02+00:00"
+    },
+    {
+     "title": "川普宣告 伊戰已實質結束",
+     "summary": "強調海上軍事封鎖持續 〔編譯林家宇／綜合報導〕美國總統川普九日與卡達總理穆罕默德（Mohammed bin Abdulrahman Al Thani）舉行會談後，宣稱與伊朗的戰事「實質結束」，暫無必要採取軍事行動，但也強調美軍仍蓄勢待發，且會持續對德黑蘭實施海上軍事封鎖。穆罕默德是德黑蘭的重要斡旋…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/paper/1778011",
+     "source": "自由時報",
+     "published": "2026-11-10T21:30:00+00:00"
+    },
+    {
+     "title": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
+     "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/1b8d2f10-dd47-11f1-9ac0-6b8f7fc58221.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-10T21:23:00+00:00"
     },
     {
      "title": "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security",
@@ -18,15 +74,39 @@
      "image": "",
      "url": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
      "source": "CNBC Top News",
-     "published": "2026-11-10T20:19:35+00:00"
+     "published": "2026-11-10T21:11:36+00:00"
     },
     {
-     "title": "S&P 500 falls after hot CPI ignites inflation concerns: Live updates",
-     "summary": "Traders reacted to a pivotal consumer inflation report as well as new comments from a key Federal Reserve official.",
+     "title": "2026 Midterms: Blue wave or anti-establishment backlash?",
+     "summary": "Emma Vigeland and Olivia Troye join Josh Rushing to discuss the fallout of the 2026 midterm elections.",
      "image": "",
-     "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-10T20:17:10+00:00"
+     "url": "https://www.aljazeera.com/video/lets-focus/2026/11/10/2026-midterms-blue-wave-or-anti-establishment-backlash?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-10T21:00:55+00:00"
+    },
+    {
+     "title": "White House announces funds for law enforcement programme in several cities",
+     "summary": "Trump administration awarded more than $60m each to St Louis, Missouri, and Jackson, Mississippi, in crime push.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/11/10/white-house-announces-funds-for-law-enforcement-programme-in-several-cities?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-10T21:00:01+00:00"
+    },
+    {
+     "title": "US soldier arrested in UK on suspicion of spying for Russia",
+     "summary": "London Metropolitan Police says its 'counterterror' forces worked closely with the FBI and US military to make arrest.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-10T20:41:53+00:00"
+    },
+    {
+     "title": "Netanyahu and Eisenkot push for new government after election deadlock",
+     "summary": "",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/netanyahu-and-eisenkot-push-for-new-government-after-election-deadlock?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-10T20:39:46+00:00"
     },
     {
      "title": "French police raid Ritz hotel in Mohamed Al Fayed sexual abuse investigation",
@@ -37,46 +117,6 @@
      "published": "2026-11-10T20:00:43+00:00"
     },
     {
-     "title": "Trump administration seeks to cut food aid for more than six million people",
-     "summary": "Trump’s proposal builds on earlier cuts to federal food aid programme used by more than 36 million low-income Americans.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/10/trump-administration-seeks-to-cut-food-aid-for-more-than-six-million-people?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T20:00:18+00:00"
-    },
-    {
-     "title": "Who was Al Jazeera cartoonist Shujaat Ali?",
-     "summary": "",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/who-was-al-jazeera-cartoonist-shujaat-ali?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T19:55:13+00:00"
-    },
-    {
-     "title": "Republicans elect Trump ally Jim Jordan as new US House minority leader",
-     "summary": "Ohio Congressman Jim Jordan to succeed Mike Johnson as GOP minority leader, promising unity and a robust opposition.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/10/republicans-elect-trump-ally-jim-jordan-as-new-us-house-minority-leader?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T19:54:46+00:00"
-    },
-    {
-     "title": "Rubio says no need for major combat operations against Iran",
-     "summary": "US Secretary of State Marco Rubio says there is “no need” for further major combat operations against Iran",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T19:34:13+00:00"
-    },
-    {
-     "title": "分析：合格碳權供不應求　全球航空業減排面臨窘境",
-     "summary": "全球首個要求航空公司為碳排付費的國際減碳機制即將落實，但業者與市場分析師警告因市場上符合資格的碳抵換額度極為短缺，全球航空業面臨「買不到碳權履約」窘境。 路透社報導，儘管航空業並非全球總排...…",
-     "image": "",
-     "url": "https://ec.ltn.com.tw/article/breakingnews/5636399",
-     "source": "自由時報",
-     "published": "2026-11-10T19:30:06+00:00"
-    },
-    {
      "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
      "summary": "Supporters of Sheikh Hasina want her to return from exile in India.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb4a/live/173fa7e0-dd3c-11f1-a701-fddedf244c16.png",
@@ -85,52 +125,12 @@
      "published": "2026-11-10T19:26:42+00:00"
     },
     {
-     "title": "盧比歐稱美國重創伊朗經濟　暫無必要重啟大規模軍事行動",
-     "summary": "美國國務卿盧比歐（Marco Rubio）今天表示，美方對伊朗的經濟制裁與其他限制措施成效顯著，因此目前沒必要對德黑蘭重啟大規模軍事行動。 法新社報導，盧比歐參加在巴黎舉行的七大工業國集團...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5636397",
-     "source": "自由時報",
-     "published": "2026-11-10T19:06:03+00:00"
-    },
-    {
      "title": "Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK",
      "summary": "Countries clash over Sea Lion project as Hamburg tribunal risks deepening sovereignty dispute The people of the Falkland Islands face “devastating consequences” if Argentina is successful in blocking…",
      "image": "https://i.guim.co.uk/img/media/5d2b5e1b9e781a1b5a8dd0e647c4fd2a9b8b0afb/295_244_2470_1977/master/2470.jpg?width=140&quality=85&auto=format&fit=max&s=35f0b486f371c4981f8f6f278cadd89d",
      "url": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
      "source": "Guardian World",
      "published": "2026-11-10T19:01:33+00:00"
-    },
-    {
-     "title": "Testing the new generation of AI-enabled fire-extinguishing drones",
-     "summary": "Drone makers are testing new, big drones that can deliver water or fire retardant with AI assistance. Aspen, Colorado is the first place trying them out. Cool and expensive? Yes. Effective? TBD.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F50%2F80%2F01baaa0a4c94873b6dc5ebe9eedc%2Fseneca-drone.jpg",
-     "url": "https://www.npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones",
-     "source": "NPR News",
-     "published": "2026-11-10T19:00:00+00:00"
-    },
-    {
-     "title": "《TAIPEI TIMES》Authorities seize billions in illicit funds crackdown",
-     "summary": "CLOSING THE TAP:In operations between August and last week, 445 cases involving illicit financial fl...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5636349",
-     "source": "自由時報",
-     "published": "2026-11-10T19:00:00+00:00"
-    },
-    {
-     "title": "U.S. boycotts U.N. human rights review for second year running",
-     "summary": "The U.S. has skipped a key U.N. human rights review for the second year running. Rights groups warn the absence risks undermining global accountability.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F10%2F22%2F6354cb404769a55ba009fd435001%2Fwhatsapp-image-2026-11-10-at-12-35-09-pm.jpeg",
-     "url": "https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva",
-     "source": "NPR News",
-     "published": "2026-11-10T18:53:34+00:00"
-    },
-    {
-     "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
-     "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59a5/live/b9ccd5d0-dd2a-11f1-ab46-9fae224bbf6f.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-10T18:33:51+00:00"
     }
    ]
   },
@@ -162,8 +162,24 @@
      "published": "2026-11-10T18:39:16+00:00"
     },
     {
+     "title": "Synaptics patent claims stop work on DisplayLink drivers",
+     "summary": "Article URL: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/ Comments URL: https://news.ycombinator.com/item?id=50443824 Points: 197 # Comments: 87",
+     "image": "",
+     "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-10T18:02:02+00:00"
+    },
+    {
+     "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+     "summary": "Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without s everywhere, ` ` and showModal() give you backdrops and idea…",
+     "image": "",
+     "url": "https://github.com/GoogleChrome/modern-web-guidance",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-10T18:01:15+00:00"
+    },
+    {
      "title": "Val Town is winding down",
-     "summary": "Article URL: https://blog.val.town/winding-down Comments URL: https://news.ycombinator.com/item?id=50443427 Points: 165 # Comments: 46",
+     "summary": "Article URL: https://blog.val.town/winding-down Comments URL: https://news.ycombinator.com/item?id=50443427 Points: 224 # Comments: 56",
      "image": "",
      "url": "https://blog.val.town/winding-down",
      "source": "Hacker News Front Page",
@@ -179,27 +195,11 @@
     },
     {
      "title": ".name Grandfathered",
-     "summary": "Article URL: https://neil.fraser.name/news/2026/11/10/ Comments URL: https://news.ycombinator.com/item?id=50442736 Points: 446 # Comments: 87",
+     "summary": "Article URL: https://neil.fraser.name/news/2026/11/10/ Comments URL: https://news.ycombinator.com/item?id=50442736 Points: 540 # Comments: 108",
      "image": "",
      "url": "https://neil.fraser.name/news/2026/11/10/",
      "source": "Hacker News Front Page",
      "published": "2026-11-10T16:37:44+00:00"
-    },
-    {
-     "title": "Blender 5.3 released with Gaussian Splat support",
-     "summary": "Article URL: https://www.blender.org/download/releases/5-3/ Comments URL: https://news.ycombinator.com/item?id=50442426 Points: 327 # Comments: 45",
-     "image": "",
-     "url": "https://www.blender.org/download/releases/5-3/",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-10T16:15:43+00:00"
-    },
-    {
-     "title": "Smart home devices should work without the internet",
-     "summary": "Article URL: https://docodethatmatters.com/home-automation-overnight-success/ Comments URL: https://news.ycombinator.com/item?id=50441707 Points: 396 # Comments: 159",
-     "image": "",
-     "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-10T15:25:20+00:00"
     },
     {
      "title": "DART 撞擊後，赫拉號首拍雙小行星",
@@ -271,12 +271,20 @@
    "label": "運動",
    "items": [
     {
-     "title": "NFL trade deadline 2026: Vikings reunite with Kirk Cousins in blockbuster, Bengals-Eagles deal collapses – live updates",
-     "summary": "All the latest news and deals before the today’s deadline Vikings reunite with QB Kirk Cousins in deal with Vegas Niners add WR Keenan Allen; Bills land S Amani Hooker Follow the buildup to the 4pm ET…",
+     "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Celtics-76ers, Texas Tech-Illinois, NBA Tuesday",
+     "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NBA, college basketball, NFL betting on Tuesday",
+     "image": "https://sportshub.cbsistatic.com/i/2026/09/08/8c9b2f2a-2dd9-45bb-932a-45e8faf837ef/betmgm-promo-code-september-2026.jpg",
+     "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-celtics-76ers-texas-tech-illinois-nba-tuesday/",
+     "source": "CBS Sports NBA",
+     "published": "2026-11-10T21:35:36+00:00"
+    },
+    {
+     "title": "NFL trade deadline 2026: Vikings reunite with Kirk Cousins; Colts stick with Taylor; 49ers get WR Allen – live reaction",
+     "summary": "All the latest news and deals before today’s deadline Vikings reunite with QB Kirk Cousins in deal with Vegas Niners add WR Keenan Allen; Bills land S Amani Hooker Follow the buildup to the 4pm ET cut…",
      "image": "https://i.guim.co.uk/img/media/96e943d0033fbb8b63ae5ace6036fc9ef4d200a9/984_0_5013_4012/master/5013.jpg?width=140&quality=85&auto=format&fit=max&s=e330f92aad6cec20ff853236e400c14e",
      "url": "https://www.theguardian.com/sport/live/2026/nov/10/nfl-trade-deadline-2026-live-updates-deals-rumors-news",
      "source": "Guardian Sport",
-     "published": "2026-11-10T20:20:06+00:00"
+     "published": "2026-11-10T21:25:14+00:00"
     },
     {
      "title": "Sixers tease Celtics with 'Why Can't We Be Friends' amid Tatum-Brown feud",
@@ -287,12 +295,28 @@
      "published": "2026-11-10T20:18:31+00:00"
     },
     {
+     "title": "Boston Celtics Daily Links 11/10/26",
+     "summary": "All the Celtics news you need in one convenient place.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/aec07c86ceb1e4c5b8bdf13a0effe032.jpg",
+     "url": "https://sports.yahoo.com/articles/boston-celtics-daily-links-11-191536760.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-10T19:15:36+00:00"
+    },
+    {
      "title": "Firing a manager is often more about maintaining the illusion of control",
      "summary": "In an era of advanced analytics, deciding when to move on from a manager still seems to come down to vibes rather than logic He just had to go. His position had become untenable. Leander Schaerlaecken…",
      "image": "https://i.guim.co.uk/img/media/f5fc5e216788663c63a4855eae3efd684e3f1755/205_0_1435_1148/master/1435.jpg?width=140&quality=85&auto=format&fit=max&s=472682f084253969868dfa7463a1c7bc",
      "url": "https://www.theguardian.com/football/2026/nov/10/michael-carrick-firing-managers-premier-league",
      "source": "Guardian Sport",
      "published": "2026-11-10T19:03:04+00:00"
+    },
+    {
+     "title": "What We Learned from the Spurs win over the Suns",
+     "summary": "Wembanyama goes for 40 on another easy night",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/884e3ae7cd42fa9dd6263c4800d3890a.jpg",
+     "url": "https://sports.yahoo.com/articles/learned-spurs-win-over-suns-183714831.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-10T18:37:14+00:00"
     },
     {
      "title": "2026 NBA betting promos: Get over $3,000 in bonuses from top online betting apps, sportsbooks for Nov. 10",
@@ -303,28 +327,20 @@
      "published": "2026-11-10T18:35:04+00:00"
     },
     {
+     "title": "Views from the Game: Rockets defeat Nuggets 110-100; TDS speaks with Kevin Durant, Alperen Sengun",
+     "summary": "The Rockets beat the Nuggets, and TDS spoke to Houston’s two stars.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/8a7b8080a29e84153fd1af0baf67905d.jpg",
+     "url": "https://sports.yahoo.com/articles/views-game-rockets-defeat-nuggets-182857951.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-10T18:28:57+00:00"
+    },
+    {
      "title": "Cooper Flagg beats LeBron James, Anthony Edwards to NBA history: How the Mavericks star leveled up",
      "summary": "Flagg is the first teenager in NBA history to record five 40-point games",
      "image": "https://sportshub.cbsistatic.com/i/2026/11/10/84b4a49b-4b2a-45a1-a7bb-2966f725792d/flagg-getty.png",
      "url": "https://www.cbssports.com/nba/news/cooper-flagg-nba-history-teenager-mavericks/",
      "source": "CBS Sports NBA",
      "published": "2026-11-10T18:27:57+00:00"
-    },
-    {
-     "title": "Wemby goes wild, Thunder check-in + Unrivaled rosters revealed",
-     "summary": "Nekias and Steve break down Wemby's big night, high flying rookies, and the Unrivaled rosters.",
-     "image": "",
-     "url": "https://sports.yahoo.com/nba/article/wemby-goes-wild-thunder-check-in--unrivaled-rosters-revealed-182622624.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-10T18:26:22+00:00"
-    },
-    {
-     "title": "Lakers ‘registered interest’ in Nique Clifford before trade to Thunder",
-     "summary": "Los Angeles was one of three other teams besides the Thunder to gauge the market for Clifford",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/49ebf856a6204add17b116e1ca838e8f.jpg",
-     "url": "https://sports.yahoo.com/articles/lakers-registered-interest-nique-clifford-181643344.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-10T18:16:43+00:00"
     },
     {
      "title": "The Monaco summit that will decide the future of Carrick and Man Utd",
@@ -335,28 +351,12 @@
      "published": "2026-11-10T18:12:02+00:00"
     },
     {
-     "title": "Cleveland Cavaliers vs. New York Knicks: How to watch the NBA game with Sling TV",
-     "summary": "Tune in to the Cavaliers vs. Knicks game without cable — here's how.",
-     "image": "",
-     "url": "https://sports.yahoo.com/nba/article/cleveland-cavaliers-vs-new-york-knicks-how-to-watch-the-nba-game-with-sling-tv-180250931.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-10T18:02:50+00:00"
-    },
-    {
      "title": "Mauricio Pochettino interested in leaving USMNT job for Manchester United",
      "summary": "Coach’s contract has release clause of about $10m United expected to sack Michael Carrick after awful start US men’s national team head coach Mauricio Pochettino is interested in a move to Manchester…",
      "image": "https://i.guim.co.uk/img/media/3cc99fc110813bdce8e26eca468776c682bebc79/241_0_3848_3079/master/3848.jpg?width=140&quality=85&auto=format&fit=max&s=cb1644159c61e6d1bce7a9d58421d3e9",
      "url": "https://www.theguardian.com/football/2026/nov/10/mauricio-pochettino-interested-manchester-united-usmnt-release-clause",
      "source": "Guardian Sport",
      "published": "2026-11-10T17:40:40+00:00"
-    },
-    {
-     "title": "Celtics vs. 76ers NBA picks: Expect big nights from Jayson Tatum, Jaylen Brown in first grudge game of season",
-     "summary": "It's all about Jayson Tatum vs. Jaylen Brown tonight in Celtics-76ers",
-     "image": "https://sportshub.cbsistatic.com/i/2026/11/10/e2c6e5bf-1bd0-49f7-8dc7-29f09f33b812/2026-10-17t002743z-1661212954-mt1usatoday30102045-rtrmadp-3-nba-preseason-boston-celtics-at-philadelphia-76ers-jpg.jpg",
-     "url": "https://www.cbssports.com/betting/news/celtics-vs-76ers-nba-picks-expect-big-nights-from-jayson-tatum-jaylen-brown-in-first-grudge-game-of-season/",
-     "source": "CBS Sports NBA",
-     "published": "2026-11-10T17:26:11+00:00"
     },
     {
      "title": "McTominay reveals heart treatment at World Cup",
