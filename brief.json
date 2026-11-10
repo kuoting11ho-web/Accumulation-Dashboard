@@ -1,32 +1,24 @@
 {
- "generated": "2026-11-10T17:57:13.070256+00:00",
+ "generated": "2026-11-10T20:29:29.428066+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
-     "summary": "Treasury yields moved higher after hotter-than-expected CPI report.",
+     "title": "花蓮秀林03:21發生規模3.4地震 最大震度2級",
+     "summary": "花蓮縣秀林鄉今天凌晨3時21分發生芮氏規模3.4有感地震，最大震度花蓮縣銅門2級。 根據中央氣象署資料顯示，今天3時21分在花蓮縣秀林鄉發生芮氏規模3.4地震，地震深度為2...…",
      "image": "",
-     "url": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-10T17:49:39+00:00"
-    },
-    {
-     "title": "Americans across the economic spectrum feel a 'panic' about finances, author says",
-     "summary": "Mona Chalabi spent five years following Americans living paycheck to paycheck, as well as those earning top wages. Her new book, Ten Lives, explores why financial security can feel so elusive.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2337x1314+0+0/resize/2337x1314!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa3%2F5e%2Fdaf2874a4362acdd7ca356889eb6%2Fap26273714991906.jpg",
-     "url": "https://www.npr.org/2026/11/10/nx-s1-6032767/mona-chalabi-ten-lives",
-     "source": "NPR News",
-     "published": "2026-11-10T17:46:25+00:00"
-    },
-    {
-     "title": "外媒指立陶宛要求代表處更名 立國議員批政府拿台灣當對中籌碼",
-     "summary": "對於立陶宛據報要求駐立陶宛台灣代表處更名，立陶宛國會議員馬爾德基斯發文批評，政府將台灣當成處理對中關係的籌碼，對台政策反覆，並質疑外交部不理解地緣政治，損害立陶宛的國際主體性與國家安全。 ...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5636376",
+     "url": "https://news.ltn.com.tw/news/life/breakingnews/5636398",
      "source": "自由時報",
-     "published": "2026-11-10T17:43:56+00:00"
+     "published": "2026-11-10T20:24:01+00:00"
+    },
+    {
+     "title": "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security",
+     "summary": "Rep. John Moolenaar, R-Mich., the Republican chairman of the Select Committee on China and told CNBC he expects answers about Jensen Huang's relationship.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-10T20:19:35+00:00"
     },
     {
      "title": "S&P 500 falls after hot CPI ignites inflation concerns: Live updates",
@@ -34,103 +26,111 @@
      "image": "",
      "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
      "source": "CNBC Top News",
-     "published": "2026-11-10T17:43:53+00:00"
+     "published": "2026-11-10T20:17:10+00:00"
     },
     {
-     "title": "美要求台調查黃仁勳案？卓榮泰的回應耐人尋味",
-     "summary": "輝達執行長黃仁勳近日捲婚外情風波，小三黃樂（Alice Huang）還被美國政府懷疑是中國間諜介入調查，震驚國際政經圈和科技界。對此，我國行政院長卓榮泰週二（10日）被問到美國在...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5636372",
-     "source": "自由時報",
-     "published": "2026-11-10T17:37:40+00:00"
-    },
-    {
-     "title": "看2026選情 鄭麗文：北北基桃能過關、3縣市「大家感覺較危險」",
-     "summary": "國民黨主席鄭麗文日前表示，希望2026地方大選可以維持現在的席次，昨天她接受「鏡電視」專訪，談及大家感覺比較危險的，就是彰化縣、宜蘭縣和新竹縣，不過新竹縣已回穩，四都（北北基桃...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5636388",
-     "source": "自由時報",
-     "published": "2026-11-10T17:33:03+00:00"
-    },
-    {
-     "title": "市場關注AI領域前景　歐股收盤走勢不一",
-     "summary": "人工智慧（AI）新創公司Anthropic將進行備受矚目的大型首次公開募股（IPO）之際，投資人緊盯跌深反彈的科技股走勢，歐洲股市主要指數今天收盤互有漲跌。 倫敦FTSE 100指數小跌3...…",
-     "image": "",
-     "url": "https://ec.ltn.com.tw/article/breakingnews/5636393",
-     "source": "自由時報",
-     "published": "2026-11-10T17:30:04+00:00"
-    },
-    {
-     "title": "First day of Ukraine peace talks constructive, Zelensky says",
-     "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d8b/live/22dad050-dd25-11f1-93e1-3b657b665bcf.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-10T17:29:36+00:00"
-    },
-    {
-     "title": "Anthropic targets $1.4 trillion valuation in massive stock market debut",
-     "summary": "The maker of Claude is looking to raise up to $64.4bn in one of the largest IPOs in history next week.",
-     "image": "",
-     "url": "https://www.aljazeera.com/economy/2026/11/10/anthropic-targets-1-4-trillion-valuation-in-massive-stock-market-debut?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T17:21:58+00:00"
-    },
-    {
-     "title": "Israeli president warns against repeat election in new Knesset session",
-     "summary": "Herzog calls for an inquiry into the October 7 attacks during a Knesset session amid political gridlock following elections.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/10/israeli-president-warns-against-repeat-election-in-new-knesset-session?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T17:16:15+00:00"
-    },
-    {
-     "title": "Israel's new parliament sworn in as leaders compete to form government",
-     "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f9/live/603c9f80-dcf5-11f1-93e1-3b657b665bcf.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-10T17:03:16+00:00"
-    },
-    {
-     "title": "Security forces seized top court, Somalia’s ex-chief justice says",
-     "summary": "Somalia’s former Chief Justice said more than 300 security forces had ‘militarily occupied’ the Supreme Court.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/security-forces-seized-top-court-somalias-ex-chief-justice-says?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T17:02:23+00:00"
-    },
-    {
-     "title": "Qatari PM’s Washington visit comes amid renewed US–Iran diplomacy",
-     "summary": "Nayef Al-Nabet discusses the Qatari prime minister’s visit to Washington.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/qatari-pms-washington-visit-comes-amid-renewed-us-iran?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-10T16:39:25+00:00"
-    },
-    {
-     "title": "Here's the inflation breakdown for October 2026 — in one chart",
-     "summary": "The consumer price index rose 0.4% in October, a reduction from September but a level economists said is still uncomfortably high.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/10/october-2026-cpi-inflation-breakdown.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-10T16:36:40+00:00"
-    },
-    {
-     "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
-     "summary": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1966/live/79e95480-dcfc-11f1-a701-fddedf244c16.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-10T16:19:48+00:00"
-    },
-    {
-     "title": "‘Flying cars’ could launch in China next summer, maker of two-seat model says",
-     "summary": "XPeng says its $300k low-altitude device will soon be ready for emergency services and recreational use in rural areas People could start taking trips in so-called flying cars in China as soon as next…",
-     "image": "https://i.guim.co.uk/img/media/8df726b5a5310c3a6db89297bbc9ba32d8cfa244/279_0_3938_3150/master/3938.jpg?width=140&quality=85&auto=format&fit=max&s=0c3f9242ac951387df06b2a3f81702ca",
-     "url": "https://www.theguardian.com/technology/2026/nov/10/flying-cars-china-next-summer-xpeng",
+     "title": "French police raid Ritz hotel in Mohamed Al Fayed sexual abuse investigation",
+     "summary": "Arrests made after three properties were searched in relation to inquiry into late businessman French police have made arrests after raiding three properties, including the Ritz hotel in Paris , in re…",
+     "image": "https://i.guim.co.uk/img/media/96a61912cb10258f84def75b6aba271267ad0e13/792_0_2494_1994/master/2494.jpg?width=140&quality=85&auto=format&fit=max&s=b44f531308d81937c7af1d933484fdd4",
+     "url": "https://www.theguardian.com/world/2026/nov/10/french-police-raid-ritz-hotel-in-mohamed-al-fayed-sexual-abuse-investigation",
      "source": "Guardian Business",
-     "published": "2026-11-10T16:14:50+00:00"
+     "published": "2026-11-10T20:00:43+00:00"
+    },
+    {
+     "title": "Trump administration seeks to cut food aid for more than six million people",
+     "summary": "Trump’s proposal builds on earlier cuts to federal food aid programme used by more than 36 million low-income Americans.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/11/10/trump-administration-seeks-to-cut-food-aid-for-more-than-six-million-people?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-10T20:00:18+00:00"
+    },
+    {
+     "title": "Who was Al Jazeera cartoonist Shujaat Ali?",
+     "summary": "",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/who-was-al-jazeera-cartoonist-shujaat-ali?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-10T19:55:13+00:00"
+    },
+    {
+     "title": "Republicans elect Trump ally Jim Jordan as new US House minority leader",
+     "summary": "Ohio Congressman Jim Jordan to succeed Mike Johnson as GOP minority leader, promising unity and a robust opposition.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/11/10/republicans-elect-trump-ally-jim-jordan-as-new-us-house-minority-leader?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-10T19:54:46+00:00"
+    },
+    {
+     "title": "Rubio says no need for major combat operations against Iran",
+     "summary": "US Secretary of State Marco Rubio says there is “no need” for further major combat operations against Iran",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-10T19:34:13+00:00"
+    },
+    {
+     "title": "分析：合格碳權供不應求　全球航空業減排面臨窘境",
+     "summary": "全球首個要求航空公司為碳排付費的國際減碳機制即將落實，但業者與市場分析師警告因市場上符合資格的碳抵換額度極為短缺，全球航空業面臨「買不到碳權履約」窘境。 路透社報導，儘管航空業並非全球總排...…",
+     "image": "",
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5636399",
+     "source": "自由時報",
+     "published": "2026-11-10T19:30:06+00:00"
+    },
+    {
+     "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+     "summary": "Supporters of Sheikh Hasina want her to return from exile in India.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb4a/live/173fa7e0-dd3c-11f1-a701-fddedf244c16.png",
+     "url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-10T19:26:42+00:00"
+    },
+    {
+     "title": "盧比歐稱美國重創伊朗經濟　暫無必要重啟大規模軍事行動",
+     "summary": "美國國務卿盧比歐（Marco Rubio）今天表示，美方對伊朗的經濟制裁與其他限制措施成效顯著，因此目前沒必要對德黑蘭重啟大規模軍事行動。 法新社報導，盧比歐參加在巴黎舉行的七大工業國集團...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5636397",
+     "source": "自由時報",
+     "published": "2026-11-10T19:06:03+00:00"
+    },
+    {
+     "title": "Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK",
+     "summary": "Countries clash over Sea Lion project as Hamburg tribunal risks deepening sovereignty dispute The people of the Falkland Islands face “devastating consequences” if Argentina is successful in blocking…",
+     "image": "https://i.guim.co.uk/img/media/5d2b5e1b9e781a1b5a8dd0e647c4fd2a9b8b0afb/295_244_2470_1977/master/2470.jpg?width=140&quality=85&auto=format&fit=max&s=35f0b486f371c4981f8f6f278cadd89d",
+     "url": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
+     "source": "Guardian World",
+     "published": "2026-11-10T19:01:33+00:00"
+    },
+    {
+     "title": "Testing the new generation of AI-enabled fire-extinguishing drones",
+     "summary": "Drone makers are testing new, big drones that can deliver water or fire retardant with AI assistance. Aspen, Colorado is the first place trying them out. Cool and expensive? Yes. Effective? TBD.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F50%2F80%2F01baaa0a4c94873b6dc5ebe9eedc%2Fseneca-drone.jpg",
+     "url": "https://www.npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones",
+     "source": "NPR News",
+     "published": "2026-11-10T19:00:00+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》Authorities seize billions in illicit funds crackdown",
+     "summary": "CLOSING THE TAP:In operations between August and last week, 445 cases involving illicit financial fl...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5636349",
+     "source": "自由時報",
+     "published": "2026-11-10T19:00:00+00:00"
+    },
+    {
+     "title": "U.S. boycotts U.N. human rights review for second year running",
+     "summary": "The U.S. has skipped a key U.N. human rights review for the second year running. Rights groups warn the absence risks undermining global accountability.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F10%2F22%2F6354cb404769a55ba009fd435001%2Fwhatsapp-image-2026-11-10-at-12-35-09-pm.jpeg",
+     "url": "https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva",
+     "source": "NPR News",
+     "published": "2026-11-10T18:53:34+00:00"
+    },
+    {
+     "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+     "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59a5/live/b9ccd5d0-dd2a-11f1-ab46-9fae224bbf6f.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-10T18:33:51+00:00"
     }
    ]
   },
@@ -138,60 +138,68 @@
    "label": "AI",
    "items": [
     {
+     "title": "Google Fi adds support for a second 5G network, won't say which one",
+     "summary": "Fi has always supported T-Mobile, but the new one? Google won't say.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Google-Fi-500x500.jpg",
+     "url": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/",
+     "source": "Ars Technica",
+     "published": "2026-11-10T19:35:59+00:00"
+    },
+    {
+     "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
+     "summary": "Spruce up your home screen with expanded custom icons and AI-generated widgets.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Pixel-11-series-6-500x500.jpg",
+     "url": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
+     "source": "Ars Technica",
+     "published": "2026-11-10T19:00:26+00:00"
+    },
+    {
+     "title": "Free video-streaming service Tubi lets users share curated watchlists now",
+     "summary": "User-based recommendations could make it easier to find stuff to watch on Tubi.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Device-OTT-Purple-BG-500x500.png",
+     "url": "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/",
+     "source": "Ars Technica",
+     "published": "2026-11-10T18:39:16+00:00"
+    },
+    {
+     "title": "Val Town is winding down",
+     "summary": "Article URL: https://blog.val.town/winding-down Comments URL: https://news.ycombinator.com/item?id=50443427 Points: 165 # Comments: 46",
+     "image": "",
+     "url": "https://blog.val.town/winding-down",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-10T17:31:14+00:00"
+    },
+    {
+     "title": "Steam Deck performance gets a reality check with Valve's new FPS data",
+     "summary": "Benchmark tools for generic gaming rigs could be coming soon.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-scaled-500x500-1794329056.jpg",
+     "url": "https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data/",
+     "source": "Ars Technica",
+     "published": "2026-11-10T17:26:44+00:00"
+    },
+    {
      "title": ".name Grandfathered",
-     "summary": "Article URL: https://neil.fraser.name/news/2026/11/10/ Comments URL: https://news.ycombinator.com/item?id=50442736 Points: 189 # Comments: 24",
+     "summary": "Article URL: https://neil.fraser.name/news/2026/11/10/ Comments URL: https://news.ycombinator.com/item?id=50442736 Points: 446 # Comments: 87",
      "image": "",
      "url": "https://neil.fraser.name/news/2026/11/10/",
      "source": "Hacker News Front Page",
      "published": "2026-11-10T16:37:44+00:00"
     },
     {
-     "title": "High oil prices have led to a dip in global carbon emissions",
-     "summary": "Bucking recent trends, fossil fuel emissions look to be down 0.4 percent.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2297120164-500x500.jpg",
-     "url": "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/",
-     "source": "Ars Technica",
-     "published": "2026-11-10T16:29:27+00:00"
-    },
-    {
-     "title": "One space station company sues another for copying its work",
-     "summary": "\"NASA advised that Vast’s submission in some locations substituted 'the PAM Provider' for Axiom\"",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/KSC-20230521-PH-CSH01_0001large-500x500.jpg",
-     "url": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/",
-     "source": "Ars Technica",
-     "published": "2026-11-10T16:17:51+00:00"
-    },
-    {
      "title": "Blender 5.3 released with Gaussian Splat support",
-     "summary": "Article URL: https://www.blender.org/download/releases/5-3/ Comments URL: https://news.ycombinator.com/item?id=50442426 Points: 204 # Comments: 29",
+     "summary": "Article URL: https://www.blender.org/download/releases/5-3/ Comments URL: https://news.ycombinator.com/item?id=50442426 Points: 327 # Comments: 45",
      "image": "",
      "url": "https://www.blender.org/download/releases/5-3/",
      "source": "Hacker News Front Page",
      "published": "2026-11-10T16:15:43+00:00"
     },
     {
-     "title": "Gemini 4 Carbon is now available",
-     "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/ Comments URL: https://news.ycombinator.com/item?id=50442303 Points: 207 # Comments:…",
+     "title": "Smart home devices should work without the internet",
+     "summary": "Article URL: https://docodethatmatters.com/home-automation-overnight-success/ Comments URL: https://news.ycombinator.com/item?id=50441707 Points: 396 # Comments: 159",
      "image": "",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+     "url": "https://docodethatmatters.com/home-automation-overnight-success/",
      "source": "Hacker News Front Page",
-     "published": "2026-11-10T16:07:15+00:00"
-    },
-    {
-     "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-     "summary": "The new model is up to twice as successful at some tasks.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-500x500-1794257853.jpg",
-     "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
-     "source": "Ars Technica",
-     "published": "2026-11-10T15:00:39+00:00"
-    },
-    {
-     "title": "Nvidia has a Jensen Huang problem—and no obvious successor",
-     "summary": "Huang faces a board probe as investors fret over Nvidia’s lack of a clear successor.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/jensen_huang-500x500.jpg",
-     "url": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
-     "source": "Ars Technica",
-     "published": "2026-11-10T14:53:05+00:00"
+     "published": "2026-11-10T15:25:20+00:00"
     },
     {
      "title": "DART 撞擊後，赫拉號首拍雙小行星",
@@ -216,14 +224,6 @@
      "url": "https://finance.technews.tw/2026/11/10/tsmcs-third-quarter-cash-dividend-reached-nt9/",
      "source": "科技新報 TechNews",
      "published": "2026-11-10T12:15:15+00:00"
-    },
-    {
-     "title": "AlphaProof Code",
-     "summary": "Article URL: https://deepmind.google/blog/introducing-alphaproof-code/ Comments URL: https://news.ycombinator.com/item?id=50439193 Points: 444 # Comments: 147",
-     "image": "",
-     "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-10T12:11:12+00:00"
     },
     {
      "title": "宜特10月營收月增0.3%",
@@ -271,6 +271,78 @@
    "label": "運動",
    "items": [
     {
+     "title": "NFL trade deadline 2026: Vikings reunite with Kirk Cousins in blockbuster, Bengals-Eagles deal collapses – live updates",
+     "summary": "All the latest news and deals before the today’s deadline Vikings reunite with QB Kirk Cousins in deal with Vegas Niners add WR Keenan Allen; Bills land S Amani Hooker Follow the buildup to the 4pm ET…",
+     "image": "https://i.guim.co.uk/img/media/96e943d0033fbb8b63ae5ace6036fc9ef4d200a9/984_0_5013_4012/master/5013.jpg?width=140&quality=85&auto=format&fit=max&s=e330f92aad6cec20ff853236e400c14e",
+     "url": "https://www.theguardian.com/sport/live/2026/nov/10/nfl-trade-deadline-2026-live-updates-deals-rumors-news",
+     "source": "Guardian Sport",
+     "published": "2026-11-10T20:20:06+00:00"
+    },
+    {
+     "title": "Sixers tease Celtics with 'Why Can't We Be Friends' amid Tatum-Brown feud",
+     "summary": "The 76ers couldn't resist having a little fun with the ongoing Jayson Tatum-Jaylen Brown drama before Tuesday's showdown against the Celtics.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/sixers-tease-celtics-why-cant-201831755.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-10T20:18:31+00:00"
+    },
+    {
+     "title": "Firing a manager is often more about maintaining the illusion of control",
+     "summary": "In an era of advanced analytics, deciding when to move on from a manager still seems to come down to vibes rather than logic He just had to go. His position had become untenable. Leander Schaerlaecken…",
+     "image": "https://i.guim.co.uk/img/media/f5fc5e216788663c63a4855eae3efd684e3f1755/205_0_1435_1148/master/1435.jpg?width=140&quality=85&auto=format&fit=max&s=472682f084253969868dfa7463a1c7bc",
+     "url": "https://www.theguardian.com/football/2026/nov/10/michael-carrick-firing-managers-premier-league",
+     "source": "Guardian Sport",
+     "published": "2026-11-10T19:03:04+00:00"
+    },
+    {
+     "title": "2026 NBA betting promos: Get over $3,000 in bonuses from top online betting apps, sportsbooks for Nov. 10",
+     "summary": "Top NBA betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/20/69b91250-9b1a-43b9-9226-4c21f989ef1d/jayson-tatum.jpg",
+     "url": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-get-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-november-10/",
+     "source": "CBS Sports NBA",
+     "published": "2026-11-10T18:35:04+00:00"
+    },
+    {
+     "title": "Cooper Flagg beats LeBron James, Anthony Edwards to NBA history: How the Mavericks star leveled up",
+     "summary": "Flagg is the first teenager in NBA history to record five 40-point games",
+     "image": "https://sportshub.cbsistatic.com/i/2026/11/10/84b4a49b-4b2a-45a1-a7bb-2966f725792d/flagg-getty.png",
+     "url": "https://www.cbssports.com/nba/news/cooper-flagg-nba-history-teenager-mavericks/",
+     "source": "CBS Sports NBA",
+     "published": "2026-11-10T18:27:57+00:00"
+    },
+    {
+     "title": "Wemby goes wild, Thunder check-in + Unrivaled rosters revealed",
+     "summary": "Nekias and Steve break down Wemby's big night, high flying rookies, and the Unrivaled rosters.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/article/wemby-goes-wild-thunder-check-in--unrivaled-rosters-revealed-182622624.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-10T18:26:22+00:00"
+    },
+    {
+     "title": "Lakers ‘registered interest’ in Nique Clifford before trade to Thunder",
+     "summary": "Los Angeles was one of three other teams besides the Thunder to gauge the market for Clifford",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/49ebf856a6204add17b116e1ca838e8f.jpg",
+     "url": "https://sports.yahoo.com/articles/lakers-registered-interest-nique-clifford-181643344.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-10T18:16:43+00:00"
+    },
+    {
+     "title": "The Monaco summit that will decide the future of Carrick and Man Utd",
+     "summary": "Manchester United's power brokers meet in Monaco on Wednesday to decide whether Michael Carrick will remain as head coach",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2726/live/abc28950-dd19-11f1-93e1-3b657b665bcf.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9yzyzxnko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-10T18:12:02+00:00"
+    },
+    {
+     "title": "Cleveland Cavaliers vs. New York Knicks: How to watch the NBA game with Sling TV",
+     "summary": "Tune in to the Cavaliers vs. Knicks game without cable — here's how.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/article/cleveland-cavaliers-vs-new-york-knicks-how-to-watch-the-nba-game-with-sling-tv-180250931.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-10T18:02:50+00:00"
+    },
+    {
      "title": "Mauricio Pochettino interested in leaving USMNT job for Manchester United",
      "summary": "Coach’s contract has release clause of about $10m United expected to sack Michael Carrick after awful start US men’s national team head coach Mauricio Pochettino is interested in a move to Manchester…",
      "image": "https://i.guim.co.uk/img/media/3cc99fc110813bdce8e26eca468776c682bebc79/241_0_3848_3079/master/3848.jpg?width=140&quality=85&auto=format&fit=max&s=cb1644159c61e6d1bce7a9d58421d3e9",
@@ -279,20 +351,12 @@
      "published": "2026-11-10T17:40:40+00:00"
     },
     {
-     "title": "NFL trade deadline 2026: Jonathan Taylor status, Vikings eye QB and more – live updates",
-     "summary": "All the latest news and deals before the today’s deadline Jaguars add Davis to help defense; Simmons boosts Bears Follow the buildup to the 4pm ET cutoff and fallout Email Ella with your thoughts on t…",
-     "image": "https://i.guim.co.uk/img/media/5c8e1dfb8745e24b3363885b076fd5cbf5d22727/0_0_5085_4068/master/5085.jpg?width=140&quality=85&auto=format&fit=max&s=4e22ac31a13145f16954a22e8bcd5b9f",
-     "url": "https://www.theguardian.com/sport/live/2026/nov/10/nfl-trade-deadline-2026-live-updates-deals-rumors-news",
-     "source": "Guardian Sport",
-     "published": "2026-11-10T17:35:44+00:00"
-    },
-    {
-     "title": "How to watch Oklahoma City Thunder vs Portland Trail Blazers: TV/live stream info for tonight's game",
-     "summary": "Tip-off for tonight's Thunder vs Trail Blazers game is at 11:00 PM ET on NBC and Peacock.",
-     "image": "https://media.zenfs.com/en/nbcsports.com/ed85511dac4c22694fa65d30970cadaa.jpg",
-     "url": "https://sports.yahoo.com/articles/watch-oklahoma-city-thunder-vs-164840065.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-10T16:48:40+00:00"
+     "title": "Celtics vs. 76ers NBA picks: Expect big nights from Jayson Tatum, Jaylen Brown in first grudge game of season",
+     "summary": "It's all about Jayson Tatum vs. Jaylen Brown tonight in Celtics-76ers",
+     "image": "https://sportshub.cbsistatic.com/i/2026/11/10/e2c6e5bf-1bd0-49f7-8dc7-29f09f33b812/2026-10-17t002743z-1661212954-mt1usatoday30102045-rtrmadp-3-nba-preseason-boston-celtics-at-philadelphia-76ers-jpg.jpg",
+     "url": "https://www.cbssports.com/betting/news/celtics-vs-76ers-nba-picks-expect-big-nights-from-jayson-tatum-jaylen-brown-in-first-grudge-game-of-season/",
+     "source": "CBS Sports NBA",
+     "published": "2026-11-10T17:26:11+00:00"
     },
     {
      "title": "McTominay reveals heart treatment at World Cup",
@@ -311,52 +375,12 @@
      "published": "2026-11-10T16:17:10+00:00"
     },
     {
-     "title": "How Jayson Tatum and the Celtics haven't skipped a beat without Jaylen Brown",
-     "summary": "The Celtics enter Tuesday's heavyweight battle with Jaylen Brown's Sixers looking like the same elite squad they were last season.",
-     "image": "",
-     "url": "https://sports.yahoo.com/nba/article/how-jayson-tatum-and-the-celtics-havent-skipped-a-beat-without-jaylen-brown-160510676.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-10T15:59:26+00:00"
-    },
-    {
      "title": "Use FanDuel promo code to get $200 bonus bets for Ohio-Miami (Ohio), Kentucky-Kansas, Celtics-76ers, NBA",
      "summary": "Sign up to wager on Tuesday's top games with the latest FanDuel promo code to get your bonus bets",
      "image": "https://sportshub.cbsistatic.com/i/2026/11/02/81d2ee40-765f-41fc-89ea-ecca581729a4/sbk-nfl-all-50x4-nfl-player-na-na-1920x1080.jpg",
      "url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-200-bonus-bets-ohio-miami-ohio-kentucky-kansas-celtics-76ers-nba/",
      "source": "CBS Sports NBA",
      "published": "2026-11-10T15:26:31+00:00"
-    },
-    {
-     "title": "Re-grading the Jaylen Brown-Paul George trade: Celtics' grade has greatly improved, 76ers' mark stays perfect",
-     "summary": "Brown and George will go head-to-head on Tuesday night as the 76ers host the Celtics for the first time this season",
-     "image": "https://sportshub.cbsistatic.com/i/2026/11/10/40cab673-8c77-456d-9fbd-59a86eb31660/jaylen-brown-getty-25.png",
-     "url": "https://www.cbssports.com/nba/news/re-grading-jaylen-brown-paul-george-trade-celtics-76ers/",
-     "source": "CBS Sports NBA",
-     "published": "2026-11-10T14:59:00+00:00"
-    },
-    {
-     "title": "Frustrated Jordan Poole open to Bay Area return after 51-point loss to Warriors",
-     "summary": "Pelicans guard Jordan Poole is headed for unrestricted free agency in 2027 and says he'd welcome a return to the franchise where he won an NBA title.",
-     "image": "https://media.zenfs.com/en/usa_today_sports_articles_558/ae096661894d8842ee6cf34de7b7c9c5.jpg",
-     "url": "https://sports.yahoo.com/articles/frustrated-jordan-poole-open-bay-144841458.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-10T14:48:41+00:00"
-    },
-    {
-     "title": "Mavericks vs. Pacers Quoteboard: ‘We got it to the guys in their money spots, and they made plays’",
-     "summary": "Highlights from the postgame presser after the Mavericks move to 7-4 with a 125-122 comeback win over the Indiana Pacers",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/8df3835eaa4004e75d4ee73718d0fc29.jpg",
-     "url": "https://sports.yahoo.com/articles/mavericks-vs-pacers-quoteboard-got-144733009.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-10T14:47:33+00:00"
-    },
-    {
-     "title": "Use DraftKings promo code to get $200 bonus + free NBA League Pass for Celtics-76ers, Illinois-Texas Tech, CBB",
-     "summary": "DraftKings offers $200 in bonus bets and three free months of NBA League Pass after your first $5 wager for NBA, college basketball, NFL betting on Tuesday",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/18/c97262f9-761a-4e09-92d0-e42eb8f40a51/draftkings-nba-league-pass-200-bonus-cbssports.png",
-     "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-free-nba-league-pass-celtics-76ers-illinois-texas-tech-cbb/",
-     "source": "CBS Sports NBA",
-     "published": "2026-11-10T14:38:22+00:00"
     },
     {
      "title": "Hot mics, Andreeva ‘diva’ drama and a stopgap finale at Indian Wells bail out the WTA  | Tumaini Carayol",
@@ -373,30 +397,6 @@
      "url": "https://www.bbc.co.uk/sport/cricket/articles/c6x2v277z89eo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-11-10T14:03:19+00:00"
-    },
-    {
-     "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Celtics-76ers, Illinois-Texas Tech, NBA Tuesday",
-     "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NBA, college basketball, NFL betting on Tuesday",
-     "image": "https://sportshub.cbsistatic.com/i/2026/09/08/8c9b2f2a-2dd9-45bb-932a-45e8faf837ef/betmgm-promo-code-september-2026.jpg",
-     "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-celtics-76ers-illinois-texas-tech-nba-tuesday/",
-     "source": "CBS Sports NBA",
-     "published": "2026-11-10T13:51:32+00:00"
-    },
-    {
-     "title": "Carrick's Man Utd future to be decided as Berrada and Wilcox retain support",
-     "summary": "Manchester United head coach Michael Carrick's future will be discussed at a meeting on Wednesday, but executives Omar Berrada and Jason Wilcox retain the support of minority owner Sir Jim Ratcliffe.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7fa/live/36f4e8e0-dcfe-11f1-933b-ff2499ee76f6.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-10T11:23:43+00:00"
-    },
-    {
-     "title": "Ultimate 1-50: the male footballers best associated with each squad number",
-     "summary": "Who is football’s most legendary No 9? Has there ever been a legendary No 28? And why exactly does Mario Balotelli love wearing No 45 so much? Here’s our list and the stories behind it The relationshi…",
-     "image": "https://i.guim.co.uk/img/media/8b8266c11f37f734cb122e22b6d3815075a4a4ee/2_0_4936_3951/master/4936.jpg?width=140&quality=85&auto=format&fit=max&s=ad8c86a5ab1a698cbdc76b640ce1194b",
-     "url": "https://www.theguardian.com/football/ng-interactive/2026/nov/10/ultimate-1-50-the-male-footballers-best-associated-with-each-squad-number",
-     "source": "Guardian Sport",
-     "published": "2026-11-10T06:00:30+00:00"
     }
    ]
   }
