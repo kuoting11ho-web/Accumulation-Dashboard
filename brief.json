@@ -1,32 +1,120 @@
 {
- "generated": "2026-11-11T20:14:18.544929+00:00",
+ "generated": "2026-11-11T22:48:45.257954+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "Three women killed in LA crash as driver arrested",
-     "summary": "",
+     "title": "Nvidia prepares to oust Jensen Huang, WSJ reports — stock sinks",
+     "summary": "The report comes days after Huang admitted to an affair with a woman who is believed by U.S. intelligence of being a Chinese spy.",
      "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/three-women-killed-in-la-crash-as-driver-arrested?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-11T20:03:45+00:00"
-    },
-    {
-     "title": "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
-     "summary": "U.S.-Canada trade tensions persist as Trump's tariffs drive up costs, threaten investment and complicate negotiations between the two countries.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/11/canada-ambassador-trump-tariffs-investments.html",
+     "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
      "source": "CNBC Top News",
-     "published": "2026-11-11T20:02:12+00:00"
+     "published": "2026-11-11T22:46:32+00:00"
     },
     {
-     "title": "Clashes in Barcelona as thousands join Spain general strike",
+     "title": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports",
+     "summary": "Huang was notably opposed to strict export controls on AI chips to China, which ruffled feathers with congressional China hawks.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-11T22:46:29+00:00"
+    },
+    {
+     "title": "11/12  各報重點新聞一覽",
+     "summary": "自由時報 美列黑名單封殺爆漏洞 路透：中國「國防七子」名校 買到輝達H200 路透報導，與中國人民解放軍關係密切的西北工業大學儘管被列入美國出口黑名單，但仍透過白手套，成功採購輝達效能強大的H2...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/life/breakingnews/5637729",
+     "source": "自由時報",
+     "published": "2026-11-11T22:38:13+00:00"
+    },
+    {
+     "title": "到月球「上班」！ NASA徵才 年薪541萬",
+     "summary": "首次上稿 11-11 23:50更新時間 11-12 06:35 想在月球上班、生活？美國國家航空暨太空總署（NASA）正在招募新一代太空人，錄取者有機會進駐月球基地，還可能...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5637684",
+     "source": "自由時報",
+     "published": "2026-11-11T22:35:20+00:00"
+    },
+    {
+     "title": "G7外長巴黎合體！霸氣喊話「別動台海」 挺台灣進國際組織",
+     "summary": "首次上稿 11-11 23:57更新時間 11-12 06:34 7大工業國集團（G7）外交部長及歐盟高級代表9日至10日在法國巴黎舉行2026年度外長會議，並於會後發表聯...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5637672",
+     "source": "自由時報",
+     "published": "2026-11-11T22:34:00+00:00"
+    },
+    {
+     "title": "義大利300校收「來自台灣」炸彈恐嚇信 大葉大學校友帳號疑遭盜用",
+     "summary": "首次上稿 11-11 23:23更新時間 11-12 06:30 義大利多家媒體報導，該國包括羅馬在內至少300所學校，收到大規模炸彈威脅電子郵件，發信網域指向台灣的大葉大學...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/society/breakingnews/5637677",
+     "source": "自由時報",
+     "published": "2026-11-11T22:30:25+00:00"
+    },
+    {
+     "title": "Judge rules Trump’s $10bn BBC defamation suit can proceed",
+     "summary": "The BBC denies defamation charge as Trump celebrates “huge victory” in court decision.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/11/11/judge-rules-trumps-10bn-bbc-defamation-suit-can-proceed?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-11T22:10:12+00:00"
+    },
+    {
+     "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
      "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36ca/live/af904100-de07-11f1-aa3c-d5f359ebee86.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f2/live/d0df2010-de11-11f1-a701-fddedf244c16.jpg",
      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-11-11T19:59:48+00:00"
+     "published": "2026-11-11T22:07:37+00:00"
+    },
+    {
+     "title": "Nvidia hires leading US law firm to investigate Jensen Huang’s relationship",
+     "summary": "Move comes as chipmaker reels from reports its CEO was having an affair with an alleged Chinese spy Nvidia has appointed a leading US law firm to conduct a “thorough and independent” investigation int…",
+     "image": "https://i.guim.co.uk/img/media/b76023068afd6989a4d83782e8ad21ac88094570/327_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=e80fd8b31abebcfb48715c6176ded127",
+     "url": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
+     "source": "Guardian Business",
+     "published": "2026-11-11T21:59:07+00:00"
+    },
+    {
+     "title": "Feds arrest top official of healthcare company, alleging illegal drug importation",
+     "summary": "U.S. officials are accusing two top officials of a Canadian company of operating a scheme to illegally import prescription drugs, court records show.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/11/canarx-official-arrested-drug-importation.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-11T21:33:17+00:00"
+    },
+    {
+     "title": "Nasdaq gains more than 1% as CoreWeave spike revitalizes AI trade",
+     "summary": "Stocks rose Wednesday, boosted by sharp gains in CoreWeave and a rebound in Nvidia following back-to-back losing sessions for the chipmaker.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-11T21:22:14+00:00"
+    },
+    {
+     "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
+     "summary": "Iran's parliament speaker and top negotiator says Tehran is waiting for an official US response to its seven conditions.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-11T21:03:40+00:00"
+    },
+    {
+     "title": "Thousands march to mark Poland’s Independence Day",
+     "summary": "Thousands of people have taken to the streets of Warsaw for Poland's annual Independence Day march",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/thousands-march-to-mark-polands-independence-day?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-11T21:02:02+00:00"
+    },
+    {
+     "title": "Hoax bomb threats target schools across Italy, UK and Ireland",
+     "summary": "Thousands of schools across Italy, the UK and Ireland received hoax bomb threat emails.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/hoax-bomb-threats-target-schools-across-italy-uk-and-ireland?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-11T21:01:42+00:00"
     },
     {
      "title": "Why is gasoline suddenly under $4 a gallon?",
@@ -37,106 +125,34 @@
      "published": "2026-11-11T19:59:14+00:00"
     },
     {
-     "title": "How much did pro-Israel groups spend against Hasan Piker at midterms?",
-     "summary": "",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/how-much-did-pro-israel-groups-spend-against-hasan-piker-at-midterms?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-11T19:51:58+00:00"
-    },
-    {
-     "title": "研調：Anthropic掛牌日散戶買超可能破SpaceX紀錄",
-     "summary": "金融市場研究公司Vanda Research預估，美國人工智慧（AI）開發商Anthropic首次公開募股（IPO）吸引的散戶買超金額可能超越SpaceX，名列史上單日散戶買超最高紀錄。 ...…",
-     "image": "",
-     "url": "https://ec.ltn.com.tw/article/breakingnews/5637720",
-     "source": "自由時報",
-     "published": "2026-11-11T19:45:06+00:00"
-    },
-    {
-     "title": "Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes",
-     "summary": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-11T19:17:19+00:00"
-    },
-    {
-     "title": "Which key races remain undecided one week after the US midterms?",
-     "summary": "Democrats hope several races that are still too close to call will further expand their majorities in the US Congress.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/11/which-key-races-remain-undecided-one-week-after-the-us-midterms?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-11T19:14:29+00:00"
-    },
-    {
      "title": "Poundland owner extracted millions when chain was on ‘knife-edge’, MPs say",
      "summary": "Retailer’s management to seek two-week extension of legal protection from creditors in high court MPs have accused the owner of Poundland of extracting millions of pounds from the budget retailer when…",
      "image": "https://i.guim.co.uk/img/media/1b649855fa074407e8669b52440db74680645869/622_0_4636_3711/master/4636.jpg?width=140&quality=85&auto=format&fit=max&s=d3de01cc7638dc266c7aee2d3960c128",
      "url": "https://www.theguardian.com/business/2026/nov/11/poundland-owner-chain-mps-claim-high-court",
      "source": "Guardian Business",
      "published": "2026-11-11T19:10:26+00:00"
-    },
-    {
-     "title": "Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina",
-     "summary": "74-year-old Leonardo Bertulazzi, awaiting extradition to Italy, reportedly used harness to flee custody A 74-year-old former member of Italy ’s radical Marxist group the Red Brigades has escaped from…",
-     "image": "https://i.guim.co.uk/img/media/cd25034beb904557d3f8a78d430e0aa9575904a1/138_0_1375_1100/master/1375.jpg?width=140&quality=85&auto=format&fit=max&s=76de433ff11fe982b02669e8d251ee2e",
-     "url": "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina",
-     "source": "Guardian World",
-     "published": "2026-11-11T19:00:33+00:00"
-    },
-    {
-     "title": "《TAIPEI TIMES》 GLP-1 weight-loss drugs can cause blindness in rare cases, FDA warns",
-     "summary": "By Jonathan Chin / Staff writer, with CNA Taiwan is weighing its first-ever compensation claim ov...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5637650",
-     "source": "自由時報",
-     "published": "2026-11-11T19:00:00+00:00"
-    },
-    {
-     "title": "《TAIPEI TIMES》 Taiwan appoints Acer founder as APEC envoy",
-     "summary": "RESPECTFUL TREATMENT: Taiwan has called on China to guarantee in writing that it would be able to pa...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5637649",
-     "source": "自由時報",
-     "published": "2026-11-11T19:00:00+00:00"
-    },
-    {
-     "title": "《TAIPEI TIMES》 Court rules Taichung HQ of KMT illegally obtained",
-     "summary": "By Cheng Yu-fu and Jonathan Chin / Staff reporter, with staff writer The Supreme Administrative C...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5637651",
-     "source": "自由時報",
-     "published": "2026-11-11T19:00:00+00:00"
-    },
-    {
-     "title": "More than one million people in Lebanon face acute food shortages, UN says",
-     "summary": "UN warns hunger crisis affecting almost quarter of Lebanon's population could escalate without 'urgent action'.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/11/one-million-people-in-lebanon-facing-acute-food-insecurity-un-says?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-11T18:43:40+00:00"
-    },
-    {
-     "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-     "summary": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public. It is not known if the incidents are linked.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80c9/live/fc093bd0-ddc7-11f1-9053-236ccb99630c.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-11T18:38:45+00:00"
-    },
-    {
-     "title": "KKR and RWE are rich firms. Why do they need a UK state loan for their windfarms? | Nils Pratley",
-     "summary": "National wealth fund is to lend £1bn towards the Vanguard projects – but whether the private equity giant needed help is debatable “This major investment in UK renewables is a vote of confidence for b…",
-     "image": "https://i.guim.co.uk/img/media/79d88bc60d9723c01849b90d33c96458864c7fa8/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=00b54339189b2cf7f526f52bec6e505f",
-     "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/11/kkr-rwe-uk-state-loan-vanguard-windfarms",
-     "source": "Guardian Business",
-     "published": "2026-11-11T18:15:26+00:00"
     }
    ]
   },
   "ai": {
    "label": "AI",
    "items": [
+    {
+     "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
+     "summary": "Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/t-mobile-5g-500x500-1752177364.jpg",
+     "url": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
+     "source": "Ars Technica",
+     "published": "2026-11-11T20:32:21+00:00"
+    },
+    {
+     "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
+     "summary": "\"What's unique is it's got a huge dynamic range. We can see things in full dark.\"",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/longwaveirsensor-500x500.jpg",
+     "url": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
+     "source": "Ars Technica",
+     "published": "2026-11-11T20:22:03+00:00"
+    },
     {
      "title": "NASA's secret weapon in the lunar space race may be ... procurement reform?",
      "summary": "\"The pace that's occurring, and the nature of the procurements, is unprecedented.\"",
@@ -146,8 +162,16 @@
      "published": "2026-11-11T19:00:26+00:00"
     },
     {
-     "title": "AWS Finally Built Its Own AWS Emulator",
-     "summary": "Article URL: https://github.com/aws/aws-emulator Comments URL: https://news.ycombinator.com/item?id=50456631 Points: 322 # Comments: 95",
+     "title": "Gemini Decisions API",
+     "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/ Comments URL: https://news.ycombinator.com/item?id=50456791 Points: 170 # Comments: 55",
+     "image": "",
+     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-11T18:32:42+00:00"
+    },
+    {
+     "title": "AWS emulator",
+     "summary": "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agent... https://www.allthingsdistributed.com/2026/11/aws-emulator-an... Comments URL: https://news.ycombinator.com/item?id=50456631 Points: 518…",
      "image": "",
      "url": "https://github.com/aws/aws-emulator",
      "source": "Hacker News Front Page",
@@ -162,44 +186,20 @@
      "published": "2026-11-11T18:16:40+00:00"
     },
     {
-     "title": "Trump admin loses fight to spy on random journalists’ LinkedIn DMs",
-     "summary": "Confidential sources “lifeblood” of free press, court rules in LinkedIn fight.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292869198-500x500.jpg",
-     "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-loses-fight-to-spy-on-random-journalists-linkedin-dms/",
-     "source": "Ars Technica",
-     "published": "2026-11-11T18:05:26+00:00"
-    },
-    {
-     "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
-     "summary": "Any amount of AI coding is too much for many Independent Games Festival judges.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bigwalkdebate-500x500.png",
-     "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
-     "source": "Ars Technica",
-     "published": "2026-11-11T17:37:32+00:00"
-    },
-    {
      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-     "summary": "Article URL: https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/ Comments URL: https://news.ycombinator.com/item?id=50455394 Points: 274 # Comments: 143",
+     "summary": "Article URL: https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/ Comments URL: https://news.ycombinator.com/item?id=50455394 Points: 353 # Comments: 170",
      "image": "",
      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
      "source": "Hacker News Front Page",
      "published": "2026-11-11T16:38:44+00:00"
     },
     {
-     "title": "Hyper-Realistic Sand with WebGL2",
-     "summary": "Article URL: https://av.github.io/safe-sand/ Comments URL: https://news.ycombinator.com/item?id=50453288 Points: 227 # Comments: 53",
+     "title": "Atuin Threads: All your agent sessions on every machine",
+     "summary": "Article URL: https://blog.atuin.sh/threads-agent-sessions/ Comments URL: https://news.ycombinator.com/item?id=50453637 Points: 174 # Comments: 63",
      "image": "",
-     "url": "https://av.github.io/safe-sand/",
+     "url": "https://blog.atuin.sh/threads-agent-sessions/",
      "source": "Hacker News Front Page",
-     "published": "2026-11-11T13:39:29+00:00"
-    },
-    {
-     "title": "Can a Linear Program Do Weight-Space Programming?",
-     "summary": "Article URL: https://nathan.rs/posts/weight-space-lp/ Comments URL: https://news.ycombinator.com/item?id=50452655 Points: 199 # Comments: 31",
-     "image": "",
-     "url": "https://nathan.rs/posts/weight-space-lp/",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-11T12:30:17+00:00"
+     "published": "2026-11-11T14:10:46+00:00"
     },
     {
      "title": "鑰匙錢包不怕弄丟，Pixel Tag 雙 11 開賣幫找失物",
@@ -271,52 +271,92 @@
    "label": "運動",
    "items": [
     {
-     "title": "Fantasy Basketball Rankings (9-cat leagues): Early risers and fallers of the 2026-27 NBA season",
-     "summary": "Dan Titus breaks down his 9-cat risers and fallers, including a slow-starting James Harden.",
-     "image": "",
-     "url": "https://sports.yahoo.com/fantasy/article/fantasy-basketball-rankings-9-cat-leagues-early-risers-and-fallers-of-the-2026-27-nba-season-200647909.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-11T20:06:47+00:00"
-    },
-    {
-     "title": "Jazz star Lauri Markkanen set to miss at least a month with fractured hand",
-     "summary": "Eric Samulski breaks down Markkanen's injury and what it means for the Utah Jazz going forward",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/jazz-star-lauri-markkanen-set-195158888.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-11T19:51:58+00:00"
-    },
-    {
-     "title": "NBA Week 4 Injury Report: Keyonte George latest early-season injury for Jazz",
-     "summary": "Keyonte George is one of four Jazz starters who has missed time recently.",
-     "image": "https://media.zenfs.com/en/nbcsports.com/3d128629a9a14fb038b33adee2d94729.jpg",
-     "url": "https://sports.yahoo.com/articles/nba-week-4-injury-report-192227583.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-11T19:22:27+00:00"
-    },
-    {
-     "title": "Complaint filed to IRS in relation to Fifa head Gianni Infantino’s housekeeper",
-     "summary": "It calls for inquiry into claims she was on Fifa payroll Fifa: Infantino personally pays for ‘any domestic staff’ A complaint has been filed to the United States Internal Revenue Service calling for a…",
-     "image": "https://i.guim.co.uk/img/media/c0e0e1436188a54323f8e247d48e0f1b12f5b884/179_0_2809_2248/master/2809.jpg?width=140&quality=85&auto=format&fit=max&s=2ac05d5d2759008f14c1751f4b60f1b2",
-     "url": "https://www.theguardian.com/football/2026/nov/11/complaint-us-irs-fifa-gianni-infantino-housekeeper",
-     "source": "Guardian Sport",
-     "published": "2026-11-11T19:00:01+00:00"
-    },
-    {
-     "title": "Jaylen Brown explains apparent snub of former teammate Jayson Tatum: 'I wasn't paying attention'",
-     "summary": "Jaylen Brown said he wasn't paying attention when former Celtics teammate Jayson Tatum tried to greet him before their first matchup since Brown's summer trade to Philadelphia.",
-     "image": "https://media.zenfs.com/en/la_times_articles_853/b29c335824aa52f8d7379fc4ce30ed62.jpg",
-     "url": "https://sports.yahoo.com/articles/jaylen-brown-explains-apparent-snub-185535300.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-11T18:55:35+00:00"
-    },
-    {
-     "title": "NBA player props, odds, picks: Yaxel Lendeborg among best bets for Wednesday, Nov. 11",
-     "summary": "We'll spotlight some of the best player prop bets for Wednesday's NBA games with help from the SportsLine model",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/30/6d958d53-8fef-4c0b-8db2-72ea47d7d3dc/lendeborg-getty.png",
-     "url": "https://www.cbssports.com/betting/news/nba-player-props-odds-picks-yaxel-lendeborg-among-best-bets-for-wednesday-nov-11/",
+     "title": "Stephen Curry fires back at Gilbert Arenas, other podcasters for criticizing his wife Ayesha's on-screen kiss",
+     "summary": "Ayesha Curry's acting performance has drawn plenty of attention on the ex-NBA player podcast circuit",
+     "image": "https://sportshub.cbsistatic.com/i/2026/11/11/65828d3c-55dc-4f2c-8d40-4424ae7600fd/steph-ayesha-getty.png",
+     "url": "https://www.cbssports.com/nba/news/stephen-curry-wife-ayesha-curry-acting-gilbert-arenas-nick-young/",
      "source": "CBS Sports NBA",
-     "published": "2026-11-11T17:38:03+00:00"
+     "published": "2026-11-11T22:35:44+00:00"
+    },
+    {
+     "title": "Stephen Curry attacks treatment of women after former players criticize wife Ayesha’s movie kiss",
+     "summary": "Warriors star defends wife over romantic comedy role Arenas called Ayesha ‘only blemish’ on Curry family Four-time NBA champion condemns double standards Golden State Warriors star Stephen Curry has c…",
+     "image": "https://i.guim.co.uk/img/media/ca4a8a751ac1d254904097e42479c77dfdd17a92/0_122_2000_1599/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=1abef6a9483807a34392b40b931b8ca3",
+     "url": "https://www.theguardian.com/sport/2026/nov/11/stephen-curry-ayesha-movie-kiss-arenas-young",
+     "source": "Guardian Sport",
+     "published": "2026-11-11T22:30:23+00:00"
+    },
+    {
+     "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Rockets-Warriors, Buffalo-Ball State, NBA",
+     "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NBA, college football, NFL betting on Wednesday",
+     "image": "https://sportshub.cbsistatic.com/i/2026/09/08/8c9b2f2a-2dd9-45bb-932a-45e8faf837ef/betmgm-promo-code-september-2026.jpg",
+     "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-rockets-warriors-buffalo-ball-state-nba/",
+     "source": "CBS Sports NBA",
+     "published": "2026-11-11T22:27:52+00:00"
+    },
+    {
+     "title": "Kirk Cousins plans to talk to Jakobe Thomas about No. 8",
+     "summary": "Vikings quarterback Kirk Cousins made his official return to the team on Wednesday.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/kirk-cousins-plans-talk-jakobe-215715494.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-11T21:57:15+00:00"
+    },
+    {
+     "title": "US withdraw from U-17 World Cup in Qatar due to safety concerns",
+     "summary": "USSF cites state department advisory about Qatar Competition set to kick off in eight days The US men’s national team have pulled out of the Fifa U-17 World Cup, which is due to kick off in Qatar in j…",
+     "image": "https://i.guim.co.uk/img/media/6987ac7017788ecaf5e48c61ad55e3e00c026971/526_0_4393_3514/master/4393.jpg?width=140&quality=85&auto=format&fit=max&s=36e310889eb3cd518d09f9dbce90f937",
+     "url": "https://www.theguardian.com/football/2026/nov/11/usa-u-17-world-cup-qatar-withdrawal-middle-east-conflict",
+     "source": "Guardian Sport",
+     "published": "2026-11-11T21:54:46+00:00"
+    },
+    {
+     "title": "Use DraftKings promo code to get $200 bonus + free NBA League Pass on Rockets-Warriors, Buffalo-Ball State",
+     "summary": "DraftKings offers $200 in bonus bets and three free months of NBA League Pass after your first $5 wager for NBA, college football, NFL betting on Wednesday",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/18/c97262f9-761a-4e09-92d0-e42eb8f40a51/draftkings-nba-league-pass-200-bonus-cbssports.png",
+     "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-free-nba-league-pass-rockets-warriors-buffalo-ball-state/",
+     "source": "CBS Sports NBA",
+     "published": "2026-11-11T21:48:42+00:00"
+    },
+    {
+     "title": "'It's forever': Lakers rookie Cameron Carr cherishing first NBA points",
+     "summary": "After Lakers star Luka Doncic tracks down the game ball to give it to Carr, the rookie guard said he'll have his teammates sign the ball.",
+     "image": "https://media.zenfs.com/en/la_times_articles_853/0e17a189496f85f81ccd420c91e2972a.jpg",
+     "url": "https://sports.yahoo.com/articles/forever-lakers-rookie-cameron-carr-211510341.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-11T21:15:10+00:00"
+    },
+    {
+     "title": "Meeting of two lost souls: can Pochettino make it work at Manchester United? | Barney Ronay",
+     "summary": "Manager has been hurt by experiences at elite clubs but several players at Old Trafford could fit his playing style Welcome, Mauricio, to the meat grinder. Or rather, welcome back. We’ve been expectin…",
+     "image": "https://i.guim.co.uk/img/media/44d7d263c31cab4914ec6deab195542e4a6a5c03/538_0_6524_5220/master/6524.jpg?width=140&quality=85&auto=format&fit=max&s=a482d657d67f4be7a9d3ec3aaf7b6c04",
+     "url": "https://www.theguardian.com/football/2026/nov/11/mauricio-pochettino-manchester-united-old-trafford-manager",
+     "source": "Guardian Sport",
+     "published": "2026-11-11T21:10:31+00:00"
+    },
+    {
+     "title": "Darius Acuff frustrated with Kings brutal 1-10 record despite his hot start in the NBA: 'I'm not a loser'",
+     "summary": "The Kings fell to the Orlando Magic 107-100 on Tuesday night, and now hold one of the worst records in the NBA.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/article/darius-acuff-frustrated-with-kings-brutal-1-10-record-despite-his-hot-start-in-the-nba-im-not-a-loser-204823834.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-11T20:48:23+00:00"
+    },
+    {
+     "title": "Lauri Markkanen injury update could have major fallout for Utah Jazz",
+     "summary": "The Utah Jazz got a sobering injury update for star Lauri Markkanen, adding to their problems during a disastrous start to the 2026-27 NBA season.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/lauri-markkanen-injury-could-major-203054917.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-11T20:30:54+00:00"
+    },
+    {
+     "title": "Today's top games to watch, best bets, odds: Wizards vs. Pacers, Sacramento St. vs. Central Michigan and more",
+     "summary": "Find best bets and props for the biggest games in sports on Wednesday from the SportsLine Projection Model and top CBS Sports experts",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/23/f0469de3-c9d8-4ad7-825a-0af0ffa476a2/anthony-davis-cbs.jpg",
+     "url": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-wizards-vs-pacers-sacramento-st-vs-central-michigan-and-more/",
+     "source": "CBS Sports NBA",
+     "published": "2026-11-11T20:30:51+00:00"
     },
     {
      "title": "Former NFL coach Rex Ryan charged after allegedly hitting pedestrians with car in Nashville",
@@ -343,30 +383,6 @@
      "published": "2026-11-11T16:03:02+00:00"
     },
     {
-     "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Warriors-Rockets, Buffalo-Ball State, NBA",
-     "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NBA, college football, NFL betting on Wednesday",
-     "image": "https://sportshub.cbsistatic.com/i/2026/09/08/8c9b2f2a-2dd9-45bb-932a-45e8faf837ef/betmgm-promo-code-september-2026.jpg",
-     "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-warriors-rockets-buffalo-ball-state-nba/",
-     "source": "CBS Sports NBA",
-     "published": "2026-11-11T15:50:17+00:00"
-    },
-    {
-     "title": "Use DraftKings promo code to get $200 bonus + free NBA League Pass on Warriors-Rockets, Buffalo-Ball State",
-     "summary": "DraftKings offers $200 in bonus bets and three free months of NBA League Pass after your first $5 wager for NBA, college football, NFL betting on Wednesday",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/18/c97262f9-761a-4e09-92d0-e42eb8f40a51/draftkings-nba-league-pass-200-bonus-cbssports.png",
-     "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-free-nba-league-pass-warriors-rockets-buffalo-ball-state/",
-     "source": "CBS Sports NBA",
-     "published": "2026-11-11T15:40:51+00:00"
-    },
-    {
-     "title": "Warriors vs. Rockets NBA odds, picks: Kevin Durant faces Steph Curry in latest Hall of Fame duel Wednesday",
-     "summary": "Steph Curry and the Warriors bring an eight-game winning streak into Houston",
-     "image": "https://sportshub.cbsistatic.com/i/2026/11/10/b5df5273-fa03-43b7-8710-ebd6fcf7fd96/2026-04-06t051123z-1577013372-mt1usatoday28667740-rtrmadp-3-nba-houston-rockets-at-golden-state-warriors-jpg.jpg",
-     "url": "https://www.cbssports.com/betting/news/warriors-vs-rockets-nba-odds-picks-kevin-durant-faces-steph-curry-in-latest-hall-of-fame-duel-wednesday/",
-     "source": "CBS Sports NBA",
-     "published": "2026-11-11T14:58:52+00:00"
-    },
-    {
      "title": "Pochettino a decade in Man Utd's making - but Carrick deserves better",
      "summary": "Mauricio Pochettino looks set to turn a decade-long courtship with Man Utd into a full-blown relationship, says chief football writer Phil McNulty.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7299/live/2b5bc490-ddcb-11f1-9053-236ccb99630c.jpg",
@@ -381,22 +397,6 @@
      "url": "https://www.bbc.co.uk/sport/football/articles/cw30e0yz0p04o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-11-11T11:47:09+00:00"
-    },
-    {
-     "title": "Pochettino’s Manchester United interest is as natural as it is disruptive to the US",
-     "summary": "The former Tottenham manager is always going to be a subject of interest, but United’s job carries a rare power As Mauricio Pochettino left the podium to close his final press conference of the last i…",
-     "image": "https://i.guim.co.uk/img/media/4b71f17a6ad6948921f197ca2b01e281248968b9/417_0_4525_3622/master/4525.jpg?width=140&quality=85&auto=format&fit=max&s=a0f8e5ed06c370b9a9b326bee37f2324",
-     "url": "https://www.theguardian.com/football/2026/nov/11/mauricio-pochettino-manchester-united-usmnt",
-     "source": "Guardian Sport",
-     "published": "2026-11-11T10:00:36+00:00"
-    },
-    {
-     "title": "NFL trade deadline winners and losers: Vikings go full dadcore with Kirk Cousins in Super Bowl quest",
-     "summary": "Teams with championship aspirations tooled up at the deadline. Most, but not all of them, have improved their chances After what happened Monday night, the Minnesota Vikings had to do this. In a dispi…",
-     "image": "https://i.guim.co.uk/img/media/73b8e60e69594d98ac19fe5e2237afbc28322b41/428_0_4259_3409/master/4259.jpg?width=140&quality=85&auto=format&fit=max&s=ddb40b0bf49e91da6a419373463bba75",
-     "url": "https://www.theguardian.com/sport/2026/nov/11/nfl-trade-deadline-winners-and-losers-vikings-bears-jaguars",
-     "source": "Guardian Sport",
-     "published": "2026-11-11T09:00:35+00:00"
     }
    ]
   }
