@@ -1,136 +1,136 @@
 {
- "generated": "2026-11-11T22:48:45.257954+00:00",
+ "generated": "2026-11-12T18:24:24.956049+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "Nvidia prepares to oust Jensen Huang, WSJ reports — stock sinks",
-     "summary": "The report comes days after Huang admitted to an affair with a woman who is believed by U.S. intelligence of being a Chinese spy.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-11T22:46:32+00:00"
-    },
-    {
-     "title": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports",
-     "summary": "Huang was notably opposed to strict export controls on AI chips to China, which ruffled feathers with congressional China hawks.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-11T22:46:29+00:00"
-    },
-    {
-     "title": "11/12  各報重點新聞一覽",
-     "summary": "自由時報 美列黑名單封殺爆漏洞 路透：中國「國防七子」名校 買到輝達H200 路透報導，與中國人民解放軍關係密切的西北工業大學儘管被列入美國出口黑名單，但仍透過白手套，成功採購輝達效能強大的H2...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5637729",
-     "source": "自由時報",
-     "published": "2026-11-11T22:38:13+00:00"
-    },
-    {
-     "title": "到月球「上班」！ NASA徵才 年薪541萬",
-     "summary": "首次上稿 11-11 23:50更新時間 11-12 06:35 想在月球上班、生活？美國國家航空暨太空總署（NASA）正在招募新一代太空人，錄取者有機會進駐月球基地，還可能...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5637684",
-     "source": "自由時報",
-     "published": "2026-11-11T22:35:20+00:00"
-    },
-    {
-     "title": "G7外長巴黎合體！霸氣喊話「別動台海」 挺台灣進國際組織",
-     "summary": "首次上稿 11-11 23:57更新時間 11-12 06:34 7大工業國集團（G7）外交部長及歐盟高級代表9日至10日在法國巴黎舉行2026年度外長會議，並於會後發表聯...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5637672",
-     "source": "自由時報",
-     "published": "2026-11-11T22:34:00+00:00"
-    },
-    {
-     "title": "義大利300校收「來自台灣」炸彈恐嚇信 大葉大學校友帳號疑遭盜用",
-     "summary": "首次上稿 11-11 23:23更新時間 11-12 06:30 義大利多家媒體報導，該國包括羅馬在內至少300所學校，收到大規模炸彈威脅電子郵件，發信網域指向台灣的大葉大學...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/society/breakingnews/5637677",
-     "source": "自由時報",
-     "published": "2026-11-11T22:30:25+00:00"
-    },
-    {
-     "title": "Judge rules Trump’s $10bn BBC defamation suit can proceed",
-     "summary": "The BBC denies defamation charge as Trump celebrates “huge victory” in court decision.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/11/judge-rules-trumps-10bn-bbc-defamation-suit-can-proceed?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-11T22:10:12+00:00"
-    },
-    {
-     "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-     "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f2/live/d0df2010-de11-11f1-a701-fddedf244c16.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-11T22:07:37+00:00"
-    },
-    {
-     "title": "Nvidia hires leading US law firm to investigate Jensen Huang’s relationship",
-     "summary": "Move comes as chipmaker reels from reports its CEO was having an affair with an alleged Chinese spy Nvidia has appointed a leading US law firm to conduct a “thorough and independent” investigation int…",
-     "image": "https://i.guim.co.uk/img/media/b76023068afd6989a4d83782e8ad21ac88094570/327_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=e80fd8b31abebcfb48715c6176ded127",
-     "url": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
-     "source": "Guardian Business",
-     "published": "2026-11-11T21:59:07+00:00"
-    },
-    {
-     "title": "Feds arrest top official of healthcare company, alleging illegal drug importation",
-     "summary": "U.S. officials are accusing two top officials of a Canadian company of operating a scheme to illegally import prescription drugs, court records show.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/11/canarx-official-arrested-drug-importation.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-11T21:33:17+00:00"
-    },
-    {
-     "title": "Nasdaq gains more than 1% as CoreWeave spike revitalizes AI trade",
-     "summary": "Stocks rose Wednesday, boosted by sharp gains in CoreWeave and a rebound in Nvidia following back-to-back losing sessions for the chipmaker.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-11T21:22:14+00:00"
-    },
-    {
-     "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
-     "summary": "Iran's parliament speaker and top negotiator says Tehran is waiting for an official US response to its seven conditions.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-11T21:03:40+00:00"
-    },
-    {
-     "title": "Thousands march to mark Poland’s Independence Day",
-     "summary": "Thousands of people have taken to the streets of Warsaw for Poland's annual Independence Day march",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/thousands-march-to-mark-polands-independence-day?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-11T21:02:02+00:00"
-    },
-    {
-     "title": "Hoax bomb threats target schools across Italy, UK and Ireland",
-     "summary": "Thousands of schools across Italy, the UK and Ireland received hoax bomb threat emails.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/hoax-bomb-threats-target-schools-across-italy-uk-and-ireland?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-11T21:01:42+00:00"
-    },
-    {
-     "title": "Why is gasoline suddenly under $4 a gallon?",
-     "summary": "The average price of a gallon of gasoline dipped below $4 this week for the first time in months. Does that mean more relief is coming for drivers?",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8054x5369+0+0/resize/8054x5369!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0d%2Fb1%2F79ee5cd14420a25d6111b7bf6a03%2Fgettyimages-2248589851.jpg",
-     "url": "https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-dollars-gallon",
+     "title": "Casualties continue to rise after Brooklyn building collapses",
+     "summary": "First responders continue to search for survivors after a building in Brooklyn collapsed, leaving at least eight dead and dozens injured.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8115x5410+0+0/resize/8115x5410!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2e%2F0b%2Fc07dd0af43e4a0d64518c8759694%2Fap26316491465482.jpg",
+     "url": "https://www.npr.org/sections/the-picture-show/2026/11/12/g-s1-153229/brooklyn-building-collapse-photos",
      "source": "NPR News",
-     "published": "2026-11-11T19:59:14+00:00"
+     "published": "2026-11-12T18:15:00+00:00"
     },
     {
-     "title": "Poundland owner extracted millions when chain was on ‘knife-edge’, MPs say",
-     "summary": "Retailer’s management to seek two-week extension of legal protection from creditors in high court MPs have accused the owner of Poundland of extracting millions of pounds from the budget retailer when…",
-     "image": "https://i.guim.co.uk/img/media/1b649855fa074407e8669b52440db74680645869/622_0_4636_3711/master/4636.jpg?width=140&quality=85&auto=format&fit=max&s=d3de01cc7638dc266c7aee2d3960c128",
-     "url": "https://www.theguardian.com/business/2026/nov/11/poundland-owner-chain-mps-claim-high-court",
+     "title": "Nvidia live updates: Jensen Huang agrees to testify before Congress following resignation",
+     "summary": "Nvidia CFO Colette Kress has been named interim CEO during the search for Huang’s replacement.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-12T18:12:15+00:00"
+    },
+    {
+     "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+     "summary": "Fed Chair Kevin Warsh announced the move at his October news conference, though he did not set a date.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-12T18:11:32+00:00"
+    },
+    {
+     "title": "Al Jazeera reports from Gaza hospital attacked by Israel",
+     "summary": "Al Jazeera’s Tareq Abu Azzoum reports on the aftermath of an Israeli strike on Nasser Hospital",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/al-jazeera-reports-from-gaza-hospital-attacked-by-israel?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-12T18:03:02+00:00"
+    },
+    {
+     "title": "Suspect turns gun on himself after deadly shooting in Washington DC",
+     "summary": "Police say the man suspected to have killed one person in a shooting in Washington DC appears to have shot himself.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/suspect-turns-gun-on-himself-after-deadly-shooting-in-washington-dc?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-12T18:02:32+00:00"
+    },
+    {
+     "title": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
+     "summary": "Nvidia’s value slumps by $888bn this week as scandal over longtime CEO’s two affairs, including with a suspected Chinese spy, engulfs chip maker Analysis: Jensen Huang built an AI kingdom. What now? F…",
+     "image": "https://i.guim.co.uk/img/media/ee87aa39a5285390ddbdaa26b7ca3472a48da292/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=521ae24e36f8fdf4fa3ee96fe310946d",
+     "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
      "source": "Guardian Business",
-     "published": "2026-11-11T19:10:26+00:00"
+     "published": "2026-11-12T17:54:15+00:00"
+    },
+    {
+     "title": "華府健身房槍擊案釀1死4傷　警方追查犯案動機",
+     "summary": "美國首都華盛頓特區（Washington, D.C.）市中心一處高級住宅區的健身中心和其周邊今天驚傳槍響，造成1人死亡、4人受傷。 綜合法新社和路透社報導，華盛頓特區都會區警察局代理局長卡...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5639075",
+     "source": "自由時報",
+     "published": "2026-11-12T17:45:03+00:00"
+    },
+    {
+     "title": "企業財報等利多加持　歐股收高",
+     "summary": "在企業財報強勁、地緣政治緊張情勢緩和，以及投資人將資金轉出亞洲與美國人工智慧（AI）相關股票帶動下，歐洲主要股市今天均收高。 倫敦FTSE 100指數上漲27.62點或0.25%，報108...…",
+     "image": "",
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5639074",
+     "source": "自由時報",
+     "published": "2026-11-12T17:36:04+00:00"
+    },
+    {
+     "title": "Here's what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote to Nvidia employees",
+     "summary": "Interim CEO Colette Kress and board chair Harvey Jones emailed Nvidia employees, expressing gratitude for \"resilience, professionalism and continued dedication",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-12T17:34:59+00:00"
+    },
+    {
+     "title": "Buy Nvidia with 'both hands' because the valuation is at 'stupid' levels, says analyst Meeks",
+     "summary": "The Freedom Capital head of technology research noted that the stock with Thursday's decline is trading at just 10 times fiscal 2028 earnings estimates from analysts.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/12/buy-nvidia-with-both-hands-because-the-valuation-is-at-stupid-levels-says-analyst-meeks.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-12T17:33:05+00:00"
+    },
+    {
+     "title": "黃仁勳離任　衝擊全球AI產業與改變美晶片輸出政策",
+     "summary": "輝達創辦人黃仁勳辭去執行長職務震撼全球科技圈、金融界及政界。黃仁勳去職預料將衝擊全球人工智慧晶片產業鏈動向，及強化美國政界推動限縮晶片輸出政策。 輝達（NVIDIA）創辦人黃仁勳疑涉中國間...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5639072",
+     "source": "自由時報",
+     "published": "2026-11-12T17:30:06+00:00"
+    },
+    {
+     "title": "Nvidia CEO Jensen Huang steps down, more affair details revealed",
+     "summary": "Now that Huang has stepped down, Al Jazeera’s Kristen Saloomey looks at the questions ahead for the company.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/nvidia-ceo-jensen-huang-steps-down-more-affair-details-revealed?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-12T17:25:58+00:00"
+    },
+    {
+     "title": "‘Her hands are as cold as ice’: Gaza families struggle to keep warm",
+     "summary": "Flooded tents and high prices leave Gaza families struggling to keep children warm as winter approaches.",
+     "image": "",
+     "url": "https://www.aljazeera.com/features/2026/11/12/her-hands-are-as-cold-as-ice-gaza-families-struggle-to-keep-warm?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-12T17:18:13+00:00"
+    },
+    {
+     "title": "Democrats want to stop Trump's arch, golf course and more. What are their options?",
+     "summary": "As Trump's arch and other projects make their way through the courts, many critics are looking to Congress to stop them. Democrats have a few tools, including funding and oversight.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7886x5257+0+0/resize/7886x5257!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7c%2F00%2F45ae5e5c4173a2bbdfc2feb574d7%2Fgettyimages-2303515786.jpg",
+     "url": "https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight",
+     "source": "NPR News",
+     "published": "2026-11-12T17:13:54+00:00"
+    },
+    {
+     "title": "黃仁勳請辭下台 輝達財務長克瑞斯暫代執行長",
+     "summary": "輝達執行長黃仁勳辭去職務，財務長克瑞斯（Colette Kress）任臨時執行長一職。她表示，將持續推進、讓輝達成為加速運算與AI領導者，並把握未來的發展機會，並承諾在黃仁勳奠定的33...…",
+     "image": "",
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5639066",
+     "source": "自由時報",
+     "published": "2026-11-12T16:48:03+00:00"
+    },
+    {
+     "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+     "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-12T16:31:12+00:00"
     }
    ]
   },
@@ -138,132 +138,100 @@
    "label": "AI",
    "items": [
     {
-     "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
-     "summary": "Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/t-mobile-5g-500x500-1752177364.jpg",
-     "url": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
+     "title": "Man's secret use of synthetic testosterone for cows nearly destroyed his heart",
+     "summary": "Doctors warn that such life-threatening cases are becoming more common.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-595668825-500x500.jpg",
+     "url": "https://arstechnica.com/health/2026/11/mans-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart/",
      "source": "Ars Technica",
-     "published": "2026-11-11T20:32:21+00:00"
+     "published": "2026-11-12T18:17:19+00:00"
     },
     {
-     "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
-     "summary": "\"What's unique is it's got a huge dynamic range. We can see things in full dark.\"",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/longwaveirsensor-500x500.jpg",
-     "url": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
+     "title": "黃仁勳確定去職，華爾街分析看好 AMD 業績與市場未來表現",
+     "summary": "隨著人工智慧（AI）晶片龍頭輝達（Nvidia）執行長黃仁勳（Jensen Huang）傳出請辭消息，半導體市 […]",
+     "image": "",
+     "url": "https://finance.technews.tw/2026/11/13/wall-street-analysts-are-optimistic-about-amds-future-performance-and-market-outlook/",
+     "source": "科技新報 TechNews",
+     "published": "2026-11-12T18:15:27+00:00"
+    },
+    {
+     "title": "黃仁勳去職，輝達股價大跌為全球科技股投下重量級深水炸彈",
+     "summary": "輝達（Nvidia）執行長黃仁勳（Jensen Huang）因個人緋聞醜聞持續延燒而正式辭職，重創這家晶片大廠 […]",
+     "image": "",
+     "url": "https://finance.technews.tw/2026/11/13/nvidias-stock-price-plunge-sends-a-bombshell-into-global-tech-stocks/",
+     "source": "科技新報 TechNews",
+     "published": "2026-11-12T17:45:44+00:00"
+    },
+    {
+     "title": "The amazing disappearing exoplanet",
+     "summary": "An exoplanet seems to have stopped transiting in front of its host star.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-500x500.jpeg",
+     "url": "https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/",
      "source": "Ars Technica",
-     "published": "2026-11-11T20:22:03+00:00"
+     "published": "2026-11-12T17:18:10+00:00"
     },
     {
-     "title": "NASA's secret weapon in the lunar space race may be ... procurement reform?",
-     "summary": "\"The pace that's occurring, and the nature of the procurements, is unprecedented.\"",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/moon-base-artists-concept-500x500.webp",
-     "url": "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/",
+     "title": "黃仁勳去職後，已答應美國會將於下周出席閉門聽證會",
+     "summary": "輝達（Nvidia）執行長黃仁勳在確認去職之後，根據外媒報導，已同意前往美國國會作證。美國聯邦眾議院外交委員會 […]",
+     "image": "",
+     "url": "https://finance.technews.tw/2026/11/13/jensen-huang-has-agreed-to-attend-a-closed-door-hearing-before-the-u-s-congress-next-week/",
+     "source": "科技新報 TechNews",
+     "published": "2026-11-12T17:10:09+00:00"
+    },
+    {
+     "title": "黃仁勳確定去職，臨危授命暫代執行長的財務長是甚麼樣來頭？",
+     "summary": "全球市值最高晶片大廠輝達（Nvidia）創辦人黃仁勳日前突發辭職，在公司任職長達 13 年的財務長柯瑞斯（Co […]",
+     "image": "",
+     "url": "https://finance.technews.tw/2026/11/13/the-cfo-was-appointed-to-temporarily-act-as-ceo-during-a-crisis/",
+     "source": "科技新報 TechNews",
+     "published": "2026-11-12T16:45:30+00:00"
+    },
+    {
+     "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+     "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/WP_ALDEN-Carousel_Lifestyle-copy-500x500.jpg",
+     "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
      "source": "Ars Technica",
-     "published": "2026-11-11T19:00:26+00:00"
+     "published": "2026-11-12T14:50:17+00:00"
     },
     {
-     "title": "Gemini Decisions API",
-     "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/ Comments URL: https://news.ycombinator.com/item?id=50456791 Points: 170 # Comments: 55",
-     "image": "",
-     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-11T18:32:42+00:00"
-    },
-    {
-     "title": "AWS emulator",
-     "summary": "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agent... https://www.allthingsdistributed.com/2026/11/aws-emulator-an... Comments URL: https://news.ycombinator.com/item?id=50456631 Points: 518…",
-     "image": "",
-     "url": "https://github.com/aws/aws-emulator",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-11T18:21:38+00:00"
-    },
-    {
-     "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
-     "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/TSMC-Fab-18-500x500.jpg",
-     "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+     "title": "Nvidia CEO Jensen Huang has resigned",
+     "summary": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-500x500.jpg",
+     "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
      "source": "Ars Technica",
-     "published": "2026-11-11T18:16:40+00:00"
+     "published": "2026-11-12T14:05:17+00:00"
     },
     {
-     "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-     "summary": "Article URL: https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/ Comments URL: https://news.ycombinator.com/item?id=50455394 Points: 353 # Comments: 170",
+     "title": "Jensen Huang resigns",
+     "summary": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-tran... https://www.reuters.com/business/retail-consumer/nvidia-ceo-... , https://www.reuters.com/live/nvidia-live-board-meets-fate-ce... https:…",
      "image": "",
-     "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+     "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
      "source": "Hacker News Front Page",
-     "published": "2026-11-11T16:38:44+00:00"
+     "published": "2026-11-12T13:52:29+00:00"
     },
     {
-     "title": "Atuin Threads: All your agent sessions on every machine",
-     "summary": "Article URL: https://blog.atuin.sh/threads-agent-sessions/ Comments URL: https://news.ycombinator.com/item?id=50453637 Points: 174 # Comments: 63",
+     "title": "Anthropic IPO",
+     "summary": "Article URL: https://ipo.anthropic.com/us/ Comments URL: https://news.ycombinator.com/item?id=50465829 Points: 635 # Comments: 640",
      "image": "",
-     "url": "https://blog.atuin.sh/threads-agent-sessions/",
+     "url": "https://ipo.anthropic.com/us/",
      "source": "Hacker News Front Page",
-     "published": "2026-11-11T14:10:46+00:00"
+     "published": "2026-11-12T11:46:41+00:00"
     },
     {
-     "title": "鑰匙錢包不怕弄丟，Pixel Tag 雙 11 開賣幫找失物",
-     "summary": "Google 在台推出首款藍牙定位器 Pixel Tag，可透過 Google 的尋找中心（Find Hub） […]",
+     "title": "Why Writing Correct Software Is Hard",
+     "summary": "Article URL: https://pron.github.io/posts/correctness-and-complexity Comments URL: https://news.ycombinator.com/item?id=50465352 Points: 281 # Comments: 122",
      "image": "",
-     "url": "https://ccc.technews.tw/2026/11/11/google-pixel-tag-launches-in-taiwan/",
-     "source": "科技新報 TechNews",
-     "published": "2026-11-11T11:34:08+00:00"
+     "url": "https://pron.github.io/posts/correctness-and-complexity",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-12T10:28:26+00:00"
     },
     {
-     "title": "電商平日賣三天打折兩天，中國雙 11 退去光環盛況不再",
-     "summary": "今天是中國「雙 11 購物節」，但中國電商與社群平台卻異常冷清。港媒指出，雙 11 自 2022 年以來已逐漸 […]",
+     "title": "Critical RCE Vulnerability in Apache HTTP Server",
+     "summary": "Article URL: https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability Comments URL: https://news.ycombinator.com/item?id=50462177 Points: 334 # Comments: 176",
      "image": "",
-     "url": "https://technews.tw/2026/11/11/e-commerce-shifts-3-days-sales-2-days-discounts-weekdays-china-double-11-loses-luster/",
-     "source": "科技新報 TechNews",
-     "published": "2026-11-11T09:50:17+00:00"
-    },
-    {
-     "title": "熙特爾前三季營收年增 681%，加速拓展 AI 能源與海外市場",
-     "summary": "熙特爾新能源今（11）日宣布高階經營團隊人事調整，原總經理陳伯勳升任集團總裁，負責全球戰略、重大投資及 AI […]",
-     "image": "",
-     "url": "https://technews.tw/2026/11/11/xitel-revenue-681-percent-growth-q1-q3-ai-energy-overseas-expansion/",
-     "source": "科技新報 TechNews",
-     "published": "2026-11-11T09:38:37+00:00"
-    },
-    {
-     "title": "Meta 推出輕量級模型 Muse Ember，低成本處理 Agent 重複任務",
-     "summary": "Meta 旗下 Meta 超級智慧實驗室（Meta Superintelligence Labs，MSL）推出 […]",
-     "image": "",
-     "url": "https://technews.tw/2026/11/11/muse-introduces-muse-ember/",
-     "source": "科技新報 TechNews",
-     "published": "2026-11-11T09:24:26+00:00"
-    },
-    {
-     "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
-     "summary": "arXiv:2611.12933v1 Announce Type: new Abstract: Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits accessibility. Agentic systems may lower th…",
-     "image": "",
-     "url": "https://arxiv.org/abs/2611.12933",
-     "source": "arXiv cs.AI",
-     "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
-     "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
-     "summary": "arXiv:2611.12934v1 Announce Type: new Abstract: While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite imagery into reliable land-change ana…",
-     "image": "",
-     "url": "https://arxiv.org/abs/2611.12934",
-     "source": "arXiv cs.AI",
-     "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
-     "title": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
-     "summary": "arXiv:2611.12935v1 Announce Type: new Abstract: Topic monitoring is the task of labelling the topic of each token in a model's response during generation. Activation-based monitors that run at generat…",
-     "image": "",
-     "url": "https://arxiv.org/abs/2611.12935",
-     "source": "arXiv cs.AI",
-     "published": "2026-11-11T05:00:00+00:00"
-    },
-    {
-     "title": "LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding",
-     "summary": "arXiv:2611.12936v1 Announce Type: new Abstract: Intelligent landslide detection is essential for disaster prevention. However, existing models primarily focus on isolated visual tasks, require extensi…",
-     "image": "",
-     "url": "https://arxiv.org/abs/2611.12936",
-     "source": "arXiv cs.AI",
-     "published": "2026-11-11T05:00:00+00:00"
+     "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-12T02:11:11+00:00"
     }
    ]
   },
@@ -271,137 +239,138 @@
    "label": "運動",
    "items": [
     {
-     "title": "Stephen Curry fires back at Gilbert Arenas, other podcasters for criticizing his wife Ayesha's on-screen kiss",
-     "summary": "Ayesha Curry's acting performance has drawn plenty of attention on the ex-NBA player podcast circuit",
-     "image": "https://sportshub.cbsistatic.com/i/2026/11/11/65828d3c-55dc-4f2c-8d40-4424ae7600fd/steph-ayesha-getty.png",
-     "url": "https://www.cbssports.com/nba/news/stephen-curry-wife-ayesha-curry-acting-gilbert-arenas-nick-young/",
-     "source": "CBS Sports NBA",
-     "published": "2026-11-11T22:35:44+00:00"
-    },
-    {
-     "title": "Stephen Curry attacks treatment of women after former players criticize wife Ayesha’s movie kiss",
-     "summary": "Warriors star defends wife over romantic comedy role Arenas called Ayesha ‘only blemish’ on Curry family Four-time NBA champion condemns double standards Golden State Warriors star Stephen Curry has c…",
-     "image": "https://i.guim.co.uk/img/media/ca4a8a751ac1d254904097e42479c77dfdd17a92/0_122_2000_1599/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=1abef6a9483807a34392b40b931b8ca3",
-     "url": "https://www.theguardian.com/sport/2026/nov/11/stephen-curry-ayesha-movie-kiss-arenas-young",
+     "title": "Steph Curry’s defense of Ayesha exposes the ugly double standards of sports’ manosphere | Andrew Lawrence",
+     "summary": "The Warriors superstar’s forceful defense of his wife over an on-screen kiss has exposed the ugly double standards and fragile masculinity of sports’ manosphere If Steph Curry is leading with his full…",
+     "image": "https://i.guim.co.uk/img/media/49419c3c392dd396be2efcb8263e7bb7e3792f09/625_0_6250_5000/master/6250.jpg?width=140&quality=85&auto=format&fit=max&s=21035651e27f10e3137c3f228de8caf1",
+     "url": "https://www.theguardian.com/sport/2026/nov/12/steph-curry-ayesha-curry-manosphere-marriage-backlash",
      "source": "Guardian Sport",
-     "published": "2026-11-11T22:30:23+00:00"
+     "published": "2026-11-12T18:03:05+00:00"
     },
     {
-     "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Rockets-Warriors, Buffalo-Ball State, NBA",
-     "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NBA, college football, NFL betting on Wednesday",
-     "image": "https://sportshub.cbsistatic.com/i/2026/09/08/8c9b2f2a-2dd9-45bb-932a-45e8faf837ef/betmgm-promo-code-september-2026.jpg",
-     "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-rockets-warriors-buffalo-ball-state-nba/",
-     "source": "CBS Sports NBA",
-     "published": "2026-11-11T22:27:52+00:00"
+     "title": "Steph Curry’s defense of Ayesha exposes the ugly double standards of the sports manosphere",
+     "summary": "The Warriors superstar’s forceful defense of his wife over an on-screen kiss has exposed the ugly double standards and fragile masculinity of sports’ manosphere",
+     "image": "https://media.zenfs.com/en/the_guardian_765/867f6bd8ff94178c133127d0ea1fe4e0.jpg",
+     "url": "https://sports.yahoo.com/articles/steph-curry-defense-ayesha-exposes-180305865.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-12T18:03:05+00:00"
     },
     {
-     "title": "Kirk Cousins plans to talk to Jakobe Thomas about No. 8",
-     "summary": "Vikings quarterback Kirk Cousins made his official return to the team on Wednesday.",
+     "title": "Lewis Hamilton says ‘Israel’s genocide in Gaza is appalling’ after Rafah visit",
+     "summary": "F1 driver urges Israel to let aid into Gaza Trip involved tour of facilities with aid workers Formula One driver Lewis Hamilton said on Wednesday that Israel must allow aid ⁠trucks into Gaza, a day af…",
+     "image": "https://i.guim.co.uk/img/media/9f421ee9a5c3c6382f96f0224c1cede036b26ba6/1168_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=4f4fcb9c3636fdfba9468c15830cd3db",
+     "url": "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel",
+     "source": "Guardian Sport",
+     "published": "2026-11-12T18:00:50+00:00"
+    },
+    {
+     "title": "Warriors reveal Stephen Curry injury diagnosis after MRI on abdomen",
+     "summary": "The Golden State Warriors will be without two-time MVP Stephen Curry for at least a few weeks with an abdominal injury.",
+     "image": "https://media.zenfs.com/en/usa_today_sports_articles_558/9031afb3e7d1be1f58931e3fc12f39bd.jpg",
+     "url": "https://sports.yahoo.com/articles/warriors-reveal-stephen-curry-injury-173723795.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-12T17:37:23+00:00"
+    },
+    {
+     "title": "Stephen Curry suffers oblique abdominal tear, will be re-evaluated in two weeks.",
+     "summary": "Eric Samulski discusses Stephen Curry's injury on Wednesday night and what it could mean for the Warriors.",
      "image": "",
-     "url": "https://sports.yahoo.com/articles/kirk-cousins-plans-talk-jakobe-215715494.html",
+     "url": "https://sports.yahoo.com/articles/stephen-curry-undergo-mri-abdominal-145323381.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-11-11T21:57:15+00:00"
+     "published": "2026-11-12T17:34:00+00:00"
     },
     {
-     "title": "US withdraw from U-17 World Cup in Qatar due to safety concerns",
-     "summary": "USSF cites state department advisory about Qatar Competition set to kick off in eight days The US men’s national team have pulled out of the Fifa U-17 World Cup, which is due to kick off in Qatar in j…",
-     "image": "https://i.guim.co.uk/img/media/6987ac7017788ecaf5e48c61ad55e3e00c026971/526_0_4393_3514/master/4393.jpg?width=140&quality=85&auto=format&fit=max&s=36e310889eb3cd518d09f9dbce90f937",
-     "url": "https://www.theguardian.com/football/2026/nov/11/usa-u-17-world-cup-qatar-withdrawal-middle-east-conflict",
-     "source": "Guardian Sport",
-     "published": "2026-11-11T21:54:46+00:00"
-    },
-    {
-     "title": "Use DraftKings promo code to get $200 bonus + free NBA League Pass on Rockets-Warriors, Buffalo-Ball State",
-     "summary": "DraftKings offers $200 in bonus bets and three free months of NBA League Pass after your first $5 wager for NBA, college football, NFL betting on Wednesday",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/18/c97262f9-761a-4e09-92d0-e42eb8f40a51/draftkings-nba-league-pass-200-bonus-cbssports.png",
-     "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-free-nba-league-pass-rockets-warriors-buffalo-ball-state/",
+     "title": "Stephen Curry injury: Warriors star to miss at least two weeks with oblique tear amid Golden State's hot start",
+     "summary": "Curry's injury is a tough blow for the Warriors, who are off to a surprising 8-4 start to the season",
+     "image": "https://sportshub.cbsistatic.com/i/2026/11/12/a6b1ebf1-bb1c-499b-b989-14bae3f19907/steph-injury-imagn.png",
+     "url": "https://www.cbssports.com/nba/news/stephen-curry-injury-warriors-abdominal/",
      "source": "CBS Sports NBA",
-     "published": "2026-11-11T21:48:42+00:00"
+     "published": "2026-11-12T17:26:09+00:00"
     },
     {
-     "title": "'It's forever': Lakers rookie Cameron Carr cherishing first NBA points",
-     "summary": "After Lakers star Luka Doncic tracks down the game ball to give it to Carr, the rookie guard said he'll have his teammates sign the ball.",
-     "image": "https://media.zenfs.com/en/la_times_articles_853/0e17a189496f85f81ccd420c91e2972a.jpg",
-     "url": "https://sports.yahoo.com/articles/forever-lakers-rookie-cameron-carr-211510341.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-11T21:15:10+00:00"
+     "title": "Palace sack Sage after 16 games with Frank in advanced talks",
+     "summary": "Crystal Palace have sacked manager Pierre Sage after 16 games in charge and the club bottom of the table.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73af/live/be720480-de96-11f1-9afe-1f03bfe02283.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-12T17:15:20+00:00"
     },
     {
-     "title": "Meeting of two lost souls: can Pochettino make it work at Manchester United? | Barney Ronay",
-     "summary": "Manager has been hurt by experiences at elite clubs but several players at Old Trafford could fit his playing style Welcome, Mauricio, to the meat grinder. Or rather, welcome back. We’ve been expectin…",
-     "image": "https://i.guim.co.uk/img/media/44d7d263c31cab4914ec6deab195542e4a6a5c03/538_0_6524_5220/master/6524.jpg?width=140&quality=85&auto=format&fit=max&s=a482d657d67f4be7a9d3ec3aaf7b6c04",
-     "url": "https://www.theguardian.com/football/2026/nov/11/mauricio-pochettino-manchester-united-old-trafford-manager",
-     "source": "Guardian Sport",
-     "published": "2026-11-11T21:10:31+00:00"
-    },
-    {
-     "title": "Darius Acuff frustrated with Kings brutal 1-10 record despite his hot start in the NBA: 'I'm not a loser'",
-     "summary": "The Kings fell to the Orlando Magic 107-100 on Tuesday night, and now hold one of the worst records in the NBA.",
+     "title": "Warriors' Stephen Curry out at least 2 weeks after suffering oblique abdominal tear",
+     "summary": "Curry exited Wednesday's loss to the Rockets in the first quarter.",
      "image": "",
-     "url": "https://sports.yahoo.com/nba/article/darius-acuff-frustrated-with-kings-brutal-1-10-record-despite-his-hot-start-in-the-nba-im-not-a-loser-204823834.html",
+     "url": "https://sports.yahoo.com/nba/breaking-news/article/warriors-stephen-curry-out-at-least-2-weeks-after-suffering-oblique-abdominal-tear-170546843.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-11-11T20:48:23+00:00"
+     "published": "2026-11-12T17:05:46+00:00"
     },
     {
-     "title": "Lauri Markkanen injury update could have major fallout for Utah Jazz",
-     "summary": "The Utah Jazz got a sobering injury update for star Lauri Markkanen, adding to their problems during a disastrous start to the 2026-27 NBA season.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/lauri-markkanen-injury-could-major-203054917.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-11T20:30:54+00:00"
+     "title": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
+     "summary": "How Man Utd identified Mauricio Pochettino as their new head coach - and what happened in the week Michael Carrick was left waiting.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6bd/live/ff1daf40-dead-11f1-8253-3f203a001288.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-12T16:12:39+00:00"
     },
     {
-     "title": "Today's top games to watch, best bets, odds: Wizards vs. Pacers, Sacramento St. vs. Central Michigan and more",
-     "summary": "Find best bets and props for the biggest games in sports on Wednesday from the SportsLine Projection Model and top CBS Sports experts",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/23/f0469de3-c9d8-4ad7-825a-0af0ffa476a2/anthony-davis-cbs.jpg",
-     "url": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-wizards-vs-pacers-sacramento-st-vs-central-michigan-and-more/",
+     "title": "Zion Williamson says Pelicans need to 'look in the mirror' after 'unacceptable' blowout loss to Nets",
+     "summary": "New Orleans is in the midst of a four-game losing streak and has lost its last two by a combined 85 points",
+     "image": "https://sportshub.cbsistatic.com/i/2026/11/12/acc0475b-f8c0-465f-9b7f-ed94b91b8662/zion.jpg",
+     "url": "https://www.cbssports.com/nba/news/zion-williamson-calls-out-pelicans-losing-streak-nets/",
      "source": "CBS Sports NBA",
-     "published": "2026-11-11T20:30:51+00:00"
+     "published": "2026-11-12T15:59:42+00:00"
     },
     {
-     "title": "Former NFL coach Rex Ryan charged after allegedly hitting pedestrians with car in Nashville",
-     "summary": "Former Jets and Bills coach turned himself in Ryan faces six misdemeanor charges over incident Two pedestrians allegedly struck in Nashville ESPN analyst and former NFL coach Rex Ryan turned himself i…",
-     "image": "https://i.guim.co.uk/img/media/24766d0e7fca982236b188870bc3d4cfda80f0c4/213_0_2117_1694/master/2117.jpg?width=140&quality=85&auto=format&fit=max&s=a3f06eaa7d1c960d2bcd902476caa2eb",
-     "url": "https://www.theguardian.com/sport/2026/nov/11/rex-ryan-charged-hit-and-run-pedestrians-nashville",
+     "title": "2026 NBA betting promos: Get over $3,000 in bonuses from top online betting apps, sportsbooks for Nov. 12",
+     "summary": "Top NBA betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/28/3380f23a-5bc5-4b08-8ecb-6d09d2d4231f/cooper-flagg-mavericks.jpg",
+     "url": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-get-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-november-12/",
+     "source": "CBS Sports NBA",
+     "published": "2026-11-12T15:14:17+00:00"
+    },
+    {
+     "title": "Pochettino expected to lead US in Nations League games before Manchester United move",
+     "summary": "USMNT coach agreed framework of a deal with United United have made contact with US federation Balogun: ‘I’d like to keep things the way they are’ Live news and reaction for Pochettino’s move to Man U…",
+     "image": "https://i.guim.co.uk/img/media/890140e0e4f6bfab67bf2aaaa0ea3048508b9206/418_0_2542_2034/master/2542.jpg?width=140&quality=85&auto=format&fit=max&s=72dd9632fc59241cabcd18f6ecac2a76",
+     "url": "https://www.theguardian.com/football/2026/nov/12/mauricio-pochettino-manchester-united-usmnt-nations-league",
      "source": "Guardian Sport",
-     "published": "2026-11-11T17:35:54+00:00"
+     "published": "2026-11-12T14:57:56+00:00"
     },
     {
-     "title": "Leader, role model, extraordinary - how Kane's 'fairytale' came true",
-     "summary": "From 21-year-old who scored 79 seconds into his debut to being on the brink of breaking his nation's appearance record, BBC Sport looks at Harry Kane's England career.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67bf/live/ee8455c0-dab2-11f1-8c3b-f3c0d6bd7c4f.png",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c60qkdj4lp34o?at_medium=RSS&at_campaign=rss",
+     "title": "McIlroy makes strong start in bid to equal Montgomerie's record",
+     "summary": "Rory McIlroy makes a strong start to his bid for a record-equalling eighth Race to Dubai title with a three under opening round at the DP World Tour Championship.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2bd/live/fc48f420-de9c-11f1-9afe-1f03bfe02283.jpg",
+     "url": "https://www.bbc.co.uk/sport/golf/articles/cwlymny900ezo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
-     "published": "2026-11-11T16:44:58+00:00"
+     "published": "2026-11-12T14:13:27+00:00"
     },
     {
-     "title": "Pochettino ready to accept Man Utd offer to replace Carrick",
-     "summary": "Mauricio Pochettino is ready to accept an offer from Manchester United to become their next head coach.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6766/live/d5551640-ddad-11f1-81e1-cf7317aa5114.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-11T16:03:02+00:00"
+     "title": "Marcus Smart called out for 'fake toughness' after throwing punch at Warriors' Charles Bassey",
+     "summary": "The Rockets guard was ejected on Wednesday and will likely face a suspension after getting heated with Bassey",
+     "image": "https://sportshub.cbsistatic.com/i/2026/11/12/9ae984c4-6f1c-422b-a196-de7f5bf2336a/marcus-smart-fight-getty.png",
+     "url": "https://www.cbssports.com/nba/news/marcus-smart-fake-toughness-punch-warriors-charles-bassey/",
+     "source": "CBS Sports NBA",
+     "published": "2026-11-12T13:35:33+00:00"
     },
     {
-     "title": "Pochettino a decade in Man Utd's making - but Carrick deserves better",
-     "summary": "Mauricio Pochettino looks set to turn a decade-long courtship with Man Utd into a full-blown relationship, says chief football writer Phil McNulty.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7299/live/2b5bc490-ddcb-11f1-9053-236ccb99630c.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cwzd9pvjy426o?at_medium=RSS&at_campaign=rss",
+     "title": "The chaos that took Carrick from two-year deal to sacked within 15 games",
+     "summary": "Michael Carrick becomes the third Manchester United manager to be sacked in three seasons - where did it go wrong?",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e373/live/dbd80f70-de86-11f1-b88b-3f1671ea859d.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
-     "published": "2026-11-11T12:58:17+00:00"
+     "published": "2026-11-12T10:21:29+00:00"
     },
     {
-     "title": "Assessing the reasons for Man City's decline in form under Maresca",
-     "summary": "The ongoing international break gives manager Enzo Maresca much-needed time to fix the growing issues in his Man City squad.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c72/live/a41350a0-dcfa-11f1-9ef0-4b5930e2f80e.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cw30e0yz0p04o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-11T11:47:09+00:00"
+     "title": "NFL midseason awards: Allen’s brilliance, a Seahawks shocker and a new Super Bowl pick",
+     "summary": "With the season reaching its halfway point, it’s time to see which teams and players are excelling Josh Allen, QB, Buffalo Bills. Joe Burrow is excelling for the Bengals and is rightly a frontrunner f…",
+     "image": "https://i.guim.co.uk/img/media/c5fa32c82745534022b24cf7933c33b7e8f95305/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5255a42adc8ccb52232f4b75f9e40a7c",
+     "url": "https://www.theguardian.com/sport/2026/nov/12/nfl-midseason-awards-josh-allen-jahmyr-gibbs-seahawks-bears",
+     "source": "Guardian Sport",
+     "published": "2026-11-12T09:30:14+00:00"
     }
    ]
   }
  },
  "failures": [
-  "關鍵評論網: <unknown>:22:6: mismatched tag"
+  "關鍵評論網: <unknown>:22:6: mismatched tag",
+  "arXiv cs.AI: 沒有項目"
  ]
 }
