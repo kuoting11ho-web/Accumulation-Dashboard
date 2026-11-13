@@ -1,120 +1,64 @@
 {
- "generated": "2026-11-13T17:52:13.246161+00:00",
+ "generated": "2026-11-13T20:31:34.181131+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
+    {
+     "title": "Nvidia hasn’t selected search firm for permanent Huang replacement, board tells CNBC",
+     "summary": "Speculation has swirled around who Nvidia's board will select to permanently succeed CEO Jensen Huang.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-13T20:21:46+00:00"
+    },
+    {
+     "title": "小空間怎麼隔？玻璃隔間放大視覺",
+     "summary": "小宅空間有限，如何劃分臥室、書房與客餐廳，又不讓室內顯得狹窄，是裝修規劃的一大難題。玻璃隔間兼具採光、分區與視覺延伸效果，成為現代居家常見的設計選項，但透明不代表適合所有空間，從玻璃材質、門片形式到施工安全，都得依使用需求評估，才能兼顧美觀與實用性。…",
+     "image": "",
+     "url": "https://estate.ltn.com.tw/article/29334",
+     "source": "自由時報",
+     "published": "2026-11-13T20:20:00+00:00"
+    },
+    {
+     "title": "【台中】三大科技聚落加持！中科房市升溫　西屯豪宅交易出現新變化",
+     "summary": "中科位於台中西屯、龍井交界，周邊串聯中科園區、台中工業區及精密機械產業聚落，隨著台積電持續擴大中部投資，科技人才進駐也為住宅市場帶來新需求，過去區域購屋主力以首購、換屋族為主，如今高總價新成屋交易也逐漸增加，今年總價5000萬元以上的新成屋已有8筆，且全數集…",
+     "image": "",
+     "url": "https://estate.ltn.com.tw/article/29333",
+     "source": "自由時報",
+     "published": "2026-11-13T20:20:00+00:00"
+    },
+    {
+     "title": "【高雄】同樣買高雄中都差在哪？ 一條美都路隔出兩種生活",
+     "summary": "同樣買在高雄中都重劃區，只隔一條30米寬的美都路，住宅環境就有不同選擇！東側靠近中華二路既有商圈，新建案從20坪到60坪都有；西側則鄰近中都濕地公園與愛河水岸，主打綠意與居住環境。隨著區域房價邁入4字頭，購屋族該如何在生活機能、居住空間與周邊環境之間做選擇？…",
+     "image": "",
+     "url": "https://estate.ltn.com.tw/article/29332",
+     "source": "自由時報",
+     "published": "2026-11-13T20:20:00+00:00"
+    },
     {
      "title": "Nasdaq falls on Friday as Nvidia keeps sliding, but major averages are up for week: Live updates",
      "summary": "Nvidia shares rebounded from its recent pressure and the latest inflation data came in slightly lighter than expected.",
      "image": "",
      "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
      "source": "CNBC Top News",
-     "published": "2026-11-13T17:36:49+00:00"
+     "published": "2026-11-13T20:08:22+00:00"
     },
     {
-     "title": "Microsoft outage live: disruption continues to affect millions as company says service is improving",
-     "summary": "Microsoft reports it is ‘continuing to see improvements in service availability’, after millions of customers around the world suffered disruption Tell us: have you been affected by the Microsoft outa…",
-     "image": "https://i.guim.co.uk/img/media/a40cf590042829e0e6891a61505aced8281edac7/242_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=c35d2ae6e13e46f13dbe9b70c78a5711",
+     "title": "11/09~11/13市場話題",
+     "summary": "信義房屋（9940）11日舉行法說會，公布第3季合併營收28.30億元，年增22.81%；歸屬母公司淨利1.89億元，年增118.60%，每股盈餘（EPS）0.26元，單季獲利較去年同期翻倍。公司表示，隨著政策與景氣干擾逐漸減弱，仲介本業營收明顯改善，加上中國大陸「山水嘉庭」建案交屋挹注，帶動整體營運表現成長。…",
+     "image": "",
+     "url": "https://estate.ltn.com.tw/article/29330",
+     "source": "自由時報",
+     "published": "2026-11-13T20:00:00+00:00"
+    },
+    {
+     "title": "Microsoft outage live: company ‘deeply sorry’ for disruption affecting millions and says it’s ‘not related to cyber or AI’",
+     "summary": "Microsoft says services are improving after millions of customers around the world suffered disruption Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage a…",
+     "image": "https://i.guim.co.uk/img/media/1ccad37044ebe363e04c9433b2cdfef1b031b83e/422_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=a6a345af1e98f92a186edcff2547992f",
      "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
      "source": "Guardian Business",
-     "published": "2026-11-13T17:21:56+00:00"
-    },
-    {
-     "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-     "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-13T17:12:46+00:00"
-    },
-    {
-     "title": "The fight over Canadian steelworker jobs",
-     "summary": "Stelco's US owner blames Trump's tariffs for layoffs, but its support for those same tariffs has raised questions.",
-     "image": "",
-     "url": "https://www.aljazeera.com/economy/2026/11/13/the-fight-over-canadian-steelworker-jobs?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T17:10:43+00:00"
-    },
-    {
-     "title": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
-     "summary": "Jensen Huang resigned as Nvidia CEO days after admitting to an affair following scrutiny of his relationship with a woman reportedly deemed a Chinese spy.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-13T17:06:57+00:00"
-    },
-    {
-     "title": "The Trump administration's voter roll crusade could continue",
-     "summary": "Election officials are preparing for the Trump administration's pressure tactics over potential noncitizens on state voter rolls to continue, though recent court rulings pose new obstacles.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6903x4560+0+0/resize/6903x4560!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F20%2Fdd%2F1b4c60f94f53a919c64962a66656%2Fgettyimages-2303720039.jpg",
-     "url": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california",
-     "source": "NPR News",
-     "published": "2026-11-13T17:00:00+00:00"
-    },
-    {
-     "title": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
-     "summary": "Moscow blames Kyiv for a series of car bombings that have targeted people linked to the war with Ukraine.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T16:44:56+00:00"
-    },
-    {
-     "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-     "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a8d/live/606ff370-df85-11f1-93e1-3b657b665bcf.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-13T16:40:31+00:00"
-    },
-    {
-     "title": "Jerusalem Daily: Baby dies from cold in Gaza",
-     "summary": "A baby dies from the cold in Gaza as 53 countries urge Israel to allow aid in.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/jerusalem-daily-baby-dies-from-cold-in-gaza?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T16:34:24+00:00"
-    },
-    {
-     "title": "Sixth victim confirmed in DC condo-related shooting in US, police say",
-     "summary": "Police confirm sixth victim in DC condo shooting; suspect dead after barricading himself and starting a fire.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/13/sixth-victim-found-in-dc-condo-related-shooting-police-confirm?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-13T16:31:50+00:00"
-    },
-    {
-     "title": "Jaguar Land Rover reports £451m quarterly loss after cutting 4,000 jobs",
-     "summary": "JLR chief executive calls for EU and Britain to join forces amid competition from Chinese electric carmakers Jaguar Land Rover has reported a £451m quarterly loss as it counts the cost of cutting 4,00…",
-     "image": "https://i.guim.co.uk/img/media/e8f34616a89eb687ef51aa6aa3542d0569d4d6f6/405_0_3858_3086/master/3858.jpg?width=140&quality=85&auto=format&fit=max&s=040b7cd16d653ef4ff426c858d83e2ca",
-     "url": "https://www.theguardian.com/business/2026/nov/13/jaguar-land-rover-quarterly-loss-electric-cars-job-cuts",
-     "source": "Guardian Business",
-     "published": "2026-11-13T16:22:16+00:00"
-    },
-    {
-     "title": "Does Europe regret its bet on U.S. defense?",
-     "summary": "Europe bet big on American defense technology and they're now paying the price. Years-long backlogs are underway due to production delays and the U.S. own military needs.",
-     "image": "https://feeds.npr.org/1001/undefined",
-     "url": "https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense",
-     "source": "NPR News",
-     "published": "2026-11-13T16:17:43+00:00"
-    },
-    {
-     "title": "How Sen. Chris Van Hollen plans to flex Democratic power on the foreign aid front",
-     "summary": "The Maryland Democrat, who's the ranking member of the Senate Foreign Relations Subcommittee, just announced he's going to run for Majority Leader. He spoke to NPR about his foreign aid vision.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5464+0+0/resize/8192x5464!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd3%2Fa3%2F631876c94a13ba74cf0090e78406%2Fchris-van-hollen.jpg",
-     "url": "https://www.npr.org/2026/11/13/g-s1-153350/senator-chris-van-hollen-global-health-development-aid",
-     "source": "NPR News",
-     "published": "2026-11-13T15:46:35+00:00"
-    },
-    {
-     "title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
-     "summary": "The producer price index was expected to increase 0.4% in October, according to the Dow Jones consensus.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-13T15:44:16+00:00"
+     "published": "2026-11-13T19:55:49+00:00"
     },
     {
      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
@@ -122,15 +66,71 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg",
      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-11-13T15:40:08+00:00"
+     "published": "2026-11-13T19:53:57+00:00"
     },
     {
-     "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
-     "summary": "OpenAI's ChatGPT Wallet partners with American Express, Mastercard and Visa, and those cardholders keep their existing credit card rewards.",
+     "title": "Nvidia scandal: US treasury chief blames Lutnick’s commerce department over alleged lack of action",
+     "summary": "US commerce secretary faces sack as questions emerge over senior Trump officials’ knowledge of alleged Chinese spy’s ties to Jensen Huang US politics – live updates The US commerce secretary, Howard L…",
+     "image": "https://i.guim.co.uk/img/media/5534caea091e39afe776168281e50dd327c8be8e/563_0_3334_2668/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=62c117f622bf4e5987845906efdee2f7",
+     "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+     "source": "Guardian World",
+     "published": "2026-11-13T19:51:28+00:00"
+    },
+    {
+     "title": "Migrants risk deadly route to Spain’s Canary Islands",
+     "summary": "More than 7,400 migrants arrived in Spain’s Canary Islands during the first 10 days of November.",
      "image": "",
-     "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/migrants-risk-deadly-route-to-spains-canary-islands?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T19:23:40+00:00"
+    },
+    {
+     "title": "IRGC says tanker caught fire after hitting mines in Strait of Hormuz",
+     "summary": "A liquefied gas carrier caught fire in the Strait of Hormuz after hitting naval mines, according to the IRGC.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T19:23:05+00:00"
+    },
+    {
+     "title": "Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker",
+     "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family’s financial ties to the chipmaker.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
      "source": "CNBC Top News",
-     "published": "2026-11-13T15:31:58+00:00"
+     "published": "2026-11-13T19:11:13+00:00"
+    },
+    {
+     "title": "Trump bought Nvidia stock as he helped chipmaker with change to export rule",
+     "summary": "President purchased up to $5m of stock before revoking Biden-era rule that limited Nvidia’s ability to sell to China Donald Trump bought Nvidia stock worth millions of dollars as he made decisions on…",
+     "image": "https://i.guim.co.uk/img/media/5d5bae65dfe648ee0640fe44d78bbefc78d94a15/69_0_2057_1645/master/2057.jpg?width=140&quality=85&auto=format&fit=max&s=d8a807e89eb2444738f7d753deae084d",
+     "url": "https://www.theguardian.com/us-news/2026/nov/13/trump-nvidia-stock-jensen-huang-us-china",
+     "source": "Guardian Business",
+     "published": "2026-11-13T19:09:05+00:00"
+    },
+    {
+     "title": "What's Trump's strategy now with Iran? To keep things as they are",
+     "summary": "Trump says \"status quo\" is what Gulf Arab allies want as Iran war hits stalemate and midterms force pivot from threats of attacks to economic pressure",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2Fb9%2F6cf90f6c4b56b83e0634229f9650%2Fap26315362362926.jpg",
+     "url": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+     "source": "NPR News",
+     "published": "2026-11-13T19:02:04+00:00"
+    },
+    {
+     "title": "How will the US deal with Nvidia scandal?",
+     "summary": "Tech giant CEO resigned and will testify before Congress.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/11/13/how-will-the-us-deal-with-nvidia-scandal?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T18:57:43+00:00"
+    },
+    {
+     "title": "At least 10 killed in Guinea clashes over gold mining ban",
+     "summary": "Guinea banned artisanal gold mining in Siguiri on November 2 due to environmental degradation, causing mass exodus.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/11/13/at-least-10-killed-in-guinea-in-crackdown-on-gold-mining?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-13T18:44:45+00:00"
     }
    ]
   },
@@ -138,16 +138,40 @@
    "label": "AI",
    "items": [
     {
+     "title": "In elephants, the resilience of communities has its limits",
+     "summary": "In Sri Lanka, ecological change is shrinking a park's elephant population.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156609-500x500.jpg",
+     "url": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
+     "source": "Ars Technica",
+     "published": "2026-11-13T20:03:13+00:00"
+    },
+    {
+     "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
+     "summary": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/donald-trump-jr-500x500.jpg",
+     "url": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
+     "source": "Ars Technica",
+     "published": "2026-11-13T19:49:16+00:00"
+    },
+    {
+     "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+     "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=504867…",
+     "image": "",
+     "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-13T17:30:10+00:00"
+    },
+    {
      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
      "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-destination-500x500.jpg",
-     "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+     "url": "https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
      "source": "Ars Technica",
      "published": "2026-11-13T17:25:45+00:00"
     },
     {
-     "title": "\"LibreOffice works 365 days a year. Just saying.\"",
-     "summary": "Article URL: https://twitter.com/LibreOffice/status/2121205272479998268 Comments URL: https://news.ycombinator.com/item?id=50486482 Points: 177 # Comments: 53",
+     "title": "LibreOffice actually works 365 days a year",
+     "summary": "Article URL: https://twitter.com/LibreOffice/status/2121205272479998268 Comments URL: https://news.ycombinator.com/item?id=50486482 Points: 643 # Comments: 214",
      "image": "",
      "url": "https://twitter.com/LibreOffice/status/2121205272479998268",
      "source": "Hacker News Front Page",
@@ -178,30 +202,6 @@
      "published": "2026-11-13T16:00:14+00:00"
     },
     {
-     "title": "Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says",
-     "summary": "Governments, hospitals, courts scrambled by global Microsoft outage.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2191081646-500x500-1794581824.jpg",
-     "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
-     "source": "Ars Technica",
-     "published": "2026-11-13T15:26:53+00:00"
-    },
-    {
-     "title": "It's the end of the world as we know it, per a physicist's 1960 prediction",
-     "summary": "Heinz von Foerster thought population would grow exponentially and \"squeeze\" us all to death.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cometTOP-500x500-1794509624.jpg",
-     "url": "https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/",
-     "source": "Ars Technica",
-     "published": "2026-11-13T15:09:39+00:00"
-    },
-    {
-     "title": "Why Zig over C for Systems Programming",
-     "summary": "Article URL: https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/ Comments URL: https://news.ycombinator.com/item?id=50483611 Points: 158 # Comments: 113",
-     "image": "",
-     "url": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-13T14:01:13+00:00"
-    },
-    {
      "title": "跑起來，別用走的！皮衣黃仁勳再也不上台演講的 AI 時代就這樣跑步來臨",
      "summary": "「跑起來，別用走的！」（Run, don’t walk!）曾是輝達（NVIDIA）創辦人黃仁勳最撼 […]",
      "image": "",
@@ -219,19 +219,19 @@
     },
     {
      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
-     "summary": "Article URL: https://www.science.org/doi/10.1126/science.132.3436.1291 Comments URL: https://news.ycombinator.com/item?id=50482379 Points: 335 # Comments: 243",
+     "summary": "Article URL: https://www.science.org/doi/10.1126/science.132.3436.1291 Comments URL: https://news.ycombinator.com/item?id=50482379 Points: 387 # Comments: 274",
      "image": "",
      "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
      "source": "Hacker News Front Page",
      "published": "2026-11-13T12:10:24+00:00"
     },
     {
-     "title": "AI Is Destroying the Trust Between Writers and Readers",
-     "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 202 # Comments: 95",
+     "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+     "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 465 # Comments: 373",
      "image": "",
-     "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+     "url": "https://status.claude.com/incidents/nn11wk485zfn",
      "source": "Hacker News Front Page",
-     "published": "2026-11-13T11:13:46+00:00"
+     "published": "2026-11-13T10:18:13+00:00"
     },
     {
      "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
@@ -271,6 +271,46 @@
    "label": "運動",
    "items": [
     {
+     "title": "James Harden is foundational to the Cavs’ Success",
+     "summary": "Harden is key to anything the Cavs want to do this season.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/dcaba10d3c808f6ed548f518b6de260b.jpg",
+     "url": "https://sports.yahoo.com/articles/james-harden-foundational-cavs-success-201126513.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-13T20:11:26+00:00"
+    },
+    {
+     "title": "Pelicans' Dejounte Murray reportedly wants trade after venting about franchise in deleted social media posts",
+     "summary": "'You have no f---ing clue what we dealing with,' Murray posted this week after a blowout loss",
+     "image": "https://sportshub.cbsistatic.com/i/2026/11/13/a438c125-1378-4510-b45f-db12b84c48b3/untitled-design-60.png",
+     "url": "https://www.cbssports.com/nba/news/pelicans-dejounte-murraysocial-media-now-deleted-posts-trade/",
+     "source": "CBS Sports NBA",
+     "published": "2026-11-13T20:02:56+00:00"
+    },
+    {
+     "title": "Pelicans reportedly working on trading disgruntled Dejounte Murray, who recently clapped back at fans on social media",
+     "summary": "Murray is currently in his third season with the team.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/breaking-news/article/pelicans-reportedly-working-on-trading-disgruntled-dejounte-murray-who-recently-clapped-back-at-fans-on-social-media-200103329.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-13T20:01:03+00:00"
+    },
+    {
+     "title": "betPARX Promo Code YAHOOBONUS: Bet $25, Get $50 in Bonus Bets or 200% Profit Boost for Friday's NBA Cup",
+     "summary": "Friday brings a nine-game slate of NBA Group play action. Pennsylvania basketball fans can follow the action while taking advantage of the latest betPARX promo code YAHOOBONUS. With the offer, new bet…",
+     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/betparx-banner-cta-110626_5753.jpg",
+     "url": "https://sports.yahoo.com/betting/promos/article/betparx-promo-code-yahoobonus-bet-25-get-50-in-bonus-bets-or-200-profit-boost-for-fridays-nba-cup-195500645.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-13T19:55:00+00:00"
+    },
+    {
+     "title": "LaMelo Ball sure looks like the difference: Timberwolves and Hornets trending in opposite directions after trade",
+     "summary": "Minnesota is making moves in the West with LaMelo Ball, while Charlotte is stumbling in the East without him.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/article/lamelo-ball-sure-looks-like-the-difference-timberwolves-and-hornets-trending-in-opposite-directions-after-trade-193822007.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-13T19:38:22+00:00"
+    },
+    {
      "title": "Eight sentenced to jail over Nurmagomedov-Dvalishvili brawl",
      "summary": "Eight people face prison sentences for their part in mass brawl involving MMA fighters Usman Nurmagomedov and Merab Dvalishvili at a hotel in Abu Dhabi on Wednesday.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6642/live/c4fcb950-df84-11f1-a8e2-5b59832bb2f1.png",
@@ -279,28 +319,12 @@
      "published": "2026-11-13T17:15:52+00:00"
     },
     {
-     "title": "How real are the Lakers, Spurs and the 10 teams slugging it out in the West?",
-     "summary": "Breaking down the early-season runs from a loaded Western Conference.",
-     "image": "https://d29szjachogqwa.cloudfront.net/images/2026-11/0ad5ac64-43fb-4a52-8725-9b8305ef88a6",
-     "url": "https://sports.yahoo.com/nba/article/how-real-are-the-lakers-spurs-and-the-10-teams-slugging-it-out-in-the-west-171550653.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-13T17:14:54+00:00"
-    },
-    {
      "title": "NBA Rookie of the Year race: Three players at top, but don't count out AJ Dybantsa, Darryn Peterson just yet",
      "summary": "With Caleb Wilson out with an injury, a clear top five has formed in the NBA Rookie of the Year race",
      "image": "https://sportshub.cbsistatic.com/i/2026/11/13/ea92036f-a5ad-4fbe-81c8-cc9108c5ddc0/untitled-design-59.png",
      "url": "https://www.cbssports.com/nba/news/nba-rookie-of-the-year-race-yaxel-lendeborg-cameron-boozer-darryn-peterson-aj-dybantsa/",
      "source": "CBS Sports NBA",
      "published": "2026-11-13T17:09:34+00:00"
-    },
-    {
-     "title": "Yahoo Perfect 5: Victor Wembanyama, Yaxel Lendeborg and De'Anthony Melton lead my Friday lineup",
-     "summary": "Dan Titus gives you his Yahoo Perfect 5 picks for Friday's NBA on Prime doubleheader.",
-     "image": "",
-     "url": "https://sports.yahoo.com/fantasy/article/yahoo-perfect-5-victor-wembanyama-yaxel-lendeborg-and-deanthony-melton-lead-my-friday-lineup-165818631.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-13T16:58:18+00:00"
     },
     {
      "title": "Tearful Pochettino says United job was ‘difficult to turn down’ in USMNT farewell",
@@ -327,6 +351,14 @@
      "published": "2026-11-13T16:03:19+00:00"
     },
     {
+     "title": "Sharks, ladders and a four-year plan - how England won World Cup",
+     "summary": "England's triumph at the Wheelchair Rugby League World Cup was built on an aggressive approach by head coach Tom Coyd - which included encouraging his players to see themselves like sharks.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cec/live/f72f4470-df6f-11f1-8112-6b9154c79b48.jpg",
+     "url": "https://www.bbc.co.uk/sport/rugby-league/articles/crly54evvvv4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-13T15:49:30+00:00"
+    },
+    {
      "title": "NBA player props, odds, picks: James Harden, Shai Gilgeous-Alexander featured in Friday's best bets",
      "summary": "We look at the best player prop bets for Friday's NBA games with insights from the SportsLine model",
      "image": "https://sportshub.cbsistatic.com/i/2026/10/31/2b4f9094-9a26-471b-a4f2-5fa2e3b08114/shai-gilgeous-alexander-3.jpg",
@@ -335,44 +367,12 @@
      "published": "2026-11-13T15:35:06+00:00"
     },
     {
-     "title": "NBA Washed Meter: Which late-30s (and older) stars still got it? And who's on the decline?",
-     "summary": "LeBron James, Stephen Curry, James Harden and more big names are playing big roles ... and some look better than others",
-     "image": "https://sportshub.cbsistatic.com/i/2026/11/13/6c760df8-6ff0-4827-8c09-792a62263576/lebron-james-harden-getty.png",
-     "url": "https://www.cbssports.com/nba/news/nba-washed-meter-james-harden-lebron-james/",
-     "source": "CBS Sports NBA",
-     "published": "2026-11-13T15:30:53+00:00"
-    },
-    {
      "title": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
      "summary": "An emotional Mauricio Pochettino broke down as he explained why he was leaving the USA to take the Manchester United job.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcb8/live/8a5ea400-df72-11f1-b844-3146c4983677.png",
      "url": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-11-13T15:28:06+00:00"
-    },
-    {
-     "title": "Must-See 65: The plan to kill the NBA back-to-back and re-energize the sport's biggest stars",
-     "summary": "With injuries sweeping through the league's stars, it's time to move to a 65-game schedule.",
-     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ed-111226-nba-smustsee65_1123.jpg",
-     "url": "https://sports.yahoo.com/nba/article/must-see-65-the-plan-to-kill-the-nba-back-to-back-and-re-energize-the-sports-biggest-stars-162947766.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-13T15:22:30+00:00"
-    },
-    {
-     "title": "The Grizzlies are way ahead of schedule, but still have a long way to go",
-     "summary": "Memphis’ hot start might be a mirage for now.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/b326df3cc3e9bec251cdee869af799cf.jpg",
-     "url": "https://sports.yahoo.com/articles/grizzlies-way-ahead-schedule-still-145303764.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-13T14:53:03+00:00"
-    },
-    {
-     "title": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
-     "summary": "With Mauricio Pochettino set to become Man Utd manager, we analyse if he can clear the tactical hurdles others haven't.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f043/live/468fa2e0-dddf-11f1-b465-b9821c2582d4.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-13T12:09:48+00:00"
     },
     {
      "title": "Surfing speedster Beardman gives a glimpse of Ashes future",
@@ -402,7 +402,6 @@
   }
  },
  "failures": [
-  "自由時報: <unknown>:7:2: mismatched tag",
   "關鍵評論網: <unknown>:22:6: mismatched tag"
  ]
 }
