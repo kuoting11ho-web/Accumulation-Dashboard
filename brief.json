@@ -1,9 +1,113 @@
 {
- "generated": "2026-11-14T18:45:50.330966+00:00",
+ "generated": "2026-11-14T20:47:27.255006+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
+    {
+     "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+     "summary": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-14T20:41:45+00:00"
+    },
+    {
+     "title": "India’s Assam state demolishes homes of 132 Muslim families",
+     "summary": "Authorities in India’s Assam have demolished the homes of 132 Muslim families.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/14-11-sv-assam-muslim-families-evicted-demolition-drive?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T20:14:10+00:00"
+    },
+    {
+     "title": "Bomb found near ethanol plant in central Illinois forces evacuations",
+     "summary": "The bomb was discovered Friday afternoon at the BioUrja Renewables plant in Peoria. Officials say the bomb has been \"rendered safe,\" but called it a \"credible threat.\" The FBI is investigating.",
+     "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=g-s1-153781",
+     "url": "https://www.npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations",
+     "source": "NPR News",
+     "published": "2026-11-14T20:12:34+00:00"
+    },
+    {
+     "title": "全美航班暫停起飛疑因設備問題或人為失誤　15日恢復正常航班",
+     "summary": "美國航空管制中心昨天發生通訊故障，迫使全美航班暫停起飛逾4小時。美官員今天表示，這起事件是承包商在一處偏遠設施更換老舊電信線路時，因設備故障或人為失誤所引起；估計航班將在這週末結束前恢復正常...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5641144",
+     "source": "自由時報",
+     "published": "2026-11-14T20:00:04+00:00"
+    },
+    {
+     "title": "Can being ‘non-Western’ cost you your home in Denmark?",
+     "summary": "Denmark’s Supreme Court is set to rule on whether families can be forced from their homes under a law.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/adlern-can_non-westren_cost_home_denmark-141126?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T19:52:49+00:00"
+    },
+    {
+     "title": "Deadly car bomb blast kills two near Syria’s capital",
+     "summary": "At least two people, a man and a girl, have been killed in a car bomb blast in Jaramana, near Syria's capital Damascus.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T19:46:36+00:00"
+    },
+    {
+     "title": "More than 100,000 rally across France in new Yellow Vest protests",
+     "summary": "Protesters chanted against declining affordability, the Macron government, police violence and poor school conditions.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/11/14/more-than-100000-rally-across-france-in-new-yellow-vest-protests?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-14T19:46:24+00:00"
+    },
+    {
+     "title": "輝達兩大股東籲審慎評估領導人選　黃仁勳回任列入考量",
+     "summary": "輝達（Nvidia）兩大股東呼籲董事會，在評估公司未來領導人所有選項時，要包括「黃仁勳可能回任」。 Altimeter Capital執行長葛斯特納（Brad Gerstner）昨天在社群...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/life/breakingnews/5641143",
+     "source": "自由時報",
+     "published": "2026-11-14T19:36:04+00:00"
+    },
+    {
+     "title": "'We can't let them down' -- After midterm wins, Democrats turn to charting path ahead",
+     "summary": "Democrats from across the country descended on Denver for a two-day conference to chart the course of their party after sweeping victories in the midterm elections.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3509x2632+213+0/resize/3509x2632!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2F64%2F879cc2d14c54a9ec911488b48d94%2Fap26317088763752.jpg",
+     "url": "https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference",
+     "source": "NPR News",
+     "published": "2026-11-14T19:13:54+00:00"
+    },
+    {
+     "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+     "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea11/live/3adfb390-e05f-11f1-9e26-b3b65586122f.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-14T19:12:25+00:00"
+    },
+    {
+     "title": "Philippines’ Carmelle wins first Eurovision contest in Asia",
+     "summary": "Filipino entry, pop and rap song Sobra-Sobra, takes 19-year-old to victory at grand final in Bangkok Carmelle Collado has won the first Eurovision song contest Asia, taking the Philippines’ entry, Sob…",
+     "image": "https://i.guim.co.uk/img/media/e086ead12105dc2c27d05464ce6db1d81b380886/300_0_3206_2564/master/3206.jpg?width=140&quality=85&auto=format&fit=max&s=6824875970409bb022b0fe92c92ae52e",
+     "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
+     "source": "Guardian World",
+     "published": "2026-11-14T19:01:32+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》 US firms tout orbital threat detection",
+     "summary": "EARLY WARNING:Detecting the earliest signs of a kinetic attack is only possible if there are space s...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5641091",
+     "source": "自由時報",
+     "published": "2026-11-14T19:00:00+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》 Athletes win gold and bronze in judo grand prix",
+     "summary": "/ Staff writer, with CNA Taiwanese Olympic medalist Yang Yung-wei （楊勇緯） won the men’s 60kg judo t...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5641093",
+     "source": "自由時報",
+     "published": "2026-11-14T19:00:00+00:00"
+    },
     {
      "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
      "summary": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday.",
@@ -27,116 +131,20 @@
      "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
      "published": "2026-11-14T18:17:58+00:00"
-    },
-    {
-     "title": "US blames system upgrade for longest nationwide FAA ground stop since 9/11",
-     "summary": "Sean Duffy, the country's transportation secretary, said his agency is 'going to hold people accountable'.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T18:02:53+00:00"
-    },
-    {
-     "title": "Rising costs and arrests fuel protests in Central African Republic",
-     "summary": "Hundreds take to the streets of Bangui to protest rising fuel prices and arrests in the Central African Republic.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/rising-costs-and-arrests-fuel-protests-in-central-african-republic?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T17:50:28+00:00"
-    },
-    {
-     "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
-     "summary": "Two Nvidia investors with about $2.13 billion of stock disclosed as of June 30 are calling for a deliberate leadership search after Huang’s resignation.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-14T17:46:06+00:00"
-    },
-    {
-     "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-     "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce07/live/190ced90-e04c-11f1-88e1-eb4e155225b3.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-14T17:16:36+00:00"
-    },
-    {
-     "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
-     "summary": "Zelenskyy rejected the possibility of Ukraine committing to neutrality and said he refused to cede territory to Russia.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T16:53:39+00:00"
-    },
-    {
-     "title": "FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade",
-     "summary": "Transportation Secretary Sean Duffy said initial investigations pointed to an issue with contractor L3Harris updating old tech at a remote location.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8091x5394+0+0/resize/8091x5394!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9e%2F96%2Fe23d590f45f8bbd605875a794fb7%2Fgettyimages-2304485779.jpg",
-     "url": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel",
-     "source": "NPR News",
-     "published": "2026-11-14T16:53:04+00:00"
-    },
-    {
-     "title": "雨彈漏夜轟炸 5縣市慎防大雨",
-     "summary": "中央氣象署今天（15）凌晨對5縣市發布大雨特報提醒，鋒面通過，易有短延時強降雨，高雄市已有局部豪雨發生，高屏地區及台中、南投、花蓮山區有局部大雨發生機率，注意雷擊及強陣風，低窪地...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5641137",
-     "source": "自由時報",
-     "published": "2026-11-14T16:50:02+00:00"
-    },
-    {
-     "title": "Portugal vs Denmark LIVE: UEFA Nations League",
-     "summary": "Follow updates from the Group A4 clash, including the build-up, analysis and live text commentary of the game.",
-     "image": "",
-     "url": "https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-14T16:45:00+00:00"
-    },
-    {
-     "title": "11月中場「強運王」出爐！雨揚報喜「3生肖」一路旺到跨年",
-     "summary": "〔娛樂新聞／綜合報導〕看著股市上沖下洗、紅綠燈變換莫測，心情也跟著七上八下、揣測難安？不只股市走勢宛如洗三溫暖，命理專家雨揚指出11/15～11/21這週的生肖運勢也迎來了極端的兩極化發展！雨揚...…",
-     "image": "",
-     "url": "https://ent.ltn.com.tw/news/breakingnews/5641076",
-     "source": "自由時報",
-     "published": "2026-11-14T16:33:00+00:00"
-    },
-    {
-     "title": "4隻流浪犬追殺梅花鹿 高雄祕境觀音湖驚悚畫面曝",
-     "summary": "高雄市觀音湖是近郊祕境，吳姓鳥友去賞鳥，驚見4隻流浪犬在湖中追殺梅花鹿，梅花鹿奮力游向對岸逃脫，但致命威脅仍在。福爾摩沙野鳥保育協會呼籲市府掃蕩遊蕩犬，避免野生動物受害。 ...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5641119",
-     "source": "自由時報",
-     "published": "2026-11-14T16:16:59+00:00"
-    },
-    {
-     "title": "Fuel crisis and protests pressure Chile's far-right president",
-     "summary": "Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8193x5462+0+0/resize/8193x5462!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fea%2F57%2F7e653aad4c7b8e810540c25313e9%2Fap26309662592247.jpg",
-     "url": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
-     "source": "NPR News",
-     "published": "2026-11-14T16:05:12+00:00"
-    },
-    {
-     "title": "洋流祭彩蛋！網友拜福德宮參巧遇沈伯洋 揭感動內幕",
-     "summary": "民進黨台北市長候選人14日在二二八和平紀念公園舉辦「洋流祭」，透過獨立樂團接力開唱、市民共創歌曲、及政策島闖關遊戲，吸引民眾前來參加。有網友分享，他今晚到二二八公園福德宮參拜，結...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5641116",
-     "source": "自由時報",
-     "published": "2026-11-14T16:00:22+00:00"
-    },
-    {
-     "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-     "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-14T15:15:57+00:00"
     }
    ]
   },
   "ai": {
    "label": "AI",
    "items": [
+    {
+     "title": "Lovable apps expose passport details and more than 200K private messages",
+     "summary": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 351 # Comments: 112",
+     "image": "",
+     "url": "https://www.crissyfield.de/research/lovable-en/",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-14T17:43:10+00:00"
+    },
     {
      "title": "就算從未誕生生命，地球仍能靠地質循環維持數十億年宜居環境",
      "summary": "我們在這裡。雖然我們並不完全清楚自己究竟是如何來到這裡的，但我們確實存在於此。但是…… […]",
@@ -154,8 +162,16 @@
      "published": "2026-11-14T16:00:06+00:00"
     },
     {
+     "title": "PyPI's redesigned project pages with clearer security signals are now live",
+     "summary": "Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/ Comments URL: https://news.ycombinator.com/item?id=50497892 Points: 152 # Comments: 56",
+     "image": "",
+     "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-14T15:40:52+00:00"
+    },
+    {
      "title": "Italy fines Meta $887M over Android users' data access",
-     "summary": "Article URL: https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/ Comments URL: https://news.ycombinator.com/item?id=50497009 Points: 176 # Comments: 1…",
+     "summary": "Article URL: https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/ Comments URL: https://news.ycombinator.com/item?id=50497009 Points: 241 # Comments: 1…",
      "image": "",
      "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
      "source": "Hacker News Front Page",
@@ -163,19 +179,11 @@
     },
     {
      "title": "KDE: The documentary [video]",
-     "summary": "Article URL: https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c Comments URL: https://news.ycombinator.com/item?id=50496976 Points: 206 # Comments: 36",
+     "summary": "Article URL: https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c Comments URL: https://news.ycombinator.com/item?id=50496976 Points: 279 # Comments: 55",
      "image": "",
      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
      "source": "Hacker News Front Page",
      "published": "2026-11-14T13:43:28+00:00"
-    },
-    {
-     "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
-     "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again Comments URL: https://news.ycombinator.com/item?id=50496602 Points: 278 # Comments: 107",
-     "image": "",
-     "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-14T12:45:45+00:00"
     },
     {
      "title": "James Webb telescope finds ice older than the star it orbits",
@@ -210,14 +218,6 @@
      "published": "2026-11-14T09:00:12+00:00"
     },
     {
-     "title": "Monkey Island: all 13 versions side by side",
-     "summary": "Article URL: https://monkeyisland.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50493904 Points: 378 # Comments: 131",
-     "image": "",
-     "url": "https://monkeyisland.pages.dev/",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-14T04:23:30+00:00"
-    },
-    {
      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
      "summary": "One way or another, the company will get some more data on Saturday.",
      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954-500x500.jpg",
@@ -239,9 +239,41 @@
    "label": "運動",
    "items": [
     {
+     "title": "'Tell Thomas there's no racism in Spain' - De la Fuente on Tuchel remarks",
+     "summary": "Spain manager Luis de la Fuente says \"there is no racism in Spain\" after Thomas Tuchel issued a warning to his England players before Sunday's Nations League meeting in Madrid.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d168/live/23ffd600-e05f-11f1-9e26-b3b65586122f.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c893r74ryy3qo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-14T20:43:57+00:00"
+    },
+    {
+     "title": "Kings head coach Doug Christie gets brutally honest about job security",
+     "summary": "Sacramento Kings head Doug Christie has seen a lot of losses but here's what he said about being on a hot seat with the organization.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/kings-head-coach-doug-christie-193630525.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-14T19:36:30+00:00"
+    },
+    {
+     "title": "'One of the greatest wins' - Wales stun All Blacks to go from no-hopers to heroes",
+     "summary": "Wales end a 73-year hoodoo against New Zealand with a win hailed as their greatest of all time.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5668/live/7585ebc0-e05c-11f1-9e26-b3b65586122f.jpg",
+     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmkg57rz2re9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-14T19:33:46+00:00"
+    },
+    {
+     "title": "Bompastor's risks pay off as Chelsea go top of WSL",
+     "summary": "In any big encounter you will often hear managers say it is the \"fine margins\" that decide a game. In this case, it was Sonia Bompastor's decisions.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8119/live/c11a1b50-e05d-11f1-b441-2b33b063138f.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cmvg25w18q9qo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-14T18:55:34+00:00"
+    },
+    {
      "title": "Joseph scores record-equalling five tries as England rout Japan",
      "summary": "Will Joseph marked his comeback after four years out the Test game with a record-equalling five tries as England tore through Japan.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ad0/live/b9248c00-e058-11f1-9e26-b3b65586122f.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4d0/live/272dcf50-e05d-11f1-9e26-b3b65586122f.jpg",
      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmvg208nlw04o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-11-14T18:31:30+00:00"
@@ -255,20 +287,20 @@
      "published": "2026-11-14T18:10:21+00:00"
     },
     {
-     "title": "Magnificent Wales beat New Zealand for first time since 1953",
-     "summary": "Wales celebrate a first victory against New Zealand since 1953 with a brilliant 35-28 win to spark astonishing scenes in Cardiff.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c362/live/81cafde0-e047-11f1-93e1-3b657b665bcf.jpg",
-     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c63dgev0p8pgo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-14T16:38:04+00:00"
+     "title": "Game Preview: Nets close out the road trip in Memphis",
+     "summary": "The Nets wrap up their four-game road trip at FedExForum against a revitalized Grizzlies squad.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/9cec4c6bdff63d1dddf16bb2c2a97e1b.jpg",
+     "url": "https://sports.yahoo.com/articles/game-preview-nets-close-road-173245816.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-14T17:32:45+00:00"
     },
     {
-     "title": "Tenerife boss says Owono's 12-match ban 'feels light'",
-     "summary": "Tenerife boss Alvaro Cervera reacts to goalkeeper Jesus Owono's 12-match ban as the club prepare for their first game since the death of Jesus de Miguel.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b213/live/53f770d0-e040-11f1-88e1-eb4e155225b3.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cmjeq0x815zko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-14T16:26:49+00:00"
+     "title": "D’Angelo Russell and LaMelo Ball: Darling vs. Discarded",
+     "summary": "LaMelo Ball and D’Angelo Russell are locked together as Wolves point guards who were thought to be the future.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/bb5477ec0b613933d43c68425c80092d.jpg",
+     "url": "https://sports.yahoo.com/articles/d-angelo-russell-lamelo-ball-173132297.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-14T17:31:32+00:00"
     },
     {
      "title": "Yaxel Lendeborg, Warriors get a taste of life without Stephen Curry: 'It felt helpless out there'",
@@ -287,30 +319,6 @@
      "published": "2026-11-14T15:36:06+00:00"
     },
     {
-     "title": "Hawks unable to outlast Bulls in overtime loss",
-     "summary": "A disappointing loss for the Hawks in the NBA Cup.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/89ec56500cc13e642c6ce7951a06351c.jpg",
-     "url": "https://sports.yahoo.com/articles/hawks-unable-outlast-bulls-overtime-150000653.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-14T15:00:00+00:00"
-    },
-    {
-     "title": "Bucks Reacts Survey Results: When it come to the Giannis trade, fans are on the fence",
-     "summary": "There’s very little end-stopping here—Bucks fans are enjambed on the trade-verdict fence.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/838226e3894f95c6e55fb89404d9cd05.jpg",
-     "url": "https://sports.yahoo.com/articles/bucks-reacts-survey-results-come-150000021.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-14T15:00:00+00:00"
-    },
-    {
-     "title": "Knicks Bulletin: ‘I tweaked my calf’",
-     "summary": "Fake comeback attempt by New York on Friday. Fake concerning development across the nation’s airspace, too. Here’s a bunch of the latest, including some interesting Josh Hart revelations. Mike Brown O…",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/37f11f0b5ec7ef8e683779892cfb9e5a.jpg",
-     "url": "https://sports.yahoo.com/articles/knicks-bulletin-tweaked-calf-143000829.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-14T14:30:00+00:00"
-    },
-    {
      "title": "Mauricio Pochettino asked the US to believe in his project. Did he believe in it himself?",
      "summary": "The coach’s tenure with the USMNT brought a whiplash of highs and lows. He met some goals but also left many with the impression he never truly bought in It did not take US men’s national team coach M…",
      "image": "https://i.guim.co.uk/img/media/c4284e99111f3b2d6ab3f889978114cb7b437fcf/463_0_3789_3032/master/3789.jpg?width=140&quality=85&auto=format&fit=max&s=a0c40e01c9f8309a673a5fd3c63b39c0",
@@ -325,14 +333,6 @@
      "url": "https://www.theguardian.com/sport/2026/nov/14/anthony-santander-blue-jays-anti-muslim-posts-apology",
      "source": "Guardian Sport",
      "published": "2026-11-14T13:00:50+00:00"
-    },
-    {
-     "title": "Tuchel to remind England of anti-racism protocols before Spain game",
-     "summary": "Manager Thomas Tuchel will remind England's players of Uefa's anti-racism protocols before Sunday's Nations League fixture against Spain in Madrid.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc84/live/b9694be0-e005-11f1-b441-2b33b063138f.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c60mdzn2dk1eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-14T09:13:30+00:00"
     },
     {
      "title": "FAA ground stop sends NBA, NHL and college teams scrambling ahead of weekend",
