@@ -1,16 +1,56 @@
 {
- "generated": "2026-11-15T19:24:22.263230+00:00",
+ "generated": "2026-11-15T21:05:55.656800+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "Israeli drone filmed flying low outside homes in southern Lebanon",
-     "summary": "Video shows an Israeli drone flying at low altitude over a residential area in southern Lebanon.",
+     "title": "Photos: Pope Leo visits Peru’s Amazon and Andean regions during 12-day tour",
+     "summary": "The pope has called for the preservation of Indigenous traditions in Peru as he wraps up a 12-day tour of Latin America.",
      "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/israeli-drone-filmed-flying-low-outside-homes-in-southern-lebanon?traffic_source=rss",
+     "url": "https://www.aljazeera.com/gallery/2026/11/15/photos-pope-leo-visits-perus-amazon-and-andean-regions-during-12-day-tour?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-15T19:02:21+00:00"
+     "published": "2026-11-15T20:54:13+00:00"
+    },
+    {
+     "title": "Palestinians reclaim Gaza’s shores with a swim for hope",
+     "summary": "For the first time in more than three years, Gaza’s swimming federation has held a competition.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-15T20:50:15+00:00"
+    },
+    {
+     "title": "Who can force Israel to implement Gaza ceasefire deal?",
+     "summary": "Storms batter Palestinian territory as Israel restricts entry of aid.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-15T20:37:43+00:00"
+    },
+    {
+     "title": "Estonia to close border crossings with Russia after alleged arson attack",
+     "summary": "Estonia is closing its border crossings with Russia following an alleged arson attempt at a drone factory.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-15T20:31:18+00:00"
+    },
+    {
+     "title": "美財長10天最後通牒　促輝達說明是否縱容最先進晶片走私中國",
+     "summary": "美國財政部長貝森特今天呼籲輝達於10天內說明，是否在知情的情況下，允許其最先進人工智慧晶片流入中國，強調這比該公司前執行長黃仁勳與疑似效力北京的間諜有染還更重要。 法新社報導，貝森特（Sc...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5641984",
+     "source": "自由時報",
+     "published": "2026-11-15T19:54:04+00:00"
+    },
+    {
+     "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+     "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-15T19:32:39+00:00"
     },
     {
      "title": "《TAIPEI TIMES》 Navy planning for submarine rescue vessel",
@@ -37,20 +77,12 @@
      "published": "2026-11-15T19:00:00+00:00"
     },
     {
-     "title": "《TAIPEI TIMES》 ‘Nvidia loves Taiwan,’ tech executive says",
-     "summary": "STILL NEEDED: Demand for AI hardware remains robust and Taiwan should continue building on its stren...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5641933",
-     "source": "自由時報",
-     "published": "2026-11-15T19:00:00+00:00"
-    },
-    {
-     "title": "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
-     "summary": "British royal says he's 'taken a risk' in his fourth surprise visit to Ukraine since 2022 to meet wounded veterans.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-15T18:31:52+00:00"
+     "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+     "summary": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc34/live/e2a8fc70-e11e-11f1-b441-2b33b063138f.jpg",
+     "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-15T18:38:11+00:00"
     },
     {
      "title": "'We slept here': Flight delays linger but schedule is back on track for Monday",
@@ -67,30 +99,6 @@
      "url": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
      "source": "CNBC Top News",
      "published": "2026-11-15T18:10:18+00:00"
-    },
-    {
-     "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-     "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-15T18:08:20+00:00"
-    },
-    {
-     "title": "Christian priest says US denied him a visa for being Palestinian",
-     "summary": "A Christian priest from Bethlehem, the birthplace of Jesus, says the US denied him a visa because he is Palestinian.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/christian-priest-says-us-denied-him-a-visa-for-being-palestinian?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-15T18:07:32+00:00"
-    },
-    {
-     "title": "Estonia to close border crossings with Russia after attack on drone maker",
-     "summary": "Eight arrests made in connection with an attempted arson, which Tallinn says was ordered by Russian intelligence.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-15T18:07:02+00:00"
     },
     {
      "title": "New Orleans port sues owners of tanker involved in Mississippi crash",
@@ -117,20 +125,12 @@
      "published": "2026-11-15T16:56:40+00:00"
     },
     {
-     "title": "Iran targets US military base in Bahrain with drone attack",
-     "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0351/live/2e8de2e0-e106-11f1-93e1-3b657b665bcf.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+     "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+     "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-11-15T13:42:58+00:00"
-    },
-    {
-     "title": "Poundland pins rescue hopes on Yorkshire Tea, Pot Noodle and Gloria Gaynor",
-     "summary": "Chain restocks stores in operation named after singer of I Will Survive, as US owners release some of withheld funds Poundland’s under-fire US owners have released funds to help the stricken discount…",
-     "image": "https://i.guim.co.uk/img/media/0d2f7534afa128e24bf7652d723765d65c52efcc/536_430_3761_3012/master/3761.jpg?width=140&quality=85&auto=format&fit=max&s=a6a40a63524f9e9eb409563c12285046",
-     "url": "https://www.theguardian.com/business/2026/nov/15/poundland-pins-rescue-hopes-on-yorkshire-tea-pot-noodle-and-gloria-gaynor",
-     "source": "Guardian Business",
-     "published": "2026-11-15T13:41:01+00:00"
+     "published": "2026-11-15T14:56:21+00:00"
     }
    ]
   },
@@ -138,16 +138,32 @@
    "label": "AI",
    "items": [
     {
+     "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+     "summary": "Article URL: https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html Comments URL: https://news.ycombinator.com/item?id=50509411 Points: 152 # Comments: 65",
+     "image": "",
+     "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-15T18:36:10+00:00"
+    },
+    {
      "title": "All AI-generated code should be Open Source",
-     "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 777 # Comments: 410",
+     "summary": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 924 # Comments: 502",
      "image": "",
      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
      "source": "Hacker News Front Page",
      "published": "2026-11-15T14:46:58+00:00"
     },
     {
-     "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
-     "summary": "Article URL: https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/ Comments URL: https://news.ycombinator.com/item?id=50506719 Points: 288 # Comments: 161",
+     "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+     "summary": "Article URL: https://prog21.dadgum.com/116.html Comments URL: https://news.ycombinator.com/item?id=50506894 Points: 156 # Comments: 77",
+     "image": "",
+     "url": "https://prog21.dadgum.com/116.html",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-15T13:44:16+00:00"
+    },
+    {
+     "title": "The MacBook Pro's OLED PWM problem",
+     "summary": "Article URL: https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/ Comments URL: https://news.ycombinator.com/item?id=50506719 Points: 334 # Comments: 174",
      "image": "",
      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
      "source": "Hacker News Front Page",
@@ -162,28 +178,12 @@
      "published": "2026-11-15T12:07:34+00:00"
     },
     {
-     "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
-     "summary": "https://wallhop.io/https://www.nytimes.com/2026/11/15/us/pol... Comments URL: https://news.ycombinator.com/item?id=50506180 Points: 330 # Comments: 145",
-     "image": "",
-     "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-15T11:40:51+00:00"
-    },
-    {
      "title": "蜂蜜具護膚潛力？細胞實驗找到初步證據，人體效果待驗證",
      "summary": "蜂蜜在醫學美容領域早因抗氧化、抗菌、抗發炎、促進傷口癒合等特性備受重視，一些無菌蜂蜜敷料、凝膠與藥膏已實際用於 […]",
      "image": "",
      "url": "https://technews.tw/2026/11/15/honey-skin-stem-cell-skin/",
      "source": "科技新報 TechNews",
      "published": "2026-11-15T09:45:51+00:00"
-    },
-    {
-     "title": "Why did some Apollo missions carry a grenade launcher?",
-     "summary": "Article URL: https://space.stackexchange.com/questions/37775 Comments URL: https://news.ycombinator.com/item?id=50505271 Points: 179 # Comments: 126",
-     "image": "",
-     "url": "https://space.stackexchange.com/questions/37775",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-15T09:06:43+00:00"
     },
     {
      "title": "訓練資料爭奪戰升溫，Memories.ai 推打工平台付錢請大家拍影片給機器人看",
@@ -241,10 +241,10 @@
     {
      "title": "Spain v England: Nations League – live",
      "summary": "Updates from 7.45pm (GMT) kick-off in Madrid Get in touch: email Daniel and follow us on BlueSky Tuchel speaks, telling ITV that “it’s a beautiful match”. They’ve qualified, done their homework and no…",
-     "image": "https://i.guim.co.uk/img/media/eb25859a484613d72c89348a46cf89f5e6032344/252_0_2497_1998/master/2497.jpg?width=140&quality=85&auto=format&fit=max&s=e3687b3721512af69b3aaf271a206b0e",
+     "image": "https://i.guim.co.uk/img/media/4dcf55afc8f3132d016fcfdf2c9b6d9e2776147c/509_216_4188_3350/master/4188.jpg?width=140&quality=85&auto=format&fit=max&s=56d11379a045c518178ac639b3a18c66",
      "url": "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-live",
      "source": "Guardian Sport",
-     "published": "2026-11-15T19:08:47+00:00"
+     "published": "2026-11-15T21:03:32+00:00"
     },
     {
      "title": "NFL week 10: Lions thrash Patriots, Vikings v Packers and more – live",
@@ -252,7 +252,23 @@
      "image": "https://i.guim.co.uk/img/media/138b3e5a36d00c06601a16a56ebefd2fbc871bd3/268_0_4583_3668/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=a08402554fc9b75975080370daf7e833",
      "url": "https://www.theguardian.com/sport/live/2026/nov/15/nfl-week-10-lions-v-patriots-and-more-live",
      "source": "Guardian Sport",
-     "published": "2026-11-15T19:06:49+00:00"
+     "published": "2026-11-15T21:00:54+00:00"
+    },
+    {
+     "title": "WTA Finals final: Elina Svitolina v Mirra Andreeva – live",
+     "summary": "Players meet for end of year championship Sabalenka apologizes to Svitolina after outburst First set: Andreeva* 1-0 Svitolina (*next server) Svitolina quickly drops two points and then sprays a shot w…",
+     "image": "https://i.guim.co.uk/img/media/056a1ec818f6bac633274e5938e880359a3b3d72/207_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=33f5bfa76c5fb6070c6fb3f05dfa7bc0",
+     "url": "https://www.theguardian.com/sport/live/2026/nov/15/wta-finals-final-elina-svitolina-v-mirra-andreeva-live",
+     "source": "Guardian Sport",
+     "published": "2026-11-15T20:58:20+00:00"
+    },
+    {
+     "title": "LeBron James passes Jason Kidd, now sits at No. 3 on NBA's all-time assists list",
+     "summary": "LeBron James had a season-high 11 assists on Sunday while leading the 76ers past the Pacers.",
+     "image": "https://d29szjachogqwa.cloudfront.net/images/2026-11/359045b5-e6ee-457f-ac2e-a7b9f594b676",
+     "url": "https://sports.yahoo.com/nba/breaking-news/article/lebron-james-passes-jason-kidd-now-sits-at-no-3-on-nbas-all-time-assists-list-203615024.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-15T20:36:15+00:00"
     },
     {
      "title": "Ronaldinho, 46, makes comeback for Ravenna",
@@ -260,15 +276,31 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45e6/live/30f37df0-e116-11f1-a7db-d90284d21c62.jpg",
      "url": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
-     "published": "2026-11-15T18:33:36+00:00"
+     "published": "2026-11-15T19:31:48+00:00"
     },
     {
-     "title": "Aberdeen appoint Liechtenstein's Frick as head coach",
-     "summary": "Former Liechtenstein striker Mario Frick is announced as the new head coach of Aberdeen.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d041/live/dc9e92f0-e127-11f1-9d32-63e01ae9cf36.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cqrmgz9ypvwko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-15T18:27:08+00:00"
+     "title": "Red Brawl New York: Fighting and six red cards mar ‘friendly’ v Club América",
+     "summary": "Game played without veterans and stars on both sides Red Bulls’ MLS season is already over One hallmark of Mauricio Pochettino’s time in international management was been his refusal to embrace the te…",
+     "image": "https://i.guim.co.uk/img/media/c19f6fef45f589cf16e2866d06679fa4f492848b/456_0_2993_2394/master/2993.jpg?width=140&quality=85&auto=format&fit=max&s=4f58cc143692fd290fa5e5a44a1dd5fc",
+     "url": "https://www.theguardian.com/football/2026/nov/15/red-bulls-club-america-brawl-friendly",
+     "source": "Guardian Sport",
+     "published": "2026-11-15T19:29:41+00:00"
+    },
+    {
+     "title": "Fred VanVleet is Rockets unsung hero",
+     "summary": "The Rockets’ Fred VanVleet has proven himself to be a winning player.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/b12325d71332a7dcd16c302f0d00645d.jpg",
+     "url": "https://sports.yahoo.com/articles/fred-vanvleet-rockets-unsung-hero-180901440.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-15T18:09:01+00:00"
+    },
+    {
+     "title": "Boston Celtics Daily Links 11/15/26",
+     "summary": "All the Celtics news you need in one convenient place.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/bb931d744a0bb18150921169cd9e166e.jpg",
+     "url": "https://sports.yahoo.com/articles/boston-celtics-daily-links-11-180549243.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-15T18:05:49+00:00"
     },
     {
      "title": "Week 5 Look-Ahead: Stephen Curry and Caleb Wilson go down, and toss Jeremiah Fears the keys",
@@ -287,28 +319,12 @@
      "published": "2026-11-15T17:17:57+00:00"
     },
     {
-     "title": "Walker Kessler’s defensive impact goes far beyond the box score",
-     "summary": "Walker Kessler’s defensive impact has not only been as advertised, but goes far beyond the traditional box score.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/839a2e5b2807fb388d9df23f0bf885e7.jpg",
-     "url": "https://sports.yahoo.com/articles/walker-kessler-defensive-impact-goes-162400766.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-15T16:24:00+00:00"
-    },
-    {
-     "title": "Game Preview: Suns host Lakers in the teams’ first matchup of the season",
-     "summary": "The Phoenix Suns host the Los Angeles Lakers for an afternoon matinee.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/7d98c31b2b500507cb8eaab240810803.jpg",
-     "url": "https://sports.yahoo.com/articles/game-preview-suns-host-lakers-160000740.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-15T16:00:00+00:00"
-    },
-    {
-     "title": "San Antonio Spurs vs. Utah Jazz: Preview, start time, how to watch",
-     "summary": "The Jazz look to end an 11-game losing streak as they host the Spurs",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/d0cf3c586e2339d12e4da70a49321eeb.jpg",
-     "url": "https://sports.yahoo.com/articles/san-antonio-spurs-vs-utah-152044518.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-15T15:20:44+00:00"
+     "title": "Triumph or flop? The Rugby League World Cup that split opinion",
+     "summary": "Has the Rugby League World Cup set a new benchmark for the international game? BBC Sport discovers the answer to that question differs in the northern and southern hemispheres.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f50d/live/69bd40e0-e106-11f1-93e1-3b657b665bcf.jpg",
+     "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cwdr1dl21l1vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-15T15:07:06+00:00"
     },
     {
      "title": "Tearful McIlroy dedicates record-equalling win to ill dad",
@@ -319,28 +335,12 @@
      "published": "2026-11-15T12:14:04+00:00"
     },
     {
-     "title": "The UFC is hard to like. The brilliant Kayla Harrison shows why it’s harder to dismiss | Bryan Armen Graham",
-     "summary": "Dana White’s company squeezes fighters, bullies journalists and toadies up to Trump. But it has also given neglected Olympians a path to money and fame that didn’t exist before it If you don’t like wh…",
-     "image": "https://i.guim.co.uk/img/media/8d6eb6ff4803979dad07d962d7efddb83e735724/692_0_6916_5533/master/6916.jpg?width=140&quality=85&auto=format&fit=max&s=fb018ab29292782be9ce1f0c3a412e6a",
-     "url": "https://www.theguardian.com/sport/2026/nov/15/kayla-harrison-ufc-womens-mma-dana-white-trump",
-     "source": "Guardian Sport",
-     "published": "2026-11-15T10:30:10+00:00"
-    },
-    {
      "title": "NBA player props, odds, picks: James Harden, Shai Gilgeous-Alexander featured in Friday's best bets",
      "summary": "We look at the best player prop bets for Friday's NBA games with insights from the SportsLine model",
      "image": "https://sportshub.cbsistatic.com/i/2026/10/31/2b4f9094-9a26-471b-a4f2-5fa2e3b08114/shai-gilgeous-alexander-3.jpg",
      "url": "https://www.cbssports.com/betting/news/nba-player-props-odds-picks-james-harden-shai-gilgeous-alexander-featured-in-fridays-best-bets/",
      "source": "CBS Sports NBA",
      "published": "2026-11-15T03:14:24+00:00"
-    },
-    {
-     "title": "Pulisic double leads US to 6-0 rout of Haiti in Pochettino’s farewell tour",
-     "summary": "US take 6-0 lead in Nations League quarter-final Hall, 18, scores again as Pochettino prepares for exit Pulisic goes into fourth on all-time US scoring list When Mauricio Pochettino named his US roste…",
-     "image": "https://i.guim.co.uk/img/media/86dd519ec2c7e5e7a90e81d91b1f5529fd2004e5/420_0_3594_2877/master/3594.jpg?width=140&quality=85&auto=format&fit=max&s=0bdaf3efa2dbe51ede9b8109ae283a8a",
-     "url": "https://www.theguardian.com/football/2026/nov/14/usmnt-haiti-pulisic-pochettino-nations-league-quarter-final",
-     "source": "Guardian Sport",
-     "published": "2026-11-14T23:43:28+00:00"
     },
     {
      "title": "Championship hangover? Josh Hart 'not in a good headspace' as he, other Knicks struggle amid uneven start",
