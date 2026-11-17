@@ -1,96 +1,104 @@
 {
- "generated": "2026-11-17T21:49:29.490929+00:00",
+ "generated": "2026-11-17T23:33:40.948676+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "Nvidia beats on results and guidance in first earnings report since Huang's exit: Live updates",
+     "title": "Stock futures rise as Nvidia gains on earnings beat and solid outlook: Live updates",
+     "summary": "Nvidia shares rose in extended trading after the company’s first earnings report since co-founder Jensen Huang resigned last week.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-17T23:32:34+00:00"
+    },
+    {
+     "title": "Maxwell 開源350億參數AI模型 程式開發表現超越同級Qwen",
+     "summary": "〔AI頻道／綜合報導〕一個名為Maxwell的AI開發團隊近日公開新模型Maxwell-V1.0-Flash，採用Apache 2.0開源授權，讓開發者可以免費下載權重、自行部署與微調。這款模型擁有3...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/aichannel/breakingnews/5644389",
+     "source": "自由時報",
+     "published": "2026-11-17T23:26:43+00:00"
+    },
+    {
+     "title": "Nvidia interim CEO Kress says it’s ‘business as usual’ at company: Live updates",
      "summary": "Nvidia released fiscal third-quarter 2027 results on Tuesday, with its earnings call scheduled for 5 p.m. ET.",
      "image": "",
      "url": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
      "source": "CNBC Top News",
-     "published": "2026-11-17T21:45:46+00:00"
+     "published": "2026-11-17T23:25:55+00:00"
     },
     {
-     "title": "St Kitts and Nevis fear economic impact of shuttering citizenship-by-investment program",
-     "summary": "Prime minister of twin-island Caribbean nation announces program wind-down after EU threatens to end visa-free access The decision by St Kitts and Nevis to end a lucrative programme offering citizensh…",
-     "image": "https://i.guim.co.uk/img/media/03f57a225008dd1bc1f3dc849a2f4e634086c7a4/342_0_2918_2334/master/2918.jpg?width=140&quality=85&auto=format&fit=max&s=dc6fc0dfac1be7b487bda0d86f9b5664",
-     "url": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
-     "source": "Guardian World",
-     "published": "2026-11-17T21:39:44+00:00"
-    },
-    {
-     "title": "Jensen Huang scandal fuels bipartisan push to block AI chip sales to China",
-     "summary": "Congress members are pushing for a series of chip-related export control bills to be included in the annual National Defense Authorization Act.",
+     "title": "大師兄林智勝結緣蕭敬騰  放下球棒轉戰藝界",
+     "summary": "〔娛樂頻道／綜合報導〕由中職全壘打王「大師兄」林智勝發起2026「益球智勝 原力榮耀」公益高爾夫球名人賽6日登場，邁入第四屆的賽事邀請曾國城、楊大正、翁滋蔓、竇智孔、陳志強、民雄等藝人共襄盛舉，...…",
      "image": "",
-     "url": "https://www.cnbc.com/2026/11/17/congress-ai-china-jensen-huang-chips.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-17T21:31:21+00:00"
-    },
-    {
-     "title": "台中市長候選人公辦政見發表會》何欣純：以首都格局 推動「三個第一」",
-     "summary": "〔記者蘇孟娟／台中報導〕台中市長候選人電視政見會十七日登場，民進黨候選人何欣純指出，她已經作好準備，要把握這一次改變台中的機會，以「首都格局」來推動「三個第一」和「一個大機場」，打造市民期待的新台中。 過去八年 市政推動緩慢 何指出，過去八年，台中市民焦慮到連市政府的「治理思維」都塞住了，從食安…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/paper/1778892",
+     "url": "https://ent.ltn.com.tw/news/breakingnews/5644377",
      "source": "自由時報",
-     "published": "2026-11-17T21:30:00+00:00"
+     "published": "2026-11-17T23:25:19+00:00"
     },
     {
-     "title": "自由日日Shoot》免費機票、貴賓室、接駁費全包辦 動員台商中配 中國5大招介選",
-     "summary": "〔記者陳昀／台北報導〕九合一選舉倒數十天，安全單位掌握，中國涉台系統透過贈予免費機票、優先保留機位等五大操作手法，動員在中的台灣人返台投票，依據政治傾向提供相關優惠，並直接或間接提示投票意向，介選意圖不言可喻。 依據政治傾向提供相關優惠 直接或間接提示投票意向 安全單位歸納中國國台辦及地…",
+     "title": "MLB》洋基當家守護神接受7.6億QO！超越道奇明星豪寫史上最狂紀錄",
+     "summary": "根據大聯盟官網洋基隨隊記者霍克（Bryan Hoch）報導，明星終結者貝納（David Bednar）確定接受2315萬美元（約新台幣7.6億）合格報價，來季續留條紋軍，也...…",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/paper/1778877",
+     "url": "https://sports.ltn.com.tw/news/breakingnews/5644379",
      "source": "自由時報",
-     "published": "2026-11-17T21:30:00+00:00"
+     "published": "2026-11-17T23:22:13+00:00"
     },
     {
-     "title": "賴總統專機飛越許可遭撤銷 華府促ICAO反對涉台飛航設限",
-     "summary": "〔國際新聞中心、記者黃靖媗／綜合報導〕路透十七日獨家報導，美國正要求聯合國航空機構反制涉及台灣的飛航限制，這也再度引燃華府與北京之間，關於中國長年試圖限縮台灣國際參與空間的外交角力。 公海空中交通管理 不得用於政治目的 報導指出，在一份提交國際民航組織（ICAO）理事會十一月會議的正式文件中，華…",
+     "title": "點名徐巧芯、羅智強幹髒活！苗博雅揭藍營「烏賊戰盤算」讓中間選民不想投票",
+     "summary": "〔娛樂頻道／綜合報導〕社民黨台北市議員苗博雅近日作客政論節目《大選鏡來講》，談及台北市長選戰時直接點名國民黨立委徐巧芯、羅智強，指稱藍營在選戰中要有人「幹髒活」，透過「烏賊戰」把整場選舉弄得烏煙瘴氣，...…",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/paper/1778878",
+     "url": "https://ent.ltn.com.tw/news/breakingnews/5644343",
      "source": "自由時報",
-     "published": "2026-11-17T21:30:00+00:00"
+     "published": "2026-11-17T23:20:00+00:00"
     },
     {
-     "title": "全新車款完成運轉測試 阿里山森里號 明年元旦營運",
-     "summary": "阿里山林業鐵路全新打造高階車款「森里號」已完成本線、支線的運轉測試作業，近日在阿里山車站至祝山車站區間測試，有民眾拍下森里號穿梭在雲霧繚繞山林間又有楓紅點綴的美照。 林鐵及文資處表示，已將第三方認證資料函送林保署，報請交通部核准營運，若一切順利，森里號預計明年元旦開始營運。 \b（記者蔡宗勳） …",
+     "title": "Top spy agency suffers network outage, the latest US technical failure",
+     "summary": "A series of unfortunate events has plagued the US. Al Jazeera’s Emma Withrow breaks down what we know.",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/life/paper/1778875",
-     "source": "自由時報",
-     "published": "2026-11-17T21:30:00+00:00"
-    },
-    {
-     "title": "UK sanctions Israeli settlement firms to protect two-state solution",
-     "summary": "The UK has imposed new sanctions on eight Israeli companies supporting illegal settlements in the occupied West Bank.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/top-spy-agency-suffers-network-outage-the-latest-us-technical-failure?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-17T21:28:31+00:00"
+     "published": "2026-11-17T23:19:12+00:00"
     },
     {
-     "title": "‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money",
-     "summary": "Democrats say they plan to investigate Trump's dealings with Venezuela after winning control of Congress.",
+     "title": "Haitians protest in support of El Salvador’s anti-gang troop deployment",
+     "summary": "El Salvador's security minister has confirmed the troops will leave once kidnapped technicians are rescued.",
      "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss",
+     "url": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-17T21:26:42+00:00"
+     "published": "2026-11-17T23:09:00+00:00"
     },
     {
-     "title": "Moment Russian military plane crashes in Siberia, killing 19",
-     "summary": "Footage captures the moment a Russian military transport aircraft crashes in the Kemerovo region",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/moment-russian-military-plane-crashes-in-siberia-killing-19?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-17T21:25:43+00:00"
-    },
-    {
-     "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-     "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png",
-     "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+     "title": "Nvidia reports bumper results as firm says it's not reinstating Huang",
+     "summary": "Nvidia reported strong quarterly earnings on Tuesday amid the dramatic exit of ex-CEO Jensen Huang.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-11-17T21:24:35+00:00"
+     "published": "2026-11-17T23:03:39+00:00"
+    },
+    {
+     "title": "New UK-EU youth mobility scheme may not fully launch until 2030",
+     "summary": "Exclusive: deal expected to be sealed in principle at EU-UK summit on Friday but trickier elements could be postponed for six months The new post-Brexit UK-EU youth mobility scheme may not come fully…",
+     "image": "https://i.guim.co.uk/img/media/6fc1f6014766f6cbb24d0d12e59c516e7ccd73c9/314_0_3181_2544/master/3181.jpg?width=140&quality=85&auto=format&fit=max&s=1236630a149edef98ad84bcca79d5dbf",
+     "url": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu",
+     "source": "Guardian Business",
+     "published": "2026-11-17T22:55:06+00:00"
+    },
+    {
+     "title": "Thomas Markle charged over child sex abuse material in Philippines",
+     "summary": "Markle is being held in prison in the US on a separate charge and has previously denied all of the allegations.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-17T22:44:15+00:00"
+    },
+    {
+     "title": "Russian military plane crash in Siberia kills 19",
+     "summary": "Russia's Defence Ministry says preliminary findings for the crash point to equipment failure.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-17T22:21:16+00:00"
     },
     {
      "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
@@ -98,45 +106,101 @@
      "image": "",
      "url": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
      "source": "CNBC Top News",
-     "published": "2026-11-17T21:24:20+00:00"
+     "published": "2026-11-17T22:03:57+00:00"
     },
     {
-     "title": "Whistleblower: Deadly drone strike in Kuwait could’ve been avoided",
-     "summary": "Whistleblower accuses military of dismissing advanced security warnings of drone strike that killed six US soldiers.",
+     "title": "US Fed’s Lisa Cook refuses to attend White House hearing",
+     "summary": "US President Donald Trump has been trying to fire Cook since August 2025.",
      "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/17/whistleblower-deadly-drone-strike-in-kuwait-couldve-been-avoided?traffic_source=rss",
+     "url": "https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-17T21:14:31+00:00"
+     "published": "2026-11-17T22:01:27+00:00"
     },
     {
-     "title": "Some EU countries ‘could accept unlimited young Britons’ under youth mobility scheme",
-     "summary": "Scheme expected to be sealed in principle at EU-UK summit in Brussels on Friday but trickier elements could be postponed for six months EU countries including Germany could accept an unlimited number…",
-     "image": "https://i.guim.co.uk/img/media/6fc1f6014766f6cbb24d0d12e59c516e7ccd73c9/314_0_3181_2544/master/3181.jpg?width=140&quality=85&auto=format&fit=max&s=1236630a149edef98ad84bcca79d5dbf",
-     "url": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu",
-     "source": "Guardian Business",
-     "published": "2026-11-17T19:59:01+00:00"
+     "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
+     "summary": "St Kitts and Nevis to wind down citizenship-by-investment program after EU warns of end to visa-free access The decision by St Kitts and Nevis to end a lucrative programme offering citizenship to weal…",
+     "image": "https://i.guim.co.uk/img/media/03f57a225008dd1bc1f3dc849a2f4e634086c7a4/342_0_2918_2334/master/2918.jpg?width=140&quality=85&auto=format&fit=max&s=dc6fc0dfac1be7b487bda0d86f9b5664",
+     "url": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
+     "source": "Guardian World",
+     "published": "2026-11-17T21:49:29+00:00"
     },
     {
-     "title": "Milburn calls for tax cuts for businesses hiring young people despite union concerns",
-     "summary": "Youth unemployment review risks clash with unions and Labour left over workers’ rights and minimum wage Neet ideas: what’s in Alan Milburn’s youth unemployment report? Who are the Neets? UK youth job…",
-     "image": "https://i.guim.co.uk/img/media/94d5dbcaee84ef4860f15c907cea1bc38ec21f3b/663_0_2672_2138/master/2672.jpg?width=140&quality=85&auto=format&fit=max&s=bf95bdbd3cbd8daafc938131e8ca9f1a",
-     "url": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-tax-cuts-businesses-unions-neets-youth-unemployment",
-     "source": "Guardian Business",
-     "published": "2026-11-17T19:30:32+00:00"
-    },
-    {
-     "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
-     "summary": "Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, and the U.S. retaliated by firing at Iranian targets along an important shipping route.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x5760+0+0/resize/8640x5760!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F97%2F79%2Fdaf7ce984f009fe345ef7aff3a56%2Fap26320429061252.jpg",
-     "url": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
-     "source": "NPR News",
-     "published": "2026-11-17T18:34:31+00:00"
+     "title": "Isolated Brazilian tribe emerges amid alarm over threats to group’s way of life",
+     "summary": "Indigenous Awá people of Amazon make contact with villagers and accept food to take back to territory About 20 Indigenous people emerged from isolation in Brazil’s Amazon rainforest, several organizat…",
+     "image": "https://i.guim.co.uk/img/media/dde5ccc76241e935a3052e3e3dd59bb8f8f29473/755_0_4561_3648/master/4561.jpg?width=140&quality=85&auto=format&fit=max&s=7745631c366ee976f0d03e776f119921",
+     "url": "https://www.theguardian.com/world/2026/nov/17/brazil-amazon-isolated-indigenous-people",
+     "source": "Guardian World",
+     "published": "2026-11-17T21:40:56+00:00"
     }
    ]
   },
   "ai": {
    "label": "AI",
    "items": [
+    {
+     "title": "黃仁勳辭職、輝達北士科總部恐生變？北市府：履約正常，籌建持續前進",
+     "summary": "輝達（NVIDIA）董事會 12 日宣布創辦人黃仁勳辭去總裁、執行長、董事等職務，引外界關注北投士林科技園區（ […]",
+     "image": "",
+     "url": "https://finance.technews.tw/2026/11/18/jensen-steps-down-will-it-affect-nvidia-bstp/",
+     "source": "科技新報 TechNews",
+     "published": "2026-11-17T23:30:43+00:00"
+    },
+    {
+     "title": "ChatGPT、Gemini 看選戰，同一參選人有不同動漫樣態",
+     "summary": "隨著 2026 年九合一選舉進入倒數，AI 眼中的政治人物是什麼模樣？AI 傳播科技公司 REALI 研究發現 […]",
+     "image": "",
+     "url": "https://technews.tw/2026/11/18/chatgpt-gemini/",
+     "source": "科技新報 TechNews",
+     "published": "2026-11-17T23:30:37+00:00"
+    },
+    {
+     "title": "微軟前團隊創立新創 Edelbyte 獲 7,000 萬美元募資，打造專為 AI 時代而生的搜尋分析平台",
+     "summary": "以色列資料基礎設施新創公司 Edelbyte 11 日正式對外亮相，宣布完成總額 7,000 萬美元的募資，公 […]",
+     "image": "",
+     "url": "https://technews.tw/2026/11/18/microsoft-ex-team-edelbyte-raises-70m-for-ai-search-analytics-platform/",
+     "source": "科技新報 TechNews",
+     "published": "2026-11-17T23:20:37+00:00"
+    },
+    {
+     "title": "點名多家台商擴大全球供應鏈衝刺產能，輝達採購承諾飆升至 3,900 億美元",
+     "summary": "在輝達（NVIDIA）第三季財報電話會議上，輝達代理執行長暨財務長柯瑞斯 (Colette Kress) 表示 […]",
+     "image": "",
+     "url": "https://finance.technews.tw/2026/11/18/several-taiwanese-companies-were-named-to-expand-their-global-supply-chains-and-boost-production-capacity/",
+     "source": "科技新報 TechNews",
+     "published": "2026-11-17T23:15:50+00:00"
+    },
+    {
+     "title": "San Diego dumps both Flock cameras and smart streetlights",
+     "summary": "500+ cameras will go dark just 3 years after mayor urged approval.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-500x500-1779223476.jpg",
+     "url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
+     "source": "Ars Technica",
+     "published": "2026-11-17T23:09:09+00:00"
+    },
+    {
+     "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
+     "summary": "\"Governments need control of their critical space infrastructure, and Europe needs it most.\"",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/VV28_Decollage_plan_large_ZLV-500x500.jpg",
+     "url": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
+     "source": "Ars Technica",
+     "published": "2026-11-17T22:44:46+00:00"
+    },
+    {
+     "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+     "summary": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/malicious-website-500x500.jpg",
+     "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+     "source": "Ars Technica",
+     "published": "2026-11-17T22:32:16+00:00"
+    },
+    {
+     "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+     "summary": "Article URL: https://calif.io/java4shell/ Comments URL: https://news.ycombinator.com/item?id=50538240 Points: 319 # Comments: 79",
+     "image": "",
+     "url": "https://calif.io/java4shell/",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-17T21:11:28+00:00"
+    },
     {
      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
      "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
@@ -146,60 +210,28 @@
      "published": "2026-11-17T20:32:55+00:00"
     },
     {
-     "title": "Civilization studio Firaxis Games lays off a third of staff",
-     "summary": "Studio head Heather Hazen is among those departing.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/civ7-graphics-1-500x500.jpg",
-     "url": "https://arstechnica.com/gaming/2026/11/civilization-studio-firaxis-games-lays-off-a-third-of-staff/",
-     "source": "Ars Technica",
-     "published": "2026-11-17T19:45:25+00:00"
-    },
-    {
-     "title": "Phrack 73 Released",
-     "summary": "Article URL: https://phrack.org/issues/73/introduction_md Comments URL: https://news.ycombinator.com/item?id=50535992 Points: 152 # Comments: 6",
+     "title": "jQuery 4.1.0",
+     "summary": "Article URL: https://github.com/jquery/jquery/releases/tag/4.1.0 Comments URL: https://news.ycombinator.com/item?id=50537156 Points: 213 # Comments: 111",
      "image": "",
-     "url": "https://phrack.org/issues/73/introduction_md",
+     "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
      "source": "Hacker News Front Page",
-     "published": "2026-11-17T18:31:25+00:00"
+     "published": "2026-11-17T19:50:40+00:00"
     },
     {
-     "title": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser",
-     "summary": "“Wake up! They haven’t come 24 trillion miles to negotiate. They are coming to exterminate us.”",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/body2-500x500-1794938357.jpg",
-     "url": "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/",
-     "source": "Ars Technica",
-     "published": "2026-11-17T18:26:26+00:00"
-    },
-    {
-     "title": "MAI Code 2 and Code 2 Flash",
-     "summary": "Article URL: https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50535885 Points: 193 # Comments: 95",
+     "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
+     "summary": "Article URL: https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969 Comments URL: https://news.ycombinator.com/item?id=…",
      "image": "",
-     "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+     "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
      "source": "Hacker News Front Page",
-     "published": "2026-11-17T18:25:13+00:00"
+     "published": "2026-11-17T19:25:27+00:00"
     },
     {
-     "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
-     "summary": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/openai-chip-logo-500x500.jpg",
-     "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
-     "source": "Ars Technica",
-     "published": "2026-11-17T18:13:34+00:00"
-    },
-    {
-     "title": "Apple Services Down",
-     "summary": "Article URL: https://developer.apple.com/system-status/ Comments URL: https://news.ycombinator.com/item?id=50535238 Points: 517 # Comments: 281",
+     "title": "Solid 2.0",
+     "summary": "Article URL: https://www.solidjs.com/blog/solid-2-0-the-long-hold/ Comments URL: https://news.ycombinator.com/item?id=50536387 Points: 183 # Comments: 50",
      "image": "",
-     "url": "https://developer.apple.com/system-status/",
+     "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
      "source": "Hacker News Front Page",
-     "published": "2026-11-17T17:47:14+00:00"
-    },
-    {
-     "title": "GPT‑6.2 Astra and Sol",
-     "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/ Comments URL: https://news.ycombinator.com/item?id=50535230 Points: 858 # Comments: 523",
-     "image": "",
-     "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-17T17:46:43+00:00"
+     "published": "2026-11-17T18:56:17+00:00"
     },
     {
      "title": "Research Reports",
@@ -208,38 +240,6 @@
      "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
      "source": "MIT Tech Review AI",
      "published": "2026-11-17T14:39:46+00:00"
-    },
-    {
-     "title": "恆星沒爆炸就直接塌縮？重力波揭開「失敗超新星」孕育黑洞的奧祕",
-     "summary": "大質量恆星演化到生命末期時，核心通常會在重力作用下急遽塌縮，並可能引發超新星爆發，將外層物質拋散至太空，留下中 […]",
-     "image": "",
-     "url": "https://technews.tw/2026/11/17/gravitational-waves-suggest-black-hole-origin-failed-supernovae/",
-     "source": "科技新報 TechNews",
-     "published": "2026-11-17T14:21:41+00:00"
-    },
-    {
-     "title": "美嚴控先進 AI 晶片出口，集邦：部分訂單可能遞延",
-     "summary": "美國政府公布新規限制晶片出口至海外資料中心，市調機構集邦科技表示，東南亞 AI 資料中心的晶片採購門檻將提高， […]",
-     "image": "",
-     "url": "https://finance.technews.tw/2026/11/17/us-tightens-control-advanced-ai-chip-exports-orders-delayed/",
-     "source": "科技新報 TechNews",
-     "published": "2026-11-17T10:30:40+00:00"
-    },
-    {
-     "title": "東元瞄準歐洲 AI 基建需求，模組化資料中心最快 9 個月交付",
-     "summary": "東元電機積極拓展歐洲 AI 資料中心及電動載具市場，於 11 月 17 日至 18 日參加在波蘭華沙舉行的「T […]",
-     "image": "",
-     "url": "https://technews.tw/2026/11/17/teco-targets-european-ai-data-center-market-hulk-modular-solution-fastest-9-month-delivery/",
-     "source": "科技新報 TechNews",
-     "published": "2026-11-17T09:57:16+00:00"
-    },
-    {
-     "title": "美祭 AI 晶片出口新規防轉運，廣達、緯創評估不受影響",
-     "summary": "川習於深圳會晤前夕，美國公布新規，限制晶片出口至海外資料中心，防止中國經轉運取得先進人工智慧（AI）晶片。台灣 […]",
-     "image": "",
-     "url": "https://finance.technews.tw/2026/11/17/us-ai-chip-export-rules-prevent-transshipment-quanta-wistron-no-impact/",
-     "source": "科技新報 TechNews",
-     "published": "2026-11-17T09:50:48+00:00"
     },
     {
      "title": "Agents Cannot Hand Over What They Have Not Yet Understood",
@@ -271,20 +271,76 @@
    "label": "運動",
    "items": [
     {
-     "title": "Wales 2-3 Portugal: Nations League football – live",
-     "summary": "Nations League updates from the 7.45pm GMT kick-off Live scores | Today’s Football Daily | And email Scott 4 min: António Silva strides out of defence and scuffs a strange pass straight to James. He’s…",
-     "image": "https://i.guim.co.uk/img/media/5beb80441b956fe467728ebd075621765d220be1/329_160_1883_1507/master/1883.jpg?width=140&quality=85&auto=format&fit=max&s=1d49497fae766f6fc3e8b5feced2fd42",
-     "url": "https://www.theguardian.com/football/live/2026/nov/17/wales-v-portugal-nations-league-football-live-score-updates",
-     "source": "Guardian Sport",
-     "published": "2026-11-17T21:46:59+00:00"
+     "title": "Indiana Fever GM search narrows, multiple candidates come with NBA ties: Sources",
+     "summary": "The Indiana Fever’s search for a new general manager is ramping up. The franchise is expected to evaluate several finalists, including many with NBA backgrounds, and make a hire in the next few weeks,…",
+     "image": "https://media.zenfs.com/en/the_athletic_articles_169/a09e9223e742595b22fa00ad681324f0.jpg",
+     "url": "https://sports.yahoo.com/articles/indiana-fever-gm-search-narrows-230105690.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-17T23:01:05+00:00"
     },
     {
-     "title": "Zverev takes straight-sets win against Shelton in ATP Finals group stage – live reaction",
-     "summary": "ATP Finals updates, with play from 7.30pm GMT Sign up for the Recap newsletter | Email Daniel Ready … play. Shelton’s backhand was pretty nifty against Arthur Fils in his first match. If it’s on tonig…",
+     "title": "Kalshi promo code CBSSPORTS55: Claim $55 bonus for Duke-Illinois, Spurs-Pistons, NBA, college football Tuesday",
+     "summary": "New Kalshi users can get a $55 bonus after making $25+ in trades on Tuesday's games",
+     "image": "https://sportshub.cbsistatic.com/i/2026/09/29/a90f0e22-5b54-4b88-8257-901a4e7cd93f/kalshi-promo-code-cbssports55.jpg",
+     "url": "https://www.cbssports.com/betting/news/kalshi-promo-code-cbssports55-claim-55-bonus-duke-illinois-spurs-pistons-nba-college-football-tuesday/",
+     "source": "CBS Sports NBA",
+     "published": "2026-11-17T22:49:34+00:00"
+    },
+    {
+     "title": "Ramona Shelburne doubles down on inaccurate Lakers take",
+     "summary": "Ramona Shelburne gave her honest thoughts on the Lakers this season. “It’s easy to find your way when you’re playing one of the easiest schedules in the league,” Shelburne said...",
+     "image": "https://media.zenfs.com/en/ny_post_sports_articles_389/41d53b57581257778edb6707260cdf31.jpg",
+     "url": "https://sports.yahoo.com/articles/ramona-shelburne-doubles-down-inaccurate-224456337.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-17T22:44:56+00:00"
+    },
+    {
+     "title": "Former world boxing champion Jorge Linares detained by ICE in Texas",
+     "summary": "Venezuelan boxer, 41, held at El Paso facility Lawyers insist former champion is legally in US ICE has not disclosed reason for his detention Linares won world titles in three weight classes Former wo…",
+     "image": "https://i.guim.co.uk/img/media/9e4e58b7c084584eadb3fe2799ab9e7086488a16/0_146_2673_2136/master/2673.jpg?width=140&quality=85&auto=format&fit=max&s=5741f44774fc5ffcdb6c6f818e586b66",
+     "url": "https://www.theguardian.com/sport/2026/nov/17/jorge-linares-boxing-champion-ice-detention-texas",
+     "source": "Guardian Sport",
+     "published": "2026-11-17T22:43:15+00:00"
+    },
+    {
+     "title": "Jaylen Brown to miss 76ers game Wednesday vs. Magic due to 'hamstring strain'",
+     "summary": "Brown finished Monday's win over Brooklyn with 31 points, his current season-high.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/breaking-news/article/jaylen-brown-to-miss-76ers-game-wednesday-vs-magic-due-to-hamstring-strain-223517168.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-17T22:35:17+00:00"
+    },
+    {
+     "title": "NBA MVP Rankings: Luka Dončić, Victor Wembanyama in a two-horse race; Stephen Curry's absence speaks volumes",
+     "summary": "While Shai Gilgeous-Alexander goes for his third straight, he's behind the two other West stars",
+     "image": "https://sportshub.cbsistatic.com/i/2026/11/17/06037514-a3e3-46e4-8ee7-ee5206579a65/wemby-luka-imagn.png",
+     "url": "https://www.cbssports.com/nba/news/nba-mvp-rankings-luka-doncic-victor-wembanyama-stephen-curry/",
+     "source": "CBS Sports NBA",
+     "published": "2026-11-17T22:27:59+00:00"
+    },
+    {
+     "title": "Portugal’s new No 7 Forbs channels Ronaldo for winner as Wales are denied",
+     "summary": "One way or another, Portugal’s No 7 shirt has caused quite the commotion in recent weeks and months, if not years. Perhaps it was inevitable, then, that the first win of the post-Cristiano Ronaldo era…",
+     "image": "https://i.guim.co.uk/img/media/5beb80441b956fe467728ebd075621765d220be1/158_0_2217_1773/master/2217.jpg?width=140&quality=85&auto=format&fit=max&s=6732f1836fb69a60d3fbea6405cf35e5",
+     "url": "https://www.theguardian.com/football/2026/nov/17/wales-portugal-nations-league-match-report",
+     "source": "Guardian Sport",
+     "published": "2026-11-17T22:14:37+00:00"
+    },
+    {
+     "title": "Zverev takes straight-sets win against Shelton in ATP Finals group stage – as it happened",
+     "summary": "The world No 1 prevailed 6-2, 7-6 (4) in a rematch of the US Open final earlier this year, after Arthur Fils came from behind to beat Rafael Jodar Ready … play. Shelton’s backhand was pretty nifty aga…",
      "image": "https://i.guim.co.uk/img/media/b2f504bc134befe847541df52ceec761ebcb2f50/298_0_3020_2416/master/3020.jpg?width=140&quality=85&auto=format&fit=max&s=d07fd64e3f671c56c0c24fcea517adb8",
      "url": "https://www.theguardian.com/sport/live/2026/nov/17/alexander-zverev-v-ben-shelton-atp-finals-tennis-group-stage-live",
      "source": "Guardian Sport",
-     "published": "2026-11-17T21:44:54+00:00"
+     "published": "2026-11-17T22:03:25+00:00"
+    },
+    {
+     "title": "NBA trade rumors 2026-27: Dejounte Murray market lukewarm, what about Zion Williamson?",
+     "summary": "While Murray would like a trade sooner rather than later, expect this process to drag out.",
+     "image": "https://media.zenfs.com/en/nbcsports.com/e20f71b83dbb4f416bb0b7f3995b5da9.jpg",
+     "url": "https://sports.yahoo.com/articles/nba-trade-rumors-2026-27-214638586.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-17T21:46:38+00:00"
     },
     {
      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Pistons-Spurs, Duke-Illinois, NBA on Tuesday",
@@ -301,54 +357,6 @@
      "url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-200-bonus-bets-college-football-spurs-pistons-duke-illinois-tuesday/",
      "source": "CBS Sports NBA",
      "published": "2026-11-17T21:39:26+00:00"
-    },
-    {
-     "title": "Hawks G CJ McCollum out at least 4 weeks with calf strain, putting rookie Kingston Flemings in the spotlight",
-     "summary": "McCollum began the season as Atlanta’s starting point guard. But he gave way to rookie Kingston Flemings in the starting unit, recently saying that he approached head coach Quin Snyder about making th…",
-     "image": "",
-     "url": "https://sports.yahoo.com/nba/breaking-news/article/hawks-g-cj-mccollum-out-at-least-4-weeks-with-calf-strain-putting-rookie-kingston-flemings-in-the-spotlight-213813250.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-17T21:24:08+00:00"
-    },
-    {
-     "title": "Use DraftKings promo code to get $200 bonus, free NBA League Pass for Spurs-Pistons, Duke-Illinois on Tuesday",
-     "summary": "DraftKings offers $200 in bonus bets and three free months of NBA League Pass after your first $5 wager for NBA, college basketball, NFL betting on Tuesday",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/18/c97262f9-761a-4e09-92d0-e42eb8f40a51/draftkings-nba-league-pass-200-bonus-cbssports.png",
-     "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-free-nba-league-pass-spurs-pistons-duke-illinois-tuesday/",
-     "source": "CBS Sports NBA",
-     "published": "2026-11-17T21:11:32+00:00"
-    },
-    {
-     "title": "The ‘GTA VI’ Vice City court for the Heat is amazing",
-     "summary": "This is wild.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/a69998d57e21b71b4af2ffd3649bab79.png",
-     "url": "https://sports.yahoo.com/articles/gta-vi-vice-city-court-203734574.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-17T20:37:34+00:00"
-    },
-    {
-     "title": "Today's top games to watch, best bets, odds: Jazz vs. Clippers, Illinois vs. Duke and more",
-     "summary": "Find best bets and props for the biggest games in sports on Tuesday from the SportsLine Projection Model and top CBS Sports experts",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/19/c7761bb5-4177-41d8-86cc-3767a3be5b46/darius-garland-los-angeles-clippers.jpg",
-     "url": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-jazz-vs-clippers-illinois-vs-duke-and-more/",
-     "source": "CBS Sports NBA",
-     "published": "2026-11-17T20:30:54+00:00"
-    },
-    {
-     "title": "Heat, Celtics deep dive + WNBA Lottery questions & Aces offseason outlook",
-     "summary": "Nekias & Steve deep dive into the Heat & Celtics, react to the WNBA Draft Lottery results and preview the Aces offseason.",
-     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/tds-1117-giannis-thumb_9676.png",
-     "url": "https://sports.yahoo.com/nba/article/heat-celtics-deep-dive--wnba-lottery-questions--aces-offseason-outlook-191443352.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-17T19:14:43+00:00"
-    },
-    {
-     "title": "Joel Embiid has huge night, but Sixers still have plenty of work to do",
-     "summary": "While Joel Embiid had his best outing of the season, the Sixers nearly let the game slip away to a bad Nets team.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/71e250a578fb133e4561b21ee481b0b3.jpg",
-     "url": "https://sports.yahoo.com/articles/joel-embiid-huge-night-sixers-190528830.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-17T19:05:28+00:00"
     },
     {
      "title": "South Africa head coach Erasmus banned for six matches",
@@ -389,14 +397,6 @@
      "url": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-11-17T14:09:19+00:00"
-    },
-    {
-     "title": "Hamilton says Ravens ‘disgracing’ their standards after loss to lowly Chargers",
-     "summary": "Los Angeles Chargers 23-20 Baltimore Ravens Chargers had lost 11 games in a row back to last season Baltimore have now lost five games in a row Justin Herbert and Omarion Hampton ran for first-half to…",
-     "image": "https://i.guim.co.uk/img/media/68451994830d0decb68bf0ef7997da43ccc07365/221_0_2206_1765/master/2206.jpg?width=140&quality=85&auto=format&fit=max&s=49bfaf68bb90dd6547a07a8ec408ef66",
-     "url": "https://www.theguardian.com/sport/2026/nov/16/los-angeles-chargers-beat-reeling-baltimore-ravens-to-get-first-win-of-season",
-     "source": "Guardian Sport",
-     "published": "2026-11-17T13:00:20+00:00"
     }
    ]
   }
