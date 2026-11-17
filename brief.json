@@ -1,40 +1,88 @@
 {
- "generated": "2026-11-16T22:56:04.100665+00:00",
+ "generated": "2026-11-17T00:19:24.235934+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "黃仁勳敗部復活關鍵！「辭職和被解僱」差很大 他看好機率破5成",
-     "summary": "初次上稿11-16 22:02 更新時間11-17 06：47 〔財經頻道／綜合報導〕根據英國《金融時報》報導，黃仁勳正在考慮重返輝達，並已與盟友討論了這種可能性。超過17.4萬人簽署了...…",
+     "title": "Stock futures are little changed after Nvidia pressures tech to start the week: Live updates",
+     "summary": "Nvidia shares pulled back 4.1%, as traders dumped the chipmaker ahead of its fiscal third-quarter report, due Tuesday after the bell",
      "image": "",
-     "url": "https://ec.ltn.com.tw/article/breakingnews/5642951",
-     "source": "自由時報",
-     "published": "2026-11-16T22:47:17+00:00"
+     "url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-17T00:13:51+00:00"
     },
     {
-     "title": "美股收盤》輝達財報倒數！主要指數盡墨 台積電ADR重挫6.34％",
-     "summary": "由於輝達（Nvidia）執行長黃仁勳自請辭職，打擊市場對於人工智慧（AI）類股的投資熱情，引發美國股市全面拋售，避險情緒持續升溫，美股主要指數於16日全面收黑，費城半導體指數更崩...…",
+     "title": "2032兩岸統一貨幣？黃暐瀚「3質疑」：連香港都還在用港幣",
+     "summary": "針對前海基會副董事長邱進益近日提出「兩岸和平倡議」，鼓吹台灣與中國2032年先實現「貨幣統一」，資深媒體人黃暐瀚提出3大質疑，要求國民黨中央及有意角逐2028年總統大選的藍營政治...…",
      "image": "",
-     "url": "https://ec.ltn.com.tw/article/breakingnews/5643083",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5643110",
      "source": "自由時報",
-     "published": "2026-11-16T22:45:35+00:00"
+     "published": "2026-11-17T00:10:55+00:00"
     },
     {
-     "title": "力挺沈伯洋！ 苦苓高喊票票入匭才有最後勝利",
-     "summary": "距離11月28日九合一選舉投票日進入最後倒數2週，民進黨台北市長候選人沈伯洋積極跨界破圈爭取選民支持，16日更釋出前總統蔡英文專屬拉票影片，呼籲台北市民務必出門為期待的未...…",
+     "title": "（專訪）《豆腐媽媽》男星竟是全智賢學弟！上鏡被嫌「底妝塗太白」 公司急下「塗黑令」",
+     "summary": "〔記者李紹綾／專訪〕新人演員陸功玹在民視八點檔《豆腐媽媽》飾演反派江俊翰與陳仙梅的特助「阿賢」，一出場就憑著高挑身材與韓系花美男外型引起討論，沒想到最先掀起話題的竟是他的膚色。不少觀眾質疑：「特助底妝...…",
      "image": "",
-     "url": "https://ent.ltn.com.tw/news/breakingnews/5643090",
+     "url": "https://ent.ltn.com.tw/news/breakingnews/5643076",
      "source": "自由時報",
-     "published": "2026-11-16T22:45:30+00:00"
+     "published": "2026-11-17T00:10:00+00:00"
     },
     {
-     "title": "好怕！美股156年罕見警訊第6度浮現  前5次結局慘烈",
-     "summary": "初次上稿11-16 22:19 更新時間11-17 06：45 〔財經頻道／綜合報導〕近期美股走勢震盪，AI泡沫疑慮升溫，投資人憂心股市反轉。美媒《The Motley Fool》發文警...…",
+     "title": "沈伯洋選舉公報曝！政見欄竟用「Checklist」 網讚：鐵了心讓全民監督",
+     "summary": "首次上稿 11-16 22:38更新時間 11-17 08:06 台北市市長選舉公報出爐，候選人的政見也備受關注。其中，沈伯洋選舉公報上政見欄，有別以往，改使用「Checkli...…",
      "image": "",
-     "url": "https://ec.ltn.com.tw/article/breakingnews/5643014",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5642938",
      "source": "自由時報",
-     "published": "2026-11-16T22:45:01+00:00"
+     "published": "2026-11-17T00:06:43+00:00"
+    },
+    {
+     "title": "點燈台北101挺黃仁勳！矢板明夫曝「1隱憂」：感動或質疑都有道理",
+     "summary": "台北101點燈聲援輝達（Nvidia）前執行長黃仁勳，外牆出現「台灣❤️Jensen」等字樣，引發外界正反兩極討論。印太戰略智庫執行長、日本資深媒體人矢板明夫表示，黃仁勳對台灣科...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5643098",
+     "source": "自由時報",
+     "published": "2026-11-17T00:01:28+00:00"
+    },
+    {
+     "title": "Paraguay ex-president moved to military jail amid special treatment reports",
+     "summary": "Santiago Pena has been accused of corruption following the collapse of Ueno Bank earlier this month.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-16T23:44:32+00:00"
+    },
+    {
+     "title": "Trump departs for ASEAN on summit with Xi and Putin",
+     "summary": "Donald Trump is heading to the Philippines where he’s scheduled to speak at a meeting of ASEAN leaders in Manila.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-16T23:42:03+00:00"
+    },
+    {
+     "title": "Five EU countries announce migrant deportation centre in Rwanda",
+     "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-16T23:20:45+00:00"
+    },
+    {
+     "title": "Aschenbrenner’s Situational Awareness made AI bets again before October rout",
+     "summary": "Leopold Aschenbrenner's hedge fund, which almost collapsed over the summer, bought AI stocks before shares began tumbling.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-16T23:05:12+00:00"
+    },
+    {
+     "title": "EU agrees to resurrect cooperation deal with Syria",
+     "summary": "Decision aims to bolster bloc's ties with Damascus following the collapse of Assad's government in December 2024.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-16T23:00:36+00:00"
     },
     {
      "title": "US Pentagon rejects allegations linking deputy to a Goldman Sachs banker",
@@ -53,12 +101,12 @@
      "published": "2026-11-16T22:37:45+00:00"
     },
     {
-     "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
-     "summary": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-16T22:22:52+00:00"
+     "title": "Alan Milburn urges Burnham to spend billions on ‘new deal’ for young people",
+     "summary": "Report on Britain’s youth jobs crisis calls for welfare, education, health and employment policy shake-up Andy Burnham is being urged to spend billions of pounds on a “new deal” for the next generatio…",
+     "image": "https://i.guim.co.uk/img/media/a86708b5e4debf383f4b49fc72cc08d1c91043ac/869_0_4344_3475/master/4344.jpg?width=140&quality=85&auto=format&fit=max&s=aa717b7cb0ab5d88b64ff5552b4978d9",
+     "url": "https://www.theguardian.com/society/2026/nov/16/alan-milburn-urges-burnham-spend-billions-new-deal-young-people-youth-jobs-crisis-welfare-employment",
+     "source": "Guardian Business",
+     "published": "2026-11-16T22:30:55+00:00"
     },
     {
      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
@@ -83,54 +131,6 @@
      "url": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
      "source": "NPR News",
      "published": "2026-11-16T22:06:22+00:00"
-    },
-    {
-     "title": "Germany thrash Netherlands to book quarterfinal spot",
-     "summary": "Jurgen Klopp's side outclasses the Dutch 5-0 in Berlin to secure top spot in UEFA Nations League Group A2.",
-     "image": "",
-     "url": "https://www.aljazeera.com/sports/2026/11/16/germany-thrash-netherlands-to-book-quarterfinal-spot?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-16T22:04:31+00:00"
-    },
-    {
-     "title": "Houthi rebel advance in Yemen may further destabilise global economy",
-     "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb50/live/f528e3c0-e1f9-11f1-a094-5fdc692f3e33.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-16T21:40:07+00:00"
-    },
-    {
-     "title": "California files lawsuit against OpenAI alleging lack of proper safeguards",
-     "summary": "Attorney General Rob Bonta says Hugging Face attack was 'entirely predictable' result of emphasis on rapid growth.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-16T21:35:51+00:00"
-    },
-    {
-     "title": "Nasdaq falls more than 2%, extending slide to third day as Nvidia drags down AI trade",
-     "summary": "U.S. equities fell on Monday, dragged down by key technology stocks, as traders reacted to more developments surrounding Nvidia.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-16T21:18:13+00:00"
-    },
-    {
-     "title": "Mamdani to disband NYPD unit deployed at Columbia protests",
-     "summary": "New York City Mayor Zohran Mamdani says he is disbanding the NYPD’s Strategic Response Group or SRG.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/mamdani-to-disband-nypd-unit-deployed-at-columbia-protests?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-16T21:16:02+00:00"
-    },
-    {
-     "title": "Microsoft identifies months-old bug as a root cause of global outage",
-     "summary": "Report identifies three factors that led to blackout: a bug, malfunctioning internal connections and server capacity Microsoft has identified the root causes of the global outage that crippled Outlook…",
-     "image": "https://i.guim.co.uk/img/media/a40cf590042829e0e6891a61505aced8281edac7/333_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=5b754e23f57bbf0dbc9a353eff392d14",
-     "url": "https://www.theguardian.com/technology/2026/nov/16/microsoft-global-outage-cause",
-     "source": "Guardian Business",
-     "published": "2026-11-16T20:54:40+00:00"
     }
    ]
   },
@@ -138,28 +138,44 @@
    "label": "AI",
    "items": [
     {
-     "title": "Marvell 出手打造光子記憶體網狀架構，最快 2027 年為機櫃系統光學互聯掀全新變革",
-     "summary": "隨著人工智慧模型參數與推論需求急遽膨脹，記憶體頻寬與容量成為資料中心面臨的最大瓶頸。晶片巨擘 Marvell […]",
+     "title": "美國升級對中國 AI 晶片管制，新加坡、泰國、馬來西亞、印尼與巴西列高風險國家",
+     "summary": "根據路透社的報導，在美國總統川普前往中國深圳出席亞太經合會（APEC）峰會並預計於週四會晤中國國家主席習近平之 […]",
      "image": "",
-     "url": "https://finance.technews.tw/2026/11/17/marvell-develops-a-mesh-architecture-for-photonic-memory/",
+     "url": "https://technews.tw/2026/11/17/the-us-escalates-restrictions-on-chinese-ai-chips/",
      "source": "科技新報 TechNews",
-     "published": "2026-11-16T22:30:57+00:00"
+     "published": "2026-11-17T00:15:36+00:00"
     },
     {
-     "title": "輝達重審 AI 融資與信用擔保計劃，代理執行長力踩煞車降低違約風險",
-     "summary": "半導體大廠輝達（Nvidia）正在全面審查其針對人工智慧（AI）產業的融資與信用支援計劃。在執行長黃仁勳（Je […]",
+     "title": "AI 失控不是科幻情節，專家點名核災、網攻與權力集中三大危機",
+     "summary": "隨著人工智慧（AI）快速滲透全球各個領域，外界對「AI 是否會失控」的討論持續升溫。然而，根據多位專家的最新看 […]",
      "image": "",
-     "url": "https://finance.technews.tw/2026/11/17/nvidia-reassesses-ai-financing-and-credit-guarantee-program/",
+     "url": "https://infosecu.technews.tw/2026/11/17/ai-safety-debate-expert-perspectives/",
      "source": "科技新報 TechNews",
-     "published": "2026-11-16T22:10:33+00:00"
+     "published": "2026-11-17T00:10:57+00:00"
     },
     {
-     "title": "輝達董事會對黃仁勳回歸想法完全不感興趣，當前重點在內部調查與整頓財務",
-     "summary": "半導體大廠輝達（Nvidia）前執行長黃仁勳（Jensen Huang）日前雖傳出有意爭取重返公司掌舵，但根據 […]",
+     "title": "少做檢查更好？AI 遇上醫療獲利難題",
+     "summary": "AI 開始學會提醒醫師「這項檢查不必做」，另一項研究卻發現，AI 建議的檢查與轉診費用，可能比醫生高兩倍多。同 […]",
      "image": "",
-     "url": "https://finance.technews.tw/2026/11/17/nvidias-board-of-directors-has-absolutely-no-interest-in-huang-jen-hsuns-idea-of-%e2%80%8b%e2%80%8breturning/",
+     "url": "https://technews.tw/2026/11/17/ai-faces-challenges-monetizing-healthcare/",
      "source": "科技新報 TechNews",
-     "published": "2026-11-16T22:00:06+00:00"
+     "published": "2026-11-17T00:00:35+00:00"
+    },
+    {
+     "title": "乾淨回收的假象：台灣既是模範生，也是電子廢棄物的幫兇",
+     "summary": "2022 年全球產生 6,200 萬噸電子廢棄物，但正式記錄與妥善回收的比例只有 22.3%。更值得警惕的是， […]",
+     "image": "",
+     "url": "https://technews.tw/2026/11/17/taiwan-clean-recycling-illusion-model-student-e-waste-accomplice/",
+     "source": "科技新報 TechNews",
+     "published": "2026-11-16T23:50:41+00:00"
+    },
+    {
+     "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+     "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Foundation-Phantom-MK-1-mortar-demo-500x500.jpg",
+     "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+     "source": "Ars Technica",
+     "published": "2026-11-16T22:58:27+00:00"
     },
     {
      "title": "Three small failures combined to take down Microsoft 365",
@@ -168,6 +184,14 @@
      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
      "source": "Ars Technica",
      "published": "2026-11-16T21:56:39+00:00"
+    },
+    {
+     "title": "BugMeNot has closed",
+     "summary": "Article URL: https://www.bugmenot.com/ Comments URL: https://news.ycombinator.com/item?id=50523601 Points: 238 # Comments: 117",
+     "image": "",
+     "url": "https://www.bugmenot.com/",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-16T21:32:17+00:00"
     },
     {
      "title": "Hyperscale data centers use 2% of US electricity",
@@ -179,7 +203,7 @@
     },
     {
      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-     "summary": "Article URL: https://www.cs.cmu.edu/learn/ Comments URL: https://news.ycombinator.com/item?id=50522980 Points: 231 # Comments: 47",
+     "summary": "Article URL: https://www.cs.cmu.edu/learn/ Comments URL: https://news.ycombinator.com/item?id=50522980 Points: 493 # Comments: 85",
      "image": "",
      "url": "https://www.cs.cmu.edu/learn/",
      "source": "Hacker News Front Page",
@@ -194,12 +218,12 @@
      "published": "2026-11-16T20:37:47+00:00"
     },
     {
-     "title": "Comcast's \"fiber-powered Wi-Fi\" is just cable, AT&T says in false advertising case",
-     "summary": "AT&T demands Comcast give AT&T profits it made from advertising cable as fiber.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van-500x500.jpg",
-     "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
-     "source": "Ars Technica",
-     "published": "2026-11-16T20:27:58+00:00"
+     "title": "Rust changed me as a developer",
+     "summary": "Article URL: https://blog.startifact.com/posts/how-rust-changed-me/ Comments URL: https://news.ycombinator.com/item?id=50522563 Points: 160 # Comments: 100",
+     "image": "",
+     "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-16T20:16:50+00:00"
     },
     {
      "title": "The open-source movement wants Jensen Huang back",
@@ -211,27 +235,11 @@
     },
     {
      "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
-     "summary": "Article URL: https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda Comments URL: https://news.ycombinator.com/item?id=50521045 Points: 657 # Comments: 522",
+     "summary": "Article URL: https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda Comments URL: https://news.ycombinator.com/item?id=50521045 Points: 690 # Comments: 561",
      "image": "",
      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
      "source": "Hacker News Front Page",
      "published": "2026-11-16T18:31:30+00:00"
-    },
-    {
-     "title": "Software is breaking down at a systemic level",
-     "summary": "Article URL: https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/ Comments URL: https://news.ycombinator.com/item?id=50520866 Points: 306 # Comments: 192",
-     "image": "",
-     "url": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-16T18:17:17+00:00"
-    },
-    {
-     "title": "Grazing sheep in fields with solar arrays",
-     "summary": "Article URL: https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains Comments URL: https://news.ycombinator.com/item?id=50520182 Points: 182 # Comm…",
-     "image": "",
-     "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-16T17:27:46+00:00"
     },
     {
      "title": "Building trustworthy AI by fencing it in, not predicting it",
@@ -240,14 +248,6 @@
      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
      "source": "MIT Tech Review AI",
      "published": "2026-11-16T16:04:28+00:00"
-    },
-    {
-     "title": "土衛六遭撞或催生土星環，卡西尼號資料揭土星多項未解之謎",
-     "summary": "土星光環可能源自一次衛星撞擊。美國 SETI 協會天文學家丘克（Matija Ćuk）團隊以電腦模擬提出新假設 […]",
-     "image": "",
-     "url": "https://technews.tw/2026/11/16/saturn-facts-from-nasa-which-details-are-fixed-and-which-are-still-being-revised/",
-     "source": "科技新報 TechNews",
-     "published": "2026-11-16T14:38:50+00:00"
     },
     {
      "title": "Building AI that can work across the enterprise",
@@ -271,6 +271,38 @@
    "label": "運動",
    "items": [
     {
+     "title": "Cavs vs. Bulls game thread",
+     "summary": "The struggling Bulls come to town.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/9b832a44a6ecaafa8262dbaa2c307e04.jpg",
+     "url": "https://sports.yahoo.com/articles/cavs-vs-bulls-game-thread-000000510.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-17T00:00:00+00:00"
+    },
+    {
+     "title": "Pochettino: I’d tell Guardiola to ‘take it’ if he’s offered US coaching job",
+     "summary": "As he prepares to depart for Manchester United, the outgoing US coach held court on a number of topics, including what he’d change about soccer in America Outgoing US head coach Mauricio Pochettino an…",
+     "image": "https://i.guim.co.uk/img/media/667f6d6e4370c5c51303aa0b6a6de310b51d6982/593_399_3891_3113/master/3891.jpg?width=140&quality=85&auto=format&fit=max&s=ab5d9586500639fe2c5df1219289788c",
+     "url": "https://www.theguardian.com/football/2026/nov/16/mauricio-pochettino-pep-guardiola-usmnt-manchester-united",
+     "source": "Guardian Sport",
+     "published": "2026-11-16T23:01:52+00:00"
+    },
+    {
+     "title": "Rockets vs. Heat NBA picks: A four-game win streak will end in Giannis Antetokounmpo vs. Kevin Durant showdown",
+     "summary": "Kevin Durant and Giannis Antetokounmpo face off tonight, with each star's team on a four-game winning streak",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/27/b96612a4-458c-4b5d-a8d4-d4119b454008/bam-giannis.jpg",
+     "url": "https://www.cbssports.com/betting/news/rockets-vs-heat-nba-picks-a-four-game-win-streak-will-end-in-giannis-antetokounmpo-vs-kevin-durant-showdown/",
+     "source": "CBS Sports NBA",
+     "published": "2026-11-16T23:01:02+00:00"
+    },
+    {
+     "title": "Littler hits triple-bull, but Price checkout doesn't add up",
+     "summary": "Gerwyn Price and Luke Littler make it through to the Grand Slam of Darts knockout stage after a rare counting error and a sensational triple-bull checkout in Wolverhampton.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9e3/live/2db86ef0-e20d-11f1-b023-f7d19fda92c1.png",
+     "url": "https://www.bbc.co.uk/sport/darts/articles/cwkgr9m0d0e5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-16T22:54:37+00:00"
+    },
+    {
      "title": "Pocognoli wants patience but Scotland 'don't have time' says Robertson",
      "summary": "Angry captain Andy Robertson says Scotland do not have time to turn things around after a brutal 4-0 defeat by Switzerland consigns them to a third-place finish in their Nations League group.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cdd/live/1fc24180-e20e-11f1-99b6-a35a62fa4264.jpg",
@@ -287,20 +319,20 @@
      "published": "2026-11-16T22:07:56+00:00"
     },
     {
-     "title": "Las Vegas expansion focus turns to new arena (which could be new Summer League home)",
-     "summary": "All three groups in the final bidding are looking to build new arenas, with ambitious plans.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/las-vegas-expansion-focus-turns-210410408.html",
+     "title": "Victor Wembanyama named Western Conference Player of the Week",
+     "summary": "Another day, another reward for The Alien.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/30d26b30306ad0beb15a24ba835b4551.jpg",
+     "url": "https://sports.yahoo.com/articles/victor-wembanyama-named-western-conference-220000204.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-11-16T21:04:10+00:00"
+     "published": "2026-11-16T22:00:00+00:00"
     },
     {
-     "title": "Week in Review: Spurs’ young core spreads the wealth as win streak extends to 12",
-     "summary": "Wemby, Castle and Harper all shined in another undefeated week.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/a3f63c1d6a10d917a5a9575f88649355.jpg",
-     "url": "https://sports.yahoo.com/articles/week-review-spurs-young-core-204844831.html",
+     "title": "Jordan Walsh continues to play himself into Boston’s lineup",
+     "summary": "Walsh thinks of himself as the best defender, and embodies that confidence on the court",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/1efbf35dd9c022f480907a3afa247914.jpg",
+     "url": "https://sports.yahoo.com/articles/jordan-walsh-continues-play-himself-215235708.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-11-16T20:48:44+00:00"
+     "published": "2026-11-16T21:52:35+00:00"
     },
     {
      "title": "USA thrash Canada to win women’s hockey worlds and complete historic golden double",
@@ -319,36 +351,12 @@
      "published": "2026-11-16T20:09:12+00:00"
     },
     {
-     "title": "Austin Reaves ‘improving,’ no structural damage with injury",
-     "summary": "Reaves sat out Sunday’s win over the Suns as he deals with a bruised heel",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/6e31c27e97dd6efc5bdf3672c5450aca.jpg",
-     "url": "https://sports.yahoo.com/articles/austin-reaves-improving-no-structural-194528740.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-16T19:45:28+00:00"
-    },
-    {
      "title": "2026 NBA betting promos: Get over $3,000 in bonuses from top online betting apps, sportsbooks for Nov. 16",
      "summary": "Top NBA betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
      "image": "https://sportshub.cbsistatic.com/i/2026/11/15/cf515a52-3db5-4a03-8909-ecec4516adfc/giannis-antetokounmpo-miami-heat-cbs-reuters.jpg",
      "url": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-get-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-nov-16/",
      "source": "CBS Sports NBA",
      "published": "2026-11-16T19:35:22+00:00"
-    },
-    {
-     "title": "Mauricio Pochettino sends coaches to Manchester to help prepare for United job",
-     "summary": "Assistant Jesús Pérez and two others depart US early Pochettino to begin as United head coach on Wednesday Mauricio Pochettino has sent key members of his coaching staff to England in an early move…",
-     "image": "https://i.guim.co.uk/img/media/2ca2d3a2da60e02aa237b7bee54e668021b8d8bd/831_132_2769_2216/master/2769.jpg?width=140&quality=85&auto=format&fit=max&s=387b7ce857a0a445e2e3eeaa810f3491",
-     "url": "https://www.theguardian.com/football/2026/nov/16/mauricio-pochettino-assistants-manchester-united-usmnt",
-     "source": "Guardian Sport",
-     "published": "2026-11-16T18:29:04+00:00"
-    },
-    {
-     "title": "Five-try Joseph set to start for England against All Blacks",
-     "summary": "England's Will Joseph is in line to retain his place for Saturday's blockbuster Nations Championship meeting with New Zealand after scoring five tries against Japan.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/031f/live/071eccb0-e1e7-11f1-9f14-b33806cfd783.jpg",
-     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx20pnd853po?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-16T18:19:42+00:00"
     },
     {
      "title": "How have the Heat turned their season around? Giannis and Bam are on fire, but that's not all",
@@ -373,14 +381,6 @@
      "url": "https://www.theguardian.com/sport/2026/nov/16/lions-hutchinson-reportedly-out-for-season-with-knee-injury-sustained-celebrating-sack",
      "source": "Guardian Sport",
      "published": "2026-11-16T16:51:50+00:00"
-    },
-    {
-     "title": "Tari Eason gives amazing, blunt explanation for his 25-point game: 'S--t, the Wizards, for real'",
-     "summary": "Eason couldn't take the credit for his season high in scoring, instead giving that credit to Houston's opponent",
-     "image": "https://sportshub.cbsistatic.com/i/2026/11/16/5a5aad7d-fe92-49d4-9909-fb766a716f55/tari-eason.jpg",
-     "url": "https://www.cbssports.com/nba/news/tari-eason-rockets-wizards/",
-     "source": "CBS Sports NBA",
-     "published": "2026-11-16T15:59:00+00:00"
     },
     {
      "title": "Has Trafford replaced Pickford as England No 1?",
