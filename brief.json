@@ -1,40 +1,112 @@
 {
- "generated": "2026-11-18T18:53:22.472656+00:00",
+ "generated": "2026-11-18T21:28:03.242247+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "中國APEC資深官員接機　代表團：不是完全滿意尚可接受",
-     "summary": "亞太經濟合作會議（APEC）台灣領袖代表施振榮18日上午抵達中國深圳，中國接機代表為中央APEC籌委會高官程烈等人。我代表團成員認為，這代表中方尊重APEC體制，雖然不是完全滿意，但是可以...…",
+     "title": "Anthropic prices IPO at $83 per share, above expected range, source tells CNBC",
+     "summary": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday.",
      "image": "",
-     "url": "https://ec.ltn.com.tw/article/breakingnews/5645694",
-     "source": "自由時報",
-     "published": "2026-11-18T18:36:04+00:00"
+     "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-18T21:22:04+00:00"
     },
     {
-     "title": "APEC深圳峰會歡迎宴　我代表團：施與13名領袖互動",
-     "summary": "2026年亞太經濟合作經濟領袖會議（深圳峰會）19日登場，中國18日晚上舉辦歡迎晚宴。我代表團成員表示，台灣經濟領袖代表施振榮於會上與13名經濟體領袖互動。 中國作為2026年APEC會議...…",
+     "title": "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
+     "summary": "Israeli tanks advance beyond the 'Yellow Line', forcing Palestinians to flee again in Gaza.",
      "image": "",
-     "url": "https://ec.ltn.com.tw/article/breakingnews/5645692",
-     "source": "自由時報",
-     "published": "2026-11-18T18:30:04+00:00"
-    },
-    {
-     "title": "紐時：川普不滿范斯未力挺對伊朗開戰　私下盛讚盧比歐",
-     "summary": "紐約時報引述知情人士報導，對於美國副總統范斯批評伊朗戰爭一事，總統川普日益感到不滿，認為范斯在檢討共和黨期中選舉慘敗時，應表態支持他對伊朗開戰的決定。 根據紐約時報（New York Ti...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5645691",
-     "source": "自由時報",
-     "published": "2026-11-18T18:30:04+00:00"
-    },
-    {
-     "title": "Israeli court extends Gaza doctor Abu Safia’s detention without charge",
-     "summary": "An Israeli court extended the detention of Abu Safia nearly two years after Israel's army detained him.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss",
+     "url": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-18T18:22:26+00:00"
+     "published": "2026-11-18T20:38:06+00:00"
+    },
+    {
+     "title": "Pew Research: Islam on track to become world’s largest religion by 2035",
+     "summary": "The report projects steady increases for both Christianity and Islam from 2020 to 2070.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/11/18/pew-research-islam-on-track-to-become-worlds-largest-religion-by-2035?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-18T20:37:40+00:00"
+    },
+    {
+     "title": "珍珠港事件倖存者嘉勒辭世享嵩壽105歲　曾抗命勇救同袍",
+     "summary": "美國珍珠港事件倖存者嘉勒日前辭世，享嵩壽105歲。他在另一場戰役曾不顧軍令救出4名同袍。嘉勒辭世當天，珍珠港事件已知最年長倖存者強生亦於同日過世，享嵩壽106歲。 美聯社報導，嘉勒（Geb...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5645700",
+     "source": "自由時報",
+     "published": "2026-11-18T20:36:04+00:00"
+    },
+    {
+     "title": "Putin’s nuclear briefcase makes surprise appearance at China summit",
+     "summary": "Russian President Vladimir Putin’s nuclear briefcase was spotted at the APEC summit in China.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-18T20:24:50+00:00"
+    },
+    {
+     "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
+     "summary": "Defense secretary asserts US dominance on trip that would have seemed ‘impossible, almost unbelievable’ a year ago Pete Hegseth has used his first visit to Venezuela since US special forces abducted i…",
+     "image": "https://i.guim.co.uk/img/media/5a2659b36cd46ba418be2f766406edf0de385668/204_0_2041_1632/master/2041.jpg?width=140&quality=85&auto=format&fit=max&s=a602efe982c7bd9253634a0a1cb5dd5a",
+     "url": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
+     "source": "Guardian World",
+     "published": "2026-11-18T20:24:19+00:00"
+    },
+    {
+     "title": "Muslims projected to overtake Christians as world’s largest religious group",
+     "summary": "New Pew Research Center projections point to major changes in the world’s religious landscape by 2070.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/muslims-projected-to-overtake-christians-as-worlds-largest-religious-group?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-18T20:21:34+00:00"
+    },
+    {
+     "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+     "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-18T20:14:57+00:00"
+    },
+    {
+     "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+     "summary": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-18T19:41:59+00:00"
+    },
+    {
+     "title": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
+     "summary": "Nvidia's interim CEO Colette Kress urges staff forward and offers pay raises after Jensen Huang exit.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-18T19:21:59+00:00"
+    },
+    {
+     "title": "美國會報告：中國結合多重手段　加大對台施壓",
+     "summary": "根據美國國會今天發布的報告，中國正擴大軍事能力、強化情報蒐集行動，並利用經濟關係提升全球影響力，尤其是在拉丁美洲，同時也加大對台灣的施壓。 土耳其安納杜魯新聞社（Anadolu Ajans...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5645698",
+     "source": "自由時報",
+     "published": "2026-11-18T19:12:04+00:00"
+    },
+    {
+     "title": "傑福瑞斯獲民主黨推舉　美國將出現首位非裔眾院議長",
+     "summary": "民主黨在期中選舉獲勝後，今天推舉傑福瑞斯（Hakeem Jeffries）續任眾議院黨團領袖，他可望成為美國首位非裔眾院議長。不過黨內進步派未表支持，對未來路線亦有不同看法。 法新社報導，...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5645696",
+     "source": "自由時報",
+     "published": "2026-11-18T19:00:04+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》 Foreign minister Lin calls for closer ties with Texas",
+     "summary": "/ Staff writer, with CNA Minister of Foreign Affairs Lin Chia-lung （林佳龍） discussed the nation’s a...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5645636",
+     "source": "自由時報",
+     "published": "2026-11-18T19:00:00+00:00"
     },
     {
      "title": "As overdose deaths fall, White House makes misleading claims about who deserves credit",
@@ -59,84 +131,36 @@
      "url": "https://www.cnbc.com/2026/11/18/faa-ground-stop-router-investigation.html",
      "source": "CNBC Top News",
      "published": "2026-11-18T18:13:25+00:00"
-    },
-    {
-     "title": "Israeli forces launch new military operation in central Gaza",
-     "summary": "Israeli forces have launched a new military operation in central Gaza, advancing west of the Yellow Line",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-18T18:12:42+00:00"
-    },
-    {
-     "title": "Donald Trump meets ‘longtime friend’ Imelda Marcos during Philippines visit",
-     "summary": "Trump told Philippine President Marcos he knew his parents 'very well'.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/18/donald-trump-meets-longtime-friend-imelda-marcos-during-philippines-visit?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-18T18:09:57+00:00"
-    },
-    {
-     "title": "AI產業不確定性籠罩　歐股收跌",
-     "summary": "投資人消化人工智慧（AI）晶片巨頭輝達（Nvidia）的亮眼財報，並準備迎接市場期待已久的Anthropic首次公開募股（IPO），但產業不確定性持續籠罩市場，歐洲主要股市今天收跌。 倫敦...…",
-     "image": "",
-     "url": "https://ec.ltn.com.tw/article/breakingnews/5645687",
-     "source": "自由時報",
-     "published": "2026-11-18T17:54:03+00:00"
-    },
-    {
-     "title": "Dow slides 400 points, Nasdaq seesaws as Nvidia earnings bounce fizzles: Live updates",
-     "summary": "Nvidia shares rose in extended trading after the company’s first earnings report since co-founder Jensen Huang resigned last week.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-18T17:54:02+00:00"
-    },
-    {
-     "title": "William and Kate reflect on 'enduring' UK-India ties with Modi",
-     "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which has also included their appearance at the annual Earthshot Prize",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efe9/live/814a0670-e35a-11f1-a8cd-2ff5ed84046e.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-18T17:51:47+00:00"
-    },
-    {
-     "title": "Far-right influencer Jake Lang kicked out of Dearborn council meeting",
-     "summary": "Far-right influencer Jake Lang was removed from a Dearborn City Council meeting after disrupting proceedings.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/far-right-influencer-jake-lang-kicked-out-of-dearborn-council-meeting?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-18T17:50:00+00:00"
-    },
-    {
-     "title": "US senators urge White House AI chief to fix vulnerabilities after mass outages",
-     "summary": "As Democrats flag AI bank breaches and cyber-attacks in Japan, Jay Clayton says system failures happen US politics live – latest updates A bipartisan pair of US senators are calling on Jay Clayton, th…",
-     "image": "https://i.guim.co.uk/img/media/fd6d0a6c86ef943127b3020482a5ad62bb9e5788/492_0_4915_3933/master/4915.jpg?width=140&quality=85&auto=format&fit=max&s=5ec85d646e771e5486922ae676de0a9b",
-     "url": "https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure",
-     "source": "Guardian Business",
-     "published": "2026-11-18T17:25:00+00:00"
-    },
-    {
-     "title": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges, sources say",
-     "summary": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-18T17:17:44+00:00"
-    },
-    {
-     "title": "Got a canceled flight? 7 clever ways to get rebooked fast",
-     "summary": "Flying somewhere for Thanksgiving or the holidays? Travel insiders explain what to do if your flight gets canceled or delayed — so you can quickly get to your destination.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/5333x3000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F89%2F46%2Fa89c6fec406cb45f180f451bd5f1%2F261118-lk-travelingrpkg-dig-1.jpg",
-     "url": "https://www.npr.org/2026/11/18/nx-s1-6045636/got-a-canceled-flight-7-clever-ways-to-get-rebooked-fast",
-     "source": "NPR News",
-     "published": "2026-11-18T17:10:44+00:00"
     }
    ]
   },
   "ai": {
    "label": "AI",
    "items": [
+    {
+     "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
+     "summary": "Hardened defaults align with DoD standards, but there may be growing pains.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-500x500.jpg",
+     "url": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
+     "source": "Ars Technica",
+     "published": "2026-11-18T20:41:12+00:00"
+    },
+    {
+     "title": "Best Buy sells Blu-rays online and in-store again",
+     "summary": "Popular titles like The Odyssey are being “sold & shipped by Best Buy.\"",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/odyssey16-500x500.jpg",
+     "url": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
+     "source": "Ars Technica",
+     "published": "2026-11-18T19:31:17+00:00"
+    },
+    {
+     "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
+     "summary": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2299665210-500x500-1795023220.jpg",
+     "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
+     "source": "Ars Technica",
+     "published": "2026-11-18T19:19:33+00:00"
+    },
     {
      "title": "Trump admin orders Kalshi to halt wagers on what words Trump will say",
      "summary": "CFTC: Kalshi bets may violate US ban on contracts that can be easily manipulated.",
@@ -146,60 +170,36 @@
      "published": "2026-11-18T18:46:08+00:00"
     },
     {
-     "title": "The \"shameful\" measles data that lost the US its elimination status",
-     "summary": "Measles became endemic in the US months ago—and it's only accelerating.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/08/Medical_diagnosis_for_the_student_and_practitioner_1922_14761731976-e1708401738329-500x500.jpg",
-     "url": "https://arstechnica.com/health/2026/11/the-shameful-measles-data-that-lost-the-us-its-elimination-status/",
-     "source": "Ars Technica",
-     "published": "2026-11-18T18:30:23+00:00"
-    },
-    {
-     "title": "Will Wright's next simulation will use AI to mine content from your memories",
-     "summary": "With MyMems , Wright says he wants to \"turn the simulation inward.\"",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Moonlit-walk-500x500.png",
-     "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
-     "source": "Ars Technica",
-     "published": "2026-11-18T18:10:33+00:00"
-    },
-    {
-     "title": "It shouldn’t be this easy to pedal 25 mph: Specialized’s Turbo Vado 3 Evo",
-     "summary": "This commuter bike will have you blazing through streets without any range anxiety.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/PXL_20261114_225616002-500x500.jpg",
-     "url": "https://arstechnica.com/gadgets/2026/11/it-shouldnt-be-this-easy-to-pedal-25-mph-specializeds-turbo-vado-3-evo/",
-     "source": "Ars Technica",
-     "published": "2026-11-18T17:53:59+00:00"
-    },
-    {
      "title": "Seven new models at scalable price-performance",
-     "summary": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 218 # Comments: 147",
+     "summary": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 342 # Comments: 230",
      "image": "",
      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
      "source": "Hacker News Front Page",
      "published": "2026-11-18T16:08:24+00:00"
     },
     {
+     "title": "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
+     "summary": "Article URL: https://www.cve.org/CVERecord?id=CVE-2026-99312 Comments URL: https://news.ycombinator.com/item?id=50548004 Points: 150 # Comments: 103",
+     "image": "",
+     "url": "https://www.cve.org/CVERecord?id=CVE-2026-99312",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-18T16:06:21+00:00"
+    },
+    {
+     "title": "AI agents ask better questions than KPMG accountants in audit trial",
+     "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 217 # Comments: 105",
+     "image": "",
+     "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-18T15:49:34+00:00"
+    },
+    {
      "title": "Inside Deutsche Bank",
-     "summary": "Article URL: https://www.inside-db.com/ Comments URL: https://news.ycombinator.com/item?id=50547620 Points: 284 # Comments: 107",
+     "summary": "Article URL: https://www.inside-db.com/ Comments URL: https://news.ycombinator.com/item?id=50547620 Points: 424 # Comments: 151",
      "image": "",
      "url": "https://www.inside-db.com/",
      "source": "Hacker News Front Page",
      "published": "2026-11-18T15:38:33+00:00"
-    },
-    {
-     "title": "Pre-auth RCE in Nginx HTTP/2 handling",
-     "summary": "Article URL: https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities Comments URL: https://news.ycombinator.com/item?id=50547374 Points: 454 # Comments: 157",
-     "image": "",
-     "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-18T15:19:55+00:00"
-    },
-    {
-     "title": "Poland says it thwarted false flag operation near border with Kaliningrad",
-     "summary": "Article URL: https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html Comments URL: https://news.ycombinator.com/item?id=50547344 Points: 202 # Comments: 61",
-     "image": "",
-     "url": "https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-18T15:18:30+00:00"
     },
     {
      "title": "The AI Hype Index: AI is everywhere",
@@ -271,20 +271,68 @@
    "label": "運動",
    "items": [
     {
-     "title": "Luka Doncic leadership on display as Lakers unexpected starter went bonkers",
-     "summary": "Doncic had the perfect reaction to coach Redick trying to get him the ball in the fourth.",
-     "image": "https://media.zenfs.com/en/ny_post_sports_articles_389/ddface50901b1dbc1ebba4c9a3e21a72.jpg",
-     "url": "https://sports.yahoo.com/articles/luka-doncic-leadership-display-lakers-183311038.html",
+     "title": "Detroit’s bully ball, nitpicking the Spurs & Lakers reality check with Mike Trudell + Celtics talk & NFL quick-hitters with Field Yates",
+     "summary": "KOC talks Lakers, Hornets, Spurs, Pistons, Timberwolves, Trail Blazers, Celtics & more with Mike Trudell and Field Yates.",
+     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ausar-rev1-thumb_9779.png",
+     "url": "https://sports.yahoo.com/nba/article/detroits-bully-ball-nitpicking-the-spurs--lakers-reality-check-with-mike-trudell--celtics-talk--nfl-quick-hitters-with-field-yates-212214221.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-11-18T18:33:11+00:00"
+     "published": "2026-11-18T21:22:14+00:00"
     },
     {
-     "title": "LeBron James denies telling Philadelphia to be patient as he finds rhythm",
-     "summary": "LeBron was not fond of an ESPN social media report.",
-     "image": "https://media.zenfs.com/en/nbcsports.com/f8be9bb150e38fabd490d45388396fbe.jpg",
-     "url": "https://sports.yahoo.com/articles/lebron-james-denies-telling-philadelphia-180834701.html",
+     "title": "FA explored legal challenge to Infantino staying on",
+     "summary": "The Football Association considered challenging Gianni Infantino's eligibility to run for a fourth term as Fifa president, but it felt a case was likely to fail.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8c1/live/e7141200-e37f-11f1-b879-03485a55c082.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cm3eg1w4ypz5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-18T20:55:01+00:00"
+    },
+    {
+     "title": "Today's top games to watch, best bets, odds: Hawks vs. Thunder, Kansas vs. West Virginia and more",
+     "summary": "Find best bets and props for the biggest games in sports on Wednesday from the SportsLine Projection Model and top CBS Sports experts",
+     "image": "https://sportshub.cbsistatic.com/i/2026/11/10/eb470471-faa7-4535-9ec4-bb5acc5b14c8/shai-alexander-gilgeous-oklahoma-city-thunder-imagn-images.jpg",
+     "url": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-hawks-vs-thunder-kansas-vs-west-virginia-and-more/",
+     "source": "CBS Sports NBA",
+     "published": "2026-11-18T20:30:48+00:00"
+    },
+    {
+     "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Nuggets-Celtics, Kansas-West Virginia Players Era",
+     "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NBA, college basketball, NFL betting on Wednesday",
+     "image": "https://sportshub.cbsistatic.com/i/2026/09/08/8c9b2f2a-2dd9-45bb-932a-45e8faf837ef/betmgm-promo-code-september-2026.jpg",
+     "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-nuggets-celtics-kansas-west-virginia-players-era/",
+     "source": "CBS Sports NBA",
+     "published": "2026-11-18T20:20:49+00:00"
+    },
+    {
+     "title": "Injured Warriors guard making good progress, to be re-evaluated this week",
+     "summary": "The Warriors desperately need Steph Curry back. But Golden State could be getting another reinforcement as the superstar nurses an oblique injury. Reserve guard Brandon Williams, who was sidelined for…",
+     "image": "https://media.zenfs.com/en/ny_post_sports_articles_389/b9efeea87e773f7527d0c859b62c29fb.jpg",
+     "url": "https://sports.yahoo.com/articles/injured-warriors-guard-making-good-201301368.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-11-18T18:08:34+00:00"
+     "published": "2026-11-18T20:13:01+00:00"
+    },
+    {
+     "title": "Fantasy Basketball Rankings (Points leagues): Early-season surprises climb in rest-of-season value",
+     "summary": "Dan Titus has updated rest-of-season rankings for points leagues, including his top risers and fallers.",
+     "image": "",
+     "url": "https://sports.yahoo.com/fantasy/article/fantasy-basketball-rankings-points-leagues-early-season-surprises-climb-in-rest-of-season-value-195116351.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-18T19:51:16+00:00"
+    },
+    {
+     "title": "NBA Power Rankings: The LaMelo Ball effect is being felt in two places; Lakers take top spot from Spurs",
+     "summary": "With Luka Dončić leading the league's best offense, Los Angeles has won a league-high nine straight games and now sits atop our power rankings",
+     "image": "https://sportshub.cbsistatic.com/i/2026/11/18/01eb3aef-1447-4e9f-8162-93c2bc74fe9b/nbapowerrankings1118.png",
+     "url": "https://www.cbssports.com/nba/news/nba-power-rankings-lamelo-ball-timberwolves-hornets-lakers-spurs/",
+     "source": "CBS Sports NBA",
+     "published": "2026-11-18T19:37:50+00:00"
+    },
+    {
+     "title": "Quentin Grimes feels Lakers win over Hornets was a ‘statement game’",
+     "summary": "Resilience seemed to be a buzzword after the Lakers’ win Tuesday night",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/c2d2a570580d6cf881c63dda49abcf25.jpg",
+     "url": "https://sports.yahoo.com/articles/quentin-grimes-feels-lakers-win-190444535.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-18T19:04:44+00:00"
     },
     {
      "title": "Mauricio Pochettino’s USMNT time will be remembered fondly, but it wasn’t transformational",
@@ -303,22 +351,6 @@
      "published": "2026-11-18T17:52:39+00:00"
     },
     {
-     "title": "NBA Injury Report: CJ McCollum to miss a month with calf injury",
-     "summary": "CJ McCollum's absence should open the door even further for Kingston Flemings to shine.",
-     "image": "https://media.zenfs.com/en/nbcsports.com/c02a41245e999a0ae1114ebff8fa3c2f.jpg",
-     "url": "https://sports.yahoo.com/articles/nba-injury-report-cj-mccollum-170449333.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-18T17:04:49+00:00"
-    },
-    {
-     "title": "Spurs Dylan Harper slips, leaves game with apparent groin injury",
-     "summary": "The severity has yet to be announced, but he may miss some time after slipping on the court.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/spurs-dylan-harper-slips-leaves-170257574.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-18T17:02:57+00:00"
-    },
-    {
      "title": "The sandpaper plot - who was there, who said what?",
      "summary": "As Cameron Bancroft's explosive allegations raise more questions about the sandpaper scandal, BBC Sport looks at who was there and what they have said since.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5ea/live/792a2740-e35f-11f1-a898-e7da1c1ebbf0.jpg",
@@ -335,14 +367,6 @@
      "published": "2026-11-18T16:09:55+00:00"
     },
     {
-     "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Celtics-Nuggets, Kansas-West Virginia Players Era",
-     "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NBA, college basketball, NFL betting on Wednesday",
-     "image": "https://sportshub.cbsistatic.com/i/2026/09/08/8c9b2f2a-2dd9-45bb-932a-45e8faf837ef/betmgm-promo-code-september-2026.jpg",
-     "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-celtics-nuggets-kansas-west-virginia-players-era/",
-     "source": "CBS Sports NBA",
-     "published": "2026-11-18T15:30:32+00:00"
-    },
-    {
      "title": "Divide and conquer - now maverick Erasmus plans online watchalong",
      "summary": "Rassie Erasmus is a serial offender when it comes to criticising officials, but he retains huge support in South Africa - and has unique plans for following his team's game against Ireland.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2423/live/8de02db0-e364-11f1-9f51-4bfc31543510.jpg",
@@ -357,30 +381,6 @@
      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-free-nba-league-pass-celtics-nuggets-uconn-arizona-wednesday/",
      "source": "CBS Sports NBA",
      "published": "2026-11-18T14:58:07+00:00"
-    },
-    {
-     "title": "Mavericks vs. Warriors odds, picks, NBA predictions: Use Polymarket promo code CBSSPORTS for $25 bonus",
-     "summary": "Get a $25 bonus with the Polymarket promo code CBSSPORTS for Warriors vs. Mavericks predictions on Wednesday",
-     "image": "https://sportshub.cbsistatic.com/i/2026/11/03/d64c7015-de70-4331-97ee-7b283746f277/cooper-flagg-victor-wembanyama-spurs-vs-mavericks-cbs-reuters.jpg",
-     "url": "https://www.cbssports.com/prediction/news/mavericks-vs-warriors-odds-picks-nba-predictions-use-polymarket-promo-code-cbssports-for-25-bonus/",
-     "source": "CBS Sports NBA",
-     "published": "2026-11-18T14:49:37+00:00"
-    },
-    {
-     "title": "Re-grading the Giannis Antetokounmpo trade: Why the Heat and Bucks both look much worse now",
-     "summary": "While the on-court fit for Giannis in Miami has been clunky, the trade is looking more and more like an organization-wide debacle for Milwaukee",
-     "image": "https://sportshub.cbsistatic.com/i/2026/11/18/dd7ded43-08f4-4ac5-a3e7-014b7b1867c7/giannis-heat-getty-3.png",
-     "url": "https://www.cbssports.com/nba/news/regrading-giannis-antetokounmpo-trade-heat-bucks/",
-     "source": "CBS Sports NBA",
-     "published": "2026-11-18T14:15:41+00:00"
-    },
-    {
-     "title": "Joint-record six referee errors in last Premier League weekend",
-     "summary": "The Premier League's Key Match Incidents Panel rules there were six on-field errors in the last round of games - the joint-highest in one weekend.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d44c/live/1634e590-e345-11f1-99aa-0f40b013ad11.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c69q8jy924y4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-18T12:38:38+00:00"
     },
     {
      "title": "Netflix, Fox and the $2bn bid for the 2030 World Cup that could reshape live sports",
