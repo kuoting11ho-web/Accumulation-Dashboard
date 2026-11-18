@@ -1,48 +1,128 @@
 {
- "generated": "2026-11-18T21:28:03.242247+00:00",
+ "generated": "2026-11-18T22:58:22.630734+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
+    {
+     "title": "散戶還不死心！18日上市融資僅減6.95億元",
+     "summary": "初次上稿11-18 22:06 更新時間11-19 06：47 根據最新統計，18日上市融資僅減6.95億元，上櫃融資減少32.19億元，上市櫃融資共減少39.1...…",
+     "image": "",
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5645582",
+     "source": "自由時報",
+     "published": "2026-11-18T22:47:01+00:00"
+    },
+    {
+     "title": "大雨特報！北台灣入夜探15度 明起冷氣團恐報到「3地」最冷",
+     "summary": "中央氣象署表示，今天（19日）東北季風影響，中部以北及宜蘭、花蓮天氣明顯偏涼，白天高溫北部及東北部只有18、19度，中部及花蓮21至24度，至於南部及台東仍較為舒適，高溫可以來到...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/life/breakingnews/5645709",
+     "source": "自由時報",
+     "published": "2026-11-18T22:45:00+00:00"
+    },
+    {
+     "title": "又吃台灣豆腐！南韓天團BTS抵台 中國人無恥高喊「歡迎來中國」",
+     "summary": "首次上稿 11-18 22:54更新時間 11-19 06:44 南韓天團「BTS防彈少年團」睽違8年再度來台開唱，7位成員昨天（18日）下午搭乘專機抵達高雄，吸引大批阿米（A...…",
+     "image": "",
+     "url": "https://ent.ltn.com.tw/news/breakingnews/5645633",
+     "source": "自由時報",
+     "published": "2026-11-18T22:44:34+00:00"
+    },
+    {
+     "title": "輝達宮鬥會白熱化？兩個女強人之爭暗潮洶湧 誰會笑到最後",
+     "summary": "初次上稿11-18 22:05 更新時間11-19 06：44 〔財經頻道／綜合報導〕在黃仁勳離職後，輝達的領導層更迭使該公司的內部權力動態成為關注焦點，尤其是臨時首席執行長科萊特·克瑞...…",
+     "image": "",
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5645603",
+     "source": "自由時報",
+     "published": "2026-11-18T22:44:06+00:00"
+    },
+    {
+     "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+     "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-18T22:34:56+00:00"
+    },
+    {
+     "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
+     "summary": "Christian Emmanuel Sanon faces life in prison after conviction on charges arising from killing of Jovenel Moïse A Florida pastor with dual Haitian-American citizenship was convicted on Wednesday of US…",
+     "image": "https://i.guim.co.uk/img/media/1b3676280555bff070a1c0a0c2173ff8053370ab/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=59537ad1f77036983101f1e1e97d1281",
+     "url": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
+     "source": "Guardian World",
+     "published": "2026-11-18T22:31:41+00:00"
+    },
+    {
+     "title": "Leaseholders in England and Wales to have ground rent capped in 2028",
+     "summary": "Housing minister hails ‘historic moment’ as he publishes bill to eventually ban almost all new leasehold properties Leaseholders in England and Wales will have their ground rent capped in 2028, the ho…",
+     "image": "https://i.guim.co.uk/img/media/97ce229918d221f2d068eabb6be6664af10b33e2/5_0_5637_4512/master/5637.jpg?width=140&quality=85&auto=format&fit=max&s=c6d5f648c2e797efae54355400d5ab83",
+     "url": "https://www.theguardian.com/society/2026/nov/18/leaseholders-in-england-and-wales-to-have-ground-rent-capped-in-2028",
+     "source": "Guardian Business",
+     "published": "2026-11-18T22:30:09+00:00"
+    },
+    {
+     "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
+     "summary": "Palo Alto Networks has been steadily acquiring companies to capitalize on demand for cyber tools to fight AI.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-18T22:25:32+00:00"
+    },
+    {
+     "title": "Dow drops more than 500 points; S&P 500 falls for fifth day as Nvidia sells off",
+     "summary": "Nvidia shares closed lower on Wednesday, dragging the S&P 500 down for a fifth losing day.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-18T22:13:36+00:00"
+    },
+    {
+     "title": "Iraq sentences six French nationals to life in prison for joining ISIL",
+     "summary": "Trials began in September for 47 French citizens who were transferred from Syria last year.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/11/18/iraq-sentences-six-french-nationals-to-life-in-prison-for-joining-isil?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-18T21:53:17+00:00"
+    },
     {
      "title": "Anthropic prices IPO at $83 per share, above expected range, source tells CNBC",
      "summary": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday.",
      "image": "",
      "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
      "source": "CNBC Top News",
-     "published": "2026-11-18T21:22:04+00:00"
+     "published": "2026-11-18T21:42:35+00:00"
     },
     {
-     "title": "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
-     "summary": "Israeli tanks advance beyond the 'Yellow Line', forcing Palestinians to flee again in Gaza.",
+     "title": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
+     "summary": "Nvidia's interim CEO Colette Kress urges staff forward and offers pay raises after Jensen Huang exit.",
      "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
+     "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-18T21:40:21+00:00"
+    },
+    {
+     "title": "US lawmakers push to raise minimum wage to $25, end tipped pay system",
+     "summary": "Public support for raising the minimum wage grows, with 78 percent of voters saying it was an important election issue.",
+     "image": "",
+     "url": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-push-to-raise-minimum-wage-to-25-end-tipped-pay-system?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-18T20:38:06+00:00"
+     "published": "2026-11-18T21:24:19+00:00"
     },
     {
-     "title": "Pew Research: Islam on track to become world’s largest religion by 2035",
-     "summary": "The report projects steady increases for both Christianity and Islam from 2020 to 2070.",
+     "title": "Floodwaters submerge cars and parking lots in Florida town",
+     "summary": "Floodwaters turned streets and parking lots into rivers in Davie, Florida, leaving drivers facing dangerous conditions.",
      "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/18/pew-research-islam-on-track-to-become-worlds-largest-religion-by-2035?traffic_source=rss",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_floodwaters-submerge-cars-in-florida-181126?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-18T20:37:40+00:00"
+     "published": "2026-11-18T21:08:04+00:00"
     },
     {
-     "title": "珍珠港事件倖存者嘉勒辭世享嵩壽105歲　曾抗命勇救同袍",
-     "summary": "美國珍珠港事件倖存者嘉勒日前辭世，享嵩壽105歲。他在另一場戰役曾不顧軍令救出4名同袍。嘉勒辭世當天，珍珠港事件已知最年長倖存者強生亦於同日過世，享嵩壽106歲。 美聯社報導，嘉勒（Geb...…",
+     "title": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
+     "summary": "Pete Hegseth says the agreement will include joint training and intelligence sharing with the Venezuelan military.",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5645700",
-     "source": "自由時報",
-     "published": "2026-11-18T20:36:04+00:00"
-    },
-    {
-     "title": "Putin’s nuclear briefcase makes surprise appearance at China summit",
-     "summary": "Russian President Vladimir Putin’s nuclear briefcase was spotted at the APEC summit in China.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss",
+     "url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-18T20:24:50+00:00"
+     "published": "2026-11-18T21:01:05+00:00"
     },
     {
      "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
@@ -51,92 +131,36 @@
      "url": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
      "source": "Guardian World",
      "published": "2026-11-18T20:24:19+00:00"
-    },
-    {
-     "title": "Muslims projected to overtake Christians as world’s largest religious group",
-     "summary": "New Pew Research Center projections point to major changes in the world’s religious landscape by 2070.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/muslims-projected-to-overtake-christians-as-worlds-largest-religious-group?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-18T20:21:34+00:00"
-    },
-    {
-     "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-     "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-18T20:14:57+00:00"
-    },
-    {
-     "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
-     "summary": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-18T19:41:59+00:00"
-    },
-    {
-     "title": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
-     "summary": "Nvidia's interim CEO Colette Kress urges staff forward and offers pay raises after Jensen Huang exit.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-18T19:21:59+00:00"
-    },
-    {
-     "title": "美國會報告：中國結合多重手段　加大對台施壓",
-     "summary": "根據美國國會今天發布的報告，中國正擴大軍事能力、強化情報蒐集行動，並利用經濟關係提升全球影響力，尤其是在拉丁美洲，同時也加大對台灣的施壓。 土耳其安納杜魯新聞社（Anadolu Ajans...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5645698",
-     "source": "自由時報",
-     "published": "2026-11-18T19:12:04+00:00"
-    },
-    {
-     "title": "傑福瑞斯獲民主黨推舉　美國將出現首位非裔眾院議長",
-     "summary": "民主黨在期中選舉獲勝後，今天推舉傑福瑞斯（Hakeem Jeffries）續任眾議院黨團領袖，他可望成為美國首位非裔眾院議長。不過黨內進步派未表支持，對未來路線亦有不同看法。 法新社報導，...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5645696",
-     "source": "自由時報",
-     "published": "2026-11-18T19:00:04+00:00"
-    },
-    {
-     "title": "《TAIPEI TIMES》 Foreign minister Lin calls for closer ties with Texas",
-     "summary": "/ Staff writer, with CNA Minister of Foreign Affairs Lin Chia-lung （林佳龍） discussed the nation’s a...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5645636",
-     "source": "自由時報",
-     "published": "2026-11-18T19:00:00+00:00"
-    },
-    {
-     "title": "As overdose deaths fall, White House makes misleading claims about who deserves credit",
-     "summary": "In a statement celebrating the historic drop in drug deaths, the White House pointed to successes since President Trump took office. In fact, the biggest progress happened under the Biden administrati…",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5877x3918+0+0/resize/5877x3918!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1a%2Ff0%2Fc9512a594ebf8571a9747c9fbf91%2Fap25197732967711.jpg",
-     "url": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl",
-     "source": "NPR News",
-     "published": "2026-11-18T18:18:16+00:00"
-    },
-    {
-     "title": "Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story",
-     "summary": "On NPR's Morning Edition , fashion designer Karl Kani talks about his new memoir, dressing some of hip-hop's biggest stars and why skinny jeans aren't for everyone.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/594x396+0+0/resize/594x396!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F50%2F24%2F17058e7143b199a70cbcf1a77012%2Fgettyimages-1959972404-594x594.jpg",
-     "url": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
-     "source": "NPR News",
-     "published": "2026-11-18T18:15:59+00:00"
-    },
-    {
-     "title": "Investigators make progress in hunt for cause of FAA ground stop",
-     "summary": "Engineers and analysts are still searching for the root cause of the issue, which led to a four-hour ground stop on Friday.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/18/faa-ground-stop-router-investigation.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-18T18:13:25+00:00"
     }
    ]
   },
   "ai": {
    "label": "AI",
    "items": [
+    {
+     "title": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
+     "summary": "\"This time requires leadership and fortitude,\" Senator Bill Cassidy said.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296270903-500x500.jpg",
+     "url": "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/",
+     "source": "Ars Technica",
+     "published": "2026-11-18T22:08:57+00:00"
+    },
+    {
+     "title": "Gemini 4 Neon",
+     "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Comments URL: https://news.ycombinator.com/item?id=50552424 Points: 262 # Comments: 255",
+     "image": "",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-18T21:34:07+00:00"
+    },
+    {
+     "title": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",
+     "summary": "CEO Ted Sarandos discusses gaps in making hit shows that streamers can find.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/squid1-500x500.jpg",
+     "url": "https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/",
+     "source": "Ars Technica",
+     "published": "2026-11-18T21:29:24+00:00"
+    },
     {
      "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
      "summary": "Hardened defaults align with DoD standards, but there may be growing pains.",
@@ -154,24 +178,16 @@
      "published": "2026-11-18T19:31:17+00:00"
     },
     {
-     "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
-     "summary": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2299665210-500x500-1795023220.jpg",
-     "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
-     "source": "Ars Technica",
-     "published": "2026-11-18T19:19:33+00:00"
-    },
-    {
-     "title": "Trump admin orders Kalshi to halt wagers on what words Trump will say",
-     "summary": "CFTC: Kalshi bets may violate US ban on contracts that can be easily manipulated.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/trump-teleprompter-500x500-1795023877.jpg",
-     "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/",
-     "source": "Ars Technica",
-     "published": "2026-11-18T18:46:08+00:00"
+     "title": "Genie 4 is now available",
+     "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/ Comments URL: https://news.ycombinator.com/item?id=50550415 Points: 157 # Co…",
+     "image": "",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-18T18:49:51+00:00"
     },
     {
      "title": "Seven new models at scalable price-performance",
-     "summary": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 342 # Comments: 230",
+     "summary": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 382 # Comments: 262",
      "image": "",
      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
      "source": "Hacker News Front Page",
@@ -179,27 +195,11 @@
     },
     {
      "title": "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
-     "summary": "Article URL: https://www.cve.org/CVERecord?id=CVE-2026-99312 Comments URL: https://news.ycombinator.com/item?id=50548004 Points: 150 # Comments: 103",
+     "summary": "Article URL: https://www.cve.org/CVERecord?id=CVE-2026-99312 Comments URL: https://news.ycombinator.com/item?id=50548004 Points: 162 # Comments: 112",
      "image": "",
      "url": "https://www.cve.org/CVERecord?id=CVE-2026-99312",
      "source": "Hacker News Front Page",
      "published": "2026-11-18T16:06:21+00:00"
-    },
-    {
-     "title": "AI agents ask better questions than KPMG accountants in audit trial",
-     "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 217 # Comments: 105",
-     "image": "",
-     "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-18T15:49:34+00:00"
-    },
-    {
-     "title": "Inside Deutsche Bank",
-     "summary": "Article URL: https://www.inside-db.com/ Comments URL: https://news.ycombinator.com/item?id=50547620 Points: 424 # Comments: 151",
-     "image": "",
-     "url": "https://www.inside-db.com/",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-18T15:38:33+00:00"
     },
     {
      "title": "The AI Hype Index: AI is everywhere",
@@ -271,7 +271,31 @@
    "label": "運動",
    "items": [
     {
-     "title": "Detroit’s bully ball, nitpicking the Spurs & Lakers reality check with Mike Trudell + Celtics talk & NFL quick-hitters with Field Yates",
+     "title": "How LeBron James' move from Lakers to 76ers unlocked both teams' superpowers",
+     "summary": "The Lakers are thriving without LeBron James, the 76ers are thriving with James and two former NBA general managers help make sense of it all.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/lebron-james-move-lakers-76ers-215258698.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-18T21:52:58+00:00"
+    },
+    {
+     "title": "MLB commissioner Manfred cites fan support for salary cap as baseball heads towards lockout",
+     "summary": "2027 season under threat amid dispute over salary cap Commissioner says fans want a more equal game MLB commissioner, Rob Manfred, has insisted owners will not budge from their demand for a salary cap…",
+     "image": "https://i.guim.co.uk/img/media/d6e39f615bca542f3c4bae1fbc4eb46f70e933f9/250_0_3155_2524/master/3155.jpg?width=140&quality=85&auto=format&fit=max&s=8bf83a8e1f497a5845288c79b0144da1",
+     "url": "https://www.theguardian.com/sport/2026/nov/18/mlb-commissioner-manfred-cites-fan-support-for-salary-cap-as-baseball-heads-towards-lockout",
+     "source": "Guardian Sport",
+     "published": "2026-11-18T21:34:01+00:00"
+    },
+    {
+     "title": "Media firebrand asks if Black players will let Lakers’ ‘white brothers’ win it all",
+     "summary": "Stephen A. Smith had a question for Black NBA players on Wednesday morning after the Lakers won their ninth straight game. “These white brothers can play, they can play. They...",
+     "image": "https://media.zenfs.com/en/ny_post_sports_articles_389/0b0e32f071a1df362d0a0a5e2e6ec988.jpg",
+     "url": "https://sports.yahoo.com/articles/media-firebrand-asks-black-players-212720367.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-18T21:27:20+00:00"
+    },
+    {
+     "title": "Detroit's bully ball, nitpicking the Spurs & Lakers reality check with Mike Trudell + Celtics talk & NFL quick-hitters with Field Yates",
      "summary": "KOC talks Lakers, Hornets, Spurs, Pistons, Timberwolves, Trail Blazers, Celtics & more with Mike Trudell and Field Yates.",
      "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ausar-rev1-thumb_9779.png",
      "url": "https://sports.yahoo.com/nba/article/detroits-bully-ball-nitpicking-the-spurs--lakers-reality-check-with-mike-trudell--celtics-talk--nfl-quick-hitters-with-field-yates-212214221.html",
@@ -311,28 +335,12 @@
      "published": "2026-11-18T20:13:01+00:00"
     },
     {
-     "title": "Fantasy Basketball Rankings (Points leagues): Early-season surprises climb in rest-of-season value",
-     "summary": "Dan Titus has updated rest-of-season rankings for points leagues, including his top risers and fallers.",
-     "image": "",
-     "url": "https://sports.yahoo.com/fantasy/article/fantasy-basketball-rankings-points-leagues-early-season-surprises-climb-in-rest-of-season-value-195116351.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-18T19:51:16+00:00"
-    },
-    {
      "title": "NBA Power Rankings: The LaMelo Ball effect is being felt in two places; Lakers take top spot from Spurs",
      "summary": "With Luka Dončić leading the league's best offense, Los Angeles has won a league-high nine straight games and now sits atop our power rankings",
      "image": "https://sportshub.cbsistatic.com/i/2026/11/18/01eb3aef-1447-4e9f-8162-93c2bc74fe9b/nbapowerrankings1118.png",
      "url": "https://www.cbssports.com/nba/news/nba-power-rankings-lamelo-ball-timberwolves-hornets-lakers-spurs/",
      "source": "CBS Sports NBA",
      "published": "2026-11-18T19:37:50+00:00"
-    },
-    {
-     "title": "Quentin Grimes feels Lakers win over Hornets was a ‘statement game’",
-     "summary": "Resilience seemed to be a buzzword after the Lakers’ win Tuesday night",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/c2d2a570580d6cf881c63dda49abcf25.jpg",
-     "url": "https://sports.yahoo.com/articles/quentin-grimes-feels-lakers-win-190444535.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-18T19:04:44+00:00"
     },
     {
      "title": "Mauricio Pochettino’s USMNT time will be remembered fondly, but it wasn’t transformational",
@@ -389,14 +397,6 @@
      "url": "https://www.theguardian.com/football/2026/nov/18/netflix-fox-2030-world-cup-television-rights",
      "source": "Guardian Sport",
      "published": "2026-11-18T12:01:00+00:00"
-    },
-    {
-     "title": "Child doping isn’t just cheating – it’s a global epidemic of abuse and exploitation | Sean Ingle",
-     "summary": "Surveys estimate 10 million minors globally use banned performance-enhancing drugs but suppliers are rarely brought to justice Of all the many stories in Doping Top Secret: Children, a powerful new do…",
-     "image": "https://i.guim.co.uk/img/media/85f4c84e313d69c81a38ebb736eee5a2217e3336/340_0_4517_3615/master/4517.jpg?width=140&quality=85&auto=format&fit=max&s=ac45c05123230c14cf9984aec15da538",
-     "url": "https://www.theguardian.com/sport/2026/nov/18/child-doping-cheating-global-epidemic-abuse-exploitation",
-     "source": "Guardian Sport",
-     "published": "2026-11-18T08:00:37+00:00"
     }
    ]
   }
