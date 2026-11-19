@@ -1,48 +1,80 @@
 {
- "generated": "2026-11-19T21:39:44.102013+00:00",
+ "generated": "2026-11-19T23:06:29.639313+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "Anthropic shares end first day of trading at $97 as Wall Street closes sharply lower – business live",
-     "summary": "All ⁠three major US stock indexes ⁠ended the session ​sharply lower after record-breaking IPO by maker behind AI agent Claude Anthropic needs to grow into its $1.5tn valuation, argues Kathleen Brooks,…",
-     "image": "https://i.guim.co.uk/img/media/d813681eacdf9a462a84be4e3ef0e890940a2ccf/1281_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=351333af3d876ca589b3c253ac43f20d",
+     "title": "California AG issues subpoena to Nvidia in probe of China chips",
+     "summary": "The investigation by California Attorney General Rob Bonta comes on the heels of the resignation of Nvidia CEO Jensen Huang.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-19T23:04:13+00:00"
+    },
+    {
+     "title": "Anthropic closes first day at $97.17 per share in landmark moment for AI: IPO live updates",
+     "summary": "Anthropic IPO live updates: Follow ANT stock's Nasdaq debut, opening share price, valuation and investor reaction to the Claude AI maker.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-19T23:04:05+00:00"
+    },
+    {
+     "title": "LTN經濟通》別再點夏威夷披薩 義大利人凍未條了",
+     "summary": "加拿大餐廳 發明披薩放鳳梨 〔財經頻道／綜合報導〕1960年代，加拿大一名廚師發明了一種風靡全球的披薩配料，他突破了過去傳統的披薩配料，放上火腿與鳳梨，並稱之為「夏威夷披薩」，從美洲、歐洲...…",
+     "image": "",
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5642619",
+     "source": "自由時報",
+     "published": "2026-11-19T23:00:00+00:00"
+    },
+    {
+     "title": "不只民眾黨！藍委王鴻薇、葉元之昔日「嘲諷手語」畫面曝",
+     "summary": "首次上稿 11-19 22:14更新時間 11-20 06:58 民進黨台北市長候選人沈伯洋日前與聽障長輩以手語互動，溫馨畫面令人動容，也讓藍白政要先前嘲諷手語的爭議言行，再度...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5646769",
+     "source": "自由時報",
+     "published": "2026-11-19T22:58:55+00:00"
+    },
+    {
+     "title": "Mosque torched in Israel sparks political backlash against Netanyahu",
+     "summary": "A mosque in al-Dahi, a Palestinian Arab village in northern Israel, was set on fire in a suspected arson attack.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_mosque-torched-in-israel-sparks-political-backlash-191126?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-19T22:58:48+00:00"
+    },
+    {
+     "title": "學測生求考試念書訣竅！沈伯洋公開祕訣：「這點」超重要",
+     "summary": "首次上稿 11-19 22:50更新時間 11-20 06:55 民進黨台北市長候選人沈伯洋19日晚間開「你們的問題沒有白問！因為我來了！」直播，與支持者線上互動。對此，有家長...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5646970",
+     "source": "自由時報",
+     "published": "2026-11-19T22:55:23+00:00"
+    },
+    {
+     "title": "11/20 各報重點新聞一覽",
+     "summary": "自由時報 金管會5招穩定股市 有條件禁空令 今上路 台股本週連三個交易日累積崩跌五二四八點，市場人心惶惶。金管會昨緊急宣布「限空令二．〇」，再加碼當日收盤價跌幅達三．五％以上，次一交易日不得低於...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/life/breakingnews/5647053",
+     "source": "自由時報",
+     "published": "2026-11-19T22:51:26+00:00"
+    },
+    {
+     "title": "Anthropic shares end first day of trading at $97 as Wall Street closes sharply lower – as it happened",
+     "summary": "All ⁠three major US stock indexes ⁠ended the session ​sharply lower after record-breaking IPO by maker behind AI agent Claude Anthropic closes first day of public trading at $1.3tn valuation Protester…",
+     "image": "https://i.guim.co.uk/img/media/8226cf45c1bc20ad59eddec748cb40e245b6796d/378_0_2428_1942/master/2428.jpg?width=140&quality=85&auto=format&fit=max&s=97d0f5d644f173d2ba42f67590e1aa3d",
      "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
      "source": "Guardian Business",
-     "published": "2026-11-19T21:32:16+00:00"
+     "published": "2026-11-19T22:13:52+00:00"
     },
     {
-     "title": "社論》誰在迎合中共無聲的介選",
-     "summary": "美國國會獨立機構「美中經濟暨安全檢討委員會」昨公布年度報告指出，未來廿四個月是形塑兩岸關係的重要窗口，北京評估十一月廿八日的九合一選舉與二〇二八年總統選舉，對台灣進行隔離與封鎖的風險提高。此外，華府智庫「美國企業研究院（AEI）」與「戰爭研究所（ISW）」也在月中發表共同報告，揭露解放軍部署百餘艘艦…",
+     "title": "US signed off on sales of nearly 900,000 AI chips to China in six months",
+     "summary": "US House committee releases chip export data amid scrutiny of former Nvidia CEO's alleged links to a Chinese spy.",
      "image": "",
-     "url": "https://talk.ltn.com.tw/article/paper/1779147",
-     "source": "自由時報",
-     "published": "2026-11-19T21:30:00+00:00"
-    },
-    {
-     "title": "再拒黃仁勳回任 輝達加薪穩軍心",
-     "summary": "曾任職輝達7年 安謀控股執行長哈斯成接棒熱門人選 〔編譯盧永山／綜合報導〕輝達（Nvidia）執行長黃仁勳因與疑似中國女間諜發生婚外情而去職，近來有許多輝達員工呼籲董事會讓黃仁勳回歸。輝達董事會十八日召開黃仁勳去職後的首次全體員工大會，董事長瓊斯重申黃仁勳不會回歸，代理執行長克瑞斯也呼籲員工向前看…",
-     "image": "",
-     "url": "https://ec.ltn.com.tw/article/paper/1779136",
-     "source": "自由時報",
-     "published": "2026-11-19T21:30:00+00:00"
-    },
-    {
-     "title": "金管會5招穩定股市 有條件禁空令 今上路",
-     "summary": "〔記者王孟倫／台北報導〕台股本週連三個交易日累積崩跌五二四八點，市場人心惶惶。金管會昨緊急宣布「限空令二．〇」，再加碼當日收盤價跌幅達三．五％以上，次一交易日不得低於前一交易日收盤價放空等五大穩定救市措施，今日正式上路。 金管會表示，先前已於十一月九日採取調整每日盤中借券賣出委託數量及融券保證…",
-     "image": "",
-     "url": "https://ec.ltn.com.tw/article/paper/1779122",
-     "source": "自由時報",
-     "published": "2026-11-19T21:30:00+00:00"
-    },
-    {
-     "title": "蔡英文：2010未竟心願 盼蘇巧慧幫我完成",
-     "summary": "蘇：持續以談政見、願景方式競選 迎向新北新時代 〔記者黃政嘉／新北報導〕前總統蔡英文昨與民進黨新北市長候選人蘇巧慧到中和烘爐地南山福德宮、永和保福宮參香。蔡提及，她二〇一〇年沒選上新北市長，心想神明的意思就等下一攤（蘇巧慧當選）較重要，她跟「實實們」約定，請大家幫蘇巧慧拉票、顧票、催票，把尖叫的力…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/paper/1779203",
-     "source": "自由時報",
-     "published": "2026-11-19T21:30:00+00:00"
+     "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-19T21:58:27+00:00"
     },
     {
      "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
@@ -50,7 +82,23 @@
      "image": "",
      "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
      "source": "CNBC Top News",
-     "published": "2026-11-19T21:27:33+00:00"
+     "published": "2026-11-19T21:43:30+00:00"
+    },
+    {
+     "title": "Haiti police say at least 34 suspected gang members killed in raid",
+     "summary": "Police say the raid targeted the Martissant area, located on a key route out of Port-au-Prince held by gangs since 2021.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-19T21:39:39+00:00"
+    },
+    {
+     "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+     "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-19T21:38:42+00:00"
     },
     {
      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
@@ -69,14 +117,6 @@
      "published": "2026-11-19T21:14:46+00:00"
     },
     {
-     "title": "Anthropic closes first day at $97.17 per share in landmark moment for AI: IPO live updates",
-     "summary": "Anthropic IPO live updates: Follow ANT stock's Nasdaq debut, opening share price, valuation and investor reaction to the Claude AI maker.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-19T21:14:27+00:00"
-    },
-    {
      "title": "US appeals court lets Trump end TPS deportation protections for Venezuelans",
      "summary": "The appeals court's ruling prevents a lower-court decision from taking effect, which would block Trump from lifting TPS.",
      "image": "",
@@ -85,58 +125,50 @@
      "published": "2026-11-19T21:11:45+00:00"
     },
     {
-     "title": "Ten killed in Pakistan as bus crashes into gas tanker",
-     "summary": "Ten people were killed and at least 27 more injured after a passenger bus collided with an LPG tanker in Pakistan.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/ten-killed-in-pakistan-as-bus-crashes-into-gas-tanker?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-19T21:09:24+00:00"
-    },
-    {
-     "title": "Three arrested during Anthropic IPO protest outside Nasdaq",
-     "summary": "As the AI giant Anthropic made its record-breaking stock market debut in New York, police arrested demonstrators",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/three-arrested-during-anthropic-ipo-protest-outside-nasdaq?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-19T20:59:20+00:00"
-    },
-    {
-     "title": "Jerusalem Daily: Israel launches ground offensive in Gaza",
-     "summary": "Israel launches its first major ground offensive in central Gaza, pushing beyond the ‘Yellow Line’ it controls",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/jerusalem-daily-israel-launches-ground-offensive-in-gaza-2?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-19T20:58:41+00:00"
-    },
-    {
      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
      "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg",
      "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
      "published": "2026-11-19T20:07:02+00:00"
-    },
-    {
-     "title": "Who are Anthropic’s seven co-founders, now worth $180bn?",
-     "summary": "The company counts physicists, a former journalist and an associate of the pope among its guiding lights The paper fortunes of Anthropic’s seven co-founders reached a total of more than $180bn on Thur…",
-     "image": "https://i.guim.co.uk/img/media/f21be169b52ca2b5f51250db2e1f038f14af993b/236_0_3021_2417/master/3021.jpg?width=140&quality=85&auto=format&fit=max&s=cfd2d2381022640d3abcec2594556295",
-     "url": "https://www.theguardian.com/technology/2026/nov/19/who-are-anthropic-founders",
-     "source": "Guardian Business",
-     "published": "2026-11-19T20:05:13+00:00"
-    },
-    {
-     "title": "Judges have put Trump's arch and golf course on hold, but only for a matter of days",
-     "summary": "A federal judge has twice delayed construction of Trump's arch. Another is keeping East Potomac Park open. The proposed golf course redesign got mixed feedback from a federal arts panel on Thursday.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5400x3038+0+0/resize/5400x3038!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcb%2F51%2F45f19489479aa954d177e2981de0%2Ftrump-construction-duo.png",
-     "url": "https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders",
-     "source": "NPR News",
-     "published": "2026-11-19T19:46:27+00:00"
     }
    ]
   },
   "ai": {
    "label": "AI",
    "items": [
+    {
+     "title": "美國擴大東南亞 AI 晶片出口管制，AI 伺服器出貨結構將依終端客戶重新調整",
+     "summary": "美國商務部工業暨安全局（BIS）16日公布新先進 AI 晶片出口管制，將新加坡、馬來西亞、泰國、印尼及巴西納入 […]",
+     "image": "",
+     "url": "https://finance.technews.tw/2026/11/20/us-expands-ai-chip-export-controls-southeast-asia-ai-server-shipment-structure-realigned-end-customers/",
+     "source": "科技新報 TechNews",
+     "published": "2026-11-19T23:00:44+00:00"
+    },
+    {
+     "title": "美國商務部揭露已批准向中國出售 87.9 萬顆 AI 晶片，兩黨議員氣炸要嚴查",
+     "summary": "美國聯邦眾議院外交委員會於週四公布官方文件，揭露美國商務部轄下機構已批准向中國企業銷售超過 87.9 萬顆高階 […]",
+     "image": "",
+     "url": "https://technews.tw/2026/11/20/the-u-s-department-of-commerce-has-revealed-that-it-has-approved-the-sale-of-879000-ai-chips-to-china/",
+     "source": "科技新報 TechNews",
+     "published": "2026-11-19T22:30:44+00:00"
+    },
+    {
+     "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
+     "summary": "Amazon now uses its shopping platform for political purposes.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1243765669-500x500.jpg",
+     "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+     "source": "Ars Technica",
+     "published": "2026-11-19T22:16:37+00:00"
+    },
+    {
+     "title": "AMD 遭空頭機構指控與多家列實體清單中國企業往來，股價一度重挫 9%",
+     "summary": "美商半導體大廠超微半導體（AMD）股價遭遇沉重賣壓，盤中重挫近 9%。主因為空頭機構 Hunterbrook […]",
+     "image": "",
+     "url": "https://finance.technews.tw/2026/11/20/amd-accused-by-short-selling-firms-of-dealings-with-several-chinese-companies-listed-on-the-entity-list/",
+     "source": "科技新報 TechNews",
+     "published": "2026-11-19T22:00:38+00:00"
+    },
     {
      "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
      "summary": "Expert called MAHA's spending \"pretty unusual\" for a PAC.",
@@ -162,16 +194,8 @@
      "published": "2026-11-19T20:19:28+00:00"
     },
     {
-     "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
-     "summary": "\"Project Suncatcher is a long-term moonshot.\"",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG2-Launch-Rollout-3-500x500.jpg",
-     "url": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
-     "source": "Ars Technica",
-     "published": "2026-11-19T19:52:54+00:00"
-    },
-    {
      "title": "Claude solves two open problems in the physics of black holes",
-     "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics Comments URL: https://news.ycombinator.com/item?id=50563148 Points: 286 # Comments: 113",
+     "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics Comments URL: https://news.ycombinator.com/item?id=50563148 Points: 321 # Comments: 142",
      "image": "",
      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
      "source": "Hacker News Front Page",
@@ -179,7 +203,7 @@
     },
     {
      "title": "Pancreatic cancer halted by virus injection in three patients",
-     "summary": "https://archive.ph/2Et0x Comments URL: https://news.ycombinator.com/item?id=50563066 Points: 282 # Comments: 29",
+     "summary": "https://archive.ph/2Et0x Comments URL: https://news.ycombinator.com/item?id=50563066 Points: 384 # Comments: 52",
      "image": "",
      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
      "source": "Hacker News Front Page",
@@ -187,19 +211,19 @@
     },
     {
      "title": "Anthropic hits $2T in Nasdaq debut",
-     "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/ Comments URL: https://news.ycombinator.com/item?id=50562754 Points: 649 #…",
+     "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/ Comments URL: https://news.ycombinator.com/item?id=50562754 Points: 765 #…",
      "image": "",
      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
      "source": "Hacker News Front Page",
      "published": "2026-11-19T17:02:40+00:00"
     },
     {
-     "title": "Fuck Your AI Safeguards",
-     "summary": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 361 # Comments: 140",
+     "title": "UK government forced to admit it issued Apple a secret encryption order",
+     "summary": "Article URL: https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/ Comments URL: https://news.ycombinator.com/item?id=50562113 Points: 426 # Comments: 187",
      "image": "",
-     "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+     "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
      "source": "Hacker News Front Page",
-     "published": "2026-11-19T16:30:18+00:00"
+     "published": "2026-11-19T16:21:03+00:00"
     },
     {
      "title": "美光新加坡 HBM 先進封裝廠首部機台進駐，預計 2027 年初進行產出",
@@ -208,30 +232,6 @@
      "url": "https://finance.technews.tw/2026/11/19/micron-singapore-hbm-advanced-packaging-plant-installs-first-machine/",
      "source": "科技新報 TechNews",
      "published": "2026-11-19T10:00:35+00:00"
-    },
-    {
-     "title": "美擴大封殺中國海外算力！傳三星嚴查代工來源，中國 AI 業者壓力山大",
-     "summary": "美國近期大幅收緊先進 AI 晶片與半導體出口管制，同步封殺中國繞道海外晶圓代工與封測通路，外界預期將對中國 A […]",
-     "image": "",
-     "url": "https://technews.tw/2026/11/19/us-china-ai-chip-export/",
-     "source": "科技新報 TechNews",
-     "published": "2026-11-19T09:45:55+00:00"
-    },
-    {
-     "title": "Disney+ 來台五週年揭台灣觀影趨勢，韓語與華語內容占六成觀看時數",
-     "summary": "迪士尼的串流平台 Disney+ 自 2019 年 11 月 12 日在美推出、兩年過後在台上線，如今屆滿五週 […]",
-     "image": "",
-     "url": "https://technews.tw/2026/11/19/disney-plus-is-celebrating-its-fifth-anniversary-in-taiwan/",
-     "source": "科技新報 TechNews",
-     "published": "2026-11-19T09:44:43+00:00"
-    },
-    {
-     "title": "群聯發表 AI Data Platform，提供企業運用自有資料打造智慧分析應用",
-     "summary": "群聯電子（Phison Electronics Corp.）宣布推出搭載生成式商業智慧（Generative […]",
-     "image": "",
-     "url": "https://finance.technews.tw/2026/11/19/phison-releases-ai-data-platform/",
-     "source": "科技新報 TechNews",
-     "published": "2026-11-19T09:30:00+00:00"
     },
     {
      "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
@@ -271,12 +271,76 @@
    "label": "運動",
    "items": [
     {
+     "title": "Unseeded Sykes stuns Humphries in Grand Slam thriller",
+     "summary": "Luke Humphries follows Luke Littler in exiting the Grand Slam of Darts after losing 10-9 to unseeded Tom Sykes in a second-round thriller.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e1a/live/b0aba780-e467-11f1-99a1-253766e7ad8b.jpg",
+     "url": "https://www.bbc.co.uk/sport/darts/articles/ckzd9n5996zno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-19T22:45:41+00:00"
+    },
+    {
+     "title": "F1 to bring in full-time race stewards for 2027 season in bid to end controversy",
+     "summary": "FIA announces plans to recruit permanent staff Lewis Hamilton has criticised inconsistency Formula One’s governing body has announced it will bring in full-time race stewards for the first time in the…",
+     "image": "https://i.guim.co.uk/img/media/e3d2efd5fa72c17f4329d1af1b163a2686fec91a/1126_243_3615_2892/master/3615.jpg?width=140&quality=85&auto=format&fit=max&s=fd34dc438177270c5afd2a5ed9708e02",
+     "url": "https://www.theguardian.com/sport/2026/nov/19/f1-full-time-race-stewards-2027-season-controversy-fia",
+     "source": "Guardian Sport",
+     "published": "2026-11-19T22:32:53+00:00"
+    },
+    {
+     "title": "LeBron James sues makers of 'Bron' app over unauthorized use of his nickname and AI-generated likeness",
+     "summary": "LeBron James is suing the makers of an app originially named \"Bron,\" alleging they used his nickname, likeness and star power without his permission. The app was renamed on the day the complaint was f…",
+     "image": "https://media.zenfs.com/en/la_times_articles_853/26370585dac90af2818733951e9f1190.jpg_up.jpg",
+     "url": "https://sports.yahoo.com/articles/lebron-james-sues-makers-bron-222000646.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-19T22:20:00+00:00"
+    },
+    {
+     "title": "Donald Trump issues posthumous pardon to MLB ‘superstar and legend’ Pete Rose",
+     "summary": "Rose pleaded guilty to tax evasion in 1990 Player also banned from baseball over bets Donald Trump says he has posthumously pardoned Pete Rose more than two years after the baseball star’s death and a…",
+     "image": "https://i.guim.co.uk/img/media/bc807c70dd4d2e930281e76a9ea17e044e5f63f2/409_0_3983_3185/master/3983.jpg?width=140&quality=85&auto=format&fit=max&s=8486660cf23fe8ab72715034cfcd607a",
+     "url": "https://www.theguardian.com/sport/2026/nov/19/donald-trump-issues-posthumous-pardon-to-mlb-superstar-and-legend-pete-rose",
+     "source": "Guardian Sport",
+     "published": "2026-11-19T22:09:12+00:00"
+    },
+    {
+     "title": "Kyrie Irving to the Jazz? Why Utah's reported interest in the star Mavericks guard makes no sense",
+     "summary": "Would adding a seasoned veteran like Irving really help the logjam at guard already in the Utah locker room?",
+     "image": "https://sportshub.cbsistatic.com/i/2026/11/19/1ed7d62a-12b3-44b7-9839-ca75b7b3f684/kyrie-irving-getty.png",
+     "url": "https://www.cbssports.com/nba/news/nba-trade-rumors-kyrie-irving-utah-jazz-dallas-mavericks/",
+     "source": "CBS Sports NBA",
+     "published": "2026-11-19T21:44:27+00:00"
+    },
+    {
+     "title": "Spurs Dylan Harper avoids major injury, likely out 2-3 weeks with hip strain",
+     "summary": "It looked like it could have been worse when Harper slipped on the court this week.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/spurs-dylan-harper-avoids-major-213732101.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-19T21:37:32+00:00"
+    },
+    {
+     "title": "Dylan Harper avoids serious hip injury in relief to Spurs",
+     "summary": "San Antonio Spurs guard Dylan Harper has a left hip rotator strain and is expected to miss one to three weeks, according to reports.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/dylan-harper-injury-spurs-guard-213551125.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-19T21:35:51+00:00"
+    },
+    {
      "title": "Raptors' RJ Barrett out with strained right hamstring, Collin Murray-Boyles placed in concussion protocol",
      "summary": "Barrett has been dealing with a hamstring issue for the past couple of weeks, while Murray-Broyles left Tuesday's game due to illness.",
      "image": "",
      "url": "https://sports.yahoo.com/nba/article/raptors-rj-barrett-out-with-strained-right-hamstring-collin-murray-boyles-placed-in-concussion-protocol-213115733.html",
      "source": "Yahoo Sports NBA",
      "published": "2026-11-19T21:31:15+00:00"
+    },
+    {
+     "title": "Are the 76ers truly one of the NBA's best teams, or just one of the luckiest?",
+     "summary": "Philly is 11-0 in clutch games and appears to be playing with fire",
+     "image": "https://sportshub.cbsistatic.com/i/2026/11/19/73ca9a89-1031-431a-869d-09b8f894405a/embiid-lebron-getty.png",
+     "url": "https://www.cbssports.com/nba/news/philadelphia-76ers-clutch-games-lucky-best-nba-teams/",
+     "source": "CBS Sports NBA",
+     "published": "2026-11-19T21:18:26+00:00"
     },
     {
      "title": "Dodgers owner Mark Walter set to sell Los Angeles Sparks for WNBA record $750m",
@@ -303,68 +367,12 @@
      "published": "2026-11-19T20:25:03+00:00"
     },
     {
-     "title": "Spurs guard Dylan Harper reportedly expected to miss up to 3 weeks with left rotator hip strain",
-     "summary": "Harper sustained the injury during San Antonio's loss to the Detroit Pistons on Tuesday.",
-     "image": "https://d29szjachogqwa.cloudfront.net/images/2026-11/50107b9c-26df-4fc2-ab44-d545ed525ded",
-     "url": "https://sports.yahoo.com/nba/article/spurs-guard-dylan-harper-reportedly-expected-to-miss-up-to-3-weeks-with-left-rotator-hip-strain-201347589.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-19T20:12:37+00:00"
-    },
-    {
-     "title": "Timberwolves star Anthony Edwards speaks on decision to undergo knee surgery, has no clear return timeline: 'Whenever my knee tells me it's ready, then I'll be ready'",
-     "summary": "Edwards is set to miss multiple months after undergoing arthroscopic surgery on his ailing right knee on Oct. 27.",
-     "image": "",
-     "url": "https://sports.yahoo.com/nba/article/timberwolves-star-anthony-edwards-speaks-on-decision-to-undergo-knee-surgery-has-no-clear-return-timeline-whenever-my-knee-tells-me-its-ready-then-ill-be-ready-200950484.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-19T20:09:50+00:00"
-    },
-    {
-     "title": "Anthony Edwards: 'I never wanted to have surgery,' no timeline for return",
-     "summary": "When will Ant return? \"I have no clue. Whenever my knee tells me it's ready, I'll be ready.\"",
-     "image": "https://media.zenfs.com/en/nbcsports.com/9051b5513846bad316848e84c61458ee.jpg",
-     "url": "https://sports.yahoo.com/articles/anthony-edwards-never-wanted-surgery-194430652.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-19T19:44:30+00:00"
-    },
-    {
-     "title": "England fined for fans' anti-Catholic chants in Spain",
-     "summary": "England are punished by Uefa following anti-Catholic chanting from the away fans during their Nations League victory in Spain.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17f2/live/d02f91c0-e449-11f1-9192-3924a59e54c7.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cmlye2n7p7d9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-19T19:11:03+00:00"
-    },
-    {
      "title": "Pochettino's first Man Utd training session filmed by drone operator",
      "summary": "Mauricio Pochettino's first Manchester United training session has been filmed by fan with a drone from outside the club's Carrington training ground.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f56/live/0be50c80-e446-11f1-99b6-a35a62fa4264.jpg",
      "url": "https://www.bbc.co.uk/sport/football/articles/c6wy9d7wqy7wo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-11-19T18:45:56+00:00"
-    },
-    {
-     "title": "Ravens deactivate Marlon Humphrey after cornerback says Baltimore excels at ‘making criminals’",
-     "summary": "Veteran cornerback out of game at Carolina on Sunday City’s mayor says subsequent apology is not enough Teammate admits Humphrey can be ‘abrasive’ Ravens cornerback Marlon Humphrey has been deactivate…",
-     "image": "https://i.guim.co.uk/img/media/e44389d9359ebc4312d338ab5658b656c3a3e07e/964_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6f9ca42317654570c3b3d8acb92a91f0",
-     "url": "https://www.theguardian.com/sport/2026/nov/19/marlon-humphrey-criminals-comment-baltimore-ravens",
-     "source": "Guardian Sport",
-     "published": "2026-11-19T18:04:10+00:00"
-    },
-    {
-     "title": "NBA's eight biggest disappointments through one month: Injury bug, same old East and an underwhelming champ",
-     "summary": "Things could be going better on these fronts one month into the 2026-27 NBA season",
-     "image": "https://sportshub.cbsistatic.com/i/2026/11/19/53d59cba-8c70-4aa5-95da-33471f662234/mikal-bridges-getty-5.png",
-     "url": "https://www.cbssports.com/nba/news/nbas-biggest-disappointments-one-month-injury-bug-east-underwhelming-champ/",
-     "source": "CBS Sports NBA",
-     "published": "2026-11-19T17:22:11+00:00"
-    },
-    {
-     "title": "Julius Randle has brutal response to Nets' blowout loss: 'One of the worst games I've ever been a part of'",
-     "summary": "Randle said the Nets have to figure out the root of their problems after getting destroyed by a bad Bulls team",
-     "image": "https://sportshub.cbsistatic.com/i/2026/11/19/7bc8e5be-73ff-4cc9-92dc-f580126e43d9/randle.jpg",
-     "url": "https://www.cbssports.com/nba/news/julius-randle-nets-bulls-blowout-loss/",
-     "source": "CBS Sports NBA",
-     "published": "2026-11-19T15:44:24+00:00"
     },
     {
      "title": "Culture, defence, Fernandes - Pochettino's priorities at Man Utd",
@@ -389,14 +397,6 @@
      "url": "https://www.theguardian.com/sport/2026/nov/19/athletes-onlyfans-earnings",
      "source": "Guardian Sport",
      "published": "2026-11-19T10:00:24+00:00"
-    },
-    {
-     "title": "You have to laugh at LIV’s collapse but the saga reveals money is golf’s core value | Jonathan Liew",
-     "summary": "Why do rich powerful men love golf? Ultimately the sport exists in a world where the politics is assumed to be settled Farewell, then, LIV Golf. As its original figurehead Greg Norman once so delicate…",
-     "image": "https://i.guim.co.uk/img/media/824e7c8f87285ba8fd5fc86a8610ad5c6a356403/515_0_4378_3502/master/4378.jpg?width=140&quality=85&auto=format&fit=max&s=79bd286e2723807d71cde1665fcdb020",
-     "url": "https://www.theguardian.com/sport/2026/nov/19/liv-golf-tour-collapse-saudi-arabia-analysis",
-     "source": "Guardian Sport",
-     "published": "2026-11-19T08:00:23+00:00"
     }
    ]
   }
