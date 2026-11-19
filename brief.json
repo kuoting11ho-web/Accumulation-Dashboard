@@ -1,128 +1,112 @@
 {
- "generated": "2026-11-19T19:02:43.232196+00:00",
+ "generated": "2026-11-19T21:39:44.102013+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "Dow dives 800 points as Anthropic IPO milestone causes investors to take profits: Live updates",
-     "summary": "Traders are focused on how Anthropic performs when it debuts on the Nasdaq Thursday.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-19T19:00:54+00:00"
+     "title": "Anthropic shares end first day of trading at $97 as Wall Street closes sharply lower – business live",
+     "summary": "All ⁠three major US stock indexes ⁠ended the session ​sharply lower after record-breaking IPO by maker behind AI agent Claude Anthropic needs to grow into its $1.5tn valuation, argues Kathleen Brooks,…",
+     "image": "https://i.guim.co.uk/img/media/d813681eacdf9a462a84be4e3ef0e890940a2ccf/1281_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=351333af3d876ca589b3c253ac43f20d",
+     "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+     "source": "Guardian Business",
+     "published": "2026-11-19T21:32:16+00:00"
     },
     {
-     "title": "Anthropic IPO live updates: AI lab tops $2 trillion market cap after record offering",
+     "title": "社論》誰在迎合中共無聲的介選",
+     "summary": "美國國會獨立機構「美中經濟暨安全檢討委員會」昨公布年度報告指出，未來廿四個月是形塑兩岸關係的重要窗口，北京評估十一月廿八日的九合一選舉與二〇二八年總統選舉，對台灣進行隔離與封鎖的風險提高。此外，華府智庫「美國企業研究院（AEI）」與「戰爭研究所（ISW）」也在月中發表共同報告，揭露解放軍部署百餘艘艦…",
+     "image": "",
+     "url": "https://talk.ltn.com.tw/article/paper/1779147",
+     "source": "自由時報",
+     "published": "2026-11-19T21:30:00+00:00"
+    },
+    {
+     "title": "再拒黃仁勳回任 輝達加薪穩軍心",
+     "summary": "曾任職輝達7年 安謀控股執行長哈斯成接棒熱門人選 〔編譯盧永山／綜合報導〕輝達（Nvidia）執行長黃仁勳因與疑似中國女間諜發生婚外情而去職，近來有許多輝達員工呼籲董事會讓黃仁勳回歸。輝達董事會十八日召開黃仁勳去職後的首次全體員工大會，董事長瓊斯重申黃仁勳不會回歸，代理執行長克瑞斯也呼籲員工向前看…",
+     "image": "",
+     "url": "https://ec.ltn.com.tw/article/paper/1779136",
+     "source": "自由時報",
+     "published": "2026-11-19T21:30:00+00:00"
+    },
+    {
+     "title": "金管會5招穩定股市 有條件禁空令 今上路",
+     "summary": "〔記者王孟倫／台北報導〕台股本週連三個交易日累積崩跌五二四八點，市場人心惶惶。金管會昨緊急宣布「限空令二．〇」，再加碼當日收盤價跌幅達三．五％以上，次一交易日不得低於前一交易日收盤價放空等五大穩定救市措施，今日正式上路。 金管會表示，先前已於十一月九日採取調整每日盤中借券賣出委託數量及融券保證…",
+     "image": "",
+     "url": "https://ec.ltn.com.tw/article/paper/1779122",
+     "source": "自由時報",
+     "published": "2026-11-19T21:30:00+00:00"
+    },
+    {
+     "title": "蔡英文：2010未竟心願 盼蘇巧慧幫我完成",
+     "summary": "蘇：持續以談政見、願景方式競選 迎向新北新時代 〔記者黃政嘉／新北報導〕前總統蔡英文昨與民進黨新北市長候選人蘇巧慧到中和烘爐地南山福德宮、永和保福宮參香。蔡提及，她二〇一〇年沒選上新北市長，心想神明的意思就等下一攤（蘇巧慧當選）較重要，她跟「實實們」約定，請大家幫蘇巧慧拉票、顧票、催票，把尖叫的力…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/politics/paper/1779203",
+     "source": "自由時報",
+     "published": "2026-11-19T21:30:00+00:00"
+    },
+    {
+     "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
+     "summary": "Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-19T21:27:33+00:00"
+    },
+    {
+     "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+     "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-19T21:21:43+00:00"
+    },
+    {
+     "title": "AMD dives on short-seller report of alleged China exposure",
+     "summary": "AMD closed down over 7% after a short-seller alleged that its firmware showed up at a blacklisted Chinese company. The company said it complies with U.S. law.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-19T21:14:46+00:00"
+    },
+    {
+     "title": "Anthropic closes first day at $97.17 per share in landmark moment for AI: IPO live updates",
      "summary": "Anthropic IPO live updates: Follow ANT stock's Nasdaq debut, opening share price, valuation and investor reaction to the Claude AI maker.",
      "image": "",
      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
      "source": "CNBC Top News",
-     "published": "2026-11-19T18:58:30+00:00"
+     "published": "2026-11-19T21:14:27+00:00"
     },
     {
-     "title": "Anthropic valued at $2tn as shares begin trading after record-breaking IPO – business live",
-     "summary": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news Anthropic to begin public trading at $1.5tn valuation after largest ever IPO Outages, spies, and trillion-dollar IPOs: i…",
-     "image": "https://i.guim.co.uk/img/media/d813681eacdf9a462a84be4e3ef0e890940a2ccf/1281_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=351333af3d876ca589b3c253ac43f20d",
-     "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
-     "source": "Guardian Business",
-     "published": "2026-11-19T18:39:51+00:00"
-    },
-    {
-     "title": "The 'Magic Six': How to strengthen your marriage in midlife",
-     "summary": "How do we maintain healthy romantic relationships as we age? Allison Aubrey and Scott Detrow talk about about the science of healthy, later-in-life relationships.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5220x3480+0+0/resize/5220x3480!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2c%2F4b%2Fa844485a46b69b744909fc7468e9%2Fgettyimages-2217834289.jpg",
-     "url": "https://www.npr.org/2026/11/19/nx-s1-5996688/magic-6-marriage-tips-nina-totenberg-relationships",
-     "source": "NPR News",
-     "published": "2026-11-19T18:28:23+00:00"
-    },
-    {
-     "title": "AMD dives on short-seller report of alleged China exposure",
-     "summary": "AMD was slumping after a short-seller alleged that its firmware showed up at a blacklisted Chinese company. The company said it complies with U.S. law.",
+     "title": "US appeals court lets Trump end TPS deportation protections for Venezuelans",
+     "summary": "The appeals court's ruling prevents a lower-court decision from taking effect, which would block Trump from lifting TPS.",
      "image": "",
-     "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-19T18:24:54+00:00"
-    },
-    {
-     "title": "葉門叛軍襲擊沙烏地阿拉伯首都　市內最高樓受損",
-     "summary": "沙烏地阿拉伯當局今天證實，葉門叛軍「青年運動」發動的攻擊，毀損了沙國首都利雅德金融區一棟地標大樓。數小時前，利雅德傳出爆炸聲響，目擊者通報市內最高樓受損。 法新社報導，自從鄰國葉門的內戰戰...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5647038",
-     "source": "自由時報",
-     "published": "2026-11-19T18:21:04+00:00"
-    },
-    {
-     "title": "Anthropic掛牌掀AI熱潮　歐股仍收低",
-     "summary": "儘管人工智慧（AI）巨擘Anthropic首次公開發行（IPO）盛況空前，重新帶動市場對AI的樂觀情緒，歐洲主要股市今天仍收黑。 倫敦FTSE 100指數下跌98.49點或0.93%，報1...…",
-     "image": "",
-     "url": "https://ec.ltn.com.tw/article/breakingnews/5647037",
-     "source": "自由時報",
-     "published": "2026-11-19T18:21:03+00:00"
-    },
-    {
-     "title": "Iraq reaches compromise with Kataib Hezbollah over armed group stronghold",
-     "summary": "The compromise reached will station forces that include brigades from the Popular Mobilisation Forces.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold?traffic_source=rss",
+     "url": "https://www.aljazeera.com/news/2026/11/19/us-appeals-court-lets-trump-end-tps-deportation-protections-for-venezuelans?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-19T18:16:09+00:00"
+     "published": "2026-11-19T21:11:45+00:00"
     },
     {
-     "title": "Trump-Xi-Putin summit: Five things you need to know",
-     "summary": "Donald Trump, Xi Jinping and Vladimir Putin held their first trilateral summit in China.",
+     "title": "Ten killed in Pakistan as bus crashes into gas tanker",
+     "summary": "Ten people were killed and at least 27 more injured after a passenger bus collided with an LPG tanker in Pakistan.",
      "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-xi-putin-summit-five-things-you-need-to-know?traffic_source=rss",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/ten-killed-in-pakistan-as-bus-crashes-into-gas-tanker?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-19T18:13:52+00:00"
+     "published": "2026-11-19T21:09:24+00:00"
     },
     {
-     "title": "Anthropic上市首日開盤漲34%　市值突破2兆美元",
-     "summary": "Claude聊天機器人開發商Anthropic今天在那斯達克掛牌，成為全球首家上市的前沿人工智慧（AI）公司，在投資人爭相買進之下，首日股價飆漲，公司市值一度攀升至2.1兆美元。 路透社報...…",
+     "title": "Three arrested during Anthropic IPO protest outside Nasdaq",
+     "summary": "As the AI giant Anthropic made its record-breaking stock market debut in New York, police arrested demonstrators",
      "image": "",
-     "url": "https://ec.ltn.com.tw/article/breakingnews/5647033",
-     "source": "自由時報",
-     "published": "2026-11-19T17:54:03+00:00"
-    },
-    {
-     "title": "稱伊朗研究生化武器　川普：看元旦後美伊局勢如何發展",
-     "summary": "美伊衝突迄今已延燒近9個月，美國總統川普在今天播出的訪問中表示，有跡象顯示伊朗正在研究生物或化學武器，還說 看看明年1月1日後美伊「局勢將如何發展」。 路透社報導，最近幾週，川普對伊朗態度...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5647032",
-     "source": "自由時報",
-     "published": "2026-11-19T17:54:03+00:00"
-    },
-    {
-     "title": "China’s Xi urges US and Russia to join forces to safeguard world peace",
-     "summary": "Chinese President Xi urged US President Trump and Russian President Putin to work with China to safeguard world peace.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_chinas-xi-urges-us-and-russia-for-world-peace-191126?traffic_source=rss",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/three-arrested-during-anthropic-ipo-protest-outside-nasdaq?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-19T17:50:21+00:00"
+     "published": "2026-11-19T20:59:20+00:00"
     },
     {
-     "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-     "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c4/live/c36d8970-e448-11f1-a094-5fdc692f3e33.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-19T17:38:22+00:00"
-    },
-    {
-     "title": "‘Not an acquittal’: After impeachment vote, Hegseth still under microscope",
-     "summary": "A week after a fizzled impeachment bid, analysts say Hegseth continues to face backlash for his leadership at Pentagon.",
+     "title": "Jerusalem Daily: Israel launches ground offensive in Gaza",
+     "summary": "Israel launches its first major ground offensive in central Gaza, pushing beyond the ‘Yellow Line’ it controls",
      "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/19/not-an-acquittal-after-impeachment-vote-hegseth-still-under-microscope?traffic_source=rss",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/jerusalem-daily-israel-launches-ground-offensive-in-gaza-2?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-19T17:15:30+00:00"
-    },
-    {
-     "title": "'Bigger than Barack Obama's election': Scholars reflect on Mississippi Senate race",
-     "summary": "Scott Colom is now this Southern state's first Black U.S. senator in nearly 150 years. Scholars and Mississippi natives Eddie Glaude and Kiese Laymon discuss the historic significance of his victory.",
-     "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6047338",
-     "url": "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race",
-     "source": "NPR News",
-     "published": "2026-11-19T17:03:11+00:00"
+     "published": "2026-11-19T20:58:41+00:00"
     },
     {
      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
@@ -130,7 +114,23 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg",
      "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-11-19T16:55:57+00:00"
+     "published": "2026-11-19T20:07:02+00:00"
+    },
+    {
+     "title": "Who are Anthropic’s seven co-founders, now worth $180bn?",
+     "summary": "The company counts physicists, a former journalist and an associate of the pope among its guiding lights The paper fortunes of Anthropic’s seven co-founders reached a total of more than $180bn on Thur…",
+     "image": "https://i.guim.co.uk/img/media/f21be169b52ca2b5f51250db2e1f038f14af993b/236_0_3021_2417/master/3021.jpg?width=140&quality=85&auto=format&fit=max&s=cfd2d2381022640d3abcec2594556295",
+     "url": "https://www.theguardian.com/technology/2026/nov/19/who-are-anthropic-founders",
+     "source": "Guardian Business",
+     "published": "2026-11-19T20:05:13+00:00"
+    },
+    {
+     "title": "Judges have put Trump's arch and golf course on hold, but only for a matter of days",
+     "summary": "A federal judge has twice delayed construction of Trump's arch. Another is keeping East Potomac Park open. The proposed golf course redesign got mixed feedback from a federal arts panel on Thursday.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5400x3038+0+0/resize/5400x3038!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcb%2F51%2F45f19489479aa954d177e2981de0%2Ftrump-construction-duo.png",
+     "url": "https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders",
+     "source": "NPR News",
+     "published": "2026-11-19T19:46:27+00:00"
     }
    ]
   },
@@ -138,68 +138,68 @@
    "label": "AI",
    "items": [
     {
-     "title": "LLMs will provide accurate climate info, except when they won’t",
-     "summary": "Some models fare better, but all fail in similar ways.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-465648135-500x500.jpg",
-     "url": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
+     "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
+     "summary": "Expert called MAHA's spending \"pretty unusual\" for a PAC.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-870760928-500x500.jpg",
+     "url": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
      "source": "Ars Technica",
-     "published": "2026-11-19T18:44:39+00:00"
+     "published": "2026-11-19T21:19:12+00:00"
     },
     {
-     "title": "Google will launch Android app verification requirement globally in January 2027",
-     "summary": "Google says almost all developers have already gotten on board with verification.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-500x500-1749567268.jpg",
-     "url": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/",
+     "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+     "summary": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/getty-digital-gavel-500x500-1753478304.jpg",
+     "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
      "source": "Ars Technica",
-     "published": "2026-11-19T18:00:33+00:00"
+     "published": "2026-11-19T20:29:46+00:00"
+    },
+    {
+     "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+     "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-458680569-500x500.jpg",
+     "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+     "source": "Ars Technica",
+     "published": "2026-11-19T20:19:28+00:00"
+    },
+    {
+     "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
+     "summary": "\"Project Suncatcher is a long-term moonshot.\"",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG2-Launch-Rollout-3-500x500.jpg",
+     "url": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
+     "source": "Ars Technica",
+     "published": "2026-11-19T19:52:54+00:00"
+    },
+    {
+     "title": "Claude solves two open problems in the physics of black holes",
+     "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics Comments URL: https://news.ycombinator.com/item?id=50563148 Points: 286 # Comments: 113",
+     "image": "",
+     "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-19T17:30:44+00:00"
+    },
+    {
+     "title": "Pancreatic cancer halted by virus injection in three patients",
+     "summary": "https://archive.ph/2Et0x Comments URL: https://news.ycombinator.com/item?id=50563066 Points: 282 # Comments: 29",
+     "image": "",
+     "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-19T17:25:33+00:00"
     },
     {
      "title": "Anthropic hits $2T in Nasdaq debut",
-     "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/ Comments URL: https://news.ycombinator.com/item?id=50562754 Points: 253 #…",
+     "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/ Comments URL: https://news.ycombinator.com/item?id=50562754 Points: 649 #…",
      "image": "",
      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
      "source": "Hacker News Front Page",
      "published": "2026-11-19T17:02:40+00:00"
     },
     {
-     "title": "UK Government Forced to Admit It Issued Apple a Secret Encryption Order",
-     "summary": "Article URL: https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/ Comments URL: https://news.ycombinator.com/item?id=50562113 Points: 180 # Comments: 85",
+     "title": "Fuck Your AI Safeguards",
+     "summary": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 361 # Comments: 140",
      "image": "",
-     "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+     "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
      "source": "Hacker News Front Page",
-     "published": "2026-11-19T16:21:03+00:00"
-    },
-    {
-     "title": "Everything you need to survive and rebuild society",
-     "summary": "Article URL: https://lastbook.org/ Comments URL: https://news.ycombinator.com/item?id=50560822 Points: 237 # Comments: 133",
-     "image": "",
-     "url": "https://lastbook.org/",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-19T14:47:18+00:00"
-    },
-    {
-     "title": "Mouse fight club might explain why we like to watch violent things",
-     "summary": "Watching fights wasn't as good as practical experience, but it got the mice halfway there.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/mouse1-500x500.jpg",
-     "url": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
-     "source": "Ars Technica",
-     "published": "2026-11-19T14:04:38+00:00"
-    },
-    {
-     "title": "NASA's new Moon plans have a problem: Orion wasn't designed to fly this way",
-     "summary": "\"We also have a responsibility to not go too fast and cut too many corners.\"",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e012476large-500x500.jpg",
-     "url": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
-     "source": "Ars Technica",
-     "published": "2026-11-19T13:40:02+00:00"
-    },
-    {
-     "title": "Someone reported java4shell bug in September 2026",
-     "summary": "Article URL: https://github.com/openjdk/jdk/pull/32781 Comments URL: https://news.ycombinator.com/item?id=50558906 Points: 210 # Comments: 52",
-     "image": "",
-     "url": "https://github.com/openjdk/jdk/pull/32781",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-19T11:47:03+00:00"
+     "published": "2026-11-19T16:30:18+00:00"
     },
     {
      "title": "美光新加坡 HBM 先進封裝廠首部機台進駐，預計 2027 年初進行產出",
@@ -271,36 +271,76 @@
    "label": "運動",
    "items": [
     {
-     "title": "Dr. J, Julius Randle rip into Nets after embarassing loss to Bulls",
-     "summary": "\"I fully anticipated the Nets to be so fired up having us here, they would blow Chicago out... I was wrong,\" Dr. J said.",
+     "title": "Raptors' RJ Barrett out with strained right hamstring, Collin Murray-Boyles placed in concussion protocol",
+     "summary": "Barrett has been dealing with a hamstring issue for the past couple of weeks, while Murray-Broyles left Tuesday's game due to illness.",
      "image": "",
-     "url": "https://sports.yahoo.com/articles/dr-j-julius-randle-rip-184950024.html",
+     "url": "https://sports.yahoo.com/nba/article/raptors-rj-barrett-out-with-strained-right-hamstring-collin-murray-boyles-placed-in-concussion-protocol-213115733.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-11-19T18:49:50+00:00"
+     "published": "2026-11-19T21:31:15+00:00"
     },
     {
-     "title": "Lakers coach has savage reaction to embarrassing loss to lowly Jazz",
-     "summary": "There was no sugarcoating Wednesday's loss to the Jazz.",
-     "image": "https://media.zenfs.com/en/ny_post_sports_articles_389/8b78d74917b5abe1d8f3a9d2b82daf70.jpg",
-     "url": "https://sports.yahoo.com/articles/lakers-coach-savage-reaction-embarrassing-182614241.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-19T18:26:14+00:00"
+     "title": "Dodgers owner Mark Walter set to sell Los Angeles Sparks for WNBA record $750m",
+     "summary": "Sparks were bought for $10m in 2014 Walter has been selling off a number of assets Chelsea owner Jose E Feliciano to buy team Mark Walter, who has a controlling stake in the Los Angeles Dodgers, ⁠is s…",
+     "image": "https://i.guim.co.uk/img/media/1b435c476458e141625546dceb4a02726f867ecb/402_0_3995_3197/master/3995.jpg?width=140&quality=85&auto=format&fit=max&s=0ca12165fda1dc0f3badf4753df661b1",
+     "url": "https://www.theguardian.com/sport/2026/nov/19/dodgers-owner-mark-walter-set-to-sell-los-angeles-sparks-for-wnba-record-750m",
+     "source": "Guardian Sport",
+     "published": "2026-11-19T20:40:22+00:00"
     },
     {
-     "title": "Cameron Boozer grabs top spot in NBA rookie rankings as Grizzlies surge",
-     "summary": "The NBA Rookie of the Year race is beginning to take shape after the first month of the 2026-27 season. Here are our latest rookie rankings:",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/cameron-boozer-grabs-top-spot-181659027.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-19T18:16:59+00:00"
+     "title": "Today's top games to watch, best bets, odds: Texans vs. Colts, No. 8 Houston vs. No. 11 Kansas and more",
+     "summary": "Find best bets and props for the biggest games in sports on Thursday from the SportsLine Projection Model and top CBS Sports experts",
+     "image": "https://sportshub.cbsistatic.com/i/2026/10/06/eabe4f2c-f3ec-430c-b0bd-a31902adcc07/nico-collins-cj-stroud-houston-texans-imagn.jpg",
+     "url": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-texans-vs-colts-no-8-houston-vs-no-11-kansas-and-more/",
+     "source": "CBS Sports NBA",
+     "published": "2026-11-19T20:38:03+00:00"
     },
     {
-     "title": "Jayson Tatum owns late technical that sealed Boston's loss to Denver",
-     "summary": "Tatum said, \"I wasn't mad\" when tossing ball toward one referee rather than handing it to the one near him.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/jayson-tatum-owns-technical-sealed-180734176.html",
+     "title": "NBA rumors: Suitors emerging for Dejounte Murray, demand for Anthony Davis and more",
+     "summary": "Even just a month into the season, trade chatter is already picking up around a handful of players and teams",
+     "image": "https://sportshub.cbsistatic.com/i/2026/11/19/f532d168-43e9-4525-93cd-8c2b1976d181/dejounte.jpg",
+     "url": "https://www.cbssports.com/nba/news/nba-rumors-dejounte-murray-trade-suitors-anthony-davis/",
+     "source": "CBS Sports NBA",
+     "published": "2026-11-19T20:25:03+00:00"
+    },
+    {
+     "title": "Spurs guard Dylan Harper reportedly expected to miss up to 3 weeks with left rotator hip strain",
+     "summary": "Harper sustained the injury during San Antonio's loss to the Detroit Pistons on Tuesday.",
+     "image": "https://d29szjachogqwa.cloudfront.net/images/2026-11/50107b9c-26df-4fc2-ab44-d545ed525ded",
+     "url": "https://sports.yahoo.com/nba/article/spurs-guard-dylan-harper-reportedly-expected-to-miss-up-to-3-weeks-with-left-rotator-hip-strain-201347589.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-11-19T18:07:34+00:00"
+     "published": "2026-11-19T20:12:37+00:00"
+    },
+    {
+     "title": "Timberwolves star Anthony Edwards speaks on decision to undergo knee surgery, has no clear return timeline: 'Whenever my knee tells me it's ready, then I'll be ready'",
+     "summary": "Edwards is set to miss multiple months after undergoing arthroscopic surgery on his ailing right knee on Oct. 27.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/article/timberwolves-star-anthony-edwards-speaks-on-decision-to-undergo-knee-surgery-has-no-clear-return-timeline-whenever-my-knee-tells-me-its-ready-then-ill-be-ready-200950484.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-19T20:09:50+00:00"
+    },
+    {
+     "title": "Anthony Edwards: 'I never wanted to have surgery,' no timeline for return",
+     "summary": "When will Ant return? \"I have no clue. Whenever my knee tells me it's ready, I'll be ready.\"",
+     "image": "https://media.zenfs.com/en/nbcsports.com/9051b5513846bad316848e84c61458ee.jpg",
+     "url": "https://sports.yahoo.com/articles/anthony-edwards-never-wanted-surgery-194430652.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-19T19:44:30+00:00"
+    },
+    {
+     "title": "England fined for fans' anti-Catholic chants in Spain",
+     "summary": "England are punished by Uefa following anti-Catholic chanting from the away fans during their Nations League victory in Spain.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17f2/live/d02f91c0-e449-11f1-9192-3924a59e54c7.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cmlye2n7p7d9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-19T19:11:03+00:00"
+    },
+    {
+     "title": "Pochettino's first Man Utd training session filmed by drone operator",
+     "summary": "Mauricio Pochettino's first Manchester United training session has been filmed by fan with a drone from outside the club's Carrington training ground.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f56/live/0be50c80-e446-11f1-99b6-a35a62fa4264.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c6wy9d7wqy7wo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-19T18:45:56+00:00"
     },
     {
      "title": "Ravens deactivate Marlon Humphrey after cornerback says Baltimore excels at ‘making criminals’",
@@ -309,14 +349,6 @@
      "url": "https://www.theguardian.com/sport/2026/nov/19/marlon-humphrey-criminals-comment-baltimore-ravens",
      "source": "Guardian Sport",
      "published": "2026-11-19T18:04:10+00:00"
-    },
-    {
-     "title": "Summer signings join Lionel Messi among MLS’s top earners: Takeaways from the league’s salary release",
-     "summary": "How much in player salaries did it take to earn a point in the 2026 MLS regular season? The latest batch of salaries lends some insight Lionel Messi has closer company at the top of MLS’s list of high…",
-     "image": "https://i.guim.co.uk/img/media/295eaf1b8e3e4febef1061f3822c8d8701d5310b/183_0_2356_1886/master/2356.jpg?width=140&quality=85&auto=format&fit=max&s=8357f6fe4ff7f873989ffc011b3c3754",
-     "url": "https://www.theguardian.com/football/2026/nov/19/mls-salary-release-lionel-messi-spent-per-point",
-     "source": "Guardian Sport",
-     "published": "2026-11-19T18:01:17+00:00"
     },
     {
      "title": "NBA's eight biggest disappointments through one month: Injury bug, same old East and an underwhelming champ",
@@ -335,22 +367,6 @@
      "published": "2026-11-19T15:44:24+00:00"
     },
     {
-     "title": "Ranking the NBA's most hopeless teams: Which franchise is in the bleakest situation? And who can't fix it?",
-     "summary": "We're talking long-term hopelessness: how likely each team is to reach a conference finals in the next five seasons",
-     "image": "https://sportshub.cbsistatic.com/i/2026/11/19/83f70e07-4b06-4605-bda6-88536dc645a7/herro-getty.png",
-     "url": "https://www.cbssports.com/nba/news/ranking-nba-most-hopeless-teams/",
-     "source": "CBS Sports NBA",
-     "published": "2026-11-19T15:17:08+00:00"
-    },
-    {
-     "title": "2026 NBA betting promos: Get over $3,000 in bonuses from top online betting apps, sportsbooks for Nov. 19",
-     "summary": "Top NBA betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-     "image": "https://sportshub.cbsistatic.com/i/2026/11/18/1f5214a4-f9fa-45c1-8f17-75237807a105/karl-anthony-towns-rudy-gobert-imagn.jpg",
-     "url": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-get-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks-nov-19/",
-     "source": "CBS Sports NBA",
-     "published": "2026-11-19T15:08:04+00:00"
-    },
-    {
      "title": "Culture, defence, Fernandes - Pochettino's priorities at Man Utd",
      "summary": "Culture, defence and Bruno Fernandes - the key issues facing Mauricio Pochettino as he takes over as Manchester United boss.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8510/live/71f11f30-e420-11f1-9e08-55a8a3b48445.jpg",
@@ -365,22 +381,6 @@
      "url": "https://www.bbc.co.uk/sport/cricket/articles/c94gnev3kj4vo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-11-19T14:57:42+00:00"
-    },
-    {
-     "title": "Furbank leads returning England trio for All Blacks visit",
-     "summary": "England are boosted by the recovery and return of George Furbank, Seb Atkinson and Ollie Chessum to face New Zealand",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecc4/live/a4de45c0-e421-11f1-9e08-55a8a3b48445.jpg",
-     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckdd1y064y0go?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-19T14:18:36+00:00"
-    },
-    {
-     "title": "Premier League clubs to cover legal costs if Man City sponsors sue",
-     "summary": "Premier League clubs vote to provide legal cover to the organisation's five board directors in the event Manchester City's sponsors sue them.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4515/live/c1425af0-e41a-11f1-b37c-b3a71d7200af.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cqy4jvdw7jdlo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-19T13:29:42+00:00"
     },
     {
      "title": "From training clips to thirst traps: why athletes are turning to OnlyFans",
