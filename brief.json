@@ -1,24 +1,120 @@
 {
- "generated": "2026-11-20T21:16:45.087291+00:00",
+ "generated": "2026-11-20T22:42:04.094404+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam: Live updates",
+     "title": "輻射冷卻發威！新北、基隆今晨跌破12度 專家：下週又有冷空氣來襲",
+     "summary": "受大陸冷氣團南下及輻射冷卻影響，今晨新北、基隆平地低溫都出現12度以下低溫，氣象專家指出，預估這波冷氣團影響下，今、明清晨將最為寒冷，要到週日白天後才會回溫，不過下週二、三又會有...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/life/breakingnews/5648251",
+     "source": "自由時報",
+     "published": "2026-11-20T22:27:48+00:00"
+    },
+    {
+     "title": "健康網》同樣一餐血糖竟差近1倍！ 醫實測：控糖關鍵不只吃什麼",
+     "summary": "〔健康頻道／綜合報導〕想要穩定血糖，不只需要注意飲食內容，進食時間、方式可能都有影響。食農專家韋恩分享，日本醫師山本康博首次配戴連續式血糖機，發現不少顛覆自身認知的現象。不僅睡眠不足的隔天，吃同...…",
+     "image": "",
+     "url": "https://health.ltn.com.tw/article/breakingnews/5646802",
+     "source": "自由時報",
+     "published": "2026-11-20T22:25:00+00:00"
+    },
+    {
+     "title": "小水滴看過來！沈伯洋明辦「城市行動展」 參展攻略一次看",
+     "summary": "民進黨台北市長候選人沈伯洋明（22）日將辦「市民動起來，城市行動展」，以六大主題舞台串聯。沈伯洋今凌晨1點則在社群平台透露細節，主打各種曲風輪番上陣，從搖滾、嘻哈到爵士、古典，...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5648240",
+     "source": "自由時報",
+     "published": "2026-11-20T22:20:10+00:00"
+    },
+    {
+     "title": "US lawmakers push for tougher AI chip rules amid China export crackdown",
+     "summary": "Washington has new rules restricting remote access to advanced US AI chips, but lawmakers want more.",
+     "image": "",
+     "url": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T22:15:07+00:00"
+    },
+    {
+     "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+     "summary": "AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big slide for the market.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7561x5041+0+0/resize/7561x5041!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffd%2F44%2Fb43d4bb943bb9b380c4b94631ed4%2Fap26321557592396.jpg",
+     "url": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
+     "source": "NPR News",
+     "published": "2026-11-20T22:11:29+00:00"
+    },
+    {
+     "title": "徐欣瑩助理涉抹黃10萬交保 「被害人」曾聖凱：徐應說明是否教唆",
+     "summary": "首次上稿 11-20 22:41更新時間 11-21 06:04 國民黨新竹縣長候選人徐欣瑩李姓國會助理被控涉入散佈不實不雅性影片案，20日下午被檢警帶走後，晚上被檢方依妨害...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5648178",
+     "source": "自由時報",
+     "published": "2026-11-20T22:04:28+00:00"
+    },
+    {
+     "title": "The latest from Trump's press conference",
+     "summary": "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin.",
+     "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6047636",
+     "url": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
+     "source": "NPR News",
+     "published": "2026-11-20T21:38:21+00:00"
+    },
+    {
+     "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
+     "summary": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout Who are Anthropic’s seven co-founders, now worth $180bn?…",
+     "image": "https://i.guim.co.uk/img/media/578833ee207aab76c1b6a542f17226703dbd735b/686_0_5336_4269/master/5336.jpg?width=140&quality=85&auto=format&fit=max&s=95af56c4e78299bd447fd1e5bd03b452",
+     "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+     "source": "Guardian Business",
+     "published": "2026-11-20T21:38:17+00:00"
+    },
+    {
+     "title": "Rising seas have forced this Quinault village to relocate",
+     "summary": "The Quinault Indian Nation has moved its largest village away from rising seas and tsunamis",
+     "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6046485",
+     "url": "https://www.npr.org/2026/11/20/nx-s1-6046485/rising-seas-have-forced-this-quinault-village-to-relocate",
+     "source": "NPR News",
+     "published": "2026-11-20T21:38:13+00:00"
+    },
+    {
+     "title": "Trump's impact on an Ohio steel plant",
+     "summary": "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal. The switch would have cut hazardous air pollution -- and greenhouse gas emissions. But that pl…",
+     "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5860971",
+     "url": "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant",
+     "source": "NPR News",
+     "published": "2026-11-20T21:38:11+00:00"
+    },
+    {
+     "title": "Iraq PM targets militia stronghold in bid to assert state control",
+     "summary": "Iraqi PM Ali al-Zaidi said an operation in Jurf al-Sakhar marks the start of a nationwide push to assert state control.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_iraq-pm-targets-militia-stronghold-jurf-al-sakhar-201126?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T21:28:25+00:00"
+    },
+    {
+     "title": "S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam",
      "summary": "A decline in Anthropic shares weighed on the broader market following the artificial intelligence giant's public market debut in the previous session.",
      "image": "",
      "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
      "source": "CNBC Top News",
-     "published": "2026-11-20T21:07:56+00:00"
+     "published": "2026-11-20T21:23:03+00:00"
     },
     {
-     "title": "黃仁勳同意赴美國國會公開作證　中國間諜疑雲成焦點",
-     "summary": "美國國會議員正對輝達（Nvidia）前執行長黃仁勳與一名遭指控為中國間諜女性間的關係進行調查，共和黨聯邦參議員史考特（Tim Scott）的幕僚今天透過聲明表示，黃仁勳已同意出席參議院公開聽...…",
+     "title": "Trump threatens tax on US tech firms building AI data centres abroad",
+     "summary": "US President Donald Trump warned US tech companies will face “a tremendous tax” if they build AI data centres abroad.",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5648247",
-     "source": "自由時報",
-     "published": "2026-11-20T21:06:04+00:00"
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T21:10:53+00:00"
+    },
+    {
+     "title": "Trump defends Putin relationship, warns AI data centres must stay in US",
+     "summary": "The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-20T21:05:07+00:00"
     },
     {
      "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
@@ -29,108 +125,12 @@
      "published": "2026-11-20T21:03:41+00:00"
     },
     {
-     "title": "川普籲輝達讓黃仁勳回鍋　稱習近平也讚他是人才",
-     "summary": "美國總統川普結束亞洲訪問返抵華府，今天在記者會上表示，只希望舊款晶片出口中國，並說，希望看到輝達前執行長黃仁勳鄭重道歉並回鍋，呼籲輝達讓黃重返崗位；川普還透露，有跟中國國家主席習近平談到黃仁...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5648246",
-     "source": "自由時報",
-     "published": "2026-11-20T20:54:03+00:00"
-    },
-    {
      "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
      "summary": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China.",
      "image": "",
      "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
      "source": "CNBC Top News",
      "published": "2026-11-20T20:47:58+00:00"
-    },
-    {
-     "title": "Sudan’s war leaves disabled children missing out on education",
-     "summary": "War forces schools, rehabilitation centres to close, forcing children with disabilities to lose access to education.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/20/sudans-war-leaves-disabled-children-missing-out-on-education?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T20:45:08+00:00"
-    },
-    {
-     "title": "交屋潮引爆房屋品質考驗！破解建商「保固期再修」話術 驗屋自保必看",
-     "summary": "歷經前幾年的房市多頭，不少預售屋陸續完工交屋，根據統計，全台使照量已來到8萬9千多戶，預估全年將突破14.2萬，龐大的交屋潮來襲，預售屋完工後的驗屋，考驗未來居住舒適度，過程不得不謹慎。…",
-     "image": "",
-     "url": "https://estate.ltn.com.tw/article/29415",
-     "source": "自由時報",
-     "published": "2026-11-20T20:30:59+00:00"
-    },
-    {
-     "title": "【台北】純住宅完勝副都心！新莊頭前重劃區站穩7字頭 新案銷況佳",
-     "summary": "頭前重劃區位於新莊北側，緊鄰副都心與新北產業園區，相較於副都心規劃有商場及商辦，頭前重劃區以純住宅為主，大小公園環繞，區內公共設施及機能都已到位，已成為新莊具代表性的生活圈之一。…",
-     "image": "",
-     "url": "https://estate.ltn.com.tw/article/29414",
-     "source": "自由時報",
-     "published": "2026-11-20T20:30:59+00:00"
-    },
-    {
-     "title": "Russia complains of ‘new Iron Curtain’ as Estonia shuts its borders",
-     "summary": "Tallinn's decision to shut road border crossings comes after an attack on a drone manufacturer.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T20:30:46+00:00"
-    },
-    {
-     "title": "Israeli drone attacks kill seven Palestinians in central Gaza",
-     "summary": "Drones cause 'fear and panic' among Palestinians as Israel continues attacks on the Strip despite 'ceasefire'.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T20:14:56+00:00"
-    },
-    {
-     "title": "Nepali cricket fans in Qatar want to see their team competing with the best",
-     "summary": "As thousands from Qatar's Nepali community watch their team play, they hope that the team will rise in global rankings.",
-     "image": "",
-     "url": "https://www.aljazeera.com/sports/2026/11/20/nepali-cricket-fans-in-qatar-want-to-see-their-team-competing-with-the-best?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-20T20:03:11+00:00"
-    },
-    {
-     "title": "Gérard Depardieu and French author investigated over sexual allegations",
-     "summary": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a6/live/0355fa40-e51b-11f1-99a1-253766e7ad8b.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-20T19:45:20+00:00"
-    },
-    {
-     "title": "A massive bearish trade just happened in the chip stocks",
-     "summary": "Options traders place big bets that semiconductor stocks have further to fall",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/20/a-massive-bearish-trade-just-happened-in-the-chip-stocks.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-20T19:33:31+00:00"
-    },
-    {
-     "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
-     "summary": "A federal judge in Virginia said she will issue a preliminary injunction against Trump's arch, going a step further than the D.C. federal judge who temporarily blocked construction earlier this week.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6968x4645+0+0/resize/6968x4645!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb6%2Ff0%2F3f087dc140c29e91979734a212a3%2Fap26264499190048.jpg",
-     "url": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
-     "source": "NPR News",
-     "published": "2026-11-20T18:25:09+00:00"
-    },
-    {
-     "title": "What exactly is in the deal between the UK and the EU?",
-     "summary": "The two sides have come to agreements on food and drink, emissions trading and the youth exchange scheme Burnham has agreed EU reset deal with tuition fees issue unresolved, says No 10 After months of…",
-     "image": "https://i.guim.co.uk/img/media/7dc3c60fa8338bc5ee1369a6d31d699690231550/148_0_2427_1942/master/2427.jpg?width=140&quality=85&auto=format&fit=max&s=408ad629bea9f26f5474edd3bed42498",
-     "url": "https://www.theguardian.com/politics/2026/nov/20/what-is-in-deal-between-uk-eu-explainer",
-     "source": "Guardian Business",
-     "published": "2026-11-20T18:19:53+00:00"
-    },
-    {
-     "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-     "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b92/live/7ef50e70-e511-11f1-a094-5fdc692f3e33.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-20T17:49:48+00:00"
     }
    ]
   },
@@ -138,52 +138,60 @@
    "label": "AI",
    "items": [
     {
-     "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-     "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-500x500.jpg",
-     "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+     "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+     "summary": "FCC preempts state rules that require AT&T to keep offering home phone service.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-att-logo-500x500.jpg",
+     "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
      "source": "Ars Technica",
-     "published": "2026-11-20T20:59:08+00:00"
+     "published": "2026-11-20T22:28:24+00:00"
     },
     {
-     "title": "Watching as a giant star swallowed its neighbor and exploded",
-     "summary": "A recent brightening turned out to be from a star orbiting inside another.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-2-500x500-1795204431.png",
-     "url": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
+     "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+     "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292512757-500x500.jpg",
+     "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
      "source": "Ars Technica",
-     "published": "2026-11-20T20:41:17+00:00"
+     "published": "2026-11-20T22:16:51+00:00"
     },
     {
-     "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
-     "summary": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/flight15_catch-500x500.jpg",
-     "url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
+     "title": "Google rolls out new search homepage with AI chat history and no search button",
+     "summary": "Google search is making it even easier to access AI tools on the search page.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-500x500-1780514708.jpg",
+     "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
      "source": "Ars Technica",
-     "published": "2026-11-20T20:26:33+00:00"
+     "published": "2026-11-20T21:58:29+00:00"
+    },
+    {
+     "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+     "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Meta-El-Paso-data-center-500x500.jpg",
+     "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+     "source": "Ars Technica",
+     "published": "2026-11-20T21:47:10+00:00"
     },
     {
      "title": "Inkling 2 Mini",
-     "summary": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 204 # Comments: 20",
+     "summary": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 403 # Comments: 61",
      "image": "",
      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
      "source": "Hacker News Front Page",
      "published": "2026-11-20T20:12:19+00:00"
     },
     {
-     "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
-     "summary": "CTIA said jamming test showed \"interference... up to two and a half miles away.\"",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/prison-barbed-wire-500x500-1767732280.jpg",
-     "url": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
-     "source": "Ars Technica",
-     "published": "2026-11-20T19:52:59+00:00"
-    },
-    {
      "title": "Hurried Announcement: Alessandro Masullo GRH",
-     "summary": "Article URL: https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/ Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 899 # Comments: 423",
+     "summary": "Article URL: https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/ Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 1168 # Comments: 543",
      "image": "",
      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
      "source": "Hacker News Front Page",
      "published": "2026-11-20T18:33:14+00:00"
+    },
+    {
+     "title": "We promoted developers into architects without informing them",
+     "summary": "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 201 # Comments: 124",
+     "image": "",
+     "url": "https://manidoraisamy.com/developer-to-architect.html",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-20T18:17:51+00:00"
     },
     {
      "title": "The most misunderstood graph in AI just got a major update",
@@ -200,14 +208,6 @@
      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
      "source": "Hacker News Front Page",
      "published": "2026-11-20T17:21:36+00:00"
-    },
-    {
-     "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
-     "summary": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 181 # Com…",
-     "image": "",
-     "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-20T16:59:27+00:00"
     },
     {
      "title": "爆發 27 次全是造假，NASA 揪出「假超新星」背後的隱形黑洞",
@@ -271,6 +271,46 @@
    "label": "運動",
    "items": [
     {
+     "title": "Brandon Ingram expected to make season debut soon with Clippers",
+     "summary": "Brandon Ingram is set to make his season debut with the Los Angeles Clippers on Monday, Nov. 23 against the Houston Rockets, according to reports.",
+     "image": "https://media.zenfs.com/en/usa_today_sports_articles_558/5f24c15ffcb24472d3e485c8f41a6dc3.jpg",
+     "url": "https://sports.yahoo.com/articles/brandon-ingram-expected-season-debut-223015446.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-20T22:30:15+00:00"
+    },
+    {
+     "title": "Grand Theft Auto VI appears to mock NFL sexual misconduct scandals in radio parody",
+     "summary": "Comedian Stavros Halkias voices fictional shock jock Segment echoes Watson, Tucker misconduct allegations Rockstar’s latest skewers American sports culture The long-awaited Grand Theft Auto VI appears…",
+     "image": "https://i.guim.co.uk/img/media/1fcde3c4d6fa8be4b49a516c76e1078d7b2cf13c/559_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=7d6f1b1800815c78dc0a40e3c17fd250",
+     "url": "https://www.theguardian.com/sport/2026/nov/20/gta-6-deshaun-watson-justin-tucker-nfl-sexual-misconduct-parody",
+     "source": "Guardian Sport",
+     "published": "2026-11-20T22:16:06+00:00"
+    },
+    {
+     "title": "Brandon Ingram expected to make season debut for Clippers on Monday vs. Rockets",
+     "summary": "Ingram has been sidelined since May after undergoing surgery to repair a partially torn Achilles, discovered while getting a bone spur removed from his heel.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/article/brandon-ingram-expected-to-make-season-debut-for-clippers-on-monday-vs-rockets-220424174.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-20T22:02:53+00:00"
+    },
+    {
+     "title": "Brandon Ingram set to make Clippers season debut Monday against Rockets",
+     "summary": "Ingram has been out since May when heel surgery revealed a partially torn Achilles tendon.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/brandon-ingram-set-clippers-season-211201043.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-20T21:12:01+00:00"
+    },
+    {
+     "title": "Warriors’ latest embarrassment ties franchise mark team would like to forget",
+     "summary": "The Warriors have lost four straight games by 20 or more points, tying the longest such streak in franchise history which was set in 1997-98. After Steph Curry suffered a...",
+     "image": "https://media.zenfs.com/en/ny_post_sports_articles_389/f74232c520d0fc6a8d26f04cc673fbec.jpg",
+     "url": "https://sports.yahoo.com/articles/warriors-latest-embarrassment-ties-franchise-211159651.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-20T21:11:59+00:00"
+    },
+    {
      "title": "Today's top games to watch, best bets, odds: Oregon at Michigan State, Raptors at Pistons and more",
      "summary": "Find best bets and props for the biggest games in sports on Friday from the SportsLine Projection Model and top CBS Sports experts",
      "image": "https://sportshub.cbsistatic.com/i/2026/10/10/2a8972bd-ee57-49ba-b981-346e32f42fa8/dylan-raiola-oregon-ducks-imagn.jpg",
@@ -295,52 +335,12 @@
      "published": "2026-11-20T20:06:51+00:00"
     },
     {
-     "title": "Mailbag! Worried Raptors & Knicks fans, all-in Pistons, Trae trades & more + Ryan McCaffrey on Suns & GTA 6 + Deirdre Bosa on NBA AI Player comps",
-     "summary": "Kevin O’Connor answers listener mailbag questions, breaks down the Suns & GTA with Ryan McCaffrey and talks tech with Deirdre Bosa.",
-     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/koc-kawhi-thumb_4097.png",
-     "url": "https://sports.yahoo.com/nba/article/mailbag-worried-raptors--knicks-fans-all-in-pistons-trae-trades--more--ryan-mccaffrey-on-suns--gta-6--deirdre-bosa-on-nba-ai-player-comps-195120825.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-20T19:51:20+00:00"
-    },
-    {
-     "title": "NBA changes start time for upcoming Cavs game",
-     "summary": "The Cavs will host the Heat earlier in the day to accommodate another Cleveland sports team.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/0d63b545a51768f286dcfa0e1ad929d5.jpg",
-     "url": "https://sports.yahoo.com/articles/nba-changes-start-time-upcoming-191028318.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-20T19:10:28+00:00"
-    },
-    {
      "title": "Pochettino the connector: will human touch lift Manchester United?",
      "summary": "Argentinian has excelled in man-management – but will need his powers to energise new squad and impress owners Mauricio Pochettino celebrated his 50th birthday in style. It was March 2022, he was in c…",
      "image": "https://i.guim.co.uk/img/media/9c87c77ae60b672cce0cee6858e9a269a7375c72/1494_325_6466_5173/master/6466.jpg?width=140&quality=85&auto=format&fit=max&s=5a9c52d9e1e46e6ab46614c955fb3005",
      "url": "https://www.theguardian.com/football/2026/nov/20/mauricio-pochettino-manchester-united-manager-liverpool-premier-league",
      "source": "Guardian Sport",
      "published": "2026-11-20T19:00:37+00:00"
-    },
-    {
-     "title": "Knicks, Pistons Deep Dive + New York Liberty Offseason Outlook",
-     "summary": "Nekias and Steve take a deep dive into the New York Knicks, Detroit Pistons and New York Liberty.",
-     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/1120-thumb-article-jalen-brunson_1483.png",
-     "url": "https://sports.yahoo.com/nba/article/knicks-pistons-deep-dive--new-york-liberty-offseason-outlook-185937976.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-20T18:59:37+00:00"
-    },
-    {
-     "title": "NBA trade rumors 2026-27: Dejounte Murray update (or, non-update), Kyrie Irving, Trey Murphy, more",
-     "summary": "Don't expect any deals until after a lot of summer contracts become trade-eligible on Dec. 15.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/nba-trade-rumors-2026-27-183612093.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-20T18:36:12+00:00"
-    },
-    {
-     "title": "LA Rams star Puka Nacua faces months out after knee surgery amid NFL suspension",
-     "summary": "Nacua could miss months after MCL surgery Receiver was suspended three games on Thursday Colts release Daniel Jones, turn to Richardson Los Angeles Rams star wide receiver Puka Nacua could miss “a cou…",
-     "image": "https://i.guim.co.uk/img/media/47934bce0c1ec6e5df6fc7d8b93ff203e07a23fe/614_0_3059_2448/master/3059.jpg?width=140&quality=85&auto=format&fit=max&s=ad42a6644927887b73eaa05706cf23ac",
-     "url": "https://www.theguardian.com/sport/2026/nov/20/puka-nacua-rams-knee-surgery-suspension-daniel-jones-colts-release",
-     "source": "Guardian Sport",
-     "published": "2026-11-20T18:32:01+00:00"
     },
     {
      "title": "Man Utd fan criticism has gone too far at times - Berrada",
