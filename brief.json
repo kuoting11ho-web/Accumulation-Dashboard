@@ -1,9 +1,121 @@
 {
- "generated": "2026-11-22T17:53:26.907320+00:00",
+ "generated": "2026-11-22T20:23:45.613172+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
+    {
+     "title": "3枚俄羅斯飛彈墜落境內波蘭譴責挑釁　北約將開會商討",
+     "summary": "波蘭當局今天表示，已經確認20日墜落東南部的3個飛行物體均為俄羅斯巡弋飛彈。北大西洋公約組織正準備開會討論波蘭總理圖斯克稱之為「挑釁」的這起事件。 法新社報導，波蘭東南部城市盧布林（Lub...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5650024",
+     "source": "自由時報",
+     "published": "2026-11-22T20:12:03+00:00"
+    },
+    {
+     "title": "Why has the COP31 climate summit failed to reach agreement?",
+     "summary": "Fossil fuels are at the centre of deep division.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/11/22/why-has-the-cop31-climate-summit-failed-to-reach-agreement?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T20:00:00+00:00"
+    },
+    {
+     "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+     "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-22T19:52:50+00:00"
+    },
+    {
+     "title": "Cockroaches, dissent and a paradigm shift in India",
+     "summary": "The rise of the Cockroach Janta Party and what it reveals about the future of politics and journalism in India.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/the-listening-post/2026/11/22/cockroaches-dissent-and-a-paradigm-shift-in-india?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T19:40:12+00:00"
+    },
+    {
+     "title": "達美航空自動化系統故障　感恩節前夕全美上千航班延誤",
+     "summary": "達美航空公司的載重與平衡自動化系統發生問題，導致今天在其亞特蘭大樞紐和全美各地有超過1000架次航班延誤，在感恩節前夕影響旅客行程。 美聯社報導，達美航空公司（Delta Air Line...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5650023",
+     "source": "自由時報",
+     "published": "2026-11-22T19:30:03+00:00"
+    },
+    {
+     "title": "On China, is Trump bucking the US national security establishment?",
+     "summary": "On China, US is torn between the fears of the national security establishment and the prospect of expanded trade.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/the-bottom-line/2026/11/22/on-china-is-trump-bucking-the-us-national-security-establishment?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T19:30:00+00:00"
+    },
+    {
+     "title": "靜坐多日心跳一度剩49下 徐欣瑩凌晨不適緊急送醫",
+     "summary": "國民黨新竹縣長候選人徐欣瑩上週五（20日）深夜質疑司法介選，而在新竹地檢署前靜坐抗議多天，今天凌晨0時30分左右傳出她身體不適，先是請來民間救護車到場做簡單的血壓、心跳、脈搏等...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5650017",
+     "source": "自由時報",
+     "published": "2026-11-22T19:23:10+00:00"
+    },
+    {
+     "title": "Aber Kawas becomes first Palestinian in New York state Senate history",
+     "summary": "Kawas, a democratic socialist, won with 74.5 percent of the vote, championing progressive politics.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/11/22/aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-22T19:18:29+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》 Taiwan warns Canada over dependence on China",
+     "summary": "CALL FOR COLLABORATION:‘We have a high respect of Prime Minister [Mark] Carney’s vision, and we want...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5649965",
+     "source": "自由時報",
+     "published": "2026-11-22T19:00:00+00:00"
+    },
+    {
+     "title": "What's next after no deal at COP31 climate talks?",
+     "summary": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d3e/live/8a730770-e6a6-11f1-af06-85d9f9869f1b.jpg",
+     "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-22T18:57:24+00:00"
+    },
+    {
+     "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+     "summary": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-22T18:55:05+00:00"
+    },
+    {
+     "title": "Russian ship hit in Benghazi by suspected Ukrainian drone attack, say Libyan officials",
+     "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A suspected Ukrainian drone attack caused an explosion on a Russian warship docked at the nav…",
+     "image": "https://i.guim.co.uk/img/media/196206fc578eb19b5303b6bfe5930996ed24961b/0_0_900_720/master/900.jpg?width=140&quality=85&auto=format&fit=max&s=4a5a7fec09c73b0d217b6d1303a01b0c",
+     "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+     "source": "Guardian World",
+     "published": "2026-11-22T18:50:56+00:00"
+    },
+    {
+     "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+     "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-22T18:17:59+00:00"
+    },
+    {
+     "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+     "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f57f/live/25f17b40-e69e-11f1-9d9b-5dad4444a651.jpg",
+     "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-22T17:57:43+00:00"
+    },
     {
      "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
      "summary": "In a pilot project in a village in southern Lebanon, Israeli forces have left and the Lebanese army moved it. But villagers who return find their houses wrecked.",
@@ -19,124 +131,36 @@
      "url": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
      "source": "NPR News",
      "published": "2026-11-22T17:34:20+00:00"
-    },
-    {
-     "title": "川普：若舒默出任參院多數黨領袖　合作將有困難",
-     "summary": "美國總統川普今天表示，如果民主黨籍聯邦參議員舒默當選參議院多數黨領袖，他將很難與其合作。 路透社報導，川普在自家社群平台真實社群（Truth Social）發文說：「如果舒默（Chuck ...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5650016",
-     "source": "自由時報",
-     "published": "2026-11-22T17:21:04+00:00"
-    },
-    {
-     "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-     "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f9/live/a55b16b0-e66d-11f1-9e24-791c5321ff0f.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-22T17:18:26+00:00"
-    },
-    {
-     "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-     "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0559/live/3e9dd1e0-e692-11f1-936e-1fd1d31671db.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-22T17:16:47+00:00"
-    },
-    {
-     "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
-     "summary": "Clayton’s warning comes ahead of Thanksgiving travel, after separate outages disrupted air travel, Microsoft 365 and some bank transactions.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-22T17:14:03+00:00"
-    },
-    {
-     "title": "Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base",
-     "summary": "There was no immediate reaction from Russia, and no one has claimed responsibility for the suspected attack.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T17:12:48+00:00"
-    },
-    {
-     "title": "Blast on Russian ship in Benghazi a suspected drone attack, say Libyan authorities",
-     "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia An explosion on a Russian ship docked at the naval base in the Libyan port city of Benghazi w…",
-     "image": "https://i.guim.co.uk/img/media/196206fc578eb19b5303b6bfe5930996ed24961b/0_0_900_720/master/900.jpg?width=140&quality=85&auto=format&fit=max&s=4a5a7fec09c73b0d217b6d1303a01b0c",
-     "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-     "source": "Guardian World",
-     "published": "2026-11-22T16:55:49+00:00"
-    },
-    {
-     "title": "Israeli settlers attack multiple Palestinian villages as pogroms surge",
-     "summary": "Israeli settlers attacked several Palestinian towns and villages in the occupied West Bank on Sunday.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T16:50:48+00:00"
-    },
-    {
-     "title": "【11/23～29星座錦囊-下】累到懷疑人生？4星座拚翻身、4星座快止損",
-     "summary": "〔娛樂頻道／綜合報導〕繼上集點名4大好運星座後，看著台股連跌一週，總覺得身心俱疲、做什麼事都卡卡的？其實這正是本週星象轉換前的陣痛期，有4個星座已經能量滿格、準備逆襲拚翻身；但也有4個星座可能面...…",
-     "image": "",
-     "url": "https://ent.ltn.com.tw/news/breakingnews/5650013",
-     "source": "自由時報",
-     "published": "2026-11-22T16:40:00+00:00"
-    },
-    {
-     "title": "高雄文化中心座椅大改造 雲朵長椅融入綠意 長輩坐得更舒適",
-     "summary": "高雄市文化中心戶外公園座椅優化並新設百席座位，新座椅特別以雲朵圓潤造型融入園區開闊綠意意象，讓公共休憩空間成為民眾親近藝術的場域。 高市文化局長王文翠表示，文化中心戶外綠...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/life/breakingnews/5650014",
-     "source": "自由時報",
-     "published": "2026-11-22T16:38:37+00:00"
-    },
-    {
-     "title": "【11/23～29星座錦囊-上】河狸滿月點亮財庫！4星座擺脫爛攤子、由黑翻紅",
-     "summary": "〔娛樂頻道／綜合報導〕如果你最近覺得，人生好像突然很多事情需要決定，工作上的問題一件接著一件，感情也開始出現一些讓你想不通的狀況，其實都是有原因的。 星座專家「安德魯的賤聲房」提醒，隨著「河...…",
-     "image": "",
-     "url": "https://ent.ltn.com.tw/news/breakingnews/5650009",
-     "source": "自由時報",
-     "published": "2026-11-22T16:36:00+00:00"
-    },
-    {
-     "title": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
-     "summary": "Draft text considered too weak to deal with climate change after oil-producing countries oppose the term 'fossil fuels'.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T16:33:26+00:00"
-    },
-    {
-     "title": "Climate change talks fall apart in final hours over fossil fuels",
-     "summary": "Some 200 countries gathered in Antalya, Turkey, for COP31, the annual climate negotiations. Countries failed to reach an agreement over fossil fuels - the primary driver of global warming.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4074x2716+0+0/resize/4074x2716!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc0%2F99%2F06ba60a34fb4ba38b24264298650%2Fap26326503765925-1.jpg",
-     "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
-     "source": "NPR News",
-     "published": "2026-11-22T16:33:22+00:00"
-    },
-    {
-     "title": "Canada’s PM appears next to Trump impersonator at press dinner",
-     "summary": "A Donald Trump impersonator took to the stage alongside Mark Carney at Canada’s annual Parliamentary Press Gallery.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/canadas-pm-appears-next-to-trump-impersonator-at-press-dinner?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-22T16:06:46+00:00"
-    },
-    {
-     "title": "Court bans China’s BYD from selling ‘Defender clone’ SUV in EU",
-     "summary": "District court in the Hague finds Chinese carmaker infringed on intellectual property of Jaguar Land Rover Chinese carmaker BYD has been banned from selling its “Defender clone” vehicle in the EU by a…",
-     "image": "https://i.guim.co.uk/img/media/34ec5c756f42808400033b1a33ec6a6c23e267be/625_0_6228_4985/master/6228.jpg?width=140&quality=85&auto=format&fit=max&s=ab8e8816da8a2f30e34778ec415d4087",
-     "url": "https://www.theguardian.com/business/2026/nov/22/court-bans-china-byd-selling-defender-clone-suv-in-eu",
-     "source": "Guardian Business",
-     "published": "2026-11-22T15:43:47+00:00"
     }
    ]
   },
   "ai": {
    "label": "AI",
    "items": [
+    {
+     "title": "Perplexity and Intelligence",
+     "summary": "Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 293 # Comments: 194",
+     "image": "",
+     "url": "https://openai.com/index/perplexity-and-intelligence/",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-22T17:06:27+00:00"
+    },
+    {
+     "title": "Open Social Web Alliance",
+     "summary": "Article URL: https://osw-alliance.net/en/ Comments URL: https://news.ycombinator.com/item?id=50600511 Points: 167 # Comments: 172",
+     "image": "",
+     "url": "https://osw-alliance.net/en/",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-22T15:24:32+00:00"
+    },
+    {
+     "title": "Show HN: I built a game where you are an LLM's subagent",
+     "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 208 # Comments: 48",
+     "image": "",
+     "url": "https://github.com/gulivan/worker755",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-22T13:56:58+00:00"
+    },
     {
      "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
      "summary": "GLP-1 drugs could cut food demand enough to free farmland larger than Italy.",
@@ -163,7 +187,7 @@
     },
     {
      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-     "summary": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 535 # Comments: 60…",
+     "summary": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 701 # Comments: 74…",
      "image": "",
      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
      "source": "Hacker News Front Page",
@@ -184,30 +208,6 @@
      "url": "https://ccc.technews.tw/2026/11/22/why-mouse-called-mouse/",
      "source": "科技新報 TechNews",
      "published": "2026-11-22T08:00:32+00:00"
-    },
-    {
-     "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-     "summary": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 963 # Comments: 570",
-     "image": "",
-     "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-22T04:04:56+00:00"
-    },
-    {
-     "title": "Data Processing Incidents on Inference Providers",
-     "summary": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ Comments URL: https://news.ycombinator.com/item?id=50595554 Points: 250 # Comments: 87",
-     "image": "",
-     "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-22T02:14:14+00:00"
-    },
-    {
-     "title": "Sandwich Simulator",
-     "summary": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 456 # Comments: 158",
-     "image": "",
-     "url": "https://stulle.app/",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-22T00:07:59+00:00"
     },
     {
      "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
@@ -231,28 +231,84 @@
    "label": "運動",
    "items": [
     {
-     "title": "Liverpool v Manchester United: Premier League – live",
-     "summary": "Premier League updates from the 4.30pm GMT kick-off Live scores | Latest table | And follow us over on TikTok “Rob ‘Bob’ Smyth, as I live and breathe,” writes Ian Copestake. “Glad this game is in such…",
-     "image": "https://i.guim.co.uk/img/media/d4a5199620b561b3b83196069de23b871de98e73/1033_363_4530_3625/master/4530.jpg?width=140&quality=85&auto=format&fit=max&s=4b7f215f65be18e5696ff0dc42aa7c37",
-     "url": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-premier-league-live",
-     "source": "Guardian Sport",
-     "published": "2026-11-22T17:49:56+00:00"
-    },
-    {
-     "title": "ATP Finals tennis: Alexander Zverev v Carlos Alcaraz in the final – live",
-     "summary": "Updates as top two seeds battle for trophy Mail Daniel | Men’s $350m prize money boost On my goodness! Bocelli is back for Il Canto degli Italiani. Tuuuuuune! So what’s going to happen? I thought you’…",
-     "image": "https://i.guim.co.uk/img/media/433a842e39e305fa6e1cc60ebb92432a2037df80/450_0_4492_3592/master/4492.jpg?width=140&quality=85&auto=format&fit=max&s=d2f2bd9943b20d288dd8dd4771fbb88c",
-     "url": "https://www.theguardian.com/sport/live/2026/nov/22/atp-finals-tennis-alexander-zverev-carlos-alcaraz-final-live",
-     "source": "Guardian Sport",
-     "published": "2026-11-22T17:46:47+00:00"
-    },
-    {
      "title": "NFL week 11: Dolphins v Bills, Buccaneers v Lions, Saints v Bears, and more – live",
-     "summary": "Updates from the 6pm GMT (1pm ET) matchups Follow us on TikTok | And you can email Graham Good luck to this brave Steelers supporter who has got in early at Lincoln Financial Field. He is in for a rou…",
-     "image": "https://i.guim.co.uk/img/media/ccf562f2f896ed312c8e0a76a6b21a74a9c62c29/436_0_4503_3603/master/4503.jpg?width=140&quality=85&auto=format&fit=max&s=7fbac048c44b49c114459aedf4d4558f",
+     "summary": "Updates from the 6pm GMT (1pm ET) matchups Follow us on TikTok | And you can email Graham TOUCHDOWN! Ravens 9-0 Panthers 11:21, 1st quarter J Brissett to R Bateman for 52 yards J Williams one yard rus…",
+     "image": "https://i.guim.co.uk/img/media/d2c15c81e1205705c7ade77ea78ce1743f3c2454/350_0_4434_3548/master/4434.jpg?width=140&quality=85&auto=format&fit=max&s=6d6b582ba06b65171c9f21efa8afe431",
      "url": "https://www.theguardian.com/sport/live/2026/nov/22/nfl-week-11-dolphins-v-bills-buccaneers-v-lions-saints-v-bears-and-more-live",
      "source": "Guardian Sport",
-     "published": "2026-11-22T17:44:09+00:00"
+     "published": "2026-11-22T20:18:20+00:00"
+    },
+    {
+     "title": "Alcaraz outplays Zverev for first ATP Finals triumph",
+     "summary": "Carlos Alcaraz ends his wait for a first ATP Finals title as he outplays world number one Alexander Zverev in Turin.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac75/live/9a5011c0-e6af-11f1-99b6-a35a62fa4264.jpg",
+     "url": "https://www.bbc.co.uk/sport/tennis/articles/c60evlendg0jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-22T20:15:48+00:00"
+    },
+    {
+     "title": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
+     "summary": "Mauricio Pochettino's reign as Manchester United head coach begins in desperate fashion as his team are thrashed by rivals Liverpool to remain in the Premier League relegation zone.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a55a/live/4cb54b80-e6a8-11f1-99a1-253766e7ad8b.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-22T19:59:35+00:00"
+    },
+    {
+     "title": "Carlos Alcaraz beats Alexander Zverev to seal ATP Finals glory – as it happened",
+     "summary": "Carlos Alcaraz was far too good for Alexander Zverev, beating the new world No 1 6-2 7-6(7) to win the ATP Finals for the first time On my goodness! Bocelli is back for Il Canto degli Italiani. Tuuuuu…",
+     "image": "https://i.guim.co.uk/img/media/9a63c7367ffa2464916b9832c7257b96d833d5ae/405_0_3019_2416/master/3019.jpg?width=140&quality=85&auto=format&fit=max&s=4cdaca50b0b6f74a4bb16309b51b6835",
+     "url": "https://www.theguardian.com/sport/live/2026/nov/22/atp-finals-tennis-alexander-zverev-carlos-alcaraz-final-live",
+     "source": "Guardian Sport",
+     "published": "2026-11-22T19:58:20+00:00"
+    },
+    {
+     "title": "Liverpool hand Pochettino nightmare Manchester United start after Yoro sees red",
+     "summary": "Green shoots of recovery have lasted longer in a blast-furnace than in the Mauricio Pochettino era at Manchester United. On another abysmal Anfield day for the fallen giants of Manchester, Pochettino’…",
+     "image": "https://i.guim.co.uk/img/media/eabaf0f7802df08b573f0b7df40105a767d353ce/260_0_2689_2152/master/2689.jpg?width=140&quality=85&auto=format&fit=max&s=efb2d5bc1f2e6a5c4d66ad74919ce2d6",
+     "url": "https://www.theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report",
+     "source": "Guardian Sport",
+     "published": "2026-11-22T18:35:14+00:00"
+    },
+    {
+     "title": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings",
+     "summary": "How Liverpool and Manchester United's players rated following their Premier League match.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d14/live/a0909ae0-e6b0-11f1-99a1-253766e7ad8b.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c933gzxk66yyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-22T18:28:51+00:00"
+    },
+    {
+     "title": "Week 6 Look-Ahead: Nuggets pick up two big wins while Dylan Harper and Jaylen Brown suffer injuries",
+     "summary": "A look back at Week 5 and a look ahead to Week 6 in the NBA.",
+     "image": "",
+     "url": "https://sports.yahoo.com/articles/week-6-look-ahead-nuggets-180000551.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-22T18:00:00+00:00"
+    },
+    {
+     "title": "The red card that changed Liverpool-Man Utd: correct call?",
+     "summary": "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9413/live/785f7370-e6b0-11f1-99b6-a35a62fa4264.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-22T17:55:54+00:00"
+    },
+    {
+     "title": "Knicks 97, Trail Blazers 96: “We found a way to get a win”",
+     "summary": "A win is a win?",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/f54e39f7b61cfe8b8f1ebde03fe242a9.jpg",
+     "url": "https://sports.yahoo.com/articles/knicks-97-trail-blazers-96-170000607.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-22T17:00:00+00:00"
+    },
+    {
+     "title": "Joe Mazzulla downplays disastrous third straight loss: ‘We played well enough’",
+     "summary": "Boston delivered a basement-level performance despite facing the 15-loss Kings on two days of rest Saturday night.﻿",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/39fbba1641d7b3c3e3bec307731bad55.jpg",
+     "url": "https://sports.yahoo.com/articles/joe-mazzulla-downplays-disastrous-third-162439319.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-22T16:24:39+00:00"
     },
     {
      "title": "ESPN mourns ‘one of the best human beings ever’ after NFL analyst Tom Jackson dies at 75",
@@ -263,12 +319,12 @@
      "published": "2026-11-22T16:09:22+00:00"
     },
     {
-     "title": "Knicks Bulletin: ‘I like the city of Portland’",
-     "summary": "If you are like me, you thought you could go to bed early yesterday. If you are like me, then you realize you were not doing so, because at the end of the day it’s the Knicks and they do (yes, after t…",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/5cc0d1f194bf8f3ecbc315676028b2b5.jpg",
-     "url": "https://sports.yahoo.com/articles/knicks-bulletin-city-portland-152757760.html",
+     "title": "Inside the Suns: Ryan Dunn, Koa Peat, a wake up call?",
+     "summary": "Your weekly Inside the Suns analysis straight from the BSotS community who live and breathe the team.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/90df0120dedf4535626acbac0e4f76f6.jpg",
+     "url": "https://sports.yahoo.com/articles/inside-suns-ryan-dunn-koa-160000430.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-11-22T15:27:57+00:00"
+     "published": "2026-11-22T16:00:00+00:00"
     },
     {
      "title": "In a New York minute: Did Mikal Bridges just turn his season around with one shot?",
@@ -279,68 +335,12 @@
      "published": "2026-11-22T15:20:00+00:00"
     },
     {
-     "title": "Did beaten Wales still show they have come a long way?",
-     "summary": "Wales believe they are on the up despite failing to back up their win against New Zealand when beaten by Australia in the Nations Championship.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1a3/live/f4c9b4c0-e683-11f1-a8fd-13fffcb9ff5a.jpg",
-     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cjr4gn7yd9d5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-22T15:07:06+00:00"
-    },
-    {
-     "title": "The Wizards have a chance to advance in the NBA Cup",
-     "summary": "The Washington Wizards won against the Chicago Bulls last Friday. This wasn’t just another regular season win. It’s also their second win in NBA Cup group play, a franchise record (I’ll go over why in…",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/4144f1097c5418f0a5c3e82fea574f70.jpg",
-     "url": "https://sports.yahoo.com/articles/wizards-chance-advance-nba-cup-145901279.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-22T14:59:01+00:00"
-    },
-    {
      "title": "2026 NBA betting promos: Get almost $4,000 in bonuses from top online betting apps, sportsbooks for Nov. 22",
      "summary": "Top NBA betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
      "image": "https://sportshub.cbsistatic.com/i/2026/11/16/943d39f7-4355-47d6-b1b4-fefa692aed24/imagn-jayson-tatum-paul-george-celtics.jpg",
      "url": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-get-almost-4000-in-bonuses-from-top-online-betting-apps-sportsbooks-nov-22/",
      "source": "CBS Sports NBA",
      "published": "2026-11-22T14:54:10+00:00"
-    },
-    {
-     "title": "Preview: Utah Jazz Aim to Tame Kyrie and the Mavericks",
-     "summary": "How Will Utah’s Young Core Respond After a Rough Shooting Night?",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/c0d3001f521881429a80dd7e5c161a04.jpg",
-     "url": "https://sports.yahoo.com/articles/preview-utah-jazz-aim-tame-143607210.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-22T14:36:07+00:00"
-    },
-    {
-     "title": "England will not get carried away by beating All Blacks",
-     "summary": "In his latest BBC Sport column, England World Cup winner Matt Dawson reflects on Steve Borthwick's side's record win over New Zealand and previews the final round of Nations Championship fixtures.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec8a/live/e4531aa0-f1de-11ef-9e61-71ee71f26eb1.png",
-     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckr5gdpm1q5no?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-22T12:45:57+00:00"
-    },
-    {
-     "title": "Former All-Star has created NBA’s biggest ‘f–king mess’ — and it just keeps getting worse",
-     "summary": "NBA teams are demanding a first-round pick to take on Dejounte Murray, leaving the Pelicans stuck as trade talks stall over his $32.8M contract.",
-     "image": "https://media.zenfs.com/en/ny_post_sports_articles_389/ba4791de8e7150b0b8bd9728bd8b23f8.jpg",
-     "url": "https://sports.yahoo.com/articles/former-star-created-nba-biggest-123000006.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-22T12:30:00+00:00"
-    },
-    {
-     "title": "Verstappen a constant amid chaos as he says Russell is 'so far below my level'",
-     "summary": "Max Verstappen was the star figure in a Las Vegas Grand Prix that was unlike any F1 race anyone younger than about 70 had ever seen.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9777/live/1f62a250-e661-11f1-8ebd-1d2173202734.jpg",
-     "url": "https://www.bbc.co.uk/sport/formula1/articles/c3n0l5p5x5x5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-22T11:07:32+00:00"
-    },
-    {
-     "title": "Hamilton-Leclerc collision completely unacceptable, says Ferrari boss",
-     "summary": "Ferrari drivers Lewis Hamilton and Charles Leclerc face yet another tense discussion over their ability to race together cleanly on track after colliding in Las Vegas.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd5/live/5dd75760-e64d-11f1-a563-e14cd8b02601.jpg",
-     "url": "https://www.bbc.co.uk/sport/formula1/articles/c6j9mepj0j1go?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-22T09:07:15+00:00"
     },
     {
      "title": "Is Stephen Curry the real NBA MVP? It's hard not to think so when you watch the Warriors without him",
