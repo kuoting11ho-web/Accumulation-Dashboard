@@ -1,96 +1,88 @@
 {
- "generated": "2026-11-24T20:42:05.034860+00:00",
+ "generated": "2026-11-24T23:05:30.199153+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-     "summary": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
+     "title": "LTN經濟通》逆境相挺 馬斯克黃仁勳為何如此麻吉？",
+     "summary": "黃仁勳從離職到復職 馬斯克始終力挺 〔財經頻道／綜合報導〕輝達執行長黃仁勳因多段婚外情，日前辭去執行長等公司職務，並引發監管機構、聯邦調查局調查、國會行動、內部審查等，事件爆發後全球首富馬斯...…",
      "image": "",
-     "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5650713",
+     "source": "自由時報",
+     "published": "2026-11-24T23:00:00+00:00"
+    },
+    {
+     "title": "倒數3天拚破圈！雙總統今助攻何欣純直搗江啟臣、盧秀燕本命區",
+     "summary": "選舉倒數3天，民進黨台中市長候選人何欣純全力拚破圈，今打出「雙總統牌」助攻，前總統蔡英文下午陪何欣純前進對手江啟臣本命區豐原車掃，晚間則由民進黨主席、總統賴清德領軍，直攻台中市...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5652324",
+     "source": "自由時報",
+     "published": "2026-11-24T22:58:59+00:00"
+    },
+    {
+     "title": "維護民主自由 李恕權再發聲：讓我們一起守護台灣",
+     "summary": "1983年以一曲〈迴〉在台灣成名，因其獨特蹦跳演唱而有「蚱蜢王子」稱號的資深歌手李恕權出生澎湖縣，日前在社群轉發沈伯洋競選總部成立的空拍畫面，針對台灣民主與人權發聲而受關...…",
+     "image": "",
+     "url": "https://ent.ltn.com.tw/news/breakingnews/5652320",
+     "source": "自由時報",
+     "published": "2026-11-24T22:57:38+00:00"
+    },
+    {
+     "title": "竊取商業機密、隱瞞伊朗業務 華為遭美國陪審團定罪",
+     "summary": "中國電信設備製造商華為（Huawei）今天在美國一起牽涉廣泛的刑事案件中被定罪，罪名包含就伊朗業務欺騙銀行，並竊取美國公司商業機密。 路透社報導，這起刑事案件始於2018年，隔年美國政...…",
+     "image": "",
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5652314",
+     "source": "自由時報",
+     "published": "2026-11-24T22:53:39+00:00"
+    },
+    {
+     "title": "Bellingham stunner, Mbappe brace help Real Madrid rout PSV",
+     "summary": "Real Madrid come from behind to power past PSV Eindhoven with a 5-1 win in football's Champions League.",
+     "image": "",
+     "url": "https://www.aljazeera.com/sports/2026/11/24/bellingham-stunner-mbappe-brace-help-real-madrid-rout-psv?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-24T22:37:20+00:00"
+    },
+    {
+     "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+     "summary": "The verdict follows a months-long trial in New York.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-24T22:24:23+00:00"
+    },
+    {
+     "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
+     "summary": "The company's overall sales more than doubled on an annual basis during the third quarter, driven by AI server demand.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
      "source": "CNBC Top News",
-     "published": "2026-11-24T20:40:06+00:00"
+     "published": "2026-11-24T22:07:45+00:00"
     },
     {
-     "title": "以色列防長稱伊朗研發化武　誓言阻止德黑蘭取得",
-     "summary": "以色列國防部長卡茲（Israel Katz）今天表示，伊朗正在研發化學武器，並誓言阻止德黑蘭取得這類武器。 法新社報導，卡茲在他所屬的聯合黨（Likud）透過Telegram發布的聲明中說...…",
+     "title": "Todd Blanche declines to confirm if Nvidia’s Jensen Huang was investigated",
+     "summary": "The US attorney general refused to discuss claims by Donald Trump that his administration conducted a 'thorough' probe.",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5652307",
-     "source": "自由時報",
-     "published": "2026-11-24T20:36:04+00:00"
-    },
-    {
-     "title": "土耳其軍方直升機訓練時墜毀　導致5名官兵喪命",
-     "summary": "土耳其國防部表示，一架軍方直升機今天墜毀於國內西北部艾斯基瑟希省（Eskisehir），造成5位軍人死亡。 路透社報導，土耳其國防部指出，這架直升機事發當時正在飛行訓練。 關於這架AS-...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5652306",
-     "source": "自由時報",
-     "published": "2026-11-24T20:00:07+00:00"
-    },
-    {
-     "title": "Turkish military helicopter crash kills five in western Turkiye",
-     "summary": "The Defence Ministry did not elaborate on the cause of the crash, days after another deadly army helicopter accident.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/24/turkish-military-helicopter-crash-kills-five-in-western-turkiye?traffic_source=rss",
+     "url": "https://www.aljazeera.com/news/2026/11/24/todd-blanche-declines-to-confirm-if-nvidias-jensen-huang-was-investigated?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-24T19:52:21+00:00"
+     "published": "2026-11-24T22:01:26+00:00"
     },
     {
-     "title": "Shein遭美指控誤導消費者　傳將支付1億美元和解",
-     "summary": "美國聯邦貿易委員會（FTC）今天指控中國快時尚巨擘希音（Shein）在出貨時間、商品評論及部分產品棉花產地方面誤導消費者。一名FTC官員告訴路透社，Shein將支付1億美元和解。 綜合路透...…",
+     "title": "Colombian president blames ex-FARC rebels for car bomb blast",
+     "summary": "Colombian President De la Espriella blames the FARC for plotting a bombing that injured tens and pledges to retaliate.",
      "image": "",
-     "url": "https://ec.ltn.com.tw/article/breakingnews/5652305",
-     "source": "自由時報",
-     "published": "2026-11-24T19:36:03+00:00"
-    },
-    {
-     "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
-     "summary": "Republicans worry Nvidia CEO Jensen Huang's affairs with a suspected Chinese spy jeopardized U.S. national security.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-24T19:26:26+00:00"
-    },
-    {
-     "title": "Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants",
-     "summary": "Ukrainian attacks subsided after Trump's mid-October declaration of an energy ceasefire, but picked up again afterwards.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation?traffic_source=rss",
+     "url": "https://www.aljazeera.com/news/2026/11/24/colombian-president-blames-ex-farc-rebels-for-car-bomb-blast?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-24T19:22:44+00:00"
+     "published": "2026-11-24T21:45:42+00:00"
     },
     {
-     "title": "China Southern Airlines unit to buy 50 Boeing 737-8 planes",
-     "summary": "The agreement marks the US planemaker's first major order from China in almost a decade.",
+     "title": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial",
+     "summary": "Jurors acquit the company of the most serious charge it faced of engaging in a criminal racketeering conspiracy.",
      "image": "",
-     "url": "https://www.aljazeera.com/economy/2026/11/24/china-southern-airlines-unit-to-buy-50-boeing-737-8-planes?traffic_source=rss",
+     "url": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets?traffic_source=rss",
      "source": "Al Jazeera",
-     "published": "2026-11-24T19:19:50+00:00"
-    },
-    {
-     "title": "US House counsel denies backing controversial raid on Ilhan Omar’s home",
-     "summary": "Legal counsel challenges DOJ's assertion of House's involvement in controversial raid on Ilhan Omar's home.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/24/us-house-counsel-denies-backing-controversial-raid-on-ilhan-omars-home?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-24T19:15:25+00:00"
-    },
-    {
-     "title": "Life expectancy in Cuba falls for first time since 1950 amid economic crisis",
-     "summary": "WHO chief says life expectancy has fallen from 78.8 years in 2020 to 74.4 in 2025, figures that predate US fuel blockade Life expectancy has fallen for the first time in Cuba since 1950 as the island…",
-     "image": "https://i.guim.co.uk/img/media/3b11d19a0b33be33833eb4b1d5b03400462e0fcb/799_0_4001_3200/master/4001.jpg?width=140&quality=85&auto=format&fit=max&s=b2a835ed36b4131c0a7af3d9f5794987",
-     "url": "https://www.theguardian.com/world/2026/nov/24/cuba-life-expectancy-decline",
-     "source": "Guardian World",
-     "published": "2026-11-24T19:07:26+00:00"
-    },
-    {
-     "title": "日印軍事合作再升級！日本自衛隊明年首度赴印度試射長程反艦飛彈",
-     "summary": "印度決定允許日本自衛隊使用印度靶場進行飛彈實彈演訓，分析人士指出，隨著對中國的共同擔憂促使兩國深化國防關係，此舉凸顯日印軍事合作邁向全新高度。日本「橫須賀亞太研究理事會」（Y...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5652292",
-     "source": "自由時報",
-     "published": "2026-11-24T19:00:15+00:00"
+     "published": "2026-11-24T21:43:34+00:00"
     },
     {
      "title": "US attorney general dodges questions about Nvidia investigation",
@@ -98,39 +90,47 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-11-24T18:55:59+00:00"
+     "published": "2026-11-24T21:19:42+00:00"
     },
     {
-     "title": "Armed men take 25 hostages at supermarket in one of Colombia’s top tourist destinations",
-     "summary": "Police say group seized store in city of Cartagena and local media showed footage of snipers on nearby buildings A group of armed men with their faces covered seized a supermarket in the Colombian cit…",
+     "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
+     "summary": "Republicans worry Nvidia CEO Jensen Huang's affairs with a suspected Chinese spy jeopardized U.S. national security.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-24T21:13:39+00:00"
+    },
+    {
+     "title": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+     "summary": "Washington's $9 billion industry grows more than 70% of the nation's fresh apples. Farmers are being pressed by high costs, tariffs and a strong dollar that diminishes foreign purchasing power.",
+     "image": "https://feeds.npr.org/1001/undefined",
+     "url": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers",
+     "source": "NPR News",
+     "published": "2026-11-24T21:09:29+00:00"
+    },
+    {
+     "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
+     "summary": "Sanofi faces a revenue drop toward the end of the decade as top-selling drugs lose exclusivity and open up for generic drugmakers to compete.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-24T21:07:19+00:00"
+    },
+    {
+     "title": "Armed men hold hostages at supermarket in top Colombian tourist destination",
+     "summary": "President says 15 people released and Cartagena incident stems from botched robbery by ‘common criminals’ Armed and masked men have been holding people hostage in a supermarket since early Tuesday mor…",
      "image": "https://i.guim.co.uk/img/media/f8a8fb8355ddb1ecdb881d8269bc5511bc8d29a1/501_0_4354_3482/master/4354.jpg?width=140&quality=85&auto=format&fit=max&s=dda521c7fce25858e4b1ae7552a3546b",
      "url": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
      "source": "Guardian World",
-     "published": "2026-11-24T18:36:08+00:00"
+     "published": "2026-11-24T21:06:37+00:00"
     },
     {
-     "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-     "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e165/live/ec246c40-e825-11f1-93d4-6d580946ad80.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-24T18:07:46+00:00"
-    },
-    {
-     "title": "Anthropic sinks 8%, falling below $83 IPO price, but analysts are still largely positive",
-     "summary": "Anthropic has been sinking steadily since the stock opened at $111.50 on the Nasdaq on Nov. 19.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-24T17:30:26+00:00"
-    },
-    {
-     "title": "Stocks making the biggest moves midday: Dick's Sporting Goods, Analog Devices, Nvidia, Pinterest & more",
-     "summary": "Follow along as CNBC highlights the biggest stock moves of the day.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-24T17:24:42+00:00"
+     "title": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
+     "summary": "The attacks, if officials who spoke to NPR are correct, may be the latest example of Iranian cyberattacks against global critical infrastructure during the war with the U.S.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8653x5778+0+0/resize/8653x5778!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff0%2F69%2F254506e448c3a4c127d69855afd2%2Fgettyimages-2240325065.jpg",
+     "url": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran",
+     "source": "NPR News",
+     "published": "2026-11-24T21:04:50+00:00"
     }
    ]
   },
@@ -138,12 +138,52 @@
    "label": "AI",
    "items": [
     {
+     "title": "爭奪 GW 級電力配額！AI 大廠共址發電與全球重電供應鏈戰略重估",
+     "summary": "AI 賽局的競爭邊界已從單純的 GPU 晶片配額，轉向掌握「電網配額、發電端與輸電路徑」三位一體的 GW 級容 […]",
+     "image": "",
+     "url": "https://technews.tw/2026/11/25/ai-giants-gw-power-quotas-co-location-heavy-electrical-supply-chain-reassessment/",
+     "source": "科技新報 TechNews",
+     "published": "2026-11-24T23:00:27+00:00"
+    },
+    {
+     "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+     "summary": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/PIA26752-500x500.jpg",
+     "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+     "source": "Ars Technica",
+     "published": "2026-11-24T22:50:11+00:00"
+    },
+    {
+     "title": "黃仁勳復職首次員工大會，坦言是除了與妻子溝通外第二艱難會議",
+     "summary": "輝達（NVIDIA）執行長黃仁勳在董事會決議恢復其執行長職務後，於11月24日主持復職以來首次全體員工大會。面 […]",
+     "image": "",
+     "url": "https://finance.technews.tw/2026/11/25/jensen-huangs-first-all-hands-meeting-since-returning-to-his-role/",
+     "source": "科技新報 TechNews",
+     "published": "2026-11-24T22:45:17+00:00"
+    },
+    {
+     "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
+     "summary": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Microsoft_CDOC_featured-500x500.jpg",
+     "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+     "source": "Ars Technica",
+     "published": "2026-11-24T22:36:28+00:00"
+    },
+    {
      "title": "What's going on with the Riemann hypothesis?",
      "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-220180413-500x500.jpeg",
      "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
      "source": "Ars Technica",
      "published": "2026-11-24T20:34:53+00:00"
+    },
+    {
+     "title": "Ternary Bonsai 2.5 27B",
+     "summary": "Article URL: https://prismml.com/news/bonsai-2-5-27b Comments URL: https://news.ycombinator.com/item?id=50633922 Points: 223 # Comments: 71",
+     "image": "",
+     "url": "https://prismml.com/news/bonsai-2-5-27b",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-24T20:08:03+00:00"
     },
     {
      "title": "Back-to-back measles deaths is our new reality; US tally now at 14",
@@ -154,32 +194,16 @@
      "published": "2026-11-24T20:00:18+00:00"
     },
     {
-     "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
-     "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/prime-air-mk30-drone-package-loading-500x500.jpg",
-     "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
-     "source": "Ars Technica",
-     "published": "2026-11-24T18:47:57+00:00"
-    },
-    {
-     "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
-     "summary": "Amazon has hundreds of satellites in storage waiting for rides to space.",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/HSH9kiAbUAAzHdZ-500x500.jpg",
-     "url": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
-     "source": "Ars Technica",
-     "published": "2026-11-24T18:30:36+00:00"
-    },
-    {
-     "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-     "summary": "Basically the title. Anthropic is accusing me and my company of using their API for distillation. We are not. We do not train our own models. Our only usage which I think could get us flagged is autom…",
+     "title": "Microsoft declares 'Code Red' after historic outage, internal memos show",
+     "summary": "Article URL: https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/ Comments URL: https://news.ycombinator.com/item?id=50631157 Points: 199…",
      "image": "",
-     "url": "https://news.ycombinator.com/item?id=50630809",
+     "url": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/",
      "source": "Hacker News Front Page",
-     "published": "2026-11-24T16:45:44+00:00"
+     "published": "2026-11-24T17:07:41+00:00"
     },
     {
      "title": "Active intrusion campaign against Check Point security management servers",
-     "summary": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign Comments URL: https://news.ycombinator.com/item?id=50630594 Points: 211 # Comments: 74",
+     "summary": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign Comments URL: https://news.ycombinator.com/item?id=50630594 Points: 239 # Comments: 98",
      "image": "",
      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
      "source": "Hacker News Front Page",
@@ -187,7 +211,7 @@
     },
     {
      "title": "Jetty Pro",
-     "summary": "Article URL: http://hypercritical.co/2026/11/23/jetty-pro Comments URL: https://news.ycombinator.com/item?id=50630462 Points: 195 # Comments: 78",
+     "summary": "Article URL: http://hypercritical.co/2026/11/23/jetty-pro Comments URL: https://news.ycombinator.com/item?id=50630462 Points: 237 # Comments: 103",
      "image": "",
      "url": "http://hypercritical.co/2026/11/23/jetty-pro",
      "source": "Hacker News Front Page",
@@ -200,14 +224,6 @@
      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
      "source": "MIT Tech Review AI",
      "published": "2026-11-24T15:15:16+00:00"
-    },
-    {
-     "title": "Anthropic breaks below $83 IPO price",
-     "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading Comments URL: https://news.ycombinator.com/item?id=50627836 Points: 216 # Comme…",
-     "image": "",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-24T13:23:47+00:00"
     },
     {
      "title": "川普受訪讚魏哲家是傑出人才，稱台積電將在德州建廠",
@@ -224,22 +240,6 @@
      "url": "https://technews.tw/2026/11/24/north-korea-unveils-first-self-developed-ai/",
      "source": "科技新報 TechNews",
      "published": "2026-11-24T10:00:53+00:00"
-    },
-    {
-     "title": "珠海航空展將首次設置海上展區，多種新機型也將同場亮相",
-     "summary": "第 16 屆珠海航展將於 12 月 7 日至 13 日舉行，中國海軍 23 日公布參展陣容，殲-35 匿蹤艦載 […]",
-     "image": "",
-     "url": "https://technews.tw/2026/11/24/2026-zhuhai-air-show-will-have-surface-exhibition-area-for-the-first-time/",
-     "source": "科技新報 TechNews",
-     "published": "2026-11-24T09:51:51+00:00"
-    },
-    {
-     "title": "馬來西亞防規避出口管制，籲資料中心勿服務美國列名企業",
-     "summary": "馬來西亞投資、貿易及工業部（MITI）今天發布聲明表示，馬來西亞投資發展局（MIDA）將通知資料中心營運業者， […]",
-     "image": "",
-     "url": "https://technews.tw/2026/11/24/malaysia-prevents-export-control-evasion-data-centers-us-entities/",
-     "source": "科技新報 TechNews",
-     "published": "2026-11-24T09:50:49+00:00"
     },
     {
      "title": "SAMA: Training-Free Consensus Ridge Tracking for Camera-Based Heart Rate on Five Public Datasets",
@@ -271,60 +271,76 @@
    "label": "運動",
    "items": [
     {
-     "title": "Warriors rookie’s meteoric rise comes with glaring defensive concern",
-     "summary": "The Warriors have turned to rookie Yaxel Lendeborg while Steph Curry is sidelined. The 24-year-old quickly put together a dominant stretch of games with Curry on the floor, but without...",
-     "image": "https://media.zenfs.com/en/ny_post_sports_articles_389/f3f22b2d92a9415bebfbcac21d4a4595.jpg",
-     "url": "https://sports.yahoo.com/articles/warriors-rookie-meteoric-rise-comes-203323049.html",
+     "title": "Joel Embiid listed as doubtful for 76ers' NBA Cup matchup vs. Miami Heat on Wednesday due to illness",
+     "summary": "Embiid will miss his second consecutive game due to illness, and will have sat out five of the 76ers' 18 games thus far into the season.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/article/joel-embiid-listed-as-doubtful-for-76ers-nba-cup-matchup-vs-miami-heat-on-wednesday-due-to-illness-225037585.html",
      "source": "Yahoo Sports NBA",
-     "published": "2026-11-24T20:33:23+00:00"
+     "published": "2026-11-24T22:50:37+00:00"
     },
     {
-     "title": "Arsenal v Borussia Dortmund: Champions League – live",
-     "summary": "⚽️ Minute-by-minute updates from the 8pm GMT kick-off ⚽️ Nwaneri risks becoming forgotten teenager at Dortmund ⚽ Live scores | League phase standings | Email Scott 2 min: Tzolis goes racing down the l…",
-     "image": "https://i.guim.co.uk/img/media/91f5cec16d546855ca65e541d47530012ccbcd72/166_497_2574_2060/master/2574.jpg?width=140&quality=85&auto=format&fit=max&s=c30c6d5bb41f27f6ab88cbc1fe0c8d69",
-     "url": "https://www.theguardian.com/football/live/2026/nov/24/arsenal-v-borussia-dortmund-champions-league-live",
+     "title": "Pochettino leads Man Utd fury at Yoro red card ruling",
+     "summary": "Manchester United and Mauricio Pochettino are furious at how Leny Yoro's red card has been handled by VAR John Brooks and referees' chief Howard Webb",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5078/live/783a6be0-e848-11f1-a094-5fdc692f3e33.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cqzr5ylmeerlo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-24T22:05:31+00:00"
+    },
+    {
+     "title": "Dortmund’s Beier halts Arsenal charge after thunderbolt from Gyökeres",
+     "summary": "Arsenal’s sky-high standards are slipping. For the second time in four days, Mikel Arteta’s side found themselves a goal up at half-time and apparently cruising towards victory, only for their opponen…",
+     "image": "https://i.guim.co.uk/img/media/18f2fd21c98696c091fd67acabf0c30cdac59595/258_0_2325_1860/master/2325.jpg?width=140&quality=85&auto=format&fit=max&s=bb169b7e85159c963b43df5aa6caf30e",
+     "url": "https://www.theguardian.com/football/2026/nov/24/arsenal-borussia-dortmund-champions-league-match-report",
      "source": "Guardian Sport",
-     "published": "2026-11-24T20:30:19+00:00"
+     "published": "2026-11-24T22:01:50+00:00"
+    },
+    {
+     "title": "Lakers become latest franchise to land partnership with prediction market behemoth",
+     "summary": "The Lakers announced a new partnership with Kalshi on Tuesday, which will serve as the team’s official prediction market sponsor. The NBA announced partnerships with Kalshi and Polymarket last month..…",
+     "image": "https://media.zenfs.com/en/ny_post_sports_articles_389/f859411e9919865dc8d629969d61d1de.jpg",
+     "url": "https://sports.yahoo.com/sports-business/articles/lakers-become-latest-franchise-land-215927931.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-24T21:59:27+00:00"
+    },
+    {
+     "title": "Lakers rookie flexes his gains after coaches challenge: ‘I’ve been lifting’",
+     "summary": "Cameron Carr, the Lakers' first-round draft pick, has made progress in a key area.",
+     "image": "https://media.zenfs.com/en/ny_post_sports_articles_389/b01fc7333b2be036d93e673b3a39ab9d.jpg",
+     "url": "https://sports.yahoo.com/nba/articles/lakers-rookie-flexes-gains-coaches-211121739.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-24T21:11:21+00:00"
+    },
+    {
+     "title": "What are the Denver Nuggets? + Minnesota Lynx & Washington Mystics offseason outlook",
+     "summary": "Nekias & Steve deep dive into the Denver Nuggets and preview the offseason options for the Minnesota Lynx & Washington Mystics.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/article/what-are-the-denver-nuggets--minnesota-lynx--washington-mystics-offseason-outlook-204602563.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-24T20:46:02+00:00"
+    },
+    {
+     "title": "Today's top games to watch, best bets, odds: Mavericks vs. Nuggets, Louisville vs. Texas Tech and more",
+     "summary": "Find best bets and props for the biggest games in sports on Tuesday from the SportsLine Projection Model and top CBS Sports experts",
+     "image": "https://sportshub.cbsistatic.com/i/2026/01/05/b861837b-5f39-4a67-963a-2188e4122893/jamal-murray-denver-nuggets-imagn-images.jpg",
+     "url": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-mavericks-vs-nuggets-louisville-vs-texas-tech-and-more/",
+     "source": "CBS Sports NBA",
+     "published": "2026-11-24T20:30:32+00:00"
     },
     {
      "title": "‘I botched it’: Singer apologizes for O Canada errors before Maple Leafs-Islanders game",
      "summary": "Sarrah Strimel Bentley made mess of anthem in New York ‘I’m really sorry,’ said Bentley following online criticism Given the somewhat tense nature of relations between the United States and Canada rig…",
-     "image": "https://i.guim.co.uk/img/media/e5d5bf67225d3037e8b30620eaa1d591bf8f8c0b/506_0_4670_3737/master/4670.jpg?width=140&quality=85&auto=format&fit=max&s=89b8a39451b880a8eff0357c6d900bd3",
+     "image": "https://i.guim.co.uk/img/media/8a68e37e00657046370592a5b9cd46c772e2ca3a/298_38_2452_1962/master/2452.jpg?width=140&quality=85&auto=format&fit=max&s=a41e3f98a7362ac545b547a0b201d880",
      "url": "https://www.theguardian.com/sport/2026/nov/24/i-botched-it-singer-apologizes-for-o-canada-lyrics-before-maple-leafs-islanders-game",
      "source": "Guardian Sport",
      "published": "2026-11-24T20:17:40+00:00"
     },
     {
      "title": "Gukesh escapes time crisis to draw world chess championship opener with Sindarov",
-     "summary": "Opening game ends in draw by repetition Defending champion plays white in Game 2 Read our move-by-move report of Game 1 Indian chess star Gukesh Dommaraju held off Javokhir Sindarov amid a mounting ti…",
+     "summary": "Opening game ends in draw by repetition Defending champion plays white in Game 2 Read our move-by-move report of Game 1 Sindarov: ‘I can’t play games just for fun’ Indian chess star Gukesh Dommaraju h…",
      "image": "https://i.guim.co.uk/img/media/29b0c6527ab51d66db6ae09e2eb01097e7a6bb6c/418_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=ab31567df8235aeb16686e9914b8d88b",
      "url": "https://www.theguardian.com/sport/2026/nov/24/gukesh-sindarov-world-chess-championship-2026-game-1-draw",
      "source": "Guardian Sport",
      "published": "2026-11-24T20:04:00+00:00"
-    },
-    {
-     "title": "Fantasy Basketball Week 5 takeaways: Wemby's historic dominance, key injuries and more from all 30 teams",
-     "summary": "Dan Titus quickly checks in on all 30 NBA teams for fantasy basketball after Week 5.",
-     "image": "",
-     "url": "https://sports.yahoo.com/fantasy/article/fantasy-basketball-week-5-takeaways-wembys-historic-dominance-key-injuries-and-more-from-all-30-teams-194329544.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-24T19:43:29+00:00"
-    },
-    {
-     "title": "Steve Kerr, Erik Spoelstra top list of highest paid NBA coaches",
-     "summary": "It was Steve Kerr's contract that drove up the salaries of top coaches around the league. They thank him for that.",
-     "image": "",
-     "url": "https://sports.yahoo.com/articles/steve-kerr-erik-spoelstra-top-192541000.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-24T19:25:41+00:00"
-    },
-    {
-     "title": "Dynasty Basketball Stock Watch: Cedric Coward continues to level up",
-     "summary": "Tracking the biggest risers, fallers, and emerging prospects in dynasty fantasy basketball leagues.",
-     "image": "https://media.zenfs.com/en/nbcsports.com/6e55f5fc27f5d1751d818d11fe23918d.jpg",
-     "url": "https://sports.yahoo.com/articles/dynasty-basketball-stock-watch-cedric-185016882.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-24T18:50:16+00:00"
     },
     {
      "title": "'I miss being on court' - Sinner has 'minor surgery' on knee",
@@ -341,14 +357,6 @@
      "url": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-11-24T17:16:09+00:00"
-    },
-    {
-     "title": "Yoro red card overturned, but refs' chief Webb backs decision",
-     "summary": "Manchester United defender Leny Yoro is clear to face Brentford on Saturday as his red card at Anfield is overturned.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8849/live/f41d1460-e820-11f1-a58d-43263bea41a8.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/ck868g93djl5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-24T17:00:32+00:00"
     },
     {
      "title": "2026 NBA betting promos: Get almost $4,000 in bonuses from top online betting apps, sportsbooks for Nov. 24",
@@ -389,14 +397,6 @@
      "url": "https://www.cbssports.com/nba/news/nba-trade-rumors-lakers-jazz-kyrie-irving-nov-23/",
      "source": "CBS Sports NBA",
      "published": "2026-11-23T23:16:57+00:00"
-    },
-    {
-     "title": "Today's top games to watch, best bets, odds: Bengals vs. Commanders on MNF, Grizzlies vs. Hornets and more",
-     "summary": "Find best bets and props for the biggest games in sports on Monday from the SportsLine Projection Model and top CBS Sports experts",
-     "image": "https://sportshub.cbsistatic.com/i/2026/11/15/28cae4e6-1c36-4683-8f8a-88fcb8713ce3/joe-burrow-bengals.jpg",
-     "url": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-bengals-vs-commanders-on-mnf-grizzlies-vs-hornets-and-more/",
-     "source": "CBS Sports NBA",
-     "published": "2026-11-23T20:30:48+00:00"
     }
    ]
   }
