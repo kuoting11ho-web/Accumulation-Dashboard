@@ -1,16 +1,128 @@
 {
- "generated": "2026-11-25T19:58:28.985365+00:00",
+ "generated": "2026-11-25T22:37:07.963618+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
+     "title": "健康網》心血管病友該少碳水？醫：吃進什麼更重要",
+     "summary": "〔健康頻道／綜合報導〕內分泌新陳代謝專科醫師蔡明劼在臉書粉專「蔡明劼醫師 健康。瘦身」表示，很多人一聽到糖尿病、心血管疾病，就直覺認為應該少吃澱粉、少吃碳水化合物。 但其實，碳水化合物並不是...…",
+     "image": "",
+     "url": "https://health.ltn.com.tw/article/breakingnews/5652985",
+     "source": "自由時報",
+     "published": "2026-11-25T22:32:00+00:00"
+    },
+    {
+     "title": "美301調查對台稅率最高15％ 政院8點半將召開記者會說明",
+     "summary": "首次上稿 11-26 01:39更新時間 11-26 06:28 美國產能過剩301調查結果出爐，台灣建議稅率為最高15%且不疊加，行政院副院長鄭麗君今（26）日8點半將召開...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5653596",
+     "source": "自由時報",
+     "published": "2026-11-25T22:28:20+00:00"
+    },
+    {
+     "title": "沈伯洋取消選前之夜 蔣競辦：願出讓市府路給沈、開票之夜改線上",
+     "summary": "民進黨台北市長候選人沈伯洋昨深夜緊急宣布，停辦選前市民之夜，並透露多處都被借走或不給借，引發網友灌爆台北市長蔣萬安臉書。今凌晨蔣萬競總總幹事羅智強發出聲明，稱原本競選團隊已申請2...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5653623",
+     "source": "自由時報",
+     "published": "2026-11-25T22:27:56+00:00"
+    },
+    {
+     "title": "直擊！沈伯洋造勢舞台連夜拆 小水滴徹夜守候記錄",
+     "summary": "首次上稿 11-26 01:27更新時間 11-26 06:27 民進黨台北市長候選人沈伯洋預訂週五辦選前市民之夜，昨（25）日起在仁愛路、逸仙路搭建舞台並進行交通管制，不過...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5653592",
+     "source": "自由時報",
+     "published": "2026-11-25T22:27:49+00:00"
+    },
+    {
+     "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+     "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d4b/live/5e57daf0-e91f-11f1-9108-c5b270b0703d.jpg",
+     "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-25T22:18:06+00:00"
+    },
+    {
+     "title": "Man United denied at Sporting as referee overshadows Fernandes double",
+     "summary": "Bruno Fernandes nets twice in Lisbon, but referee's decisions in spotlight as Mauricio Pochettino denied first win.",
+     "image": "",
+     "url": "https://www.aljazeera.com/sports/2026/11/25/man-united-denied-at-sporting-as-referee-overshadows-fernandes-double?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-25T22:15:59+00:00"
+    },
+    {
+     "title": "At least 30 killed as fuel tanker crash ignites large fire on Cairo highway",
+     "summary": "Blaze on ring road surrounding Egyptian capital injures at least 25 people and leaves cars and motorcycles charred A crash involving a fuel tanker ignited a huge fire on a highway surrounding Cairo on…",
+     "image": "https://i.guim.co.uk/img/media/576508d2f3839080569ae3ac7d4e4242a5f3bf87/574_0_2125_1700/master/2125.jpg?width=140&quality=85&auto=format&fit=max&s=f397d5fa51a6b7720f3060689089ba92",
+     "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+     "source": "Guardian World",
+     "published": "2026-11-25T22:10:12+00:00"
+    },
+    {
+     "title": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
+     "summary": "Alan Greenspan famously held the line on interest rates because he believed in the productivity promise of the internet boom. Why can't Kevin Warsh do the same?",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-25T21:56:43+00:00"
+    },
+    {
+     "title": "Dow closes higher Wednesday, wiping out 1,100-point loss in stunning rebound: Live updates",
      "summary": "Wall Street is coming off a losing session for the S&P 500 and Nasdaq Composite.",
      "image": "",
      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
      "source": "CNBC Top News",
-     "published": "2026-11-25T19:54:33+00:00"
+     "published": "2026-11-25T21:17:25+00:00"
+    },
+    {
+     "title": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
+     "summary": "About 200,000 tents need replacing, Gaza’s municipalities say, as the EU urges Israel to reopen all crossings.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-25T21:03:51+00:00"
+    },
+    {
+     "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
+     "summary": "The bakers behind these pop-up pastry drops aren't raking in the profits, but they are building a space for people to come together in polarized times.",
+     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3826x2551+0+0/resize/3826x2551!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fce%2F80%2F555a7e1743589aea5059c3896b95%2F20260906-freebakerynorthloop-06.jpg",
+     "url": "https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection",
+     "source": "NPR News",
+     "published": "2026-11-25T21:02:58+00:00"
+    },
+    {
+     "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
+     "summary": "Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-25T21:00:08+00:00"
+    },
+    {
+     "title": "US Education Department probes Virginia schools after sexual abuse scandal",
+     "summary": "Virginia schools face scrutiny after revelations of abuse and widespread failures in mandatory staff background checks.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/11/25/us-education-department-probes-virginia-schools-after-sexual-abuse-scandal?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-25T20:52:32+00:00"
+    },
+    {
+     "title": "Baby Aliyah steals the show during Australian Senate debate",
+     "summary": "Australian Senator Fatima Payman addressed the Senate with her six-month-old daughter, Aliyah, in her arms",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/baby-aliyah-steals-the-show-during-australian-senate-debate?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-25T20:42:41+00:00"
+    },
+    {
+     "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+     "summary": "SpaceX won approval from the FCC to put 1 million orbital data center satellites into space, a proposal that was opposed by Amazon and other groups.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-25T19:52:47+00:00"
     },
     {
      "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
@@ -19,124 +131,28 @@
      "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
      "published": "2026-11-25T19:47:39+00:00"
-    },
-    {
-     "title": "Bellingham’s wondergoal sparks Zidane comparisons",
-     "summary": "Jude Bellingham’s spectacular goal in Real Madrid’s 5-1 thrashing of PSV has prompted comparisons with club legend.",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bellinghams-wondergoal-sparks-zidane-comparisons?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-25T19:27:56+00:00"
-    },
-    {
-     "title": "UK food inflation could hit 5% next year, Bank of England says",
-     "summary": "Sharp rise expected as cost pressures mount, with experts factoring in energy price cap hike and potential impact of El Niño Food price inflation in the UK could hit 5% next year, the Bank of England…",
-     "image": "https://i.guim.co.uk/img/media/6dc206e833865c9dd5429c7d1b0d08abb0b3bfde/79_0_3491_2793/master/3491.jpg?width=140&quality=85&auto=format&fit=max&s=d5c47df5247e5d854261cf1b7851501b",
-     "url": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
-     "source": "Guardian Business",
-     "published": "2026-11-25T19:25:57+00:00"
-    },
-    {
-     "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
-     "summary": "Nvidia and other AI-linked stocks fell as investors weighed AI spending, inflation and higher-rate risks.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-25T19:19:05+00:00"
-    },
-    {
-     "title": "Ukrainian laser downs Russian jet-powered drone in world first",
-     "summary": "Ukraine says that its Blysk laser system has intercepted a Russian jet-powered drone in combat for the first time",
-     "image": "",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-25T19:16:15+00:00"
-    },
-    {
-     "title": "Could renewed strikes on Hodeidah port worsen Yemen’s humanitarian crisis?",
-     "summary": "Disruptions at Yemen's largest seaport could exacerbate hardships for millions of Yemenis, aid experts warn.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/25/could-renewed-strikes-on-hodeidah-port-worsen-yemens-humanitarian-crisis?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-25T19:15:52+00:00"
-    },
-    {
-     "title": "UK military ‘moving aircraft to hangars in case of drone attacks’",
-     "summary": "Experts say the move is a 'logical response' if there is intelligence suggesting a likely drone threat.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/25/uk-military-moving-aircraft-to-hangars-in-case-of-drone-attacks?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-25T19:15:01+00:00"
-    },
-    {
-     "title": "《TAIPEI TIMES》 US report warns of Chinese AI persona tactics targeting Taiwan elections",
-     "summary": "TARGETING ELECTIONS: The ‘New York Times’ said the activity is different from past Chinese disinform...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5653522",
-     "source": "自由時報",
-     "published": "2026-11-25T19:00:00+00:00"
-    },
-    {
-     "title": "《TAIPEI TIMES》 Officer becomes one of five female major generals",
-     "summary": "/ Staff writer, with CNA Army officer Huang Mei-hui （黃美慧） was promoted to major general yesterday...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5653525",
-     "source": "自由時報",
-     "published": "2026-11-25T19:00:00+00:00"
-    },
-    {
-     "title": "《TAIPEI TIMES》 Ministry hails green iguana removal program",
-     "summary": "By Jonathan Chin / Staff writer, with CNA Nearly 500,000 green iguanas have been removed from Tai...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5653524",
-     "source": "自由時報",
-     "published": "2026-11-25T19:00:00+00:00"
-    },
-    {
-     "title": "《TAIPEI TIMES》 Educator parental leaves expanded",
-     "summary": "By Kayleigh Madjar / Staff writer, with CNA Educators would be eligible to apply for unpaid paren...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5653529",
-     "source": "自由時報",
-     "published": "2026-11-25T19:00:00+00:00"
-    },
-    {
-     "title": "Poundland collapses, putting more than 10,000 jobs at risk",
-     "summary": "Budget retail chain expected to be broken up, with store closures, after US owner rejected at least two last-ditch bids Do you work for Poundland? Tell us how you’re affected Poundland has collapsed i…",
-     "image": "https://i.guim.co.uk/img/media/16edaa98dc3beaf524550e0893db04ce2ca3ac5b/2156_1095_3431_2745/master/3431.jpg?width=140&quality=85&auto=format&fit=max&s=fe7964b6da6859cdf695dd4361c10510",
-     "url": "https://www.theguardian.com/business/2026/nov/25/poundland-administration-jobs-at-risk-gordon-brothers",
-     "source": "Guardian Business",
-     "published": "2026-11-25T18:50:54+00:00"
-    },
-    {
-     "title": "All hostages rescued after Colombian security forces storm supermarket",
-     "summary": "Operation in which one hostage-taker was killed ends daylong siege in Cartagena shopping centre, where 30 people were initially held Colombian police have stormed a supermarket in one of the country’s…",
-     "image": "https://i.guim.co.uk/img/media/a3585592d60a650e6033ad7e718f5e89458d216d/440_75_2600_2080/master/2600.jpg?width=140&quality=85&auto=format&fit=max&s=33ea692d3cf725ee634c71826c01d100",
-     "url": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
-     "source": "Guardian World",
-     "published": "2026-11-25T18:20:20+00:00"
-    },
-    {
-     "title": "US stocks fall further as fears over AI intensify",
-     "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f2e/live/6940e8e0-e8f1-11f1-99a1-253766e7ad8b.jpg",
-     "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-25T17:48:09+00:00"
-    },
-    {
-     "title": "Group of Senate Democrats push to add freshman to leadership",
-     "summary": "Several Democratic senators have been signaling this move, saying the party needs to acknowledge the diverse class of incoming freshman that catapulted the party to victory in November.",
-     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5890x3927+0+0/resize/5890x3927!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F43%2F3b%2F29bab78c4dbabe5ff0b0354fe457%2Fgettyimages-2184408117.jpg",
-     "url": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen",
-     "source": "NPR News",
-     "published": "2026-11-25T17:30:47+00:00"
     }
    ]
   },
   "ai": {
    "label": "AI",
    "items": [
+    {
+     "title": "Google search alternative Kagi launches Gmail rival",
+     "summary": "The pitch is an unusual combination of privacy promises and AI features.",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/kagi-mail-announcement-500x500.jpg",
+     "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+     "source": "Ars Technica",
+     "published": "2026-11-25T20:57:09+00:00"
+    },
+    {
+     "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+     "summary": "See also The matrix multiplication exponent is nine fourths [pdf] - https://news.ycombinator.com/item?id=50637220 Comments URL: https://news.ycombinator.com/item?id=50646108 Points: 674 # Comments: 49…",
+     "image": "",
+     "url": "https://scottaaronson.blog/?p=10379",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-25T19:11:27+00:00"
+    },
     {
      "title": "Backblaze explains why it's sharing customer information with advertisers",
      "summary": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
@@ -163,31 +179,15 @@
     },
     {
      "title": "1Password Security Incident",
-     "summary": "Article URL: https://1password.com/blog/update-on-nov-2026-security-incident Comments URL: https://news.ycombinator.com/item?id=50644817 Points: 528 # Comments: 226",
+     "summary": "Article URL: https://1password.com/blog/update-on-nov-2026-security-incident Comments URL: https://news.ycombinator.com/item?id=50644817 Points: 898 # Comments: 384",
      "image": "",
      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
      "source": "Hacker News Front Page",
      "published": "2026-11-25T17:18:26+00:00"
     },
     {
-     "title": "Etsy clarifies AI terms after seller backlash",
-     "summary": "One veteran illustrator dismisses revisions as \"sugar coating.\"",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2289651678-500x500.jpg",
-     "url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
-     "source": "Ars Technica",
-     "published": "2026-11-25T17:12:57+00:00"
-    },
-    {
-     "title": "Investigating degraded experiences across GitHub products",
-     "summary": "Article URL: https://www.githubstatus.com/incidents/qn8mfv6q5hlx Comments URL: https://news.ycombinator.com/item?id=50643720 Points: 161 # Comments: 86",
-     "image": "",
-     "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-25T15:59:23+00:00"
-    },
-    {
      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-     "summary": "Article URL: https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts Comments URL: https://news.ycombinator.com/item?id=50643129 Points: 339 # Comments: 86",
+     "summary": "Article URL: https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts Comments URL: https://news.ycombinator.com/item?id=50643129 Points: 399 # Comments: 98",
      "image": "",
      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
      "source": "Hacker News Front Page",
@@ -195,7 +195,7 @@
     },
     {
      "title": "Rumors swirling that labs might have cracked Factoring in P",
-     "summary": "Article URL: https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/ Comments URL: https://news.ycombinator.com/item?id=50643065 Points: 336 # Comments: 22…",
+     "summary": "Article URL: https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/ Comments URL: https://news.ycombinator.com/item?id=50643065 Points: 433 # Comments: 30…",
      "image": "",
      "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
      "source": "Hacker News Front Page",
@@ -271,36 +271,108 @@
    "label": "運動",
    "items": [
     {
+     "title": "Austin Reaves talks for first time ahead of Spurs clash: ‘Felt like I broke my foot’",
+     "summary": "Austin Reaves, who has missed the last five games because of a bruised left heel, was a full participant in Lakers practice on Wednesday but his status remains unknown for...",
+     "image": "https://media.zenfs.com/en/ny_post_sports_articles_389/d35cd554be8fdd721ed9a32aa17f64ee.jpg",
+     "url": "https://sports.yahoo.com/nba/articles/austin-reaves-talks-first-time-222557101.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-25T22:25:57+00:00"
+    },
+    {
+     "title": "Isak scores twice as clinical Liverpool beat Brugge",
+     "summary": "Liverpool defeat Club Brugge in a clinical performance thanks to goals from Alexander Isak and Florian Wirtz, bouncing back after a defeat in their last Champions League match.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7011/live/1961c530-e91c-11f1-99b6-a35a62fa4264.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/videos/cqvg28l0z8mro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-25T22:12:19+00:00"
+    },
+    {
+     "title": "NBA announces $11 billion investment plan to develop, modernize arenas for NBA Europe",
+     "summary": "A key part of the financial plan for NBA Europe is to modernize — read: Americanize — basketball arenas on the continent.",
+     "image": "",
+     "url": "https://sports.yahoo.com/sports-business/articles/nba-announces-11-billion-investment-220935288.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-25T22:09:35+00:00"
+    },
+    {
+     "title": "Gordon stars in comfortable Barca win over Sabah",
+     "summary": "Anthony Gordon scores Barcelona's opening two goals as they ease past Sabah with a 4-1 win in the Champions League.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebd6/live/0a4713c0-e903-11f1-a094-5fdc692f3e33.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/videos/c6z74ljxjv2xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-25T22:07:02+00:00"
+    },
+    {
+     "title": "Lammens howler costs Manchester United victory in frantic finale at Sporting",
+     "summary": "“We are a strong team,” Mauricio Pochettino exhorted, then saw Manchester United’s unerring ability to cause drama each and every time they lace their boots up. Cruising, it seemed, at 2-1 and with 10…",
+     "image": "https://i.guim.co.uk/img/media/eb512e59989ac0286132296b5b400dccf7e67206/198_0_2822_2258/master/2822.jpg?width=140&quality=85&auto=format&fit=max&s=3ab64215c3742294f3de7a1475d978a7",
+     "url": "https://www.theguardian.com/football/2026/nov/25/sporting-lisbon-manchester-united-champions-league-match-report",
+     "source": "Guardian Sport",
+     "published": "2026-11-25T22:05:49+00:00"
+    },
+    {
+     "title": "Isak and Wirtz on target as resurgent Liverpool sweep aside Club Brugge",
+     "summary": "Liverpool brought Club Brugge’s impressive run in the Champions League to an abrupt halt on a bitterly cold night in Belgium with an exhibition of outstanding finishing and composed defending. Alexand…",
+     "image": "https://i.guim.co.uk/img/media/217f37b87ab0b8f2137224791cf4ae48697dcf9d/131_0_3251_2601/master/3251.jpg?width=140&quality=85&auto=format&fit=max&s=88683324012f2215918ddb2cfc727ced",
+     "url": "https://www.theguardian.com/football/2026/nov/25/club-brugge-liverpool-champions-league-match-report",
+     "source": "Guardian Sport",
+     "published": "2026-11-25T22:04:10+00:00"
+    },
+    {
+     "title": "Austin Reaves returns to Lakers practice, might play Friday at San Antonio",
+     "summary": "The team's second-leading scorer is a full participant Wednesday during practice after missing two weeks because of a bruised left heel.",
+     "image": "https://media.zenfs.com/en/la_times_articles_853/769ef3015d3c1ab21f757f647a18e139.jpg",
+     "url": "https://sports.yahoo.com/nba/articles/austin-reaves-returns-lakers-practice-215314512.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-25T21:53:14+00:00"
+    },
+    {
+     "title": "Lakers’ red-hot start to season will strike fear in Celtics fans hearts",
+     "summary": "Historically, the Lakers' hot start to the season suggests an NBA title is on the way.",
+     "image": "https://media.zenfs.com/en/ny_post_sports_articles_389/305c70b623614b5c2e0d8c30d42c05de.jpg",
+     "url": "https://sports.yahoo.com/nba/articles/lakers-red-hot-start-season-214430798.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-25T21:44:30+00:00"
+    },
+    {
+     "title": "Regulator chief 'has stomach' to face Man City",
+     "summary": "The chair of English football's independent regulator tells MPs he \"has the stomach\" to take potential action against Manchester City.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/894b/live/46715940-e913-11f1-8383-53f283141713.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c65y10z8k59jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-25T21:27:35+00:00"
+    },
+    {
+     "title": "Dubois to defend title against Parker in Manchester",
+     "summary": "WBO heavyweight world champion Daniel Dubois will make the second defence of his title against former WBO champion Joseph Parker next year at Co-op Live in Manchester on 30 January.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3185/live/c0984500-e90c-11f1-b9b5-17bef7133655.jpg",
+     "url": "https://www.bbc.co.uk/sport/boxing/articles/cmde1zjykky6o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-25T20:37:40+00:00"
+    },
+    {
+     "title": "NBA Power Rankings: Knicks making their move as Karl-Anthony Towns has taken center stage",
+     "summary": "Elsewhere, the Spurs reclaim the top spot, the Celtics plummet and the Blazers are for real",
+     "image": "https://sportshub.cbsistatic.com/i/2026/11/25/033b186d-490d-471b-adaa-407f85ca1d41/nbapowerrankings1125.png",
+     "url": "https://www.cbssports.com/nba/news/nba-power-rankings-knicks-karl-anthony-towns/",
+     "source": "CBS Sports NBA",
+     "published": "2026-11-25T20:26:50+00:00"
+    },
+    {
+     "title": "Steelers release Aaron Rodgers after he accuses Mike McCarthy of sleeping during meetings",
+     "summary": "Quarterback was benched by team this week Rodgers had said he would retire after season The Pittsburgh Steelers released Aaron Rodgers on Wednesday, hours after the four-time NFL MVP accused head coac…",
+     "image": "https://i.guim.co.uk/img/media/bdca972e4452ca4c389beebf5abc9d5a9591bafd/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=0bc05a083342eb4b9cd111512804c96c",
+     "url": "https://www.theguardian.com/sport/2026/nov/25/aaron-rodgers-steelers-mike-mccarthy-nfl",
+     "source": "Guardian Sport",
+     "published": "2026-11-25T20:21:30+00:00"
+    },
+    {
      "title": "Today's top games to watch, best bets, odds: Packers vs. Rams, Clippers vs. Grizzlies and more",
      "summary": "Find best bets and props for the biggest games in sports on Wednesday from the SportsLine Projection Model and top CBS Sports experts",
      "image": "https://sportshub.cbsistatic.com/i/2026/11/25/3e1d2a08-7720-4f39-9429-1bc6a8479cdf/matthew-stafford.jpg",
      "url": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-packers-vs-rams-clippers-vs-grizzlies-and-more/",
      "source": "CBS Sports NBA",
      "published": "2026-11-25T19:50:13+00:00"
-    },
-    {
-     "title": "Club Brugge v Liverpool, Lille v Bayern Munich and more: Champions League clockwatch – live",
-     "summary": "⚽️ Updates from Wednesday’s 8pm GMT matches ⚽️ Live scoreboard | Read Football Daily | Email Simon And it’s equally over in Prague, where Slavia had twice as many shots as Villarreal, had 40 touches i…",
-     "image": "https://i.guim.co.uk/img/media/cf2bc50d92a78b2dc246219c4e5aab9a11fcec62/435_0_3021_2418/master/3021.jpg?width=140&quality=85&auto=format&fit=max&s=edc80362f0a7d57e187f0788b5bf66f7",
-     "url": "https://www.theguardian.com/football/live/2026/nov/25/club-brugge-v-liverpool-lille-v-bayern-munich-and-more-champions-league-clockwatch-live",
-     "source": "Guardian Sport",
-     "published": "2026-11-25T19:49:11+00:00"
-    },
-    {
-     "title": "Sporting v Manchester United: Champions League – live",
-     "summary": "⚽️ Match at Estádio José Alvalade kicks off at 8pm GMT ⚽️ Live scoreboard | Read Football Daily | Email Rob In which Poch gets the Squires treatment “Trying to calm my nerves enough to come out from b…",
-     "image": "https://i.guim.co.uk/img/media/addfc8815213bab67e2e170dfeacc677d99524e7/379_0_4466_3573/master/4466.jpg?width=140&quality=85&auto=format&fit=max&s=2ae6395b832f4d354163eabadaeb0285",
-     "url": "https://www.theguardian.com/football/live/2026/nov/25/sporting-v-manchester-united-champions-league-live",
-     "source": "Guardian Sport",
-     "published": "2026-11-25T19:46:23+00:00"
-    },
-    {
-     "title": "Aaron Rodgers blasts Steelers after benching and says McCarthy fell asleep in team meeting",
-     "summary": "Quarterback says he will not return to team Move appears to be end of quarterback’s career Aaron Rodgers launched an extraordinary attack on his own coach on Wednesday after the Pittsburgh Steelers be…",
-     "image": "https://i.guim.co.uk/img/media/7e9b890961f3c3e88cc58a34692d927a374739c5/429_0_4271_3419/master/4271.jpg?width=140&quality=85&auto=format&fit=max&s=203ad63f04af77614716a660f874b6c7",
-     "url": "https://www.theguardian.com/sport/2026/nov/25/aaron-rodgers-steelers-mike-mccarthy-nfl",
-     "source": "Guardian Sport",
-     "published": "2026-11-25T19:37:05+00:00"
     },
     {
      "title": "Sons of LeBron James, Carmelo Anthony among notable college basketball players with family ties to NBA",
@@ -311,30 +383,6 @@
      "published": "2026-11-25T19:06:52+00:00"
     },
     {
-     "title": "Save 50% on a subscription to DAZN during this Black Friday sale",
-     "summary": "Save up to 50% with this Black Friday deal on DAZN",
-     "image": "",
-     "url": "https://sports.yahoo.com/nba/article/save-50-on-a-subscription-to-dazn-during-this-black-friday-sale-185033984.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-25T18:50:33+00:00"
-    },
-    {
-     "title": "Kevin Porter Jr. reportedly finalizing 2-year deal with Magic",
-     "summary": "Kevin Porter Jr. will join the Magic after missing the start of the 2026-27 NBA season.",
-     "image": "",
-     "url": "https://sports.yahoo.com/nba/breaking-news/article/kevin-porter-jr-reportedly-finalizing-2-year-deal-with-magic-184434930.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-25T18:44:34+00:00"
-    },
-    {
-     "title": "Glasner criticises Forest players yet to learn English",
-     "summary": "Nottingham Forest manager Oliver Glasner has questioned why some of his squad cannot speak English after being in the country for a number of years.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3f7/live/c0988ec0-e8ee-11f1-99a1-253766e7ad8b.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cw20xr4d7x55o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-25T18:32:55+00:00"
-    },
-    {
      "title": "Gukesh and Sindarov draw Game 2 of world chess championship in just 20 moves",
      "summary": "Game 2 ends by threefold repetition in 1hr 57min World champion opens with the London System Sindarov plays with white in Game 3 on Thursday All your Gukesh v Sindarov questions, answered India’s Guke…",
      "image": "https://i.guim.co.uk/img/media/75845b26dd894ecab466d69e4b202fe4f5a41e02/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=39e9074f0bead3df20250e7abf4208c4",
@@ -343,60 +391,12 @@
      "published": "2026-11-25T18:16:22+00:00"
     },
     {
-     "title": "Williams exceeded F1 cost cap by £627,000",
-     "summary": "Williams \"unintentially\" broke Formula 1's cost cap during the 2025 season, governing body the FIA finds.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73ee/live/00ebc900-e8f5-11f1-8808-1d4222955d7e.jpg",
-     "url": "https://www.bbc.co.uk/sport/formula1/articles/cxj05mv79z0do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-25T17:37:34+00:00"
-    },
-    {
-     "title": "Rob Pelinka believes the Lakers are feeding off Luka Dončić’s leadership",
-     "summary": "Pelinka said Dončić's accountability is integral to his impactful leadership style",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/a8b2a81d8b39602db3daa65a0e0e9eeb.jpg",
-     "url": "https://sports.yahoo.com/nba/articles/rob-pelinka-believes-lakers-feeding-173210722.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-25T17:32:10+00:00"
-    },
-    {
-     "title": "How I Learned to Stop Worrying and Love the Wolves",
-     "summary": "Misery is best when shared. So is the joy we are finally getting today. I’m happy to be here with you all.",
-     "image": "https://media.zenfs.com/en/sb_nation_articles_115/b9f9ebd98d858585e23f987abf1cd8e9.jpg_up.jpg",
-     "url": "https://sports.yahoo.com/nba/articles/learned-stop-worrying-love-wolves-170000449.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-25T17:00:00+00:00"
-    },
-    {
-     "title": "'Best midfielder in the world' - where does Bellingham rank?",
-     "summary": "Jose Mourinho called Real Madrid's Jude Bellingham \"the best midfielder in the world\", but where would you rank him?",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a9f/live/a0a1a1c0-e8e8-11f1-8808-1d4222955d7e.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cmkgdjkr2y70o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-25T16:46:36+00:00"
-    },
-    {
-     "title": "Confusion and anger - Yoro red card rescinded, but row goes on",
-     "summary": "Leny Yoro's red card against Liverpool has prompted an unseemly difference of opinion between Man Utd and Pro Ref.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6250/live/db25bcb0-e8c9-11f1-ac76-db9e97f93d67.jpg",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cvze7y6n2redo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-25T16:28:10+00:00"
-    },
-    {
      "title": "Grading every NBA lottery pick from 2026 Draft: Yaxel Lendeborg gets an A+, plus which rookies need more time",
      "summary": "More than a month into the 2026-27 season, let's take a look at the class of rookies",
      "image": "https://sportshub.cbsistatic.com/i/2026/11/25/93bda072-f5c2-4808-9852-53646fd46d9d/yaxel-imagn.png",
      "url": "https://www.cbssports.com/nba/news/2026-nba-draft-lottery-pick-grades-yaxel-lendeborg-caleb-wilson-aj-dybantsa-cam-boozer/",
      "source": "CBS Sports NBA",
      "published": "2026-11-25T16:20:22+00:00"
-    },
-    {
-     "title": "2026 NBA betting promos: Get almost $4,000 in bonuses from top online betting apps, sportsbooks for Nov. 25",
-     "summary": "Top NBA betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-     "image": "https://sportshub.cbsistatic.com/i/2026/10/27/be58c968-8ffa-4661-8d0a-cc8864b9a9cf/jalen-brunson-knicks.jpg",
-     "url": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-get-almost-4000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-nov-25/",
-     "source": "CBS Sports NBA",
-     "published": "2026-11-25T15:45:30+00:00"
     }
    ]
   }
