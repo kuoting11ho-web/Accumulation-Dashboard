@@ -1,24 +1,80 @@
 {
- "generated": "2026-11-27T22:06:23.931435+00:00",
+ "generated": "2026-11-28T00:06:25.457469+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "美股收盤》科技股回神！道瓊漲591點 台積電ADR升逾3％",
-     "summary": "週五科技股支撐美國股市上漲，結束動盪的一週。道瓊工業指數上漲591.99點、1.18%，標普500指數上漲1.6%，那斯達克指數上漲2.31%，費城半導體指數上漲4.69%，台積...…",
+     "title": "竹瓦下週一新埔演練即時切斷供氣區塊",
+     "summary": "新竹瓦斯（股）公司今天表示，為強化防災緊急應變處置能力，他們下週一（30日）下午1點到4點，將在新埔舉辦「新竹瓦斯即時切斷供氣區塊演練」，演練期間，區內的瓦斯壓力將會大幅下降，...…",
      "image": "",
-     "url": "https://ec.ltn.com.tw/article/breakingnews/5655972",
+     "url": "https://news.ltn.com.tw/news/life/breakingnews/5655987",
      "source": "自由時報",
-     "published": "2026-11-27T21:57:32+00:00"
+     "published": "2026-11-28T00:01:16+00:00"
     },
     {
-     "title": "傳南韓國情院為營救情報員 擬向中國提供台灣情資惹美震怒",
-     "summary": "南韓「TV朝鮮電視台」26日獨家披露，南韓國家情報院（NIS）為營救2名在中國被拘留的情報員，在與北京交涉期間，竟提議將調查及監控台灣情報人員在南韓境內的活動，並將掌握的相關...…",
+     "title": "大選牽動政局消長！「洋流」能撼動全台？藍綠版圖洗牌今揭曉",
+     "summary": "2026年九合一地方選舉今（28）日上午8時開始投票。今晚開票結果將直接重繪藍、綠地方執政版圖，現有國民黨15席、泛白2席、民進黨5席的樣態，其中有14縣市將迎來「交棒」，在這...…",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5655970",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5654809",
      "source": "自由時報",
-     "published": "2026-11-27T21:56:28+00:00"
+     "published": "2026-11-28T00:01:00+00:00"
+    },
+    {
+     "title": "自由開講》會旗扶正了 成人更要敢開口",
+     "summary": "南投草屯的青少年高爾夫選手唐植曄、唐植軒兄弟，赴馬來西亞參加國際公開賽，發現台灣會旗被上下掛反。兩人向大會反映，取得同意後親手扶正。外交部長林佳龍隨後設宴嘉勉。比起這頓飯，更值得記住的是...…",
+     "image": "",
+     "url": "https://talk.ltn.com.tw/article/breakingnews/5648102",
+     "source": "自由時報",
+     "published": "2026-11-28T00:00:00+00:00"
+    },
+    {
+     "title": "九合一大選今登場！投票QA懶人包、違規須知一次看",
+     "summary": "2026年九合一地方公職人員選舉於今（28）日上午8時開始投票，只要年滿20歲（2006年11月28日前出生），且在該選區設籍居住4個月以上即可投票，本報彙整投票須知包含該領幾...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5654715",
+     "source": "自由時報",
+     "published": "2026-11-28T00:00:00+00:00"
+    },
+    {
+     "title": "Will Taiwan vote to revive nuclear power – and why does that matter for AI?",
+     "summary": "Voters will decide on Saturday whether to scrap the country's 'nuclear-free homeland' policy.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T23:09:04+00:00"
+    },
+    {
+     "title": "Kenyan cult leader guilty of manslaughter more than 123 starvation deaths",
+     "summary": "Paul Mackenzie, already serving 200 years, is the founder and pastor of the Good News International Church.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/11/27/kenyan-cult-leader-guilty-of-manslaughter-more-than-123-starvation-deaths?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T22:33:17+00:00"
+    },
+    {
+     "title": "US military says it disabled merchant ship trying to breach Iran blockade",
+     "summary": "The US military says it disabled the Palau-flagged ship’s propulsion but its crew was unharmed.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T22:22:02+00:00"
+    },
+    {
+     "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+     "summary": "Even as consumers face macroeconomic headwinds, retailers are expecting robust holiday spending through Black Friday and beyond.",
+     "image": "",
+     "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+     "source": "CNBC Top News",
+     "published": "2026-11-27T22:00:57+00:00"
+    },
+    {
+     "title": "‘Activists of rhythm’: Fighting Spain’s far-right through art",
+     "summary": "Madrid’s La Parceria and Espacio Afro cultural centres are using the arts to fight racism and boost migrant voices.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/activists-of-rhythm-fighting-spains-far-right-through-art?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-27T21:59:11+00:00"
     },
     {
      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
@@ -29,68 +85,12 @@
      "published": "2026-11-27T21:55:53+00:00"
     },
     {
-     "title": "富貴羊年！唐碧霞揭「2027生肖財運榜」 前3名旺炸、這生肖遇大耗",
-     "summary": "〔娛樂頻道／綜合報導〕從十多歲起便醉心研究玄學命理的香港知名風水堪輿師唐碧霞，昨在YT發布「2027年12生肖終極財運排行榜」，一一深入解析各生肖在羊年的吉星助力與破財隱憂。 …",
-     "image": "",
-     "url": "https://ent.ltn.com.tw/news/breakingnews/5655953",
-     "source": "自由時報",
-     "published": "2026-11-27T21:55:01+00:00"
-    },
-    {
-     "title": "SKECHERS高顏值復古鞋歲末搶鏡 全新TOPNOTCH系列注入金屬風 雙帶瑪莉珍款甜酷風格一秒切換",
-     "summary": "隨著耶誕節、尾牙及跨年派對陸續登場，不少品牌都會選在此時推出洋溢節慶氛圍的應景單品，美國運動休閒品牌SKECHERS就鎖定近年席捲時尚圈的復古薄底鞋風潮，推出注入金屬光澤元素的TOPNOTCH系列鞋款，藉由經典德訓鞋與融合運動風格的瑪莉珍鞋，拓展多元穿搭風格；同時邀來品牌代言人、南韓人氣女團i-dle台灣成員葉舒華演繹全新節慶形象廣告，巧妙揉合街頭潮流與歡欣氣息。…",
-     "image": "",
-     "url": "https://istyle.ltn.com.tw/article/41747",
-     "source": "自由時報",
-     "published": "2026-11-27T21:40:00+00:00"
-    },
-    {
      "title": "‘Abusive and insulting to Canadians’: campaign to oust US ambassador presented to parliament",
      "summary": "Hundreds of thousands of Canadians call for Pete Hoekstra to be declared ‘persona non grata’ A petition signed by nearly 290,000 Canadians calling on Mark Carney’s government to oust Pete Hoekstra as…",
      "image": "https://i.guim.co.uk/img/media/fdc570eb861d6cc0d756cc291a726de34670d964/418_0_4164_3332/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=f9e753676a68320c2d147c2a5561d6a1",
      "url": "https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition",
      "source": "Guardian World",
      "published": "2026-11-27T21:24:10+00:00"
-    },
-    {
-     "title": "Why are families going hungry in northern Yemen even where food is on sale?",
-     "summary": "Flour and oil still reach markets in Hodeidah and Sanaa. But high costs and lack of work and aid put it out of reach.",
-     "image": "",
-     "url": "https://www.aljazeera.com/economy/2026/11/27/why-are-families-going-hungry-in-northern-yemen-even-where-food-is-on-sale?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T21:11:27+00:00"
-    },
-    {
-     "title": "OpenAI countersues Apple for stealing trade secrets",
-     "summary": "Apple in July sued OpenAI and two former employees, alleging misappropriation of its trade secrets to benefit the ChatGPT owner's foray into consumer hardware.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/27/openai-countersues-apple-for-stealing-trade-secrets-ft-reports.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-27T20:52:32+00:00"
-    },
-    {
-     "title": "Venezuela to repeal law that bans opposition figures from office",
-     "summary": "It comes a month after opposition leader Maria Corina Machado returned to Venezuela.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T20:44:03+00:00"
-    },
-    {
-     "title": "OpenAI countersues Apple over trade secrets as AI race heats up",
-     "summary": "Tensions between the two tech companies have escalated as intensifying race to develop AI products fuels competition.",
-     "image": "",
-     "url": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T20:40:51+00:00"
-    },
-    {
-     "title": "Putin unveils new Russian nuclear-powered submarine with hypersonic weapons",
-     "summary": "The Kremlin plans to expand its naval fleet with five new nuclear submarines by 2030.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-27T20:39:57+00:00"
     },
     {
      "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
@@ -138,16 +138,32 @@
    "label": "AI",
    "items": [
     {
-     "title": "Michael Nielsen took down his book on neural nets",
-     "summary": "Article URL: https://twitter.com/michael_nielsen/status/2126359767362748777 Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 228 # Comments: 137",
+     "title": "黃仁勳回來了，AI 狂飆時代卻回不去了！2027 年三大隱憂浮現：投資、融資、成長全面降檔",
+     "summary": "輝達執行長黃仁勳因爭議事件一度去職，震撼市場。雖然 11 天後他復職，帶動市場信心回升，但中信投顧總經理陳柏州 […]",
      "image": "",
-     "url": "https://twitter.com/michael_nielsen/status/2126359767362748777",
+     "url": "https://finance.technews.tw/2026/11/28/jensen-huang-11-day-return-what-changed-one-person-rule-ends-2027-ai-slowdown-experts-3-concerns/",
+     "source": "科技新報 TechNews",
+     "published": "2026-11-28T00:00:14+00:00"
+    },
+    {
+     "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+     "summary": "Article URL: https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-prom…",
+     "image": "",
+     "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-27T19:42:25+00:00"
+    },
+    {
+     "title": "Michael Nielsen took down his book on neural nets",
+     "summary": "Article URL: https://neuralnetworksanddeeplearning.com/ Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 335 # Comments: 216",
+     "image": "",
+     "url": "https://neuralnetworksanddeeplearning.com/",
      "source": "Hacker News Front Page",
      "published": "2026-11-27T19:31:01+00:00"
     },
     {
      "title": "Convex skills send the user's app idea to a remote server without telling them",
-     "summary": "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 161 # Comments: 51",
+     "summary": "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 205 # Comments: 59",
      "image": "",
      "url": "https://github.com/convex/convex-backend-skill/issues/64",
      "source": "Hacker News Front Page",
@@ -179,19 +195,11 @@
     },
     {
      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
-     "summary": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 330 # Comments: 176",
+     "summary": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 389 # Comments: 200",
      "image": "",
      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
      "source": "Hacker News Front Page",
      "published": "2026-11-27T15:40:31+00:00"
-    },
-    {
-     "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
-     "summary": "a ball will fall. trade on where it lands. I made this game! Some technical details: The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a sma…",
-     "image": "",
-     "url": "https://bouncemarket.minhanhday.com/",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-27T15:01:50+00:00"
     },
     {
      "title": "Intel faced a choice: Give Trump 10% or face the consequences",
@@ -216,14 +224,6 @@
      "url": "https://finance.technews.tw/2026/11/27/ai-supply-shortage-dgbass-forecasts-next-year-exports-1-trillion-record-high/",
      "source": "科技新報 TechNews",
      "published": "2026-11-27T10:10:06+00:00"
-    },
-    {
-     "title": "20 年數據揭木衛二鈉雲長期穩定，暗示具獨立物質循環系統",
-     "summary": "木星大氣與周遭太空環境極為動盪，然而凱克天文台望遠鏡長達 20 年的觀測結果卻揭露一個出乎意料現象：木星大氣巨 […]",
-     "image": "",
-     "url": "https://technews.tw/2026/11/27/europa-saturn-moon-sodium-cloud/",
-     "source": "科技新報 TechNews",
-     "published": "2026-11-27T10:06:10+00:00"
     },
     {
      "title": "Volvo's big batteries: We drive its updated 2028 plug-in hybrids",
@@ -271,44 +271,60 @@
    "label": "運動",
    "items": [
     {
+     "title": "betPARX Promo Code YAHOOBONUS: Bet $25, Get $50 or a 200% Profit Boost - Your Choice!",
+     "summary": "Pennsylvania basketball fans have a Black Friday offer to consider: Bet $25 and choose double your stake in Bonus Bets or a 200% profit boost. Put NBA Cup action on your post-Thanksgiving plans and ch…",
+     "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/betparx-banner-cta-110626_3051.jpg",
+     "url": "https://sports.yahoo.com/betting/promos/article/betparx-promo-code-yahoobonus-bet-25-get-50-or-a-200-profit-boost---your-choice-233000770.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-27T23:30:00+00:00"
+    },
+    {
+     "title": "UNC vs. West Virginia Live Discussion",
+     "summary": "Can the Heels send the Mountaineers home to the place they belong with a loss?",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/0f34da0cc73f97e0e357c15e14e6403a.jpg",
+     "url": "https://sports.yahoo.com/mens-college-basketball/articles/unc-vs-west-virginia-live-233000680.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-27T23:30:00+00:00"
+    },
+    {
+     "title": "Former lottery pick Rob Dillingham sucker-punched in G League game, leading to scrum, multiple ejections",
+     "summary": "Dillingham, the No. 8 pick in 2024, is trying to work his way back to the NBA",
+     "image": "https://sportshub.cbsistatic.com/i/2026/11/27/02926d08-867b-4706-aecc-8808ed090733/rob-dillingham-getty.png",
+     "url": "https://www.cbssports.com/nba/news/rob-dillingham-punched-ejected-g-league-game-felix-okpara/",
+     "source": "CBS Sports NBA",
+     "published": "2026-11-27T22:30:28+00:00"
+    },
+    {
+     "title": "Here’s how to watch Lakers vs. Spurs NBA Cup Black Friday game for free",
+     "summary": "The best of the best in the West are meeting in the Alamo City tonight.",
+     "image": "https://media.zenfs.com/en/ny_post_sports_articles_389/1c29050a999bedfba70541bc247bdc32.jpg",
+     "url": "https://sports.yahoo.com/nba/articles/watch-lakers-vs-spurs-nba-223000420.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-27T22:30:00+00:00"
+    },
+    {
+     "title": "Five-try Ireland beat Australia in autumn finale",
+     "summary": "Ireland secure a fifth-place finish in the inaugural Nations Championship thanks to a 38-14 victory over Australia in London.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fad8/live/3e7ca7a0-eaab-11f1-9d2d-dd9286f639a6.jpg",
+     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw987l0ej11mo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-27T22:17:45+00:00"
+    },
+    {
+     "title": "Lakers' Austin Reaves available for NBA Cup matchup vs. Spurs, returning after 5-game absence",
+     "summary": "Reaves last played on Nov. 11, when he sustained a bruised heel versus the Bucks.",
+     "image": "",
+     "url": "https://sports.yahoo.com/nba/article/lakers-austin-reaves-available-for-nba-cup-matchup-vs-spurs-returning-after-5-game-absence-224153560.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-27T22:02:23+00:00"
+    },
+    {
      "title": "Gibbs-White stars, Fofana struggles - player ratings for Forest v Chelsea",
      "summary": "Morgan Gibbs-White scored twice as Nottingham Forest beat Chelsea 3-2 at the City Ground for the first time since 1997.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43fe/live/cc8e3e10-eaaa-11f1-9d2d-dd9286f639a6.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1da8/live/2c6e0460-eaaf-11f1-bf81-6f3b4557bf15.jpg",
      "url": "https://www.bbc.co.uk/sport/football/articles/cmwy85xxjgxvo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
      "published": "2026-11-27T21:59:48+00:00"
-    },
-    {
-     "title": "Nottingham Forest v Chelsea: Premier League – live",
-     "summary": "⚽ Updates on the Friday night kick-off at the City Ground ⚽ Fixtures | Tables | Sign up for Football Daily | Mail Scott Forest get the game started. What to expect? Well, Forest have only scored nine…",
-     "image": "https://i.guim.co.uk/img/media/ec2c983a65cbd23166a1c2ba2384b70df15f6fc9/833_0_4783_3827/master/4783.jpg?width=140&quality=85&auto=format&fit=max&s=3d846c4b34d9cfd4c4f26532c3330ac2",
-     "url": "https://www.theguardian.com/football/live/2026/nov/27/nottingham-forest-v-chelsea-premier-league-live",
-     "source": "Guardian Sport",
-     "published": "2026-11-27T21:54:46+00:00"
-    },
-    {
-     "title": "Lakers' Austin Reaves set to return Friday for showdown against Spurs",
-     "summary": "Reaves missed five games with a bruised heel and the Lakers went 4-1.",
-     "image": "",
-     "url": "https://sports.yahoo.com/nba/articles/lakers-austin-reaves-set-return-214444607.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-27T21:44:44+00:00"
-    },
-    {
-     "title": "Lakers guard Austin Reaves available for NBA Cup game vs. Spurs",
-     "summary": "Austin Reaves is available for the Los Angeles Lakers' NBA Cup game against the San Antonio Spurs on Nov. 27.",
-     "image": "",
-     "url": "https://sports.yahoo.com/nba/articles/lakers-guard-austin-reaves-available-211249522.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-27T21:12:49+00:00"
-    },
-    {
-     "title": "Lakers must be aggressive, plug biggest hole that could sink title chances",
-     "summary": "Rob Pelinka knows he needs to go all in. The Lakers are championship contenders. Luka Doncic is leading the MVP race. If the GM plays his cards right, his team...",
-     "image": "https://media.zenfs.com/en/ny_post_sports_articles_389/c8ab5ef4c700e7ae9b5f013c44d7aaf6.jpg",
-     "url": "https://sports.yahoo.com/nba/articles/lakers-must-aggressive-plug-biggest-204630955.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-27T20:46:30+00:00"
     },
     {
      "title": "Black Friday's top games to watch, best bets, odds: No. 3 Texas at Texas A&M, Lakers at Spurs, more",
@@ -317,14 +333,6 @@
      "url": "https://www.cbssports.com/betting/news/black-fridays-top-games-to-watch-best-bets-odds-no-3-texas-at-texas-a-m-lakers-at-spurs-more/",
      "source": "CBS Sports NBA",
      "published": "2026-11-27T20:30:18+00:00"
-    },
-    {
-     "title": "Yahoo Perfect 5: Victor Wembanyama, Giannis Antetokounmpo lead lineup with piece of every team for Friday's Prime doubleheader",
-     "summary": "Dan Titus takes you through his lineup construction for Yahoo's Perfect 5 contest for Friday's Prime doubleheader.",
-     "image": "",
-     "url": "https://sports.yahoo.com/fantasy/article/yahoo-perfect-5-victor-wembanyama-giannis-antetokounmpo-lead-lineup-with-piece-of-every-team-for-fridays-prime-doubleheader-201510305.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-27T20:15:10+00:00"
     },
     {
      "title": "Why have things started to go wrong for Manchester City under Enzo Maresca?",
@@ -375,28 +383,20 @@
      "published": "2026-11-27T16:22:21+00:00"
     },
     {
-     "title": "Scoring each round of the Draymond Green vs. Eddie Johnson beef, which goes back further than you think",
-     "summary": "We're going round by round, and it's not looking good for one side in this ongoing public spat",
-     "image": "https://sportshub.cbsistatic.com/i/2026/11/27/4a5b2fa7-e03a-4f5b-bfa6-8d59d56e8e6f/draymond-green-getty.png",
-     "url": "https://www.cbssports.com/nba/news/draymond-green-eddie-johnson-beef-scoring-each-round/",
-     "source": "CBS Sports NBA",
-     "published": "2026-11-27T16:11:36+00:00"
-    },
-    {
-     "title": "Cricket Australia may not like sandpaper forum findings - Vaughan",
-     "summary": "Cricket Australia will not like what it finds from a forum into the sandpaper scandal, according to former England captain Michael Vaughan.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abf3/live/e7861ae0-ea68-11f1-a828-d384c0290f6b.jpg",
-     "url": "https://www.bbc.co.uk/sport/cricket/articles/c5pv903jvy2po?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-27T14:05:57+00:00"
-    },
-    {
      "title": "Mike Tomlin calls Steelers ‘dumpster fire’ as Brady rips Rodgers for breaking locker room sanctity",
      "summary": "Ex-coach says QB was ‘beloved’ by teammates Rodgers released after diatribe about McCarthy Mike Tomlin, who coached Aaron Rodgers and the Steelers last year, and Tom Brady, one of Rodgers’s longtime p…",
      "image": "https://i.guim.co.uk/img/media/3a8dfa8806964ea57c39c87c4f8fda75884f0179/707_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=e8c35061467ed31e9bd0353db0f127e1",
      "url": "https://www.theguardian.com/sport/2026/nov/27/mike-tomlin-aaron-rodgers-tom-brady-steelers",
      "source": "Guardian Sport",
      "published": "2026-11-27T11:45:10+00:00"
+    },
+    {
+     "title": "Lights-out Luka Dončić and contagious chemistry: are these Lakers for real?",
+     "summary": "It’s early days, but after a dramatic roster overhaul and an offseason of team-bonding Dončić is playing at an MVP level and LA are looking like contenders One of the components of Luka Dončić’s shock…",
+     "image": "https://i.guim.co.uk/img/media/429dfd05b732a2e7f6c602345b0b2956c54f0bcd/0_0_2772_2217/master/2772.jpg?width=140&quality=85&auto=format&fit=max&s=076ac0928099875e41e40c4054d68b61",
+     "url": "https://www.theguardian.com/sport/2026/nov/27/luka-doncic-los-angeles-lakers-san-antonio-spurs-nba",
+     "source": "Guardian Sport",
+     "published": "2026-11-27T11:00:22+00:00"
     }
    ]
   }
