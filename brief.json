@@ -1,16 +1,112 @@
 {
- "generated": "2026-11-28T18:17:13.164039+00:00",
+ "generated": "2026-11-28T21:02:36.781804+00:00",
  "streams": {
   "world": {
    "label": "世界",
    "items": [
     {
-     "title": "尼坦雅胡提議輪替總理　艾森科特先任籌組團結政府",
-     "summary": "以色列看守總理尼坦雅胡（Benjamin Netanyahu）今天提議，與主要對手艾森科特（Gadi Eisenkot）輪流出任總理，並由艾森科特先任。艾森科特預料將於數天內宣布組成新政府。...…",
+     "title": "Will Spain vote in the right wing for the first time in 50 years?",
+     "summary": "Snap elections held in one of the last bastions of left-wing politics in Europe.",
      "image": "",
-     "url": "https://news.ltn.com.tw/news/world/breakingnews/5657073",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/11/28/will-spain-vote-in-the-right-wing-for-the-first-time-in-50-years?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-28T20:47:34+00:00"
+    },
+    {
+     "title": "台灣「九合一」選舉BBC視像直播：蔣萬安台北連任 藍綠六都市長平分秋色",
+     "summary": "台灣2026年「九合一」地方選舉與核電政策公投案投票結束，BBC中文邀請專家學者點評，並連線選後集會現場，與你緊貼開票過程。",
+     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1f70/live/49fd7a20-eb6c-11f1-a094-5fdc692f3e33.jpg",
+     "url": "https://www.bbc.com/zhongwen/articles/cwkgry00vk48o/trad?at_medium=RSS&at_campaign=rss",
+     "source": "BBC 中文",
+     "published": "2026-11-28T20:44:05+00:00"
+    },
+    {
+     "title": "Afghan school rocked by deadly blast",
+     "summary": "At least 10 students killed and 110 injured in blast beside school in Afghanistan’s Kunar.",
+     "image": "",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/aje-onl-nf_afghan-school-rocked-by-deadly-blast-281126?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-28T20:41:24+00:00"
+    },
+    {
+     "title": "Department for Work and Pensions confirms cyber-attack on its systems",
+     "summary": "Spokesperson says DWP working to understand cause of attack after benefits and pension services taken offline The Department for Work and Pensions has confirmed it was the subject of a cyber-attack, a…",
+     "image": "https://i.guim.co.uk/img/media/c6984092659bb4d83cb554d43946da1a292e4a85/114_0_6630_5304/master/6630.jpg?width=140&quality=85&auto=format&fit=max&s=3f102f95c6149dfcd314c893caaddd36",
+     "url": "https://www.theguardian.com/technology/2026/nov/28/department-for-work-and-pensions-cyber-attack-benefits-pension-services",
+     "source": "Guardian Business",
+     "published": "2026-11-28T20:00:47+00:00"
+    },
+    {
+     "title": "九合一大選／民進黨奪10縣市收復台中 國民黨守台北等11席首長",
+     "summary": "2026年九合一大選結果出爐，民進黨一掃上屆慘敗陰霾，收復台中、新竹縣等5縣市，共拿下10席首長，國民黨則保住北市等11席，兩黨在六都中分庭抗禮，各佔三都。",
+     "image": "",
+     "url": "https://news.pts.org.tw/article/837805",
+     "source": "公視新聞",
+     "published": "2026-11-28T20:00:31+00:00"
+    },
+    {
+     "title": "阿爾巴尼亞反政府示威釀衝突　35人受傷",
+     "summary": "阿爾巴尼亞首都地拉那（Tirana）今天爆發反政府示威，蒙面示威者攻擊政府建築，至少一棟建築起火，並與警方衝突。警方發射催淚瓦斯、動用水砲驅散示威者。 綜合法新社、美聯社和路透社報導，這個...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5657079",
      "source": "自由時報",
-     "published": "2026-11-28T18:12:04+00:00"
+     "published": "2026-11-28T20:00:04+00:00"
+    },
+    {
+     "title": "Former minister arrested in Paraguay’s latest Ueno Bank failure fallout",
+     "summary": "A former economy minister has been detained, accused of financial crimes linked to Paraguay's collapsed Ueno Bank.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/11/28/former-minister-arrested-in-paraguays-latest-ueno-bank-failure?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-28T19:17:10+00:00"
+    },
+    {
+     "title": "洛杉磯地區規模5.0地震　2014年來首見規模逾5",
+     "summary": "美國加州曼哈頓灘（Manhattan Beach）及周邊地區今天上午發生規模5.0地震。地震學家表示，這是洛杉磯地區多年來規模較大的地震之一。 洛杉磯KTLA電視台報導，根據美國地質調查所...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5657075",
+     "source": "自由時報",
+     "published": "2026-11-28T19:12:03+00:00"
+    },
+    {
+     "title": "比對2022地方大選慘況  如今半個台灣變綠地",
+     "summary": "首次上稿 11/28 23:07更新時間 11/29 03:02 2026九合一大選落幕，備受各界關注的台北市長選戰，確定由現任市長蔣萬安連任，民進黨候選人沈伯洋敗選，讓小...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5656709",
+     "source": "自由時報",
+     "published": "2026-11-28T19:02:38+00:00"
+    },
+    {
+     "title": "《TAIPEI TIMES》2026 Elections: Lee claims victory in New Taipei City",
+     "summary": "By Jake Chung / Staff writer Chinese Nationalist Party （KMT） New Taipei City mayoral candidat...…",
+     "image": "",
+     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5656987",
+     "source": "自由時報",
+     "published": "2026-11-28T19:00:00+00:00"
+    },
+    {
+     "title": "Netanyahu offers to rotate Israeli premiership with Gadi Eisenkot",
+     "summary": "Prime Ministerial hopeful Eisenkot and caretaker leader Netanyahu agree to meet for coalition talks on Sunday.",
+     "image": "",
+     "url": "https://www.aljazeera.com/news/2026/11/28/israels-eisenkot-offers-immediate-talks-with-netanyahu-to-test-seriousness?traffic_source=rss",
+     "source": "Al Jazeera",
+     "published": "2026-11-28T18:48:52+00:00"
+    },
+    {
+     "title": "Costa Rica bars UN rapporteur on Palestinian territories from entering the country",
+     "summary": "Francesca Albanese, leading critic of Israeli abuses in Gaza and West Bank, barred on ‘national security grounds’ Costa Rica has barred entry to the UN special rapporteur on the Israel-occupied Palest…",
+     "image": "https://i.guim.co.uk/img/media/5693a644ba2b520ca5cc7047ae682c4f6b0cb6b8/738_893_4235_3388/master/4235.jpg?width=140&quality=85&auto=format&fit=max&s=188394a6b26f4cc5575dbf0f3048ff11",
+     "url": "https://www.theguardian.com/world/2026/nov/28/costa-rica-bars-un-rapporteur-francesca-albanese-palestinian-territories",
+     "source": "Guardian World",
+     "published": "2026-11-28T18:44:41+00:00"
+    },
+    {
+     "title": "AI labs sitting on ‘bombshell’ revelations that could cause global chaos, experts believe",
+     "summary": "Exclusive: AI may have cracked decades-old maths problems that underpin encryption at banks and government agencies AI companies are sitting on “bombshell” revelations that could disrupt a cornerstone…",
+     "image": "https://i.guim.co.uk/img/media/f08944d0a359b09c93c14ea8aeeac1ec4a540ba1/1397_0_5399_4320/master/5399.jpg?width=140&quality=85&auto=format&fit=max&s=471d54a8ec6343f8bb2eeba54c218081",
+     "url": "https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos",
+     "source": "Guardian Business",
+     "published": "2026-11-28T18:37:22+00:00"
     },
     {
      "title": "Argentina's bid to stop Falklands oil drilling rejected",
@@ -21,14 +117,6 @@
      "published": "2026-11-28T18:01:05+00:00"
     },
     {
-     "title": "張善政破64萬票 邱奕勝競總謝票、親曝搭檔梁為超角逐正副議長",
-     "summary": "2026九合一選舉結果28日晚上揭曉，國民黨桃園市長張善政以破64萬票高票連任，同黨桃園市議會議長邱奕勝第一時間在兩人聯合競選總部施放璀璨煙火表達祝賀，肯定張善政過去4年帶領市...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5657067",
-     "source": "自由時報",
-     "published": "2026-11-28T17:47:46+00:00"
-    },
-    {
      "title": "EPA says initial tests show no toxic lead contamination in Iowa following detonation",
      "summary": "U.S. Army officials called the controlled detonation of roughly five tons of explosive lead azide on Wednesday a success. But some have criticized the Army for a lack of transparency.",
      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2472x1649+0+0/resize/2472x1649!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8f%2F29%2Fe474c01f4d51b84093fe7240cf95%2Fap26331722157715.jpg",
@@ -37,106 +125,26 @@
      "published": "2026-11-28T17:32:26+00:00"
     },
     {
-     "title": "九種公職黨籍比例全曝光！全台議員藍344席、綠309席、白34席",
-     "summary": "2026年九合一選舉落幕，中選會主委游盈隆今日清晨召開記者會公布選舉結果相關數據，全台22個縣市首長國民黨當選11席、民進黨當選10席、無黨籍1席；直轄市議員方面，民進黨當選1...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5657069",
-     "source": "自由時報",
-     "published": "2026-11-28T17:30:47+00:00"
-    },
-    {
-     "title": "Dozens reported killed in series of Myanmar air attacks",
-     "summary": "A wedding party, school, monastery, market and camp for displaced people were bombed.",
-     "image": "",
-     "url": "https://www.aljazeera.com/news/2026/11/28/dozens-reported-killed-in-series-of-myanmar-air-attacks?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-28T17:29:28+00:00"
-    },
-    {
-     "title": "戴立安翻車？蔣萬安贏8個百分點 封關民調這2家最準",
-     "summary": "九合一大選昨落幕，幾家歡樂幾家愁，到底封關民調哪一家最準？前台大醫師林氏璧比對雙北市長、桃園市長選舉發現，艾普羅民調（旺旺中時媒體集團旗下）、ETtoday與最終結果差距...…",
-     "image": "",
-     "url": "https://news.ltn.com.tw/news/politics/breakingnews/5656971",
-     "source": "自由時報",
-     "published": "2026-11-28T17:23:59+00:00"
-    },
-    {
-     "title": "Pakistan vs Sri Lanka: ACC Men’s Asia Cup Rising Stars 2026 – teams, start time",
-     "summary": "Holders and record three-time winners Pakistan face two-time winners Sri Lanka in the ACC Asia Cup Rising Stars final.",
-     "image": "",
-     "url": "https://www.aljazeera.com/sports/2026/11/28/pakistan-vs-sri-lanka-acc-mens-asia-cup-rising-stars-2026-teams-start?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-28T17:07:44+00:00"
-    },
-    {
-     "title": "Spurs-Lakers: Doncic shoved by fan, security intervenes as wristband tossed",
-     "summary": "Luka Doncic shoved by fan, security intervenes following wristband toss after San Antonio Spurs game with LA Lakers.",
-     "image": "",
-     "url": "https://www.aljazeera.com/sports/2026/11/28/spurs-lakers-doncic-shoved-by-fan-security-intervenes-as-wristband-tossed?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-28T17:05:47+00:00"
-    },
-    {
-     "title": "Brentford thrash Manchester United 4-0 as Pochettino has horror home debut",
-     "summary": "Mauricio Pochettino endures a nightmare Old Trafford debut as Brentford leave United in Premier League relegation zone.",
-     "image": "",
-     "url": "https://www.aljazeera.com/sports/2026/11/28/brentford-beat-manchester-united-4-0-as-pochettino-has-horror-home-debut?traffic_source=rss",
-     "source": "Al Jazeera",
-     "published": "2026-11-28T17:00:58+00:00"
-    },
-    {
      "title": "Dozens killed in Myanmar military strikes on wedding venue and school",
      "summary": "Air strikes by Myanmar's military government have killed dozens of civilians across the South East Asian nation in recent days.",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/567f/live/7b882a50-eb48-11f1-867f-2ba50c8646d5.jpg",
      "url": "https://www.bbc.co.uk/news/articles/cm752q30q5leo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
      "published": "2026-11-28T16:53:20+00:00"
-    },
-    {
-     "title": "Trump crackdown shatters US hopes for Guatemalans displaced by climate crisis",
-     "summary": "As drought worsens, more climate migrants are trekking north – but as US deportations ramp up, rural Guatemalans are running out of options The small plots of farmland in Caparrosa, an Indigenous Maya…",
-     "image": "https://i.guim.co.uk/img/media/b89ec80234738b8d7d92f09174624f3e678927ab/1561_521_6229_4983/master/6229.jpg?width=140&quality=85&auto=format&fit=max&s=cdc42eb6d96ac3ca7855ceacd788690d",
-     "url": "https://www.theguardian.com/world/2026/nov/28/guatemala-climate-crisis-trump-deportation-crackdown",
-     "source": "Guardian World",
-     "published": "2026-11-28T16:00:44+00:00"
-    },
-    {
-     "title": "台中升格16年第三度政黨輪替 何欣純承諾打造首都格局城市",
-     "summary": "台中市長選舉結果出爐，民進黨候選人何欣純以50.7%得票率，擊敗國民黨候選人江啟臣的48.4%。何欣純表示，這不只是個人勝利，也是台中的勝利，未來將實現承諾，打造具首都格局的國際城市。江啟臣則坦言選舉結果不如預期，並對何欣純表示祝福。台中市自2010年升格直轄市後，此次是16年來第三度政黨輪替。",
-     "image": "",
-     "url": "https://news.pts.org.tw/article/837808",
-     "source": "公視新聞",
-     "published": "2026-11-28T15:06:44+00:00"
-    },
-    {
-     "title": "李四川獲勝謝新北市民肯定 蘇巧慧敗選歎「可能需150分努力」",
-     "summary": "新北市長選舉結果出爐，國民黨候選人李四川拿下逾110萬票勝出，延續新北市2010年升格後均由國民黨執政紀錄。李四川表示，感謝新北市民的肯定，讓他這個小琉球子弟，能一步一腳印當上新北市長。敗選的民進黨候選人蘇巧慧則表示，自己已經拚盡全力，但可能需要120分、150分的努力才夠。",
-     "image": "",
-     "url": "https://news.pts.org.tw/article/837807",
-     "source": "公視新聞",
-     "published": "2026-11-28T15:05:36+00:00"
-    },
-    {
-     "title": "北市蔣萬安勝出謝白營相助 沈伯洋認敗選「檢討我就好」",
-     "summary": "民進黨台北市長候選人沈伯洋今（28）日晚間7時許自行宣布敗選，「我輸了，請檢討我就好。」並已致電恭喜蔣萬安連任。總統賴清德也現身競總表示，沈伯洋匯聚的洋流已改變台灣選舉文化。蔣萬安則在稍晚宣布成功連任，並感謝民眾黨柯文哲、黃國昌拔刀相助。",
-     "image": "",
-     "url": "https://news.pts.org.tw/article/837806",
-     "source": "公視新聞",
-     "published": "2026-11-28T15:01:20+00:00"
-    },
-    {
-     "title": "The Iran war could shatter rising expectations of surplus oil supply in coming months",
-     "summary": "Oil prices have sold off in November as investors see a recovery in Middle East exports leading to surpluses for the first time since the war began.",
-     "image": "",
-     "url": "https://www.cnbc.com/2026/11/28/oil-price-iran-war-strait-hormuz-surplus.html",
-     "source": "CNBC Top News",
-     "published": "2026-11-28T14:34:51+00:00"
     }
    ]
   },
   "ai": {
    "label": "AI",
    "items": [
+    {
+     "title": "Donald Knuth suspends error bounties due to an influx of AI-generated reports",
+     "summary": "Article URL: https://cs.stanford.edu/~knuth/moratorium.html Comments URL: https://news.ycombinator.com/item?id=50680168 Points: 344 # Comments: 76",
+     "image": "",
+     "url": "https://cs.stanford.edu/~knuth/moratorium.html",
+     "source": "Hacker News Front Page",
+     "published": "2026-11-28T17:53:02+00:00"
+    },
     {
      "title": "穩定調節性 T 細胞，可逆轉免疫療法引發的發炎反應",
      "summary": "癌症免疫療法讓許多患者重獲生機，卻也可能使免疫系統轉而攻擊健康組織。美國匹茲堡大學醫學院團隊發現，這類副作用的 […]",
@@ -155,7 +163,7 @@
     },
     {
      "title": "Silently degrading the model's capabilities IS sabotage",
-     "summary": "Article URL: https://twitter.com/TimSweeneyEpic/status/2126682647862862063 Comments URL: https://news.ycombinator.com/item?id=50678901 Points: 185 # Comments: 56",
+     "summary": "Article URL: https://twitter.com/TimSweeneyEpic/status/2126682647862862063 Comments URL: https://news.ycombinator.com/item?id=50678901 Points: 372 # Comments: 135",
      "image": "",
      "url": "https://twitter.com/TimSweeneyEpic/status/2126682647862862063",
      "source": "Hacker News Front Page",
@@ -171,7 +179,7 @@
     },
     {
      "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
-     "summary": "Article URL: https://malspark.com/blog/malicious-gguf-models-hugging-face/ Comments URL: https://news.ycombinator.com/item?id=50676752 Points: 156 # Comments: 52",
+     "summary": "Article URL: https://malspark.com/blog/malicious-gguf-models-hugging-face/ Comments URL: https://news.ycombinator.com/item?id=50676752 Points: 215 # Comments: 61",
      "image": "",
      "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
      "source": "Hacker News Front Page",
@@ -179,19 +187,11 @@
     },
     {
      "title": "Audible removes download option for purchased audiobooks",
-     "summary": "Article URL: https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks Comments URL: https://news.ycombinator.com/item?id=50676723 Points: 580 # Comments: 245",
+     "summary": "Article URL: https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks Comments URL: https://news.ycombinator.com/item?id=50676723 Points: 801 # Comments: 345",
      "image": "",
      "url": "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks",
      "source": "Hacker News Front Page",
      "published": "2026-11-28T11:51:27+00:00"
-    },
-    {
-     "title": "Farewell",
-     "summary": "Article URL: https://github.com/p-e-w/heretic/issues/601 Comments URL: https://news.ycombinator.com/item?id=50676672 Points: 825 # Comments: 345",
-     "image": "",
-     "url": "https://github.com/p-e-w/heretic/issues/601",
-     "source": "Hacker News Front Page",
-     "published": "2026-11-28T11:42:26+00:00"
     },
     {
      "title": "Google 攜手聯發科推進新 TPU 客製化 HBM5 基礎晶片，韓國憂心主導權弱化",
@@ -239,28 +239,68 @@
    "label": "運動",
    "items": [
     {
-     "title": "Qatar Grand Prix: Formula One qualifying – live",
-     "summary": "Updates from qualifying at Lusail International Circuit Get in touch: email Philip and follow us on BlueSky Oscar Piastri chatting to Ted Kravitz. Says McLaren are on the right path, but still work to…",
-     "image": "https://i.guim.co.uk/img/media/79eaedbb946e14499287267d18bb8d44cf433a56/314_0_3180_2544/master/3180.jpg?width=140&quality=85&auto=format&fit=max&s=0c53452c0d2a7ab264d6140952423f55",
-     "url": "https://www.theguardian.com/sport/live/2026/nov/28/qatar-grand-prix-formula-1-qualifying-live",
-     "source": "Guardian Sport",
-     "published": "2026-11-28T18:06:54+00:00"
-    },
-    {
-     "title": "Ipswich Town v Aston Villa: Premier League – live",
-     "summary": "️⚽️ U️pdates from 5.30pm (GMT) kick-off at Portman Road ⚽️ Get in touch: mail Scott about the game Ipswich kick off and immediately give the ball away. Jackson runs at their defence but is dispossesse…",
-     "image": "https://i.guim.co.uk/img/media/1df38673bff640828b1662589b5343ccc0fd4b90/80_0_3941_3155/master/3941.jpg?width=140&quality=85&auto=format&fit=max&s=533dee96a9d697e003a204aa031b8a5b",
+     "title": "Ipswich Town 2-2 Aston Villa: Premier League – as it happened",
+     "summary": "Ipswich twice came from behind to salvage a point in an entertaining game at Portman Road Ipswich kick off and immediately give the ball away. Jackson runs at their defence but is dispossessed. Lukic…",
+     "image": "https://i.guim.co.uk/img/media/967af5ed7e3b650b68791be50630ad3a73662334/0_92_2210_1767/master/2210.jpg?width=140&quality=85&auto=format&fit=max&s=1ceff17410aef063c877f833fd0c1d3e",
      "url": "https://www.theguardian.com/football/live/2026/nov/28/ipswich-town-v-aston-villa-premier-league-live",
      "source": "Guardian Sport",
-     "published": "2026-11-28T18:05:52+00:00"
+     "published": "2026-11-28T20:15:07+00:00"
     },
     {
-     "title": "Gukesh and Sindarov still level after fourth draw in world chess title match",
-     "summary": "Fourth straight draw leaves title match level at 2–all Gukesh seals draw by repetition with six minutes left Sindarov will play with white in Sunday’s fifth game India’s Gukesh Dommaraju and Uzbekista…",
-     "image": "https://i.guim.co.uk/img/media/09436720e7e3385e353a2341035c2044013c87fb/1105_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=68f9fa7f582e5f101d4d60abbeeb8af5",
-     "url": "https://www.theguardian.com/sport/2026/nov/28/world-chess-championship-game-4-gukesh-sindarov-draw",
+     "title": "NBA fans divided on Luka Doncic altercation after Lakers loss to Spurs",
+     "summary": "The Lakers fell to the Spurs 99-96 on Friday night. The Western Conference showdown wasn’t without a flair of dramatics postgame as Luka Doncic was involved in an altercation with...",
+     "image": "https://media.zenfs.com/en/ny_post_sports_articles_389/851de9f46500d33e61eda40f1f9421df.jpg",
+     "url": "https://sports.yahoo.com/nba/articles/nba-fans-divided-luka-doncic-201332824.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-28T20:13:32+00:00"
+    },
+    {
+     "title": "Pochettino's Man Utd in crisis after Brentford battering",
+     "summary": "Manchester United lose back-to-back league games by four goals after being thumped by Brentford in Mauricio Pochettino's first Premier League game in charge at Old Trafford.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d2/live/05850bc0-eb5c-11f1-a094-5fdc692f3e33.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/videos/ckj05yl2lzgmo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-28T20:00:15+00:00"
+    },
+    {
+     "title": "George Russell takes F1 Qatar GP pole from Kimi Antonelli, with Lando Norris third",
+     "summary": "Russell dominates to beat teammate into second Piastri fourth, Hadjar fifth, Verstappen sixth George Russell had insisted he wanted to to do his talking on track after a fractious war of world with Ma…",
+     "image": "https://i.guim.co.uk/img/media/4f7f12b06605cb8f25e8f96041293018f2b6ef02/313_0_3999_3199/master/3999.jpg?width=140&quality=85&auto=format&fit=max&s=a6f621ecb1c35b9fb0d976f8c1180d72",
+     "url": "https://www.theguardian.com/sport/2026/nov/28/george-russell-takes-f1-qatar-gp-pole-from-kimi-antonelli-lando-norris-third-f1",
      "source": "Guardian Sport",
-     "published": "2026-11-28T17:54:47+00:00"
+     "published": "2026-11-28T19:41:59+00:00"
+    },
+    {
+     "title": "A defence fit for relegation - no Man Utd honeymoon for Pochettino",
+     "summary": "Mauricio Pochettino has suffered a nightmare start as Manchester United manager, conceding 10 goals in three matches. Is there a way out of this mess for the club?",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/335a/live/c5e0aaf0-eb5c-11f1-9cf7-135cfa88f02c.jpg",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cq62pz0ew2kno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-28T19:36:59+00:00"
+    },
+    {
+     "title": "Mikaela Shiffrin finishes second on return to Killington after 2024 crash",
+     "summary": "Alice Robinson wins giant slalom by 0.11sec Shiffrin led by 0.39sec after the first run Paula Moltzan rounds out the podium in third Mikaela Shiffrin finished second in the giant slalom at Killington…",
+     "image": "https://i.guim.co.uk/img/media/8ef6acedde80b38a8cf71a0952fdd4b42a55f1ae/484_0_4299_3440/master/4299.jpg?width=140&quality=85&auto=format&fit=max&s=40c9d82b34335a4a6e254798775f71b2",
+     "url": "https://www.theguardian.com/sport/2026/nov/28/mikaela-shiffrin-killington-return-giant-slalom-alice-robinson",
+     "source": "Guardian Sport",
+     "published": "2026-11-28T19:30:03+00:00"
+    },
+    {
+     "title": "All Blacks take revenge on untidy England in Twickenham rain",
+     "summary": "New Zealand take revenge on England for last weekend's defeat with a comfortable victory at a wet Allianz Stadium.",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0743/live/ac24a0c0-eb62-11f1-810a-596661ce907b.jpg",
+     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw8dv76yvgn5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "published": "2026-11-28T18:36:33+00:00"
+    },
+    {
+     "title": "NBA reviewing fan shoving Luka Doncic after Lakers-Spurs",
+     "summary": "SAN ANTONIO — The NBA will review the incident involving Luka Doncic and the fan after the Lakers’ loss to the Spurs on Friday night at Frost Bank Center, a...",
+     "image": "https://media.zenfs.com/en/ny_post_sports_articles_389/20b255c2aec232c9cf492c6ec86841c8.jpg",
+     "url": "https://sports.yahoo.com/nba/articles/nba-reviewing-fan-shoving-luka-182453266.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-28T18:24:53+00:00"
     },
     {
      "title": "Lakers schedule filled out after getting knocked out of NBA Cup",
@@ -269,6 +309,14 @@
      "url": "https://sports.yahoo.com/nba/articles/lakers-schedule-filled-getting-knocked-174319472.html",
      "source": "Yahoo Sports NBA",
      "published": "2026-11-28T17:43:19+00:00"
+    },
+    {
+     "title": "Nets vs. Hornets Preview: Brooklyn hits the road again",
+     "summary": "The Brooklyn Nets have a quick turnaround as they’re in the Queen City to face the Charlotte Hornets.",
+     "image": "https://media.zenfs.com/en/sb_nation_articles_115/b144312b05c0c3c4ecf5c55957c3f9f3.jpg",
+     "url": "https://sports.yahoo.com/nba/articles/nets-vs-hornets-preview-brooklyn-173724677.html",
+     "source": "Yahoo Sports NBA",
+     "published": "2026-11-28T17:37:24+00:00"
     },
     {
      "title": "Whose Man Utd days look numbered? Player ratings",
@@ -280,27 +328,11 @@
     },
     {
      "title": "Manchester United mauled by Brentford in Pochettino’s ugly Old Trafford debut",
-     "summary": "Utter despair for Mauricio Pochettino’s new Manchester United project; sheer deserving delight for Brentford who ended an 89-year wait to win here. Keith Andrews’ team made this fine history for the c…",
+     "summary": "Utter despair for Mauricio Pochettino’s new Manchester United project; sheer deserving delight for Brentford who ended an 89-year wait to win here. They made this fine history because they were ruthle…",
      "image": "https://i.guim.co.uk/img/media/64adb25703d22000b4f33f6855b3beee784ba086/209_0_3557_2848/master/3557.jpg?width=140&quality=85&auto=format&fit=max&s=b2361c9d8718f844cf3c3ede00902eb1",
      "url": "https://www.theguardian.com/football/2026/nov/28/manchester-united-brentford-premier-league-match-report",
      "source": "Guardian Sport",
      "published": "2026-11-28T17:03:40+00:00"
-    },
-    {
-     "title": "Westchester Knicks guard gets sucker-punched, sparks on-court fracas in wild scene",
-     "summary": "Westchester Knicks guard Rob Dillingham getting sucker-punched sparked an on-court melee during a game against the Capital City Go-Go.",
-     "image": "https://media.zenfs.com/en/ny_post_sports_articles_389/d9c4de8f908b6ab07a4f5b49dd39efe9.jpg",
-     "url": "https://sports.yahoo.com/wnba/articles/westchester-knicks-guard-gets-sucker-163639363.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-28T16:36:39+00:00"
-    },
-    {
-     "title": "NBA Cup 2026 Update: Eight teams for knockout rounds set, including Spurs, 76ers, Celtics",
-     "summary": "Welcome to the knockout rounds, a single-elimination tournament for the NBA Cup.",
-     "image": "",
-     "url": "https://sports.yahoo.com/nba/articles/nba-cup-2026-eight-teams-161434260.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-28T16:14:34+00:00"
     },
     {
      "title": "2026 NBA betting promos: Get almost $4,000 in bonuses from top online betting apps, sportsbooks for Nov. 28",
@@ -309,30 +341,6 @@
      "url": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-get-almost-4000-in-bonuses-from-top-online-betting-apps-sportsbooks-for-nov-28/",
      "source": "CBS Sports NBA",
      "published": "2026-11-28T15:41:31+00:00"
-    },
-    {
-     "title": "Lakers' Luka Doncic pushed by fan as he walks off court after loss to Spurs",
-     "summary": "Doncic threw his wristband to someone sitting courtside, she didn't want it, and things escalated.",
-     "image": "",
-     "url": "https://sports.yahoo.com/nba/articles/lakers-luka-doncic-shoved-fan-153853903.html",
-     "source": "Yahoo Sports NBA",
-     "published": "2026-11-28T15:38:53+00:00"
-    },
-    {
-     "title": "Wales end Nations Championship with hearty win over Japan",
-     "summary": "Wales end their year with another victory against Japan, winning 40-10 in a six-try display at the Allianz Stadium in Twickenham.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ab1/live/0eb17f20-eb3a-11f1-b514-bbaea63b50f5.jpg",
-     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm7021z6xze6o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-28T15:26:10+00:00"
-    },
-    {
-     "title": "'Best in world' Alcaraz stars for Spain as GB miss out on Davis Cup final",
-     "summary": "Carlos Alcaraz says playing in the Davis Cup final will be \"one of the most important days in my life\" after Spain beat Great Britain 2-0.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f21/live/1e4d3580-eb55-11f1-9cf7-135cfa88f02c.jpg",
-     "url": "https://www.bbc.co.uk/sport/tennis/articles/cr0jxq709ngxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-28T14:43:43+00:00"
     },
     {
      "title": "NBA Cup bracket, group stage winners and losers: West filled with surprises; Knicks, Lakers flame out",
@@ -357,14 +365,6 @@
      "url": "https://www.cbssports.com/nba/news/fan-shoves-luka-doncic-after-he-flings-his-wristband-at-a-woman-in-crowd/",
      "source": "CBS Sports NBA",
      "published": "2026-11-28T13:38:42+00:00"
-    },
-    {
-     "title": "Are these three brothers British skiing's next family dynasty?",
-     "summary": "With their Olympian mum and ski instructor dad as their coaches, Freddy, Zak and Luca Carrick-Smith are tipped as British skiing's next big things.",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe03/live/9d76d680-e278-11f1-b4f7-1f4d673c7508.jpg",
-     "url": "https://www.bbc.co.uk/sport/articles/c61wrqxgyd2no?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "published": "2026-11-28T06:17:50+00:00"
     }
    ]
   }
